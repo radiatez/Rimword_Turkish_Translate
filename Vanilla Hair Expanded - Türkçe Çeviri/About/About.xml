@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ModMetaData>
+	<name>Vanilla Hair Expanded - Türkçe Çeviri</name>
+	<author>Hamza YILMAZ</author>
+    <supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+		<modDependencies>		
+		<li>
+			<packageId>VanillaExpanded.VHE</packageId>
+			<displayName>Vanilla Hair Expanded</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1888705256</steamWorkshopUrl>
+		</li>		
+	</modDependencies>
+		<loadAfter>
+		<li>VanillaExpanded.VHE</li>
+	</loadAfter>
+	<packageId>hyilmaz.rimword.tr.1888705256</packageId>
+	<description>	
+Hakkında:
+
+Vanilla Hair Expanded modunun Türkçe çevirisi.
+Bazı çeviri hataları olabilir. 
+Bu modların Türkçe çevirileri olmadığından kendi oyunum için çevirdim ve paylaşmaya karar verdim.
+Bi nebze de olsa belki işinize yarayabilir.
+
+https://github.com/radiatez/Rimword_Turkish_Translate
+
+Hamza YILMAZ	
+	</description>
+</ModMetaData>
+

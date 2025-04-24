@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Ayarlar -->
+    <VanillaHairExpanded.SettingsCategory>Vanilla Hair Expanded</VanillaHairExpanded.SettingsCategory>
+
+    <VanillaHairExpanded.Beards_ToolTip>Piyonlarda sakalların gösterilip gösterilmeyeceğini belirler.</VanillaHairExpanded.Beards_ToolTip>
+
+    <!-- Sağ tıklama menüsü seçenekleri -->
+    <VanillaHairExpanded.ChangeHairstyle>Saç stilini değiştir</VanillaHairExpanded.ChangeHairstyle>
+
+    <!-- Arayüz -->
+    <VanillaHairExpanded.Hairstyles>Saç Stilleri</VanillaHairExpanded.Hairstyles>
+    <VanillaHairExpanded.Beards>Sakallar</VanillaHairExpanded.Beards>
+    <VanillaHairExpanded.CustomMode>Renk kaydırıcıları</VanillaHairExpanded.CustomMode>
+    <VanillaHairExpanded.ColoursTied>Renkler bağlı</VanillaHairExpanded.ColoursTied>
+
+</LanguageData>
