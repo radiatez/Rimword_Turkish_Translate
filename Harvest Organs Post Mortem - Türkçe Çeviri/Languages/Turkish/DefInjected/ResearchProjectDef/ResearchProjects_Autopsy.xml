@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BasicAutopsy.label>Temel Otopsi</BasicAutopsy.label>
+  <BasicAutopsy.description>İlkel bir organ çıkarma yöntemi, genellikle ritüellerde kullanılır, oldukça barbarcadır. Bu araştırma otopsi masasına erişim sağlar.</BasicAutopsy.description>
+
+  <AdvancedAutopsy.label>Gelişmiş Otopsi</AdvancedAutopsy.label>
+  <AdvancedAutopsy.description>Gelişmiş prosedürler, daha hassas ve insancıl organ çıkarımına olanak tanır.</AdvancedAutopsy.description>
+
+  <GlitterworldAutopsy.label>Modern Otopsi</GlitterworldAutopsy.label>
+  <GlitterworldAutopsy.description>Uygun araçlar, teknoloji ve eğitim ile, gelişmiş dünyalarda olduğu gibi insan organlarını başarıyla korumak mümkündür.</GlitterworldAutopsy.description>
+
+  <AnimalAutopsy.label>Hayvan Otopsisi</AnimalAutopsy.label>
+  <AnimalAutopsy.description>Ölen hayvanlardan tıbbi olarak organ çıkarımı mümkün hale gelir.</AnimalAutopsy.description>
+
+</LanguageData>

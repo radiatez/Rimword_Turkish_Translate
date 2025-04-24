@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bir araştırma sekmesi eklemek için, burada yeni bir ResearchTabDef oluşturun ve ardından araştırma projenizdeki <tab> alanını buna eşleştirin -->
+
+  <Main.label>Ana</Main.label>
+  <Autopsy.label>Otopsi</Autopsy.label>
+
+</LanguageData>

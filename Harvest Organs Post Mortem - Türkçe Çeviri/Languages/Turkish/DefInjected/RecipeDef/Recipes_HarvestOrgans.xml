@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AutopsyBasic.label>Organları Ayır</AutopsyBasic.label>
+  <AutopsyBasic.description>Organlar hâlâ tazeyken iç organları almak için bedenin parçalanması.</AutopsyBasic.description>
+  <AutopsyBasic.jobString>Parçalama.</AutopsyBasic.jobString>
+
+  <AutopsyAdvanced.label>Tıbbi Olarak Organ Çıkar</AutopsyAdvanced.label>
+  <AutopsyAdvanced.description>Beden çürümeye başlamadan önce organları tıbbi yöntemle çıkarmak.</AutopsyAdvanced.description>
+  <AutopsyAdvanced.jobString>Organ çıkarımı.</AutopsyAdvanced.jobString>
+
+  <AutopsyGlitterworld.label>İlaçla Destekli Organ Çıkarma</AutopsyGlitterworld.label>
+  <AutopsyGlitterworld.description>Kusursuz kaliteli malzemeler ve eğitim sayesinde, gelişmiş dünyalarda olduğu gibi başarılı organ çıkarımı şansı elde edersiniz.</AutopsyGlitterworld.description>
+  <AutopsyGlitterworld.jobString>Organ çıkarımı.</AutopsyGlitterworld.jobString>
+
+  <AutopsyAnimal.label>Hayvandan Organ Al</AutopsyAnimal.label>
+  <AutopsyAnimal.description>Hayvanın organlarını tıbbi olarak çıkarmak.</AutopsyAnimal.description>
+  <AutopsyAnimal.jobString>Organ çıkarımı.</AutopsyAnimal.jobString>
+
+  <BurnBodyParts.label>Vücut Parçalarını Yak</BurnBodyParts.label>
+  <BurnBodyParts.description>Vücut parçalarını tamamen yok etmek için yakmak.</BurnBodyParts.description>
+  <BurnBodyParts.jobString>Vücut parçaları yakılıyor.</BurnBodyParts.jobString>
+
+</LanguageData>

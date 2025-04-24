@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+  <autopsyBasicTab>Temel Otopsi</autopsyBasicTab>
+  <autopsyAdvancedTab>Gelişmiş Otopsi</autopsyAdvancedTab>
+  <autopsyGlitterTab>Modern Otopsi</autopsyGlitterTab>
+  <autopsyAnimalTab>Hayvan Otopsisi</autopsyAnimalTab>
+
+  <organChanceTitle>Organ Çıkarma Şansı</organChanceTitle>
+  <organChanceDescription>Her bir organ için maksimum çıkarma şansı. Gerçek değer yerleşimcinin ameliyat başarı şansına eşittir.</organChanceDescription>
+
+  <bionicChanceTitle>İmplant Çıkarma Şansı</bionicChanceTitle>
+  <bionicChanceDescription>Her bir implant için maksimum çıkarma şansı. Gerçek değer yerleşimcinin ameliyat başarı şansına eşittir.</bionicChanceDescription>
+
+  <corpseAgeTitle>Cesedin Gerçek Yaşı</corpseAgeTitle>
+  <corpseAgeDescription>Ölümden sonra organların hâlâ çıkarılabileceği süre.</corpseAgeDescription>
+
+  <numberPartsTitle>Maksimum Organ Sayısı</numberPartsTitle>
+  <numberPartsDescription>Bir cesetten çıkarılabilecek maksimum organ ve implant sayısı.</numberPartsDescription>
+
+  <skillScalingTitle>Tıp Becerisi Etkisi</skillScalingTitle>
+  <skillScalingDescription>Yerleşimcinin ameliyat başarısının otopsi üzerindeki etkisini belirler.</skillScalingDescription>
+
+  <frozenDecayTitle>Dondurulmuşta Bozulma</frozenDecayTitle>
+  <frozenDecayDescription>Organların, donmuş bir bedende sıcak olana kıyasla ne kadar hızlı bozulduğunu belirler.</frozenDecayDescription>
+
+</LanguageData>

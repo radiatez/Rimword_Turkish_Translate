@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ImpossibleToHarvest.label>Çıkarılamaz</ImpossibleToHarvest.label>
+  <ImpossibleToHarvest.description>Organ veya implant çıkarılamayan cesetlere izin ver.</ImpossibleToHarvest.description>
+
+  <PossibleToHarvest.label>Çıkarılabilir</PossibleToHarvest.label>
+  <PossibleToHarvest.description>Organ veya implant çıkarılabilir cesetlere izin ver.</PossibleToHarvest.description>
+
+  <HasBionics.label>İmplantlı Cesetler</HasBionics.label>
+  <HasBionics.description>Yalnızca implantlı cesetlere izin ver.</HasBionics.description>
+
+  <DoesntHaveBionics.label>İmplantsız Cesetler</DoesntHaveBionics.label>
+  <DoesntHaveBionics.description>Yalnızca implantsız cesetlere izin ver.</DoesntHaveBionics.description>
+
+  <ImpossibleToHarvestAnimal.label>Çıkarılamaz (hayvan)</ImpossibleToHarvestAnimal.label>
+  <ImpossibleToHarvestAnimal.description>Organ çıkarılamayan hayvan cesetlerine izin ver.</ImpossibleToHarvestAnimal.description>
+
+  <PossibleToHarvestAnimal.label>Çıkarılabilir (hayvan)</PossibleToHarvestAnimal.label>
+  <PossibleToHarvestAnimal.description>Organ çıkarılabilir hayvan cesetlerine izin ver.</PossibleToHarvestAnimal.description>
+
+</LanguageData>

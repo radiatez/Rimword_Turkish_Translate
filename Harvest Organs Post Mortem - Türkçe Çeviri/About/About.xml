@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ModMetaData>
+	<name>Harvest Organs Post Mortem - Türkçe Çeviri</name>
+	<author>Hamza YILMAZ</author>
+    <supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+		<modDependencies>	
+        <li>
+            <packageId>UnlimitedHugs.HugsLib</packageId>
+            <displayName>HugsLib</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/818773962</steamWorkshopUrl>
+        </li>		
+		<li>
+			<packageId>Smuffle.HarvestOrgansPostMortem</packageId>
+			<displayName>Harvest Organs Post Mortem</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1204502413</steamWorkshopUrl>
+		</li>		
+	</modDependencies>
+		<loadAfter>
+		<li>Smuffle.HarvestOrgansPostMortem</li>
+	</loadAfter>
+	<packageId>hyilmaz.rimword.tr.1204502413</packageId>
+	<description>	
+Hakkında:
+
+Harvest Organs Post Mortem modunun Türkçe çevirisi.
+Bazı çeviri hataları olabilir. 
+Bu modların Türkçe çevirileri olmadığından kendi oyunum için çevirdim ve paylaşmaya karar verdim.
+Bi nebze de olsa belki işinize yarayabilir.
+
+https://github.com/radiatez/Rimword_Turkish_Translate
+
+Hamza YILMAZ	
+	</description>
+</ModMetaData>
+

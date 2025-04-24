@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HarvestedHumanlikeCorpse.stages.0.label>Ben bir kasabım</HarvestedHumanlikeCorpse.stages.0.label>
+  <HarvestedHumanlikeCorpse.stages.0.description>Birini organları için bir hayvan gibi parçaladım.</HarvestedHumanlikeCorpse.stages.0.description>
+
+  <KnowHarvestedHumanlikeCorpse.stages.0.label>Biz kasabız</KnowHarvestedHumanlikeCorpse.stages.0.label>
+  <KnowHarvestedHumanlikeCorpse.stages.0.description>Birini organları için parçaladık. İyi bir amaç uğruna olabilir ama yine de dehşet verici.</KnowHarvestedHumanlikeCorpse.stages.0.description>
+
+</LanguageData>
