@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LightColumnMod.label>Işık Sütunu</LightColumnMod.label>
+  <LightColumnMod.description>Basit bir mobil sütun, sadece çevreyi aydınlatır.</LightColumnMod.description>
+
+  <OrbitalTradeColumnMod.label>Yörüngesel Ticaret Sütunu</OrbitalTradeColumnMod.label>
+  <OrbitalTradeColumnMod.description>Yardımcı bir sütun olarak yörüngesel ticaret işaretçisi işlevi görür ve alanı aydınlatır, depolar için idealdir.</OrbitalTradeColumnMod.description>
+
+  <SunColumnMod.label>Güneş Sütunu</SunColumnMod.label>
+  <SunColumnMod.description>Yardımcı bir sütun olarak güneş lambası gibi çalışır ve odayı sıcak tutar, seralar için mükemmeldir. Gece otomatik olarak kapanır.</SunColumnMod.description>
+  <SunColumnMod.comps.CompSchedule.offMessage>Bitkilerin uyku zamanı için kapalı</SunColumnMod.comps.CompSchedule.offMessage>
+
+  <IceColumnMod.label>Buz Sütunu</IceColumnMod.label>
+  <IceColumnMod.description>Yardımcı bir sütun olarak soğutucu işlevi görür, odayı -15 °C sıcaklıkta tutar ve mavi ışık yayar. Buzdolapları için idealdir.</IceColumnMod.description>
+
+  <DetColumnMod.label>Kaset Sütunu</DetColumnMod.label>
+  <DetColumnMod.description>Üssü korumak için gelişmiş bir sütun. Herhangi bir yönde düşman algıladığında, aynı yönde patlayıcı bir küme bombası fırlatır. Yeniden doldurulabilir.</DetColumnMod.description>
+
+  <DetColumnMod.comps.CompRefuelable.fuelGizmoLabel>kaset parçaları</DetColumnMod.comps.CompRefuelable.fuelGizmoLabel>
+  <DetColumnMod.comps.CompRefuelable.fuelLabel>kaset parçaları</DetColumnMod.comps.CompRefuelable.fuelLabel>
+  <DetColumnMod.comps.CompRefuelable.outOfFuelMessage>Patlayamaz: mühimmat gerekli</DetColumnMod.comps.CompRefuelable.outOfFuelMessage>
+
+  <GraveColumnMod.label>Kutsal Sütun</GraveColumnMod.label>
+  <GraveColumnMod.description>Saygıdeğer ölüler için süslenmiş bir mezar sütunu. Bir ölü bedeni uzun yıllar boyunca muhafaza etmek için tasarlanmıştır.</GraveColumnMod.description>
+
+</LanguageData>

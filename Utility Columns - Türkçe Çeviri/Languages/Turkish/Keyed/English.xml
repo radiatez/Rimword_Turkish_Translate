@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RWC_TooClose>Diğer yapılara çok yakın! Bazı yönler engellenmiş olabilir.</RWC_TooClose>
+  <RWC_Obstructed>\nEngellenen yönler: {0}</RWC_Obstructed>
+
+</LanguageData>

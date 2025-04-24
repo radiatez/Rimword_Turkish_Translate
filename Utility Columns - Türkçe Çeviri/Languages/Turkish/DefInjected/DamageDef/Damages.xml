@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ClaymoreBomb.label>parça tesirli bomba</ClaymoreBomb.label>
+  <ClaymoreBomb.deathMessage>{0} patlama sonucu hayatını kaybetti.</ClaymoreBomb.deathMessage>
+
+</LanguageData>

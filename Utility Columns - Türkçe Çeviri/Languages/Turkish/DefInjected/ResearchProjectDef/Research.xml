@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <OrbitalTradeColumnRes.label>yardımcı kolonlar</OrbitalTradeColumnRes.label>
+  <OrbitalTradeColumnRes.description>Yörüngesel, güneş, ışık, dondurucu ve kutsal kolonların kilidini açar.</OrbitalTradeColumnRes.description>
+
+  <DetColumnRes.label>parça tesirli kolonu</DetColumnRes.label>
+  <DetColumnRes.description>Üssü savunmak için parça tesirli kolonun kilidini açar.</DetColumnRes.description>
+  
+</LanguageData>
