@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  
+	<!-- TR: onarım tezgahı -->
+	<TableMending.label>onarım tezgahı</TableMending.label> 
+	
+	<!-- TR: Hasar görmüş eşyaların onarımı için gerekli tüm araçlarla donatılmış bir tezgah. Elektrik gerektirir ve onarım kitleri tüketir. Onarım kitleri başlangıçta üretim noktasında yapılabilir. -->
+	<TableMending.description>Hasar görmüş eşyaların onarımı için gerekli tüm araçlarla donatılmış bir tezgah. Elektrik gerektirir ve onarım kitleri tüketir. Onarım kitleri başlangıçta üretim noktasında yapılabilir.</TableMending.description> 
+	
+</LanguageData>

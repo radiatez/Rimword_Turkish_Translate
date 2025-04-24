@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+
+	<!-- TR: TargetB onarılıyor. -->
+	<Mend.reportString>TargetB'yi onarıyor.</Mend.reportString> 
+
+	<!-- TR: TargetB geri dönüştürülüyor. -->
+	<Recycle.reportString>TargetB'yi geri dönüştürüyor.</Recycle.reportString> 
+
+</LanguageData>

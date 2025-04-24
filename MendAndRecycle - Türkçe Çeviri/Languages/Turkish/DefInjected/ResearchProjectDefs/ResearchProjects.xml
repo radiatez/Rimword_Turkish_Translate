@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  
+	<!-- TR: Onarım -->
+	<Mending.label>Onarım</Mending.label> 
+	
+	<!-- TR: Hasar görmüş eşyaları onarın ve tamir edin. -->
+	<Mending.description>Hasar görmüş eşyaların onarımı ve tamiri.</Mending.description> 
+	
+</LanguageData>

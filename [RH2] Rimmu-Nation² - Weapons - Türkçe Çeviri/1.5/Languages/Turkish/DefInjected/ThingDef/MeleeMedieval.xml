@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <!-- Maçeteler -->
+  
+  <RNMeleeWeapon_Spetsnaz_Machete.label>maçete (spetsnaz)</RNMeleeWeapon_Spetsnaz_Machete.label>
+  <RNMeleeWeapon_Spetsnaz_Machete.description>Maçete, ya bir balta benzeri tarım aracı olarak ya da uzun bıçaklı bir silah olarak kullanılan geniş bir bıçaktır. Bıçağın uzunluğu genellikle 30 ila 45 santimetre (12–18 inç) ve kalınlığı genellikle 3 milimetreden (0,12 inç) azdır. İspanyolcada bu kelime, muhtemelen balyoz anlamına gelen macho kelimesinin küçültme hali olabilir. \n\nBu versiyon, Rus özel kuvvetlerine ait bir maçetedir ve bitki örtüsünü temizlemeyi hızlandırır, verimi artırır.</RNMeleeWeapon_Spetsnaz_Machete.description>
+  <RNMeleeWeapon_Spetsnaz_Machete.tools.0.label>sap</RNMeleeWeapon_Spetsnaz_Machete.tools.0.label>
+  <RNMeleeWeapon_Spetsnaz_Machete.tools.1.label>uç</RNMeleeWeapon_Spetsnaz_Machete.tools.1.label>
+  <RNMeleeWeapon_Spetsnaz_Machete.tools.2.label>bıçak</RNMeleeWeapon_Spetsnaz_Machete.tools.2.label>
+  
+  <RNMeleeWeapon_TOPS_Machete.label>maçete (TOPS)</RNMeleeWeapon_TOPS_Machete.label>
+  <RNMeleeWeapon_TOPS_Machete.description>Maçete, ya bir balta benzeri tarım aracı olarak ya da uzun bıçaklı bir silah olarak kullanılan geniş bir bıçaktır. Bıçağın uzunluğu genellikle 30 ila 45 santimetre (12–18 inç) ve kalınlığı genellikle 3 milimetreden (0,12 inç) azdır. İspanyolcada bu kelime, muhtemelen balyoz anlamına gelen macho kelimesinin küçültme hali olabilir. \n\nBu versiyon, bitki örtüsünü temizlemeyi hızlandıran ve verimi artıran bir TOPS Steel Eagle taktik maçetesidir.</RNMeleeWeapon_TOPS_Machete.description>
+  <RNMeleeWeapon_TOPS_Machete.tools.0.label>sap</RNMeleeWeapon_TOPS_Machete.tools.0.label>
+  <RNMeleeWeapon_TOPS_Machete.tools.1.label>uç</RNMeleeWeapon_TOPS_Machete.tools.1.label>
+  <RNMeleeWeapon_TOPS_Machete.tools.2.label>bıçak</RNMeleeWeapon_TOPS_Machete.tools.2.label>
+  
+  <RNMeleeWeapon_GerberGator_Machete.label>maçete (Gerber)</RNMeleeWeapon_GerberGator_Machete.label>
+  <RNMeleeWeapon_GerberGator_Machete.description>Maçete, ya bir balta benzeri tarım aracı olarak ya da uzun bıçaklı bir silah olarak kullanılan geniş bir bıçaktır. Bıçağın uzunluğu genellikle 30 ila 45 santimetre (12–18 inç) ve kalınlığı genellikle 3 milimetreden (0,12 inç) azdır. İspanyolcada bu kelime, muhtemelen balyoz anlamına gelen macho kelimesinin küçültme hali olabilir. \n\nBu versiyon, Gerber Gator maçetesi olup, bitki örtüsünü temizlemeyi hızlandırır ve verimi artırır.</RNMeleeWeapon_GerberGator_Machete.description>
+  <RNMeleeWeapon_GerberGator_Machete.tools.0.label>sap</RNMeleeWeapon_GerberGator_Machete.tools.0.label>
+  <RNMeleeWeapon_GerberGator_Machete.tools.1.label>uç</RNMeleeWeapon_GerberGator_Machete.tools.1.label>
+  <RNMeleeWeapon_GerberGator_Machete.tools.2.label>bıçak</RNMeleeWeapon_GerberGator_Machete.tools.2.label>
+  
+  <RNMeleeWeapon_Kukri_Machete.label>maçete (Kukri)</RNMeleeWeapon_Kukri_Machete.label>
+  <RNMeleeWeapon_Kukri_Machete.description>Kukri, Hindistan Alt Kıtası'ndan gelen bir maçete türüdür ve geleneksel olarak Nepal ve Hindistan’daki Nepalce konuşan Gurkalarla ilişkilendirilir. Bıçak belirgin kıvrımlı bir şekle sahiptir. Güney Asya’nın büyük bir bölümünde yakın dövüş silahı ve genel amaçlı kesici alet olarak çok işlevlidir. Bıçak, Gurkalar için geleneksel olarak ana kullanım bıçağıdır.</RNMeleeWeapon_Kukri_Machete.description>
+  <RNMeleeWeapon_Kukri_Machete.tools.0.label>sap</RNMeleeWeapon_Kukri_Machete.tools.0.label>
+  <RNMeleeWeapon_Kukri_Machete.tools.1.label>uç</RNMeleeWeapon_Kukri_Machete.tools.1.label>
+  <RNMeleeWeapon_Kukri_Machete.tools.2.label>bıçak</RNMeleeWeapon_Kukri_Machete.tools.2.label>
+  
+  <!-- Tomahawklar -->
+  
+  <RNMeleeWeapon_USMC_Tomahawk.label>tomahawk (USMC)</RNMeleeWeapon_USMC_Tomahawk.label>
+  <RNMeleeWeapon_USMC_Tomahawk.description>Tomahawk, Kuzey Amerika’daki pek çok yerli halk ve topluluğa özgü, düz saplı bir baltaya benzeyen tek elle kullanılan bir balta türüdür. Bu terim, 17. yüzyılda Virginia Algonkin dilindeki "powhatan" kelimesinden türetilerek İngilizceye geçmiştir. Tomahawklar, yerli Amerikalılar ve daha sonra Avrupalı sömürgeciler tarafından çok amaçlı aletler olarak kullanılmış ve genellikle yakın dövüş silahı olarak da görev yapmıştır.\n\nBu versiyon, USMC tomahawk’tır.</RNMeleeWeapon_USMC_Tomahawk.description>
+  <RNMeleeWeapon_USMC_Tomahawk.tools.0.label>sap</RNMeleeWeapon_USMC_Tomahawk.tools.0.label>
+  <RNMeleeWeapon_USMC_Tomahawk.tools.1.label>uç</RNMeleeWeapon_USMC_Tomahawk.tools.1.label>
+  <RNMeleeWeapon_USMC_Tomahawk.tools.2.label>bıçak</RNMeleeWeapon_USMC_Tomahawk.tools.2.label>
+  
+  <RNMeleeWeapon_Gerber_Tomahawk.label>tomahawk (Gerber)</RNMeleeWeapon_Gerber_Tomahawk.label>
+  <RNMeleeWeapon_Gerber_Tomahawk.description>Tomahawk, Kuzey Amerika’daki pek çok yerli halk ve topluluğa özgü, düz saplı bir baltaya benzeyen tek elle kullanılan bir balta türüdür. Bu terim, 17. yüzyılda Virginia Algonkin dilindeki "powhatan" kelimesinden türetilerek İngilizceye geçmiştir. Tomahawklar, yerli Amerikalılar ve daha sonra Avrupalı sömürgeciler tarafından çok amaçlı aletler olarak kullanılmış ve genellikle yakın dövüş silahı olarak da görev yapmıştır.\n\nBu versiyon, Gerber tomahawk’tır.</RNMeleeWeapon_Gerber_Tomahawk.description>
+  <RNMeleeWeapon_Gerber_Tomahawk.tools.0.label>sap</RNMeleeWeapon_Gerber_Tomahawk.tools.0.label>
+  <RNMeleeWeapon_Gerber_Tomahawk.tools.1.label>uç</RNMeleeWeapon_Gerber_Tomahawk.tools.1.label>
+  <RNMeleeWeapon_Gerber_Tomahawk.tools.2.label>bıçak</RNMeleeWeapon_Gerber_Tomahawk.tools.2.label>
+
+
+  <!-- El Baltası -->
+
+  <RNMeleeWeapon_Roughneck_Handaxe.label>el baltası (Roughneck)</RNMeleeWeapon_Roughneck_Handaxe.label>
+  <RNMeleeWeapon_Roughneck_Handaxe.description>Balta (Amerikan İngilizcesinde bazen ax olarak yazılır; bkz. yazım farklılıkları), binlerce yıldır ahşap şekillendirme, yarma, kesme, odun hazırlama, silah olarak ve ayrıca sembolik ya da armalık bir simge olarak kullanılan bir araçtır. Baltalar birçok farklı formda ve özel kullanım amaçlarıyla bulunur ancak genel olarak sap ve baş kısmından oluşur. \n\nBu balta versiyonu — Roughneck el baltasıdır.</RNMeleeWeapon_Roughneck_Handaxe.description>
+  <RNMeleeWeapon_Roughneck_Handaxe.tools.0.label>sap</RNMeleeWeapon_Roughneck_Handaxe.tools.0.label>
+  <RNMeleeWeapon_Roughneck_Handaxe.tools.1.label>uç</RNMeleeWeapon_Roughneck_Handaxe.tools.1.label>
+  <RNMeleeWeapon_Roughneck_Handaxe.tools.2.label>bıçak</RNMeleeWeapon_Roughneck_Handaxe.tools.2.label>
+  
+  <RNMeleeWeapon_GerberSurvival_Axe.label>hayatta kalma baltası (Gerber)</RNMeleeWeapon_GerberSurvival_Axe.label>
+  <RNMeleeWeapon_GerberSurvival_Axe.description>Balta (Amerikan İngilizcesinde bazen ax olarak yazılır; bkz. yazım farklılıkları), binlerce yıldır ahşap şekillendirme, yarma, kesme, odun hazırlama, silah olarak ve ayrıca sembolik ya da armalık bir simge olarak kullanılan bir araçtır. Baltalar birçok farklı formda ve özel kullanım amaçlarıyla bulunur ancak genel olarak sap ve baş kısmından oluşur. \n\nBu balta versiyonu — Gerber Bear Grylls hayatta kalma baltasıdır.</RNMeleeWeapon_GerberSurvival_Axe.description>
+  <RNMeleeWeapon_GerberSurvival_Axe.tools.0.label>sap</RNMeleeWeapon_GerberSurvival_Axe.tools.0.label>
+  <RNMeleeWeapon_GerberSurvival_Axe.tools.1.label>uç</RNMeleeWeapon_GerberSurvival_Axe.tools.1.label>
+  <RNMeleeWeapon_GerberSurvival_Axe.tools.2.label>bıçak</RNMeleeWeapon_GerberSurvival_Axe.tools.2.label>
+  
+  <!-- İtfaiyeci Baltası -->
+  
+  <RNMeleeWeapon_Fire_Axe.label>itfaiyeci baltası</RNMeleeWeapon_Fire_Axe.label>
+  <RNMeleeWeapon_Fire_Axe.description>Balta (Amerikan İngilizcesinde bazen ax olarak yazılır; bkz. yazım farklılıkları), binlerce yıldır ahşap şekillendirme, yarma, kesme, odun hazırlama, silah olarak ve ayrıca sembolik ya da armalık bir simge olarak kullanılan bir araçtır. Baltalar birçok farklı formda ve özel kullanım amaçlarıyla bulunur ancak genel olarak sap ve baş kısmından oluşur. \n\nBu balta versiyonu — itfaiyeci baltasıdır.</RNMeleeWeapon_Fire_Axe.description>
+  <RNMeleeWeapon_Fire_Axe.tools.0.label>sap</RNMeleeWeapon_Fire_Axe.tools.0.label>
+  <RNMeleeWeapon_Fire_Axe.tools.1.label>uç</RNMeleeWeapon_Fire_Axe.tools.1.label>
+  <RNMeleeWeapon_Fire_Axe.tools.2.label>bıçak</RNMeleeWeapon_Fire_Axe.tools.2.label>
+  
+  <!-- Odun Kesme Baltası -->
+  
+  <RNMeleeWeapon_Felling_Axe.label>odun kesme baltası</RNMeleeWeapon_Felling_Axe.label>
+  <RNMeleeWeapon_Felling_Axe.description>Balta (Amerikan İngilizcesinde bazen ax olarak yazılır; bkz. yazım farklılıkları), binlerce yıldır ahşap şekillendirme, yarma, kesme, odun hazırlama, silah olarak ve ayrıca sembolik ya da armalık bir simge olarak kullanılan bir araçtır. Baltalar birçok farklı formda ve özel kullanım amaçlarıyla bulunur ancak genel olarak sap ve baş kısmından oluşur. \n\nBu balta versiyonu — odun kesme baltasıdır.</RNMeleeWeapon_Felling_Axe.description>
+  <RNMeleeWeapon_Felling_Axe.tools.0.label>sap</RNMeleeWeapon_Felling_Axe.tools.0.label>
+  <RNMeleeWeapon_Felling_Axe.tools.1.label>uç</RNMeleeWeapon_Felling_Axe.tools.1.label>
+  <RNMeleeWeapon_Felling_Axe.tools.2.label>bıçak</RNMeleeWeapon_Felling_Axe.tools.2.label>
+  
+  <!-- Buz Baltası -->
+  
+  <RNMeleeWeapon_DMMFly_IceAxe.label>buz baltası (DMM Fly)</RNMeleeWeapon_DMMFly_IceAxe.label>
+  <RNMeleeWeapon_DMMFly_IceAxe.description>Buz baltası, dağcılık ve tırmanışta kullanılan çok işlevli bir alettir ve dağcılar tarafından hem çıkış hem de iniş sırasında kar veya buzla kaplı rotalarda kullanılır. Buz baltası, karşılaşılan araziye bağlı olarak farklı şekillerde tutulabilir ve kullanılabilir. En basit kullanımında buz baltası, tırmanan kişinin yukarı kaldırdığı elinde, baş kısmı ortadan tutulacak şekilde baston gibi kullanılır. \n\nBu versiyon — DMM Fly buz baltasıdır.</RNMeleeWeapon_DMMFly_IceAxe.description>
+  <RNMeleeWeapon_DMMFly_IceAxe.tools.0.label>sap</RNMeleeWeapon_DMMFly_IceAxe.tools.0.label>
+  <RNMeleeWeapon_DMMFly_IceAxe.tools.1.label>uç</RNMeleeWeapon_DMMFly_IceAxe.tools.1.label>
+  <RNMeleeWeapon_DMMFly_IceAxe.tools.2.label>bıçak</RNMeleeWeapon_DMMFly_IceAxe.tools.2.label>
+  
+  <!-- Wakizashi -->
+  
+  <RNMeleeWeapon_Manganese_Wakizashi.label>wakizashi (Manganese)</RNMeleeWeapon_Manganese_Wakizashi.label>
+  <RNMeleeWeapon_Manganese_Wakizashi.description>Wakizashi, geleneksel Japon kılıcıdır ve katana’ya kıyasla daha kısa, kıvrık, tek kenarlı bir bıçak ve el korumalığına sahiptir. Genellikle samuraylar tarafından ikincil silah olarak kullanılırdı. Katana ile birlikte taşınır ve yakın dövüşte veya yedek silah olarak feodal Japonya’da kullanılırdı. Muromachi döneminden itibaren bazı wakizashiler, daha uzun kılıçlardan dönüştürülerek, bıçakları kısaltılarak daha pratik ve kullanışlı hale getirilmiştir. \n\nBu versiyon — manganezden yapılmış bir wakizashidir.</RNMeleeWeapon_Manganese_Wakizashi.description>
+  <RNMeleeWeapon_Manganese_Wakizashi.tools.0.label>sap</RNMeleeWeapon_Manganese_Wakizashi.tools.0.label>
+  <RNMeleeWeapon_Manganese_Wakizashi.tools.1.label>uç</RNMeleeWeapon_Manganese_Wakizashi.tools.1.label>
+  <RNMeleeWeapon_Manganese_Wakizashi.tools.2.label>bıçak</RNMeleeWeapon_Manganese_Wakizashi.tools.2.label>
+  
+  <RNMeleeWeapon_Mizutori_Katana.label>katana (Mizutori)</RNMeleeWeapon_Mizutori_Katana.label>
+  <RNMeleeWeapon_Mizutori_Katana.description>Katana, kıvrık, tek kenarlı bir bıçağa, yuvarlak ya da kare şekilli bir el korumalığına ve iki elle tutulabilecek uzun bir sap kısmına sahip geleneksel bir Japon kılıcıdır. Tachi’den sonra geliştirilmiş, feodal Japonya’da samuraylar tarafından kullanılmış ve yukarı doğru bakan bıçakla taşınmıştır. Muromachi döneminde birçok eski tachi, sap kısmı kısaltılarak katana’ya dönüştürülmüştür. \n\nBu versiyon — Cold Steel Mizutori katana’sıdır.</RNMeleeWeapon_Mizutori_Katana.description>
+  <RNMeleeWeapon_Mizutori_Katana.tools.0.label>sap</RNMeleeWeapon_Mizutori_Katana.tools.0.label>
+  <RNMeleeWeapon_Mizutori_Katana.tools.1.label>uç</RNMeleeWeapon_Mizutori_Katana.tools.1.label>
+  <RNMeleeWeapon_Mizutori_Katana.tools.2.label>bıçak</RNMeleeWeapon_Mizutori_Katana.tools.2.label>
+  
+  <!-- Hanzo Katana -->
+  
+  <RNMeleeWeapon_Hanzo_Katana.label>katana (Hanzo)</RNMeleeWeapon_Hanzo_Katana.label>
+  <RNMeleeWeapon_Hanzo_Katana.description>Katana, kıvrık, tek kenarlı bir bıçağa, yuvarlak ya da kare şekilli bir el korumalığına ve iki elle tutulabilecek uzun bir sap kısmına sahip geleneksel bir Japon kılıcıdır. Tachi’den sonra geliştirilmiş, feodal Japonya’da samuraylar tarafından kullanılmış ve yukarı doğru bakan bıçakla taşınmıştır. Muromachi döneminde birçok eski tachi, sap kısmı kısaltılarak katana’ya dönüştürülmüştür. \n\nBu versiyon — özel yapım, efsanevi Hanzo tarzı katana’dır.</RNMeleeWeapon_Hanzo_Katana.description>
+  <RNMeleeWeapon_Hanzo_Katana.tools.0.label>sap</RNMeleeWeapon_Hanzo_Katana.tools.0.label>
+  <RNMeleeWeapon_Hanzo_Katana.tools.1.label>uç</RNMeleeWeapon_Hanzo_Katana.tools.1.label>
+  <RNMeleeWeapon_Hanzo_Katana.tools.2.label>bıçak</RNMeleeWeapon_Hanzo_Katana.tools.2.label>
+
+
+  <!-- Katana -->
+
+  <RNMeleeWeapon_Fudoshin_Katana.label>katana (Fudoshin)</RNMeleeWeapon_Fudoshin_Katana.label>
+  <RNMeleeWeapon_Fudoshin_Katana.description>Katana, kıvrık, tek taraflı keskin bıçağa, yuvarlak veya kare korumalığa ve iki elle kullanılmasını sağlayan uzun bir sapa sahip Japon kılıcıdır. Tachi’den sonra geliştirilmiş olup, feodal Japonya’da samuraylar tarafından kullanılmış ve yukarı bakan bıçakla taşınmıştır. Muromachi döneminden itibaren birçok eski tachi, kök kısmından kesilip kısaltılmış, kökü daraltılarak katana’ya dönüştürülmüştür. \n\nBu versiyon — özel yapım Fudoshin katana’dır.</RNMeleeWeapon_Fudoshin_Katana.description>
+  <RNMeleeWeapon_Fudoshin_Katana.tools.0.label>sap</RNMeleeWeapon_Fudoshin_Katana.tools.0.label>
+  <RNMeleeWeapon_Fudoshin_Katana.tools.1.label>uç</RNMeleeWeapon_Fudoshin_Katana.tools.1.label>
+  <RNMeleeWeapon_Fudoshin_Katana.tools.2.label>bıçak</RNMeleeWeapon_Fudoshin_Katana.tools.2.label>
+  
+  <!-- Yan Mao Dao -->
+  
+  <RNMeleeWeapon_Yanmaodao_Saber.label>Yan Mao Dao</RNMeleeWeapon_Yanmaodao_Saber.label>
+  <RNMeleeWeapon_Yanmaodao_Saber.description>Yan Mao Dao (Çince: 雁毛刀; kelime anlamı: 'kaz tüyü dao') — Ming Hanedanlığı ve Qing Hanedanlığı'nın ortalarında (1368–1800) standart askeri silah olarak kullanılan bir dao türüdür. Bıçağı düz olup, uç kısmına yaklaşan son 1/4 kısmında merkeze yakın bir eğim başlar. Vuruş merkezi, darbe anında en az titreşimi üreten ve hedefe en fazla kuvveti aktaran noktadır. \n\nBu versiyon — Dynasty Forge tarafından üretilen Yan Mao Dao’dur.</RNMeleeWeapon_Yanmaodao_Saber.description>
+  <RNMeleeWeapon_Yanmaodao_Saber.tools.0.label>sap</RNMeleeWeapon_Yanmaodao_Saber.tools.0.label>
+  <RNMeleeWeapon_Yanmaodao_Saber.tools.1.label>uç</RNMeleeWeapon_Yanmaodao_Saber.tools.1.label>
+  <RNMeleeWeapon_Yanmaodao_Saber.tools.2.label>bıçak</RNMeleeWeapon_Yanmaodao_Saber.tools.2.label>
+  
+  <!-- Spatha -->
+  
+  <RNMeleeWeapon_Maximus_Spatha.label>spatha</RNMeleeWeapon_Maximus_Spatha.label>
+  <RNMeleeWeapon_Maximus_Spatha.description>Spatha, 0,5 ila 1 metre (19,7–39,4 inç) uzunluğunda ve 18 ila 20 cm (7,1–7,9 inç) sap uzunluğuna sahip, Roma İmparatorluğu topraklarında MS 1. ila 6. yüzyıllar arasında kullanılan düz, uzun bir kılıç türüdür. MS 7. ila 10. yüzyıllarda kullanılan Viking kılıçları gibi sonraki örnekler de bu kılıçtan türetilmiştir ve bazen spatha terimi altında toplanırlar.</RNMeleeWeapon_Maximus_Spatha.description>
+  <RNMeleeWeapon_Maximus_Spatha.tools.0.label>sap</RNMeleeWeapon_Maximus_Spatha.tools.0.label>
+  <RNMeleeWeapon_Maximus_Spatha.tools.1.label>uç</RNMeleeWeapon_Maximus_Spatha.tools.1.label>
+  <RNMeleeWeapon_Maximus_Spatha.tools.2.label>bıçak</RNMeleeWeapon_Maximus_Spatha.tools.2.label>
+  
+  <!-- Maçete -->
+  
+  <RNMeleeWeapon_ZKiller_Sword.label>maçete (Z Killer)</RNMeleeWeapon_ZKiller_Sword.label>
+  <RNMeleeWeapon_ZKiller_Sword.description>Kılıç, hem kesme hem de saplama darbeleri için tasarlanmış bir silah türüdür. Bıçağı, bıçak ya da hançerden daha uzun olup, bir sapa bağlıdır ve düz veya kıvrık olabilir. Saplama amaçlı kılıçlar genellikle düz ve sivri uçludur. Kesme kılıçları ise daha kıvrık olup, tek veya çift taraflı keskin kenara sahip olabilir. Pek çok kılıç hem saplama hem kesme için uygundur. \n\nBu versiyon — korku türü hayranları için bir pazarlama ürünü olarak modern çağda üretilmiş "Zombi Katili" kılıcıdır.</RNMeleeWeapon_ZKiller_Sword.description>
+  <RNMeleeWeapon_ZKiller_Sword.tools.0.label>sap</RNMeleeWeapon_ZKiller_Sword.tools.0.label>
+  <RNMeleeWeapon_ZKiller_Sword.tools.1.label>uç</RNMeleeWeapon_ZKiller_Sword.tools.1.label>
+  <RNMeleeWeapon_ZKiller_Sword.tools.2.label>bıçak</RNMeleeWeapon_ZKiller_Sword.tools.2.label>
+
+</LanguageData>

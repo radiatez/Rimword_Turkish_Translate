@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Çeşitli -->
+  <UTH_ConnectToUniversalTradeHub>Evrensel Ticaret Merkezine Bağlan</UTH_ConnectToUniversalTradeHub>
+  <UTH_OrderDestinationInvalid>Sipariş teslim edilemedi: Hedef geçersiz.</UTH_OrderDestinationInvalid>
+  <UTH_OrderDelivered>Siparişiniz teslim edildi.</UTH_OrderDelivered>
+  <UTH_OrderAttackedAndRefunded>Siparişinize saldırıldı, ancak sigortanız olduğu için paranız iade edildi.</UTH_OrderAttackedAndRefunded>
+  <UTH_OrderAttackedAndLost>Siparişinize saldırıldı ve kaybedildi. Maalesef sigortanız yoktu.</UTH_OrderAttackedAndLost>
+  <UTH_OrderCancelledAndRefunded>Siparişiniz iptal edildi ve ödemeniz iade edildi.</UTH_OrderCancelledAndRefunded>
+  <UTH_SubExpired>UTH aboneliğiniz sona erdi. Hizmeti devam ettirmek için herhangi bir Evrensel Ticaret Konsolu'ndan yeni bir plan seçebilirsiniz.</UTH_SubExpired>
+  <UTH_SubCancelled>UTH aboneliğinizi iptal ettiniz.</UTH_SubCancelled>
+  
+  <!-- Mod Ayarları -->
+  <UTH_OrderSettings>Sipariş Ayarları</UTH_OrderSettings>
+  
+  <UTH_EnableInitAnim>Konsol başlatma animasyonunu etkinleştir</UTH_EnableInitAnim>
+  <UTH_ForbidOnDrop>Drop pod ile teslim edilen eşyaları yasakla</UTH_ForbidOnDrop>
+  
+  <UTH_TaxRateLabel>Vergi Oranı</UTH_TaxRateLabel>
+  <UTH_TaxRateTooltip>İşlemlere uygulanan vergi oranını ayarla.</UTH_TaxRateTooltip>
+  
+  <UTH_ExpressDeliveryBaseCostLabel>Hızlı Teslimat Temel Ücreti</UTH_ExpressDeliveryBaseCostLabel>
+  <UTH_ExpressDeliveryBaseCostTooltip>Hızlı teslimat hizmetinin temel maliyeti.</UTH_ExpressDeliveryBaseCostTooltip>
+  
+  <UTH_ExpressDeliveryMultiplierPerKgLabel>Kg Başına Hızlı Teslimat Katsayısı</UTH_ExpressDeliveryMultiplierPerKgLabel>
+  <UTH_ExpressDeliveryMultiplierPerKgTooltip>Sipariş edilen ürünlerin kilogramı başına hızlı teslimat maliyetine uygulanan katsayı.</UTH_ExpressDeliveryMultiplierPerKgTooltip>
+  
+  <UTH_ExpressDeliveryTimeReductionLabel>Hızlı Teslimat Süre Azaltımı</UTH_ExpressDeliveryTimeReductionLabel>
+  <UTH_ExpressDeliveryTimeReductionTooltip>Hızlı teslimatlarda teslim süresinde yapılan azaltma.</UTH_ExpressDeliveryTimeReductionTooltip>
+  
+  <UTH_InsuranceBaseCostLabel>Sigorta Temel Ücreti</UTH_InsuranceBaseCostLabel>
+  <UTH_InsuranceBaseCostTooltip>Sigorta kapsamı için temel ücret.</UTH_InsuranceBaseCostTooltip>
+  
+  <UTH_InsuranceMultiplierLabel>Sigorta Katsayısı</UTH_InsuranceMultiplierLabel>
+  <UTH_InsuranceMultiplierTooltip>Sigorta maliyetine uygulanan katsayı (ürün başına).</UTH_InsuranceMultiplierTooltip>
+  
+  <UTH_DeliveryTimePerKgLabel>Kg Başına Teslim Süresi</UTH_DeliveryTimePerKgLabel>
+  <UTH_DeliveryTimePerKgTooltip>Ürünlerin kilogramı başına ek teslim süresi.</UTH_DeliveryTimePerKgTooltip>
+  
+  <UTH_DeliveryTimeReductionForStuffLabel>Malzemeler İçin Teslim Süresi Azaltımı</UTH_DeliveryTimeReductionForStuffLabel>
+  <UTH_DeliveryTimeReductionForStuffTooltip>Malzemeler için teslim süresinde yapılan azaltma.</UTH_DeliveryTimeReductionForStuffTooltip>
+  
+  <UTH_PriceReductionMultiplierLabel>Fiyat İndirim Katsayısı</UTH_PriceReductionMultiplierLabel>
+  <UTH_PriceReductionMultiplierTooltip>Fiyat indirimleri için kullanılan katsayıyı ayarlar.</UTH_PriceReductionMultiplierTooltip>
+  
+  <UTH_WealthMultiplierLabel>Servet Katsayısı</UTH_WealthMultiplierLabel>
+  <UTH_WealthMultiplierTooltip>Servet hesaplamaları için kullanılan katsayıyı ayarlar.</UTH_WealthMultiplierTooltip>
+  
+  <UTH_BaseSubscriptionPriceLabel>Abonelik Taban Fiyatı</UTH_BaseSubscriptionPriceLabel>
+  <UTH_BaseSubscriptionPriceTooltip>Aboneliklerin temel fiyatını belirtir.</UTH_BaseSubscriptionPriceTooltip>
+  
+  <UTH_AttackChanceLabel>Saldırı Olasılığı</UTH_AttackChanceLabel>
+  <UTH_AttackChanceTooltip>Bir siparişin saldırıya uğrayıp kaybedilme olasılığı.</UTH_AttackChanceTooltip>
+  
+  <UTH_SpecialMultiplierLabel>Özel Ürünler Katsayısı</UTH_SpecialMultiplierLabel>
+  <UTH_SpecialMultiplierTooltip>Özel (egzotik) ürünler için ek katsayı.</UTH_SpecialMultiplierTooltip>
+  
+    
+  <UTH_CreditsTranslation>Çeviri:</UTH_CreditsTranslation>
+  <UTH_CreditsTranslation2>İsminiz burada görünecek!</UTH_CreditsTranslation2>
+  
+  
+    <!-- Buton Etiketleri -->
+  <UTH_Order>Sipariş</UTH_Order>
+  <UTH_ActiveOrders>Aktif Siparişler</UTH_ActiveOrders>
+  <UTH_Shutdown>Kapat</UTH_Shutdown>
+  <UTH_Subscription>Abonelik</UTH_Subscription>
+  <UTH_Back>Geri</UTH_Back>
+  <UTH_PlaceOrder>Sipariş Ver</UTH_PlaceOrder>
+  <UTH_Cancel>İptal</UTH_Cancel>
+  <UTH_Info>Bilgi</UTH_Info>
+  <UTH_Reset>Sıfırla</UTH_Reset>
+  <UTH_AddToOrder>Siparişe Ekle</UTH_AddToOrder>
+  
+  <!-- Başlatma Adımları -->
+  <UTH_LoadingSystemConfig>Sistem yapılandırması yükleniyor...</UTH_LoadingSystemConfig>
+  <UTH_AttuningFrequency>Frekans ayarlanıyor...</UTH_AttuningFrequency>
+  <UTH_ConnectingTradeNetwork>Ticaret ağına bağlanılıyor...</UTH_ConnectingTradeNetwork>
+  <UTH_LoadingMarketData>Piyasa verileri yükleniyor...</UTH_LoadingMarketData>
+  <UTH_SettingUpInterface>Arayüz hazırlanıyor...</UTH_SettingUpInterface>
+  <UTH_Initializing>Başlatılıyor...</UTH_Initializing>
+  
+  <!-- Ticaret Sloganları -->
+  <UTH_TradingMotto1>Geleceği geriye dönük ticaretle değiştiriyoruz.</UTH_TradingMotto1>
+  <UTH_TradingMotto2>Bilinmezliği size güvenle getiriyoruz!</UTH_TradingMotto2>
+  <UTH_TradingMotto3>İstikrarı yenilikle sarsıyoruz.</UTH_TradingMotto3>
+  <UTH_TradingMotto4>Dalgalanmayı öngörülebilir şekilde maksimize ediyoruz.</UTH_TradingMotto4>
+  <UTH_TradingMotto5>Riski, riskli bir şekilde satıyoruz.</UTH_TradingMotto5>
+  <UTH_TradingMotto6>Geçmişi geleceğe doğru evriliyoruz.</UTH_TradingMotto6>
+  <UTH_TradingMotto7>Kaosu uyumla yönetiyoruz.</UTH_TradingMotto7>
+  <UTH_TradingMotto8>Verimsizliği verimli şekilde optimize ediyoruz.</UTH_TradingMotto8>
+  <UTH_TradingMotto9>Bilinmezliği güvenle paraya çeviriyoruz.</UTH_TradingMotto9>
+  <UTH_TradingMotto10>Kayıptan kazanç sağlıyoruz.</UTH_TradingMotto10>
+  <UTH_TradingMotto11>Öngörülemezliği güvenilir şekilde tasarlıyoruz.</UTH_TradingMotto11>
+  <UTH_TradingMotto12>Soyut olanı somutlaştırıyoruz.</UTH_TradingMotto12>
+  <UTH_TradingMotto13>Analog olanı dijitalleştiriyoruz.</UTH_TradingMotto13>
+  <UTH_TradingMotto14>Sırları şeffaf şekilde takas ediyoruz.</UTH_TradingMotto14>
+  <UTH_TradingMotto15>Kendiliğindenliği sistematik hale getiriyoruz.</UTH_TradingMotto15>
+  <UTH_TradingMotto16>İstikrara kumar oynuyoruz, akıllıca.</UTH_TradingMotto16>
+  <UTH_TradingMotto17>Şansı algoritmikleştiriyoruz.</UTH_TradingMotto17>
+  <UTH_TradingMotto18>Şansı sistematik olarak kullanıyoruz.</UTH_TradingMotto18>
+  <UTH_TradingMotto19>Gerçekliği otantik şekilde simüle ediyoruz.</UTH_TradingMotto19>
+  <UTH_TradingMotto20>Kesinliği varsayarak speküle ediyoruz.</UTH_TradingMotto20>
+  
+  
+  <!-- Kategori Etiketleri -->
+  <UTH_Weapons>Silahlar</UTH_Weapons>
+  <UTH_Apparel>Giysiler</UTH_Apparel>
+  <UTH_Food>Yiyecek</UTH_Food>
+  <UTH_Medicine>İlaç</UTH_Medicine>
+  <UTH_Materials>Malzemeler</UTH_Materials>
+  <UTH_Buildings>Binalar</UTH_Buildings>
+  <UTH_Exotic>Egzotik</UTH_Exotic>
+  <UTH_Other>Diğer</UTH_Other>
+  
+  <!-- Arayüz Etiketleri -->
+  <UTH_SelectedItems>Seçilen Öğeler</UTH_SelectedItems>
+  <UTH_TotalPriceMinusTax>&lt;b&gt;Toplam Fiyat (vergisiz): &lt;/b&gt;</UTH_TotalPriceMinusTax>
+  <UTH_TotalTax>&lt;b&gt;Toplam Vergi: &lt;/b&gt;</UTH_TotalTax>
+  <UTH_FinalPriceWithTax>&lt;b&gt;Son Fiyat (vergili): &lt;/b&gt;</UTH_FinalPriceWithTax>
+  <UTH_Cart>Sepet</UTH_Cart>
+  <UTH_ExpressDelivery>&lt;b&gt;Hızlı Teslimat&lt;/b&gt;</UTH_ExpressDelivery>
+  <UTH_InsuranceCoverage>&lt;b&gt;Sigorta Kapsamı&lt;/b&gt;</UTH_InsuranceCoverage>
+  <UTH_AddedRemovedItems>{0} öğe eklendi/kaldırıldı.</UTH_AddedRemovedItems>
+  <UTH_Days>gün</UTH_Days>
+  <UTH_OrderSummary>&lt;b&gt;Sipariş Özeti&lt;/b&gt;</UTH_OrderSummary>
+  <UTH_TotalDeliveryTime>&lt;b&gt;Toplam Teslim Süresi: &lt;/b&gt;</UTH_TotalDeliveryTime>
+  <UTH_TotalAvailableSilver>&lt;b&gt;Toplam Mevcut Gümüş: &lt;/b&gt;</UTH_TotalAvailableSilver>
+  <UTH_ConfirmOrder>Siparişi Onayla</UTH_ConfirmOrder>
+  <UTH_NoItemsSelectedForOrder>Sipariş için öğe seçilmedi.</UTH_NoItemsSelectedForOrder>
+  <UTH_OrderConfirmedPodsArriveIn>Sipariş onaylandı! Kapsüller {0} içinde gelecek.</UTH_OrderConfirmedPodsArriveIn>
+  <UTH_NotEnoughSilver>Bu işlemi tamamlamak için yeterli gümüşünüz yok.</UTH_NotEnoughSilver>
+  <UTH_DaysHours>{0} gün, {1} saat</UTH_DaysHours>
+  <UTH_Arrival>Varış</UTH_Arrival>
+  
+  <UTH_5Days>5 Gün</UTH_5Days>
+  <UTH_15Days>15 Gün</UTH_15Days>
+  <UTH_30Days>30 Gün</UTH_30Days>
+  <UTH_ManageSubs>&lt;b&gt;UTH Aboneliğini Yönet&lt;/b&gt;</UTH_ManageSubs>
+  <UTH_SubDesc>UTH abonelikleri, tüm siparişlerde toplam fiyatta %{0} indirim sağlar.\nSık alışveriş yapanlar için idealdir.</UTH_SubDesc>
+  <UTH_ActiveSub>Aktif Abonelik: {0} gün kaldı</UTH_ActiveSub>
+  <UTH_CancelSub>Aboneliği İptal Et</UTH_CancelSub>
+  <UTH_SubPurchased>{0} günlüğüne abonelik satın alındı.</UTH_SubPurchased>
+  <UTH_PercentOff>&lt;b&gt;%{0} indirim!&lt;/b&gt;</UTH_PercentOff>
+
+</LanguageData>

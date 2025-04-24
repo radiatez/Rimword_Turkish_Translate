@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  
+	<!-- TR: hasarlı eşyaları onar -->
+	<DoBillsMending.label>hasarlı eşyaları onar</DoBillsMending.label> 
+	
+	<!-- TR: onarma -->
+	<DoBillsMending.gerund>eşyaları onar, kullanarak</DoBillsMending.gerund>
+	
+	<!-- TR: onar -->
+	<DoBillsMending.verb>eşyaları onar, kullanarak</DoBillsMending.verb> 
+
+</LanguageData>

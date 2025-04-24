@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TradingSpot.label>Ticaret noktası</TradingSpot.label>
+  <TradingSpot.description>Yerleşimi ziyaret eden tüccarların duracağı noktayı belirtir.</TradingSpot.description>
+  <TradingSpot_Blueprint.label>Ticaret noktası (plan)</TradingSpot_Blueprint.label>
+  <TradingSpot_Frame.label>Ticaret noktası (inşa ediliyor)</TradingSpot_Frame.label>
+  <TradingSpot_Frame.description>Yerleşimi ziyaret eden tüccarların duracağı noktayı belirtir.</TradingSpot_Frame.description>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  
+	<!-- TR: onarım kiti üret -->
+	<MakeMendingKit.label>onarım kiti üret</MakeMendingKit.label> 
+	
+	<!-- TR: Malzemelerden onarım kitleri üretir. Onarım masası stoğunu yenilemek için yeterli miktarda üretir. -->
+	<MakeMendingKit.description>Malzemelerden onarım kitleri üretir. Onarım masasının stoğunu yenilemek için yeterli miktarda üretim yapar.</MakeMendingKit.description>
+	
+	<!-- TR: Onarım kiti üretiyor. -->
+	<MakeMendingKit.jobString>Onarım kiti üretiyor</MakeMendingKit.jobString> 
+	
+</LanguageData>

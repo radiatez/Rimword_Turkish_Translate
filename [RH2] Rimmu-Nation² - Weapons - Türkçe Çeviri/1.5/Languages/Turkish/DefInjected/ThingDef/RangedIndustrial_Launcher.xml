@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mühimmat -->
+
+  <RNBullet_40mm_Grenade.label>40x46 mm Mühimmat</RNBullet_40mm_Grenade.label>
+
+  <!-- RPG -->
+
+  <RNBullet_RPG7_Rocket.label>RPG-7 Roketi</RNBullet_RPG7_Rocket.label>
+
+  <!-- M72 -->
+
+  <RNBullet_M72HEAT_Rocket.label>66 mm HEAT Roketi</RNBullet_M72HEAT_Rocket.label>
+
+  <!-- NLAW -->
+
+  <RNBullet_NLAW_Warhead.label>HEAT Savaş Başlığı</RNBullet_NLAW_Warhead.label>
+
+  <!-- Javelin -->
+
+  <RNBullet_Javelin_Warhead.label>Çift Yüklü HEAT Savaş Başlığı</RNBullet_Javelin_Warhead.label>
+
+  <!-- RPG-7 -->
+
+  <RNGun_RPG7_RocketLauncher.label>RPG-7</RNGun_RPG7_RocketLauncher.label>
+  <RNGun_RPG7_RocketLauncher.description>RPG-7 (Rusça: Ручной Противотанковый Гранатомёт) — taşınabilir, yeniden kullanılabilir, yönlendirilmemiş, omuzdan atılan tanksavar roketatar. İlk olarak Sovyetler Birliği'nde geliştirilmiş olup günümüzde Rus "Bazalt" firması tarafından üretilmektedir. Güvenilirliği, sadeliği, düşük maliyeti ve etkinliği sayesinde dünyanın en yaygın kullanılan tanksavar silahıdır. Yeniden kullanılabilir.</RNGun_RPG7_RocketLauncher.description>
+  <RNGun_RPG7_RocketLauncher.tools.0.label>namlu</RNGun_RPG7_RocketLauncher.tools.0.label>
+
+  <!-- M79 -->
+
+  <RNGun_M79_GrenadeLauncher.label>M79 Bombaatar</RNGun_M79_GrenadeLauncher.label>
+  <RNGun_M79_GrenadeLauncher.description>M79 bombaatar — tek atımlık, omuzdan ateşlemeli, parçalı bomba kullanan bombaatardır. 40×46 mm mühimmat kullanır ve ilk olarak Vietnam Savaşı sırasında ortaya çıkmıştır. Benzersiz sesi nedeniyle "Thumper", "Bloop Tube", "Big Ed", "Elephant Gun" ve "Blooper" gibi lakaplar almıştır. M79, patlayıcı, duman ve flaş mühimmat dahil çeşitli 40 mm mermilerle ateş edebilir.</RNGun_M79_GrenadeLauncher.description>
+  <RNGun_M79_GrenadeLauncher.tools.0.label>namlu</RNGun_M79_GrenadeLauncher.tools.0.label>
+
+  <!-- HK69A1 -->
+
+  <RNGun_HK69A1_GrenadeLauncher.label>HK69A1</RNGun_HK69A1_GrenadeLauncher.label>
+  <RNGun_HK69A1_GrenadeLauncher.description>HK69A1, Alman Heckler &amp; Koch firması tarafından üretilmiş 40 mm'lik bir bombaatardır. 350 metreye kadar mesafedeki hedeflerle mücadele için tasarlanmıştır ve duman ile flaş mühimmatlarının atımı için de kullanılabilir.</RNGun_HK69A1_GrenadeLauncher.description>
+  <RNGun_HK69A1_GrenadeLauncher.tools.0.label>namlu</RNGun_HK69A1_GrenadeLauncher.tools.0.label>
+
+  <!-- M72 LAW -->
+
+  <RNGun_M72LAW_RocketLauncher.label>M72 LAW</RNGun_M72LAW_RocketLauncher.label>
+  <RNGun_M72LAW_RocketLauncher.description>M72 LAW (Hafif Tanksavar Silahı) — taşınabilir, tek kullanımlık, 66 mm'lik yönlendirilmemiş bir tanksavar silahıdır. Tek kullanımlıktır.</RNGun_M72LAW_RocketLauncher.description>
+  <RNGun_M72LAW_RocketLauncher.tools.0.label>namlu</RNGun_M72LAW_RocketLauncher.tools.0.label>
+
+  <!-- MBT LAW -->
+
+  <RNGun_NLAW_RocketLauncher.label>NLAW</RNGun_NLAW_RocketLauncher.label>
+  <RNGun_NLAW_RocketLauncher.description>Yeni nesil hafif tanksavar silahı (NLAW) — hassasiyet, hafiflik ve tek kullanımlık özellikleriyle ön plana çıkan, piyade için tasarlanmış bir roket sistemi. Roket, yumuşak fırlatma sistemi kullanır ve öngörülen görüş hattına (PLOS) göre yönlendirilir.</RNGun_NLAW_RocketLauncher.description>
+  <RNGun_NLAW_RocketLauncher.tools.0.label>namlu</RNGun_NLAW_RocketLauncher.tools.0.label>
+
+  <!-- Javelin -->
+
+  <RNGun_FGM148Javelin_RocketLauncher.label>FGM-148 Javelin</RNGun_FGM148Javelin_RocketLauncher.label>
+  <RNGun_FGM148Javelin_RocketLauncher.description>FGM-148 Javelin — ABD yapımı taşınabilir tanksavar füze sistemidir ve M47 Dragon'un yerini almak için geliştirilmiştir. Otomatik kızılötesi hedefleme sistemi sayesinde kullanıcı, fırlatma sonrası siper alabilir. Javelin’in HEAT savaş başlığı, modern tankları üstten vurarak etkisiz hale getirebilir ve tahkimatlara karşı da etkilidir.</RNGun_FGM148Javelin_RocketLauncher.description>
+  <RNGun_FGM148Javelin_RocketLauncher.tools.0.label>namlu</RNGun_FGM148Javelin_RocketLauncher.tools.0.label>
+
+</LanguageData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ModMetaData>
+	<name>Temperature Control Unit - Türkçe Çeviri</name>
+	<author>Hamza YILMAZ</author>
+    <supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+		<modDependencies>		
+		<li>
+			<packageId>Murmur.TCU</packageId>
+			<displayName>Temperature Control Unit</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2203542817</steamWorkshopUrl>
+		</li>		
+	</modDependencies>
+		<loadAfter>
+		<li>Murmur.TCU</li>
+	</loadAfter>
+	<packageId>hyilmaz.rimword.tr.2203542817</packageId>
+	<description>	
+Hakkında:
+
+Temperature Control Unit modunun Türkçe çevirisi.
+Bazı çeviri hataları olabilir. 
+Bu modların Türkçe çevirileri olmadığından kendi oyunum için çevirdim ve paylaşmaya karar verdim.
+Bi nebze de olsa belki işinize yarayabilir.
+
+https://github.com/radiatez/Rimword_Turkish_Translate
+
+Hamza YILMAZ	
+	</description>
+</ModMetaData>
+

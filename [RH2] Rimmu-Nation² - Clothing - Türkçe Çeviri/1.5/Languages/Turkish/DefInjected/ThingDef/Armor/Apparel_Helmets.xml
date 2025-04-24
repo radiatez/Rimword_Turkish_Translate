@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RNApparel_M1Helmet_Vietnam.label>M1 Miğferi</RNApparel_M1Helmet_Vietnam.label>
+    <RNApparel_M1Helmet_Vietnam.description>M1 miğferi, ABD ordusu tarafından II. Dünya Savaşı'ndan 1985'e kadar kullanılan bir askeri miğferdir. 1985 yılında PASGT miğferi ile değiştirilmiştir. M1 miğferi ABD ordusunun ikonik bir sembolü haline gelmiş, tasarımı dünya çapında birçok orduya ilham vermiştir.</RNApparel_M1Helmet_Vietnam.description>
+    
+    <RNApparel_ProTecPrime_PizzaTime.label>ProTec Prime Miğferi (Pizza Time)</RNApparel_ProTecPrime_PizzaTime.label>
+    <RNApparel_ProTecPrime_PizzaTime.description>Kanıtlanmış koruma, modern tarz. Her spor dalında sevilen ve sertifikalı Prime miğferi, klasik tasarımı, ABS plastik dış kabuğu, darbe emici sünger astarı, sıkıştırılmış pedleri ve iyi havalandırma sağlayan 11 havalandırma deliğiyle öne çıkar. Sünger savaşlarına selam olsun!\n\nBaşlangıçta balistik bir miğfer olmayan bu sürüm, balistik plakalarla modifiye edilmiştir.</RNApparel_ProTecPrime_PizzaTime.description>
+    
+    <RNApparel_EXFILBallisticHelmet_Tan.label>EXFIL® Balistik Miğfer</RNApparel_EXFILBallisticHelmet_Tan.label>
+    <RNApparel_EXFILBallisticHelmet_Tan.description>EXFIL® Balistik miğfer, artırılmış dayanıklılık için hibrit kompozit dış kabuğa ve iyi oturuş için özel geometriye sahiptir. Yenilikçi CAM FIT™ tutma sistemi, kafaya hızlıca uyum sağlar ve konfor ile denge sunar.\n\nBu miğferin varyantı: Team Wendy üretimi EXFIL Ballistic.</RNApparel_EXFILBallisticHelmet_Tan.description>
+    
+    <RNApparel_3MF70HighCut_Tan.label>F70 HC Balistik Miğfer</RNApparel_3MF70HighCut_Tan.label>
+    <RNApparel_3MF70HighCut_Tan.description>3M™ F70 (Foxtrot serisi) Balistik Miğfer, çoklu tehdit ortamlarında kullanılmak üzere tasarlanmış esnek bir miğferdir. Askeri görevler, özel kuvvetler ve kolluk kuvvetleri operasyonları için geniş kapsamlı kullanım sağlar.\n\nBu miğferin varyantı: 3M tarafından üretilen F70 Ballistic.</RNApparel_3MF70HighCut_Tan.description>
+    
+    <RNApparel_FLUXBallisticHelmet_Raid.label>FLUX Balistik Miğfer</RNApparel_FLUXBallisticHelmet_Raid.label>
+    <RNApparel_FLUXBallisticHelmet_Raid.description>FLUX Ballistic, yenilikçi FLUX sisteminin temel taşıdır. Bu miğfer, dünyadaki en gelişmiş miğferler arasında maksimum güvenlik, konfor ve modülerlik sunmak üzere özel olarak tasarlanmıştır. Hafif dış kabuk, yüksek mukavemetli polietilen liflerinden yapılmıştır ve insan kafasının şeklini alarak üstün konfor ve tam baş koruması sağlar. FLUX kelimesi, İngilizce "Future, Lightweight, Undercut, eXpandable" (Gelecek, Hafif, Alçaltılmış, Genişletilebilir) kelimelerinin baş harflerinden gelir ve Latince "fluxus" (akış) kelimesinden türetilmiştir.\n\nBu miğferin varyantı: MTEK üretimi FLUX Ballistic.</RNApparel_FLUXBallisticHelmet_Raid.description>
+    
+    <RNApparel_UaRmsTORD_Tan.label>TOR-D Balistik Miğfer</RNApparel_UaRmsTORD_Tan.label>
+    <RNApparel_UaRmsTORD_Tan.description>TOR-D, TOR balistik miğferinin hafifletilmiş versiyonudur. Kulak hizasında kesiklerle aktif kulaklık veya telsiz takılabilmesine olanak sağlar. Hava indirme birlikleri ve özel kuvvet personelinin yaralanmalardan korunması ve özel ekipman takılabilmesi için tasarlanmıştır. Düşme, darbe, patlama şok dalgası, şarapnel ve sekmeler ile tabanca ve küçük kalibreli silahlardan koruma sağlar. UaRms tarafından üretilmiştir.</RNApparel_UaRmsTORD_Tan.description>
+    
+    <RNApparel_VestGuardFAST_Black.label>SF151 Balistik Miğfer</RNApparel_VestGuardFAST_Black.label>
+    <RNApparel_VestGuardFAST_Black.description>Ops-Core Future Assault Shell Technology (FAST) miğferi, genellikle FAST miğferi olarak bilinir, özel kuvvetler ve kolluk birimleri tarafından kullanılan bir savaş miğferidir. FAST serisinin ayırt edici özelliği, kulak açıklığı bulunan dış kabuk yapısıdır; bu yapı enseyi daha az ağırlıkla korurken, ağırlık dağılımını optimize ederek konfor ve denge sağlar. SF, Özel Kuvvetler anlamına gelir.\n\nBu miğferin varyantı: VestGuard üretimi SF151 Ballistic, FAST miğferinin kendi sürümüdür.</RNApparel_VestGuardFAST_Black.description>
+    
+    <RNApparel_OpsCoreFAST_Tan.label>FAST Balistik Miğfer</RNApparel_OpsCoreFAST_Tan.label>
+    <RNApparel_OpsCoreFAST_Tan.description>Ops-Core Future Assault Shell Technology (FAST) miğferi, genellikle FAST miğferi olarak bilinir, özel kuvvetler ve kolluk birimleri tarafından kullanılan bir savaş miğferidir. FAST serisinin ayırt edici özelliği, kulak açıklığı bulunan dış kabuk yapısıdır; bu yapı enseyi daha az ağırlıkla korurken, ağırlık dağılımını optimize ederek konfor ve denge sağlar.\n\nBu miğferin varyantı: Ops Core üretimi FAST LE Ballistic.</RNApparel_OpsCoreFAST_Tan.description>
+    
+    <RNApparel_OpsCoreFASTBUMP_Multicam.label>FAST BUMP Balistik Miğfer</RNApparel_OpsCoreFASTBUMP_Multicam.label>
+    <RNApparel_OpsCoreFASTBUMP_Multicam.description>Ops-Core Future Assault Shell Technology (FAST) miğferi, genellikle FAST miğferi olarak bilinir, özel kuvvetler ve kolluk birimleri tarafından kullanılan bir savaş miğferidir. FAST serisinin ayırt edici özelliği, kulak açıklığı bulunan dış kabuk yapısıdır; bu yapı enseyi daha az ağırlıkla korurken, ağırlık dağılımını optimize ederek konfor ve denge sağlar. Başlangıçta balistik olmayan bu miğfer, bu versiyonda balistik plakalarla güçlendirilmiştir.\n\nBu miğferin varyantı: Ops Core üretimi FAST BUMP.</RNApparel_OpsCoreFASTBUMP_Multicam.description>
+    
+    <RNApparel_OpsCoreFASTCarbon_Grey.label>FAST Karbon Balistik Kask</RNApparel_OpsCoreFASTCarbon_Grey.label>
+    <RNApparel_OpsCoreFASTCarbon_Grey.description>Ops-Core Future Assault Shell Technology (FAST) kaskı, FAST kaskı olarak da bilinir, özel kuvvetler ve diğer kolluk kuvvetleri tarafından kullanılan bir muharebe kaskıdır. FAST kask serisi, kulak için oyuklu dış kabuk tasarımıyla karakterizedir; bu, enseyi fazla ağırlık yapmadan korur ve ağırlığın dengeli dağılımını sağlayarak denge, denge merkezi ve konforu artırır. Başlangıçta balistik olmayan bir kask olsa da, bu versiyon balistik plakalarla modifiye edilmiştir.\n\nBu kaskın varyantı: Ops Core tarafından üretilen FAST Carbon'dur.</RNApparel_OpsCoreFASTCarbon_Grey.description>
+    
+    <RNApparel_MICH2000_CAG.label>MICH TC-2000 Kaskı (CAG)</RNApparel_MICH2000_CAG.label>
+    <RNApparel_MICH2000_CAG.description>Modular Integrated Communications Helmet (MICH) - ABD Ordusu'nun muharebe kaskı ve birkaç ulusal silahlı kuvvetin kullandığı modellerden biridir. Bu kask, ABD Ordusu için yeni nesil koruyucu savaş kaskı olarak tasarlanmıştır.</RNApparel_MICH2000_CAG.description>
+    
+    <RNApparel_MICH2000_AmericanSniper.label>MICH TC-2000 Kaskı</RNApparel_MICH2000_AmericanSniper.label>
+    <RNApparel_MICH2000_AmericanSniper.description>Modular Integrated Communications Helmet (MICH) - ABD Ordusu'nun muharebe kaskı ve birkaç ulusal silahlı kuvvetin kullandığı modellerden biridir. Bu kask, ABD Ordusu için yeni nesil koruyucu savaş kaskı olarak tasarlanmıştır.</RNApparel_MICH2000_AmericanSniper.description>
+    
+    <RNApparel_Mk6BallisticHelmet_DDPM.label>Mk 6 Kaskı (D DPM)</RNApparel_Mk6BallisticHelmet_DDPM.label>
+    <RNApparel_Mk6BallisticHelmet_DDPM.description>Mk 6 kaskı, İngiliz Silahlı Kuvvetleri'nin standart muharebe kaskı olup, barış gücü operasyonlarında BM tarafından da tedarik edilmiştir. Mk 6, orduya yönelik Mk IV kaskını ve deniz kuvvetlerine yönelik RAC kaskını değiştirmiştir. MK numaralandırmasındaki sıçramanın, 1959’da tanıtılan Mk IV kaskının Mk V astar versiyonuyla olan karışıklıktan kaynaklandığı düşünülmektedir. 1980'lerden beri kullanılan Mk 6, modern aktif kulaklıklar, Bowman kişisel telsizler ve gaz maskeleriyle uyumlu olacak şekilde tasarlanmıştır. NP Aerospace tarafından üretilmektedir ve firma sınırsız hizmet ömrüne sahip olduğunu belirtmektedir.\n\nBu versiyon Çöl Kamuflaj Deseni (Desert DPM) kaplamaya sahiptir.</RNApparel_Mk6BallisticHelmet_DDPM.description>
+    
+    <RNApparel_Mk6BallisticHelmet_Olive.label>Mk 6 Kaskı</RNApparel_Mk6BallisticHelmet_Olive.label>
+    <RNApparel_Mk6BallisticHelmet_Olive.description>Mk 6 kaskı, İngiliz Silahlı Kuvvetleri'nin standart muharebe kaskı olup, barış gücü operasyonlarında BM tarafından da tedarik edilmiştir. Mk 6, orduya yönelik Mk IV kaskını ve deniz kuvvetlerine yönelik RAC kaskını değiştirmiştir. MK numaralandırmasındaki sıçramanın, 1959’da tanıtılan Mk IV kaskının Mk V astar versiyonuyla olan karışıklıktan kaynaklandığı düşünülmektedir. 1980'lerden beri kullanılan Mk 6, modern aktif kulaklıklar, Bowman kişisel telsizler ve gaz maskeleriyle uyumlu olacak şekilde tasarlanmıştır. NP Aerospace tarafından üretilmektedir ve firma sınırsız hizmet ömrüne sahip olduğunu belirtmektedir.</RNApparel_Mk6BallisticHelmet_Olive.description>
+    
+    <RNApparel_Mk6ABallisticHelmet_Black.label>Mk 6A Kaskı</RNApparel_Mk6ABallisticHelmet_Black.label>
+    <RNApparel_Mk6ABallisticHelmet_Black.description>2005 yılında Mk 6, Mk 6A modeli ile değiştirilmiştir. NP Aerospace tarafından da üretilen Mk 6A, dış görünüş olarak Mk 6 ile aynıdır, ancak geliştirilmiş balistik özelliklere sahip olup selefinden daha ağırdır. Bu iki versiyon, dış kabuk çıkarıldığında kolayca ayırt edilebilir: Mk 6’nın kabuğu zeytin yeşili iken, Mk 6A siyah renktedir.</RNApparel_Mk6ABallisticHelmet_Black.description>
+    
+    <RNApparel_Mk7BallisticHelmet_Tan.label>Mk 7 Kaskı</RNApparel_Mk7BallisticHelmet_Tan.label>
+    <RNApparel_Mk7BallisticHelmet_Tan.description>Mk 7, NP Aerospace tarafından üretilen ve İngiliz Silahlı Kuvvetlerine tedarik edilen genel hizmet muharebe kaskıdır. Resmi adı GS (General Service) Mark 7 combat helmet’tir. 2005 ve 1982’de tanıtılan Mk 6A ve Mk 6 kasklarının yerine geçmiştir. Mk 7, Temmuz 2009’da Acil Operasyonel Gereksinim (UOR) olarak sunulmuştur. Aynı balistik özellikleri koruyan Mk 7, yeni formuyla askerin yatarken düz pozisyonda nişan almasına olanak tanır; çünkü eski kasklarda ense kısmı çelik yeleğe takılır ve ön kısım görüşü engellerdi.</RNApparel_Mk7BallisticHelmet_Tan.description>
+    
+    <RNApparel_VestGuardPASGT_Black.label>PAS101 Balistik Kask</RNApparel_VestGuardPASGT_Black.label>
+    <RNApparel_VestGuardPASGT_Black.description>Personnel Armor System for Ground Troops – ABD Ordusu tarafından 1980’lerin başından 2000’lerin ortasına kadar kullanılan savaş kaskı ve koruyucu yelekten oluşan bir sistemdir. Daha sonra bu sistem, Lightweight Helmet (LWH), Modular Integrated Communications Helmet (MICH) ve Interceptor Body Armor (IBA) ile değiştirilmiştir. VestGuard tarafından geliştirilen bu model, PASGT kaskının daha hafif bir versiyonudur ve hafif LWH kask tasarımına daha yakındır.</RNApparel_VestGuardPASGT_Black.description>
+    
+    <RNApparel_VestGuardPASGT_PRESS.label>PAS101 Balistik Kaskı (lacivert)</RNApparel_VestGuardPASGT_PRESS.label>
+    <RNApparel_VestGuardPASGT_PRESS.description>Personnel Armor System for Ground Troops - 1980'lerin başından 2000'lerin ortasına kadar ABD ordusunda kullanılan bir muharebe kaskı ve koruyucu yelek sistemidir. Bu sistem daha sonra Lightweight Helmet (LWH), Modular Integrated Communications Helmet (MICH) ve Interceptor Body Armor (IBA) ile değiştirilmiştir. Bu, VestGuard tarafından geliştirilen, PASGT kaskının daha hafif bir versiyonu olup, LWH tasarımına önemli ölçüde daha yakındır.</RNApparel_VestGuardPASGT_PRESS.description>
+    
+    <RNApparel_PASGT_Tan.label>PASGT Balistik Kaskı</RNApparel_PASGT_Tan.label>
+    <RNApparel_PASGT_Tan.description>Personnel Armor System for Ground Troops - 1980'lerin başından 2000'lerin ortasına kadar ABD ordusunda kullanılan bir muharebe kaskı ve koruyucu yelek sistemidir. Bu sistem daha sonra Lightweight Helmet (LWH), Modular Integrated Communications Helmet (MICH) ve Interceptor Body Armor (IBA) ile değiştirilmiştir.\n\nBu kaskın varyantı: Körfez Savaşı'nda ABD ordusu tarafından kullanılan PASGT Balistik Kaskı'dır.</RNApparel_PASGT_Tan.description>
+    
+    <RNApparel_PASGT_ENVO.label>PASGT Balistik Kaskı (ENVO)</RNApparel_PASGT_ENVO.label>
+    <RNApparel_PASGT_ENVO.description>Personnel Armor System for Ground Troops - 1980'lerin başından 2000'lerin ortasına kadar ABD ordusunda kullanılan bir muharebe kaskı ve koruyucu yelek sistemidir. Bu sistem daha sonra Lightweight Helmet (LWH), Modular Integrated Communications Helmet (MICH) ve Interceptor Body Armor (IBA) ile değiştirilmiştir. Bu balistik PASGT kaskı, ENVO tarafından geliştirilmiştir ve PASGT'nin daha hafif bir versiyonudur. Bu da onu LWH hafif kask tasarımına önemli ölçüde yaklaştırır.</RNApparel_PASGT_ENVO.description>
+    
+    <RNApparel_LWH_DMARPAT.label>LWH Kaskı (D MARPAT)</RNApparel_LWH_DMARPAT.label>
+    <RNApparel_LWH_DMARPAT.description>Personnel Armor System for Ground Troops - 1980'lerin başından 2000'lerin ortasına kadar ABD ordusunda kullanılan bir muharebe kaskı ve koruyucu yelek sistemidir. Bu sistem daha sonra Lightweight Helmet (LWH), Modular Integrated Communications Helmet (MICH) ve Interceptor Body Armor (IBA) ile değiştirilmiştir. Bu model, VestGuard tarafından geliştirilen, PASGT kaskının daha hafif bir versiyonu olup, LWH hafif kask tasarımına önemli ölçüde yakındır.</RNApparel_LWH_DMARPAT.description>
+    
+    <RNApparel_ACH_UCP.label>ACH Kaskı (UCP)</RNApparel_ACH_UCP.label>
+    <RNApparel_ACH_UCP.description>Advanced Combat Helmet (ACH) - 2000'lerin başından bu yana ABD ordusunda kullanılan modern muharebe kaskıdır. Bu kask, ABD Askeri Sistemler Merkezi, ABD Ordusu Özel Kuvvetler Komutanlığı ve ABD Ordusu Araştırma Laboratuvarı tarafından, ABD piyadesinde kullanılmak üzere yeni nesil koruyucu savaş kaskı olarak geliştirilmiştir. ACH, Modular Integrated Communications Helmet (MICH) tasarımına dayanmaktadır. ACH şu anda hizmetten çıkarılmakta ve tasarımına dayanan geliştirilmiş versiyonu olan Enhanced Combat Helmet (ECH) ile değiştirilmektedir. ECH'in yerini ise gelecekte Entegre Kafa Koruma Sistemi alacaktır.\n\nBu versiyon Universal Camo Pattern (UCP) desenine sahiptir.</RNApparel_ACH_UCP.description>
+    
+    <RNApparel_LZSH2DTM_Olive.label>LShZ-2DTM Kaskı</RNApparel_LZSH2DTM_Olive.label>
+    <RNApparel_LZSH2DTM_Olive.description>Modern Rusya'da iç güvenlik kuvvetleri, polis ve özel kuvvetler için güvenilir ve etkili koruma ekipmanlarına ihtiyaç duyulmuştur. 2000'li yılların başında aktif olarak geliştirilen bu ekipmanların sonucunda LShZ-2DTM kaskı ve daha sonra onun modernize edilmiş versiyonu olan "Vulkan" kaskı ortaya çıkmıştır.</RNApparel_LZSH2DTM_Olive.description>
+    
+    <RNApparel_STSh81_Helmet.label>STSh-81 Kaskı</RNApparel_STSh81_Helmet.label>
+    <RNApparel_STSh81_Helmet.description>SFERA olarak da bilinen STSh-81, titanyum ve çelikten yapılmış bir balistik savaş kaskıdır ve GOST seviye 2 koruma standartlarına göre tasarlanmıştır. Bu kasklar, Sovyetler Birliği İçişleri Bakanlığı birlikleri tarafından, daha sonra da Rusya tarafından kullanılmıştır. Bugün hâlâ polis ve özel kuvvet birimlerinde kullanılmaktadır.</RNApparel_STSh81_Helmet.description>
+    
+    <RNApparel_6B48_Helmet.label>6B48 Genel Hizmet Kaskı</RNApparel_6B48_Helmet.label>
+    <RNApparel_6B48_Helmet.description>6B48 kaskı, Rusya Federasyonu ordusundaki tank mürettebatı için geliştirilmiştir. Bu kask, Rus askeri "Ratnik" programının bir parçasıdır ve geleceğin askeri donanım sistemini oluşturur. İletişim kalitesini artırmak ve Rus Silahlı Kuvvetleri'nin savaş etkinliğini yükseltmek amacıyla tasarlanmıştır.</RNApparel_6B48_Helmet.description>
+    
+    <RNApparel_OpsCoreFAST_SF.label>FAST Balistik Kaskı (SF)</RNApparel_OpsCoreFAST_SF.label>
+    <RNApparel_OpsCoreFAST_SF.description>Ops-Core Future Assault Shell Technology (FAST) kaskı, yaygın olarak FAST kaskı olarak bilinir, özel kuvvetler ve diğer kolluk kuvvetleri tarafından kullanılan bir muharebe kaskıdır. FAST kask serisi, kulak için oyuk tasarımıyla dikkat çeker. Bu yapı, enseyi korurken fazla ağırlık yapmaz ve ağırlığın dengeli dağılmasını sağlayarak denge, merkez ve konforu artırır.\n\nFAST LE balistik kaskı Ops-Core tarafından üretilmektedir ve bu özel varyantı özel kuvvetler tarafından kullanılmaktadır.</RNApparel_OpsCoreFAST_SF.description>
+
+</LanguageData>

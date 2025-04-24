@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Intervention AMR -->
+  <RNGun_M200Intervention_AMR.label>M200 Intervention</RNGun_M200Intervention_AMR.label>
+  <RNGun_M200Intervention_AMR.description>CheyTac Intervention, CheyTac LLC tarafından üretilen Amerikan yapımı bir sürgülü tüfektir. Aynı zamanda anti-materyal tüfek olarak da sınıflandırılabilir. 7 mermilik çıkarılabilir bir şarjörle çalışır (isteğe bağlı 5 mermilik şarjör de mevcuttur).
+    Tüfek, .408 Chey Tac veya .375 Chey Tac mühimmatı için özel olarak kalibre edilmiştir.</RNGun_M200Intervention_AMR.description>
+  <RNGun_M200Intervention_AMR.tools.0.label>dipçik</RNGun_M200Intervention_AMR.tools.0.label>
+  <RNGun_M200Intervention_AMR.tools.1.label>namlu</RNGun_M200Intervention_AMR.tools.1.label>
+
+  <!-- M82A1 -->
+  <RNGun_M82A1_AMR.label>M82A1</RNGun_M82A1_AMR.label>
+  <RNGun_M82A1_AMR.description>Barrett M82, ABD ordusu tarafından M107 olarak standartlaştırılmış, Barrett Firearms Manufacturing tarafından geliştirilen yarı otomatik bir anti-materyal keskin nişancı tüfeğidir. Anti-materyal tüfek olarak sınıflandırılsa da bazı silahlı kuvvetler onu antipersonel sistem olarak da kullanmaktadır.
+    .50 BMG (12.7×99mm NATO) kalibresi ve önceki nesillere göre önemli ölçüde daha hafif olması nedeniyle "Light Fifty" olarak da anılır.</RNGun_M82A1_AMR.description>
+  <RNGun_M82A1_AMR.tools.0.label>dipçik</RNGun_M82A1_AMR.tools.0.label>
+  <RNGun_M82A1_AMR.tools.1.label>namlu</RNGun_M82A1_AMR.tools.1.label>
+
+  <!-- Desert Tech HTI AMR -->
+  <RNGun_DesertTechHTI_AMR.label>Desert Tech HTI</RNGun_DesertTechHTI_AMR.label>
+  <RNGun_DesertTechHTI_AMR.description>HTI tasarımı büyük ölçüde SRS-A1'e dayanır ve daha büyük mühimmatlarla kullanılmak üzere büyütülmüştür.
+    HTI'nin namluları 60 saniye içinde değiştirilebilir, bu da kalibre değiştirmeyi veya aşınmış namluyu hızla değiştirmeyi kolaylaştırır. Desert Tech'in sunduğu kalibreler: .375 Cheyenne Tactical (CheyTac), .408 CheyTac, .416 Barrett ve .50 BMG.
+    Bullpup tasarımı sayesinde mekanizma tetik mekanizmasının arkasında yer alır. Diğer tüm bullpup tasarımlarında olduğu gibi, namlu uzunluğunu azaltmadan toplam uzunluğu kısaltmak mümkündür.</RNGun_DesertTechHTI_AMR.description>
+  <RNGun_DesertTechHTI_AMR.tools.0.label>dipçik</RNGun_DesertTechHTI_AMR.tools.0.label>
+  <RNGun_DesertTechHTI_AMR.tools.1.label>namlu</RNGun_DesertTechHTI_AMR.tools.1.label>
+
+  <!-- M24A2 -->
+  <RNGun_M24A2_Sniper.label>M24</RNGun_M24A2_Sniper.label>
+  <RNGun_M24A2_Sniper.description>M24 Keskin Nişancı Silah Sistemi (SWS), Remington Model 700'ün askeri ve polis versiyonudur. M24 modeli, ABD ordusu tarafından 1988 yılında standart keskin nişancı tüfeği olarak kabul edilmiştir.
+    M24, yalnızca bir tüfekten ibaret olmadığı, aynı zamanda çıkarılabilir bir dürbün ve çeşitli aksesuarları içerdiği için "silah sistemi" olarak adlandırılır.</RNGun_M24A2_Sniper.description>
+  <RNGun_M24A2_Sniper.tools.0.label>dipçik</RNGun_M24A2_Sniper.tools.0.label>
+  <RNGun_M24A2_Sniper.tools.1.label>namlu</RNGun_M24A2_Sniper.tools.1.label>
+
+  <!-- L96A1 -->
+  <RNGun_L96A1_Sniper.label>L96A1</RNGun_L96A1_Sniper.label>
+  <RNGun_L96A1_Sniper.description>Accuracy International Arctic Warfare, İngiliz firması Accuracy International tarafından geliştirilen ve üretilen bir sürgülü keskin nişancı tüfeğidir.
+    1980'lerden itibaren sivil, polis ve askeri kullanıcılar arasında popüler olmuştur. Bu tüfekler, aşırı soğuk koşullarda performansı artıran özelliklere sahiptir ve daha ılıman ortamlarda da işlevselliğinden ödün vermez.</RNGun_L96A1_Sniper.description>
+  <RNGun_L96A1_Sniper.tools.0.label>dipçik</RNGun_L96A1_Sniper.tools.0.label>
+  <RNGun_L96A1_Sniper.tools.1.label>namlu</RNGun_L96A1_Sniper.tools.1.label>
+
+   <!-- Dragunov SVD -->
+  <RNGun_DragunovSVD_DMR.label>Dragunov</RNGun_DragunovSVD_DMR.label>
+  <RNGun_DragunovSVD_DMR.description>Dragunov keskin nişancı tüfeği, Sovyetler Birliği'nde geliştirilmiş yarı otomatik bir keskin nişancı/atıcılık tüfeğidir, kalibresi 7.62×54mmR'dir.
+    Dragunov, birim destek silahı olarak tasarlanmıştır çünkü Sovyet askeri doktrinine göre, standart birliklerin uzun menzilli vuruş kabiliyeti makineli tabanca ve piyade tüfeği kullanımına geçilmesiyle azalmıştır. Bu nedenle ilk ismi "Dragunov sistemi yarı otomatik tüfek, 1963 modeli" olmuştur.</RNGun_DragunovSVD_DMR.description>
+  <RNGun_DragunovSVD_DMR.tools.0.label>dipçik</RNGun_DragunovSVD_DMR.tools.0.label>
+  <RNGun_DragunovSVD_DMR.tools.1.label>namlu</RNGun_DragunovSVD_DMR.tools.1.label>
+
+  <!-- OTs-03 SVU -->
+  <RNGun_SVU_DMR.label>OTs-03 SVU</RNGun_SVU_DMR.label>
+  <RNGun_SVU_DMR.description>OTs-03 SVU (kısaltması: Kısa Keskin Nişancı Tüfeği), SVD keskin nişancı tüfeği temel alınarak geliştirilen bullpup konfigürasyonlu bir tüfektir.
+    SVU, Rusya İçişleri Bakanlığı'na bağlı güvenlik güçleri (örneğin OMON) için tasarlanmıştır. İlk kez Birinci Çeçenistan Savaşı'nda görülmüştür. Başlangıçta eski SVD'nin sadece küçük bir modernizasyonu planlanmış olsa da, tasarımcılar silahın tamamen yeniden yapılandırılması gerektiğini fark etmiş ve bu da SVU'nun ortaya çıkmasına neden olmuştur.</RNGun_SVU_DMR.description>
+  <RNGun_SVU_DMR.tools.0.label>dipçik</RNGun_SVU_DMR.tools.0.label>
+  <RNGun_SVU_DMR.tools.1.label>namlu</RNGun_SVU_DMR.tools.1.label>
+
+  <!-- PSL 54 -->
+  <RNGun_PSL54_DMR.label>PSL 54</RNGun_PSL54_DMR.label>
+  <RNGun_PSL54_DMR.description>PSL (Romence: Puşcă Semiautomată 7,62 mm cu Lunetă, 1974 modeli), Rumen yapımı bir nişancı tüfeğidir. Ayrıca PSL-54C, Romak III, FPK ve SSG-97 (Scharfschützengewehr 1997) olarak da bilinir. Görünüşü, amacı ve özellikleri SVD'ye benzese de, mekanik olarak tamamen farklıdır ve RPK hafif makineli tüfek tasarımına dayanır.</RNGun_PSL54_DMR.description>
+  <RNGun_PSL54_DMR.tools.0.label>dipçik</RNGun_PSL54_DMR.tools.0.label>
+  <RNGun_PSL54_DMR.tools.1.label>namlu</RNGun_PSL54_DMR.tools.1.label>
+
+  <!-- M14 DMR -->
+  <RNGun_M14_DMR.label>M14 DMR</RNGun_M14_DMR.label>
+  <RNGun_M14_DMR.description>M14 tüfeği, ABD tarafından resmî olarak 7.62 mm M14 Tüfeği olarak adlandırılır ve 7.62×51 mm NATO mühimmatı kullanan otomatik bir Amerikan piyade tüfeğidir.
+    1959 yılında ABD ordusunun standart tüfeği olmuş, 1961'de M1 Garand'ın yerini almış ve 1965'e kadar deniz piyadelerinde kullanılmıştır. 1964'ten itibaren yerini M16'ya bırakmaya başlamıştır.</RNGun_M14_DMR.description>
+  <RNGun_M14_DMR.tools.0.label>dipçik</RNGun_M14_DMR.tools.0.label>
+  <RNGun_M14_DMR.tools.1.label>namlu</RNGun_M14_DMR.tools.1.label>
+
+  <!-- MK14 EBR -->
+  <RNGun_Mk14Mod0_DMR.label>Mk 14 Mod 0</RNGun_Mk14Mod0_DMR.label>
+  <RNGun_Mk14Mod0_DMR.description>Mk 14 Geliştirilmiş Savaş Tüfeği (EBR), 7.62×51 mm NATO kalibresinde, Amerikan yapımı, seçici atış yeteneğine sahip bir nişancı tüfeğidir.
+    M14 tüfeğinin bir varyantı olan bu silah, ABD özel kuvvetler birimleri (Navy SEALs, Delta Force gibi) ve özel harekât takımları için geliştirilmiştir.</RNGun_Mk14Mod0_DMR.description>
+  <RNGun_Mk14Mod0_DMR.tools.0.label>dipçik</RNGun_Mk14Mod0_DMR.tools.0.label>
+  <RNGun_Mk14Mod0_DMR.tools.1.label>namlu</RNGun_Mk14Mod0_DMR.tools.1.label>
+
+  <!-- MK EBR -->
+  <RNGun_Mk14EBRSD_DMR.label>Mk 14 EBR SD</RNGun_Mk14EBRSD_DMR.label>
+  <RNGun_Mk14EBRSD_DMR.description>Mk 14 Geliştirilmiş Savaş Tüfeği (EBR), 7.62×51 mm NATO kalibresinde, Amerikan yapımı silah</RNGun_Mk14EBRSD_DMR.description>
+
+
+  <!-- SKS DMR -->
+  <RNGun_SKSModern_DMR.label>SKS DMR</RNGun_SKSModern_DMR.label>
+  <RNGun_SKSModern_DMR.description>SKS sistemi, 7.62×39 mm kalibreli Sovyet yarı otomatik karabinasıdır ve 1943 yılında Sergey Gavriloviç Simonov tarafından geliştirilmiştir. Tam adı SKS-45'tir; bu, "Simonov Sistemi Kendiliğinden Yüklemeli Karabina, 1945" anlamına gelir.
+    SKS-45, Tula Cephaneliği'nde 1949'dan 1958'e kadar ve Izhevsk Cephaneliği'nde yalnızca 1953 ve 1954 yıllarında üretilmiştir; bu da yaklaşık 2,7 milyon adet Sovyet üretimine yol açmıştır.</RNGun_SKSModern_DMR.description>
+  <RNGun_SKSModern_DMR.tools.0.label>dipçik</RNGun_SKSModern_DMR.tools.0.label>
+  <RNGun_SKSModern_DMR.tools.1.label>namlu</RNGun_SKSModern_DMR.tools.1.label>
+
+  <!-- SRS -->
+  <RNGun_DesertTechSRS_DMR.label>Desert Tech SRS</RNGun_DesertTechSRS_DMR.label>
+  <RNGun_DesertTechSRS_DMR.description>Desert Tech Stealth Recon Scout (SRS), Utah merkezli Desert Tech (eski adıyla Desert Tactical Arms) tarafından geliştirilen sürgülü bir tüfektir. İlk kez 2008 yılında SHOT Show'da tanıtılmıştır. Bullpup tasarımıyla tanınır.
+    SRS'nin daha kısa bir modeli olan SRS Covert, SRS ile aynı özelliklere sahiptir ancak daha kısa namlu ve el kundağı kullanır.</RNGun_DesertTechSRS_DMR.description>
+  <RNGun_DesertTechSRS_DMR.tools.0.label>dipçik</RNGun_DesertTechSRS_DMR.tools.0.label>
+  <RNGun_DesertTechSRS_DMR.tools.1.label>namlu</RNGun_DesertTechSRS_DMR.tools.1.label>
+
+  <!-- PSG-1 -->
+  <RNGun_PSG1_DMR.label>PSG-1</RNGun_PSG1_DMR.label>
+  <RNGun_PSG1_DMR.description>PSG1 (Hassas Nişancı Tüfeği), Alman Heckler &amp; Koch firması tarafından Oberndorf am Neckar'da geliştirilen ve üretilen yarı otomatik bir keskin nişancı tüfeğidir.
+    Bu tüfeğin, 1972 Münih Olimpiyatları'ndaki katliamın ardından, Alman polisinin benzer olaylara hızlı müdahale edememesi üzerine geliştirildiği söylenmektedir. HK, yüksek hassasiyetli, büyük kapasiteli şarjörlü ve yarı otomatik bir silah üretmekle görevlendirilmiştir.</RNGun_PSG1_DMR.description>
+  <RNGun_PSG1_DMR.tools.0.label>dipçik</RNGun_PSG1_DMR.tools.0.label>
+  <RNGun_PSG1_DMR.tools.1.label>namlu</RNGun_PSG1_DMR.tools.1.label>
+
+  <!-- C14 Timberwolf -->
+  <RNGun_C14Timberwolf_Sniper.label>C14 Timberwolf</RNGun_C14Timberwolf_Sniper.label>
+  <RNGun_C14Timberwolf_Sniper.description>C14 Timberwolf MRSWS (Orta Menzilli Keskin Nişancı Silah Sistemi), Kanada merkezli PGW Defence Technologies Inc. firması tarafından üretilen sürgülü bir tüfektir. 2005 yılında Kanada Ordusu için 4.5 milyon dolarlık bir sözleşme kazanılmıştır.
+    Askeri versiyon, başlangıçta sivil sportif atıcılık için geliştirilen bir tüfeğin modifiye edilmiş halidir. Askeri kullanım için daha uygun hale getirilmiş ve birçok aksesuarla desteklenmiştir.
+    Tüfeğin resmi askeri adı: C14 Timberwolf Medium Range Sniper Weapon System (MRSWS).</RNGun_C14Timberwolf_Sniper.description>
+  <RNGun_C14Timberwolf_Sniper.tools.0.label>dipçik</RNGun_C14Timberwolf_Sniper.tools.0.label>
+  <RNGun_C14Timberwolf_Sniper.tools.1.label>namlu</RNGun_C14Timberwolf_Sniper.tools.1.label>
+
+  <!-- Mannlicher Ultra Light -->
+  <RNGun_MannlicherUltraLight_Sniper.label>Mannlicher Ultra Light</RNGun_MannlicherUltraLight_Sniper.label>
+  <RNGun_MannlicherUltraLight_Sniper.description>Mannlicher Ultra Light, Steyr Mannlicher tarafından üretilen bir sürgülü tüfektir. .222 Rem., 223 Rem., .243 Win., .308 Win. ve 7mm-08 Rem. kalibrelerinde versiyonları mevcuttur. 4 mermi kapasiteli bir şarjör ile gelir ve diğer Mannlicher tüfeklere kıyasla daha hafif bir alternatif olarak tasarlanmıştır.</RNGun_MannlicherUltraLight_Sniper.description>
+  <RNGun_MannlicherUltraLight_Sniper.tools.0.label>dipçik</RNGun_MannlicherUltraLight_Sniper.tools.0.label>
+  <RNGun_MannlicherUltraLight_Sniper.tools.1.label>namlu</RNGun_MannlicherUltraLight_Sniper.tools.1.label>
+
+  <!-- Mosin Nagant -->
+  <RNGun_MosinNagant.label>Mosin-Nagant</RNGun_MosinNagant.label>
+  <RNGun_MosinNagant.description>Üç hatlı tüfek M1891, daha çok bilinen adıyla Mosin–Nagant, 1882–1891 yılları arasında geliştirilen, dahili şarjörlü, beş mermilik, sürgülü bir askeri tüfektir. Rus İmparatorluğu, Sovyetler Birliği ve birçok farklı ülkenin silahlı kuvvetlerinde kullanılmıştır.
+    Bu tüfek, 1891'den günümüze kadar çeşitli çatışmalarda kullanılmış, toplamda 37 milyondan fazla üretilerek tarihteki en yaygın sürgülü askeri tüfeklerden biri olmuştur.</RNGun_MosinNagant.description>
+  <RNGun_MosinNagant.tools.0.label>dipçik</RNGun_MosinNagant.tools.0.label>
+  <RNGun_MosinNagant.tools.1.label>namlu</RNGun_MosinNagant.tools.1.label>
+
+  <!-- Kar98k -->
+  <RNGun_Kar98k.label>Kar98k</RNGun_Kar98k.label>
+  <RNGun_Kar98k.description>Karabiner 98 kurz (sıklıkla Kar98k ya da K98k olarak kısaltılır), 7.92×57 mm Mauser mühimmatıyla çalışan sürgülü bir tüfektir. 21 Haziran 1935'te Wehrmacht tarafından standart piyade tüfeği olarak kabul edilmiştir.
+    Bu tüfek, Mauser'in uzun süredir devam eden askerî tüfek serisinin son üyelerindendir. II. Dünya Savaşı sırasında yarı ve tam otomatik tüfeklerle desteklenmiş olsa da, savaşın sonuna kadar Alman ordusunun ana tüfeği olarak kalmıştır.</RNGun_Kar98k.description>
+  <RNGun_Kar98k.tools.0.label>dipçik</RNGun_Kar98k.tools.0.label>
+  <RNGun_Kar98k.tools.1.label>namlu</RNGun_Kar98k.tools.1.label>
+
+
+  <!-- GOL -->
+  <RNGun_GOLMagnum_Sniper.label>GOL Magnum</RNGun_GOLMagnum_Sniper.label>
+  <RNGun_GOLMagnum_Sniper.description>GOL-Sniper Magnum, Almanya'nın Hessen eyaletindeki Birkenau'da bulunan Gol-Matic GmbH firması tarafından geliştirilen sürgülü bir keskin nişancı tüfeğidir. Tüfek; taktiksel, sportif ve yarışma modelleriyle sunulmaktadır.
+    Avusturya yapımı Steyr SSG 69 temelli olarak tasarlanmıştır.</RNGun_GOLMagnum_Sniper.description>
+  <RNGun_GOLMagnum_Sniper.tools.0.label>dipçik</RNGun_GOLMagnum_Sniper.tools.0.label>
+  <RNGun_GOLMagnum_Sniper.tools.1.label>namlu</RNGun_GOLMagnum_Sniper.tools.1.label>
+
+  <!-- SV-98 -->
+  <RNGun_SV98_Sniper.label>SV-98</RNGun_SV98_Sniper.label>
+  <RNGun_SV98_Sniper.description>SV-98 (Keskin Nişancı Tüfeği Model 1998), Vladimir Stronskiy tarafından geliştirilen Rus yapımı sürgülü keskin nişancı tüfeğidir. 2003 yılında özel kuvvet birlikleri, SV-98 tüfeğini (6B10 kodlu) ve zırh delici 7N14 keskin nişancı mühimmatıyla donatılmış 7.62 mm 6S11 sistemini kullanmaya başlamıştır.
+    Tüfek, Çeçenistan’daki operasyonlarda aktif olarak kullanılmıştır.</RNGun_SV98_Sniper.description>
+  <RNGun_SV98_Sniper.tools.0.label>dipçik</RNGun_SV98_Sniper.tools.0.label>
+  <RNGun_SV98_Sniper.tools.1.label>namlu</RNGun_SV98_Sniper.tools.1.label>
+
+  <!-- Mannlicher Schoenauer -->
+  <RNGun_MannlicherSchoenauer_Sniper.label>Mannlicher–Schönauer</RNGun_MannlicherSchoenauer_Sniper.label>
+  <RNGun_MannlicherSchoenauer_Sniper.description>Mannlicher–Schönauer (bazen "Mannlicher Schoenauer" şeklinde İngilizceleştirilir), Steyr Mannlicher tarafından 1903 yılında Yunan ordusu için üretilmiş döner şarjörlü sürgülü tüfek türüdür. Sonrasında sınırlı sayıda Avusturya-Macaristan ordusu tarafından da kullanılmıştır. 20. yüzyılın ilk yarısında Yunan ordusunun ana tüfeğiydi. Savaş sonrasında avcılık ve hedef atışı gibi sivil alanlarda da kullanılmıştır. Şarjör kapasitesi 5 mermidir.</RNGun_MannlicherSchoenauer_Sniper.description>
+  <RNGun_MannlicherSchoenauer_Sniper.tools.0.label>dipçik</RNGun_MannlicherSchoenauer_Sniper.tools.0.label>
+  <RNGun_MannlicherSchoenauer_Sniper.tools.1.label>namlu</RNGun_MannlicherSchoenauer_Sniper.tools.1.label>
+
+  <!-- WA 2000 -->
+  <RNGun_WA2000_DMR.label>WA 2000</RNGun_WA2000_DMR.label>
+  <RNGun_WA2000_DMR.description>Walther WA 2000, Carl Walther GmbH Sportwaffen firması tarafından üretilen yarı otomatik bullpup keskin nişancı tüfeğidir. Üç farklı kalibrede üretilmiştir. Üretimi sınırlıydı ve yüksek maliyeti ile askeri kullanım için yeterince sağlam görülmediği için kısa sürede sonlandırıldı.
+    Sadece 176 adet üretildiğinden, bu tüfek mevcut en nadir ve aranan üretim ateşli silahlarından biri haline gelmiştir.</RNGun_WA2000_DMR.description>
+  <RNGun_WA2000_DMR.tools.0.label>dipçik</RNGun_WA2000_DMR.tools.0.label>
+  <RNGun_WA2000_DMR.tools.1.label>namlu</RNGun_WA2000_DMR.tools.1.label>
+
+  <!-- G28 -->
+  <RNGun_G28_DMR.label>G28</RNGun_G28_DMR.label>
+  <RNGun_G28_DMR.description>Sivil MR308 modeli temel alınarak geliştirilen G28, Alman ordusu (Bundeswehr) tarafından Afganistan'daki görevlerde keskin nişancı olarak kullanılmak üzere sahaya sürülmüştür.
+    Yarı otomatik olan G28, 7.62×51 mm NATO kalibresindedir ve üretici tarafından 100 metrede 45 mm grupman (0.45 mil veya 1.5 MOA) hassasiyet garantisi verilmektedir. Bu test OTM/HPBT/Sierra Match King mühimmatı ile 10 atış üzerinden yapılmıştır.</RNGun_G28_DMR.description>
+  <RNGun_G28_DMR.tools.0.label>dipçik</RNGun_G28_DMR.tools.0.label>
+  <RNGun_G28_DMR.tools.1.label>namlu</RNGun_G28_DMR.tools.1.label>
+
+  <!-- M40A5 -->
+  <RNGun_M40A5_Sniper.label>M40A5</RNGun_M40A5_Sniper.label>
+  <RNGun_M40A5_Sniper.description>M40 keskin nişancı tüfeği, ABD Deniz Piyadeleri tarafından kullanılan sürgülü bir tüfektir. M40, M40A1, M40A3 ve M40A5 olmak üzere dört versiyonu bulunmaktadır.
+    M40, 1966 yılında hizmete girmiştir. A1 versiyonuna geçiş 1970’lerde, A3 versiyonuna 2000’lerde, A5’e ise 2009 yılında geçilmiştir.</RNGun_M40A5_Sniper.description>
+  <RNGun_M40A5_Sniper.tools.0.label>dipçik</RNGun_M40A5_Sniper.tools.0.label>
+  <RNGun_M40A5_Sniper.tools.1.label>namlu</RNGun_M40A5_Sniper.tools.1.label>
+
+  <!-- M700 -->
+  <RNGun_M700SAICS_Sniper.label>M700-S AICS</RNGun_M700SAICS_Sniper.label>
+  <RNGun_M700SAICS_Sniper.description>Remington 700 modeli, 1962 yılından bu yana Remington Arms tarafından üretilen sürgülü tüfek serisidir. 1948 yılında tanıtılan Remington 721 ve 722 serilerinin gelişmiş versiyonudur. ABD Ordusu ve Deniz Piyadeleri tarafından kullanılan M24 ve M40 keskin nişancı tüfeklerinin temeli bu modeldir.
+    Bu sürüm, Accuracy International Chassis sistemi ile donatılmıştır.</RNGun_M700SAICS_Sniper.description>
+  <RNGun_M700SAICS_Sniper.tools.0.label>dipçik</RNGun_M700SAICS_Sniper.tools.0.label>
+  <RNGun_M700SAICS_Sniper.tools.1.label>namlu</RNGun_M700SAICS_Sniper.tools.1.label>
+
+  <!-- VSS Vintorez -->
+  <RNGun_VSSVintorez_DMR.label>VSS Vintorez</RNGun_VSSVintorez_DMR.label>
+  <RNGun_VSSVintorez_DMR.description>VSS (Rusça: Özel Keskin Nişancı Tüfeği, GRAU kodu 6P29), "Vintorez" (vida kesici) olarak da bilinir. 9×39 mm SP5 subsonik mühimmat ve SP6 zırh delici mühimmat kullanan susturuculu bir keskin nişancı tüfeğidir.
+    1980’lerin sonlarında TsNIITochMash tarafından geliştirilmiş ve Tula Cephaneliği'nde üretilmiştir. Özellikle sabotaj ve gizli operasyonlar için Spetsnaz birliklerine verilir. Taşıma için özel çantasına sökülerek yerleştirilebilir.</RNGun_VSSVintorez_DMR.description>
+  <RNGun_VSSVintorez_DMR.tools.0.label>dipçik</RNGun_VSSVintorez_DMR.tools.0.label>
+  <RNGun_VSSVintorez_DMR.tools.1.label>namlu</RNGun_VSSVintorez_DMR.tools.1.label>
+
+  <!-- Lee Enfield -->
+  <RNGun_LeeEnfield_BoltAction.label>Lee Enfield Mk III</RNGun_LeeEnfield_BoltAction.label>
+  <RNGun_LeeEnfield_BoltAction.description>Lee–Enfield, tekrarlamalı şarjörlü bir sürgülü tüfek olup, 20. yüzyılın ilk yarısında Britanya İmparatorluğu ve Milletler Topluluğu ordularında kullanılan ana silahtı.
+    1895’te resmen kabul edilmesinden 1957 yılına kadar Britanya Ordusu’nun standart tüfeği olarak hizmet vermiştir.</RNGun_LeeEnfield_BoltAction.description>
+  <RNGun_LeeEnfield_BoltAction.tools.0.label>dipçik</RNGun_LeeEnfield_BoltAction.tools.0.label>
+  <RNGun_LeeEnfield_BoltAction.tools.1.label>namlu</RNGun_LeeEnfield_BoltAction.tools.1.label>
+
+  <!-- L129A1 -->
+  <RNGun_L129A1_DMR.label>L129A1</RNGun_L129A1_DMR.label>
+  <RNGun_L129A1_DMR.description>L129A1 Sharpshooter, 2010 sonundan itibaren Birleşik Krallık ordusunda kullanılmaya başlanan bir nişancı tüfeğidir.
+    Bu silah, Afganistan’daki görevlerde ortaya çıkan, düşman ateşinin menzil olarak kendi tüfek ve makineli tüfeklerinden daha uzun olduğu durumlara çözüm sağlamak amacıyla temin edilmiştir.</RNGun_L129A1_DMR.description>
+  <RNGun_L129A1_DMR.tools.0.label>dipçik</RNGun_L129A1_DMR.tools.0.label>
+  <RNGun_L129A1_DMR.tools.1.label>namlu</RNGun_L129A1_DMR.tools.1.label>
+
+</LanguageData>

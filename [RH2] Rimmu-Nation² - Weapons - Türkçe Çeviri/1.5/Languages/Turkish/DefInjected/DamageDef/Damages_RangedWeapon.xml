@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Geçici çözüm: Ateşli silahlar, dengesizliği önlemek için "zevk veren" iyileştirmeler olmadan eski dövüş sistemini kullanmalıdır. -->
+
+  <RNBullet_Charge.label>Şarj</RNBullet_Charge.label>
+  <RNBullet_Charge.deathMessage>{0} vurularak öldü.</RNBullet_Charge.deathMessage>
+
+</LanguageData>

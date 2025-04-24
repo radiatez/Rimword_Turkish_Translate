@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  
+	<!-- TR: onarım kiti -->
+	<MendingKit.label>onarım kiti</MendingKit.label> 
+	
+	<!-- TR: Çeşitli kumaşlar, parçalar ve bileşenler. Silahları tamir etmek ve giysileri onarmak için gereklidir. -->
+	<MendingKit.description>Çeşitli kumaşlar, parçalar ve bileşenler. Silah tamiri ve kıyafet onarımı için gereklidir.</MendingKit.description> 
+	
+</LanguageData>

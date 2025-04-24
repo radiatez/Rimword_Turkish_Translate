@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RNApparel_TacticalJacket_TACVASEN.label>Softshell Ceket</RNApparel_TacticalJacket_TACVASEN.label>
+    <RNApparel_TacticalJacket_TACVASEN.description>Çiziklere ve darbelere karşı koruma sağlayan sağlam bir taktik ceket. Soğuk havalarda sıcak tutar, sıcak havalarda ise koltuk altı fermuarları sayesinde serinlik sağlar.\n\nBu ceket, TACVASEN taktik ceket serisine aittir.</RNApparel_TacticalJacket_TACVASEN.description>
+
+    <RNApparel_Hoodie_FruitOfTheLoom.label>Kapüşonlu Sweatshirt</RNApparel_Hoodie_FruitOfTheLoom.label>
+    <RNApparel_Hoodie_FruitOfTheLoom.description>Çiziklere ve darbelere karşı koruma sağlayan sağlam bir kapüşonlu sweatshirt. Soğuk havalarda sıcak tutar.\n\nBu model, Fruit Of The Loom taktik serisine aittir.</RNApparel_Hoodie_FruitOfTheLoom.description>
+
+    <RNApparel_NorweiganShirt_Pullover.label>Norveç Gömleği</RNApparel_NorweiganShirt_Pullover.label>
+    <RNApparel_NorweiganShirt_Pullover.description>"Norgie" olarak da bilinen Norveç gömleği, soğuk iklimlerde popülerdir. Sağladığı sıcaklık ve dayanıklılıkla özellikle askeri birimler tarafından tercih edilir.</RNApparel_NorweiganShirt_Pullover.description>
+
+    <RNApparel_PoloShirt_511Tactical.label>Polo Yaka Tişört</RNApparel_PoloShirt_511Tactical.label>
+    <RNApparel_PoloShirt_511Tactical.description>Polo tişört, yakalı ve düğmeli bir modeldir, bazen göğüs cebi de bulunur.\n\nBu model, 5.11 Tactical polo serisindendir.</RNApparel_PoloShirt_511Tactical.description>
+
+    <RNApparel_UBACShirt_511RapidAssault.label>Hücum Gömleği</RNApparel_UBACShirt_511RapidAssault.label>
+    <RNApparel_UBACShirt_511RapidAssault.description>Bu gömlek, sıcak havalarda vücut zırhının altına giyilmek üzere tasarlanmıştır. Nefes alabilir ve hızlı kuruyan kumaşlardan yapılmıştır, ayrıca çok sayıda cebi vardır.\n\nBu model, 5.11 Tactical hücum gömlek serisine aittir.</RNApparel_UBACShirt_511RapidAssault.description>
+
+    <RNApparel_Jacket_GORKA3Jacket.label>GORKA 3 Ceketi</RNApparel_Jacket_GORKA3Jacket.label>
+    <RNApparel_Jacket_GORKA3Jacket.description>GORKA 3, dağ birlikleri için tasarlanmış bir Rus askeri kıyafetidir. Sovyet ordusunda geliştirilmiş, Afganistan'da kullanılmış ve daha sonra Çeçenistan gibi bölgelerde yaygınlaşmıştır. Özel kuvvetler, İçişleri Bakanlığı, FSB, Hava İndirme Birlikleri ve GRU tarafından kullanılmaktadır.</RNApparel_Jacket_GORKA3Jacket.description>
+
+    <RNApparel_Shirt_BlackhawkPursuit.label>Pursuit Gömlek</RNApparel_Shirt_BlackhawkPursuit.label>
+    <RNApparel_Shirt_BlackhawkPursuit.description>Bu askeri gömlek, yelek altına giyilmek üzere tasarlanmış, yakalı ve ateşe dayanıklı bir modeldir.\n\nBLACKHAWK! Pursuit serisine aittir.</RNApparel_Shirt_BlackhawkPursuit.description>
+
+    <RNApparel_FlightSuit_Brandit.label>Uçuş Tulum</RNApparel_FlightSuit_Brandit.label>
+    <RNApparel_FlightSuit_Brandit.description>Uçuş tulumu, genellikle tüm vücudu saran, uçuş sırasında kullanılan bir giysidir. Sıcak tutar, pratik ve dayanıklıdır, birçok cebe sahiptir ve yanmaz kumaştan üretilir. Dış görünüşü tuluma benzer. Bazen rütbe işaretleri de eklenir. Kapalı alan operasyonlarında veya arama-tarama faaliyetlerinde de kullanılır.\n\nBu model, Brandit serisine aittir.</RNApparel_FlightSuit_Brandit.description>
+
+    <RNApparel_TankTop_Generic.label>Atlet</RNApparel_TankTop_Generic.label>
+    <RNApparel_TankTop_Generic.description>Atlet genellikle kolsuzdur veya kolları kesiktir. İç çamaşırı olarak, spor yaparken ya da gündelik kullanımda tercih edilir.</RNApparel_TankTop_Generic.description>
+
+    <RNApparel_ButtonShirt_Generic.label>Düğmeli Gömlek</RNApparel_ButtonShirt_Generic.label>
+    <RNApparel_ButtonShirt_Generic.description>Klasik düğmeli gömlek; yakalı, önden tamamen düğmeli olur. Genellikle kumaştan üretilir, kravat, papyon, ceket veya takım elbiseyle birlikte giyilir ama sade olarak da kullanılabilir.</RNApparel_ButtonShirt_Generic.description>
+
+    <RNApparel_HawaiianShirt_Generic.label>Havai Gömlek</RNApparel_HawaiianShirt_Generic.label>
+    <RNApparel_HawaiianShirt_Generic.description>Aloha gömleği olarak da bilinir. Renkli, kısa kollu, yakalı ve düğmeli klasik bir gömlektir. Genellikle dışarıda bırakılarak giyilir, ama bazen pantolon içine sokulur. Gündelik ya da rahat iş ortamlarında da tercih edilir.</RNApparel_HawaiianShirt_Generic.description>
+
+    <RNApparel_ACU_UCP.label>ACU Üniforması (UCP)</RNApparel_ACU_UCP.label>
+    <RNApparel_ACU_UCP.description>Askeri üniforma, tören kıyafetlerinden farklı olarak doğrudan saha operasyonlarında kullanılır. Amerikan İngilizcesinde genellikle "fatigues" olarak anılır. Kamuflajlı veya düz yeşil-kahverengi tonlarında olur.\n\nBu model, Universal Camo Pattern (UCP) desenli Army Combat Uniform (ACU) kıyafetidir.</RNApparel_ACU_UCP.description>
+
+    <RNApparel_BDU_DMARPAT.label>BDU Üniforması (D MARPAT)</RNApparel_BDU_DMARPAT.label>
+    <RNApparel_BDU_DMARPAT.description>Askeri üniforma, tören kıyafetlerinden farklı olarak saha operasyonlarında kullanılır. "Fatigues" terimi genellikle askeri çalışma giysisini ifade eder. Kamuflaj ya da düz renklidir.\n\nBu model, Desert Marine Pattern (MARPAT) desenli Battle Dress Uniform’dur (BDU).</RNApparel_BDU_DMARPAT.description>
+
+    <RNApparel_UBACShirt_DDPM.label>UBAC Üniforması (D DPM)</RNApparel_UBACShirt_DDPM.label>
+    <RNApparel_UBACShirt_DDPM.description>Bu üniforma tipi doğrudan saha operasyonlarında kullanılır. "Fatigues" terimiyle de bilinir. Kamuflajlı veya sade renklerde olur.\n\nBu model, Desert Disruptive Pattern Material (DPM) desenli Under Body Armor Clothing (UBAC) tipidir.</RNApparel_UBACShirt_DDPM.description>
+
+    <RNApparel_DesignerShirt_Boss.label>Marka Gömlek</RNApparel_DesignerShirt_Boss.label>
+    <RNApparel_DesignerShirt_Boss.description>Marka kıyafet, lüks sınıf bir giyim türüdür. Kalite ve modaya uygunluğu ile tanınır. Genellikle ünlü moda tasarımcılarının markalarını taşır.</RNApparel_DesignerShirt_Boss.description>
+
+    <RNApparel_UBACShirt_CryeG2Uniform.label>Crye G2 Askeri Gömlek</RNApparel_UBACShirt_CryeG2Uniform.label>
+    <RNApparel_UBACShirt_CryeG2Uniform.description>Hücum gömleği, sıcak havalarda zırh altına giyilmek üzere tasarlanmıştır. Nefes alabilir, hızlı kuruyan kumaşlardan yapılmıştır ve cepleri vardır.\n\nBu model, Crye Gen-2 serisine ait Under Body Armor Clothing (UBAC) ürünüdür.</RNApparel_UBACShirt_CryeG2Uniform.description>
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MUR_TCU.label>Sıcaklık Kontrol Ünitesi</MUR_TCU.label>
+  <MUR_TCU.description>Isıtma ve soğutma işlemlerini kontrol edebilen entegre bir sıcaklık kontrol ünitesidir.</MUR_TCU.description>
+
+  <MUR_TCU_Wide.label>Sıcaklık Kontrol Ünitesi (Geniş)</MUR_TCU_Wide.label>
+  <MUR_TCU_Wide.description>Isıtma ve soğutma işlemlerini kontrol edebilen geniş tipte bir sıcaklık kontrol ünitesidir.</MUR_TCU_Wide.description>
+
+  <MUR_TCU_Long.label>Sıcaklık Kontrol Ünitesi (Uzun)</MUR_TCU_Long.label>
+  <MUR_TCU_Long.description>Isıtma ve soğutma işlemlerini kontrol edebilen uzun tipte bir sıcaklık kontrol ünitesidir.</MUR_TCU_Long.description>
+
+  <MUR_TCU_TwoByTwo.label>Sıcaklık Kontrol Ünitesi (2x2)</MUR_TCU_TwoByTwo.label>
+  <MUR_TCU_TwoByTwo.description>Isıtma ve soğutma işlemlerini kontrol edebilen 2x2 boyutunda bir sıcaklık kontrol ünitesidir.</MUR_TCU_TwoByTwo.description>
+
+</LanguageData>

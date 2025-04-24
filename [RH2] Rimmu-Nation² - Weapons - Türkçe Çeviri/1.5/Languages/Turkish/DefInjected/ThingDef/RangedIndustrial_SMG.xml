@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- АК74У -->
+
+  <RNGun_AK74U_SMG.label>AK-74U</RNGun_AK74U_SMG.label>
+  <RNGun_AK74U_SMG.description>AK-74 (Rusça: Автомат Калашникова образца 1974 года), 1970'lerin başında Mihail Kalaşnikov tarafından AKM'nin yerine geliştirilmiş bir taarruz tüfeğidir. Önceki 7.62×39 mm mermilerin yerine daha küçük 5.45×39 mm mermiler kullanır.
+
+Taktik kullanımı açısından AKS-74U, hem makineli tabanca hem de taarruz tüfeği özelliklerini birleştirir. Özellikle özel kuvvetler, hava indirme birlikleri, lojistik birimler, helikopter ve zırhlı araç ekipleri tarafından kullanılır.</RNGun_AK74U_SMG.description>
+  <RNGun_AK74U_SMG.tools.0.label>kabza</RNGun_AK74U_SMG.tools.0.label>
+  <RNGun_AK74U_SMG.tools.1.label>namlu</RNGun_AK74U_SMG.tools.1.label>
+
+  <!-- АКС74У -->
+
+  <RNGun_AK7S4U_SMG.label>AKS-74UB</RNGun_AK7S4U_SMG.label>
+  <RNGun_AK7S4U_SMG.description>AK-74, Mihail Kalaşnikov tarafından geliştirilmiş bir taarruz tüfeğidir. Bu modelde 5.45×39 mm mühimmat kullanılır.
+
+AKS-74U modeli, makineli tabanca ve tüfek özelliklerini birleştirir ve çoğunlukla özel kuvvetler ve araç personeli tarafından kullanılır. Bu özel versiyon susturuculudur.</RNGun_AK7S4U_SMG.description>
+  <RNGun_AK7S4U_SMG.tools.0.label>kabza</RNGun_AK7S4U_SMG.tools.0.label>
+  <RNGun_AK7S4U_SMG.tools.1.label>namlu</RNGun_AK7S4U_SMG.tools.1.label>
+
+  <!-- Thompson -->
+
+  <RNGun_ThompsonSubmachineGun_SMG.label>Thompson Makineli Tabanca</RNGun_ThompsonSubmachineGun_SMG.label>
+  <RNGun_ThompsonSubmachineGun_SMG.description>Thompson, 1918 yılında John T. Thompson tarafından geliştirilmiş Amerikan yapımı bir makineli tabancadır. Yasak döneminde hem suç çeteleri hem de kolluk kuvvetleri tarafından yaygın şekilde kullanılmıştır.
+
+Halk arasında "Tommy Gun", "Chicago Daktilosu", "Trench Broom" gibi birçok lakapla anılır.</RNGun_ThompsonSubmachineGun_SMG.description>
+  <RNGun_ThompsonSubmachineGun_SMG.tools.0.label>kabza</RNGun_ThompsonSubmachineGun_SMG.tools.0.label>
+  <RNGun_ThompsonSubmachineGun_SMG.tools.1.label>namlu</RNGun_ThompsonSubmachineGun_SMG.tools.1.label>
+
+  <!-- MP5A2 -->
+
+  <RNGun_MP5A2_SMG.label>MP5A2</RNGun_MP5A2_SMG.label>
+  <RNGun_MP5A2_SMG.description>MP5, Heckler &amp; Koch tarafından geliştirilen ve dünya çapında 40'tan fazla ülke tarafından kullanılan 9 mm'lik bir makineli tabancadır. SWAT ve diğer kolluk kuvvetleri tarafından yaygın olarak kullanılır.
+
+1999 yılında MP5’in halefi olarak UMP geliştirilmiştir.</RNGun_MP5A2_SMG.description>
+  <RNGun_MP5A2_SMG.tools.0.label>kabza</RNGun_MP5A2_SMG.tools.0.label>
+  <RNGun_MP5A2_SMG.tools.1.label>namlu</RNGun_MP5A2_SMG.tools.1.label>
+
+  <RNGun_MP5SD_SMG.label>MP5SD</RNGun_MP5SD_SMG.label>
+  <RNGun_MP5SD_SMG.description>MP5SD, susturucuya entegre edilmiş versiyonudur. Standart MP5'in özelliklerine sahiptir ve yine Heckler &amp; Koch tarafından üretilmiştir.</RNGun_MP5SD_SMG.description>
+  <RNGun_MP5SD_SMG.tools.0.label>kabza</RNGun_MP5SD_SMG.tools.0.label>
+  <RNGun_MP5SD_SMG.tools.1.label>namlu</RNGun_MP5SD_SMG.tools.1.label>
+
+  <!-- MP7 -->
+
+  <RNGun_MP7A1_PDW.label>MP7A1</RNGun_MP7A1_PDW.label>
+  <RNGun_MP7A1_PDW.description>MP7, Heckler &amp; Koch tarafından geliştirilen kişisel savunma silahıdır (PDW). 4.6×30 mm mermi kullanır ve NATO’nun zırh delici silah talebine yanıt olarak üretilmiştir. FN P90’ın rakibidir.</RNGun_MP7A1_PDW.description>
+  <RNGun_MP7A1_PDW.tools.0.label>kabza</RNGun_MP7A1_PDW.tools.0.label>
+  <RNGun_MP7A1_PDW.tools.1.label>namlu</RNGun_MP7A1_PDW.tools.1.label>
+
+  <!-- UMP45 -->
+
+  <RNGun_UMP45_SMG.label>UMP45</RNGun_UMP45_SMG.label>
+  <RNGun_UMP45_SMG.description>UMP, Heckler &amp; Koch tarafından geliştirilen "Evrensel Makineli Tabanca"dır. MP5’in daha ucuz ve hafif alternatifi olarak tasarlanmıştır ve birçok ülke tarafından kullanılır.</RNGun_UMP45_SMG.description>
+  <RNGun_UMP45_SMG.tools.0.label>kabza</RNGun_UMP45_SMG.tools.0.label>
+  <RNGun_UMP45_SMG.tools.1.label>namlu</RNGun_UMP45_SMG.tools.1.label>
+
+  <!-- P90 -->
+
+  <RNGun_P90_PDW.label>FN P90</RNGun_P90_PDW.label>
+  <RNGun_P90_PDW.description>FN P90, FN Herstal tarafından NATO’nun PDW talebine yanıt olarak geliştirilen kompakt, zırh delici mermi kullanan bir silahtır. Özellikle araç personeli ve özel kuvvetler için uygundur.</RNGun_P90_PDW.description>
+  <RNGun_P90_PDW.tools.0.label>kabza</RNGun_P90_PDW.tools.0.label>
+  <RNGun_P90_PDW.tools.1.label>namlu</RNGun_P90_PDW.tools.1.label>
+
+  <!-- P90SD -->
+
+  <RNGun_P90SD_PDW.label>FN P90-SD</RNGun_P90SD_PDW.label>
+  <RNGun_P90SD_PDW.description>FN P90’ın susturuculu versiyonudur. NATO standartlarına uygun kompakt bir kişisel savunma silahıdır.</RNGun_P90SD_PDW.description>
+  <RNGun_P90SD_PDW.tools.0.label>kabza</RNGun_P90SD_PDW.tools.0.label>
+  <RNGun_P90SD_PDW.tools.1.label>namlu</RNGun_P90SD_PDW.tools.1.label>
+
+  <!-- Uzi -->
+
+  <RNGun_Uzi_SMG.label>Uzi</RNGun_Uzi_SMG.label>
+  <RNGun_Uzi_SMG.description>Uzi, 1940'ların sonunda Uziel Gal tarafından geliştirilen ve 1950'de tamamlanan İsrail yapımı bir makineli tabancadır. Telescopic bolt tasarımı ile kısalığı sayesinde çok sayıda ülke tarafından benimsenmiştir.</RNGun_Uzi_SMG.description>
+  <RNGun_Uzi_SMG.tools.0.label>kabza</RNGun_Uzi_SMG.tools.0.label>
+  <RNGun_Uzi_SMG.tools.1.label>namlu</RNGun_Uzi_SMG.tools.1.label>
+
+  <!-- MAC-10 -->
+
+  <RNGun_MAC11_SMG.label>MAC-10</RNGun_MAC11_SMG.label>
+  <RNGun_MAC11_SMG.description>MAC-10, Gordon Ingram tarafından geliştirilen, kompakt bir makineli tabancadır. .45 ACP ve 9 mm versiyonları vardır. Susturucu eklentisi sayesinde tam otomatik atışlarda kontrol kolaylığı sağlar.</RNGun_MAC11_SMG.description>
+  <RNGun_MAC11_SMG.tools.0.label>kabza</RNGun_MAC11_SMG.tools.0.label>
+  <RNGun_MAC11_SMG.tools.1.label>namlu</RNGun_MAC11_SMG.tools.1.label>
+
+  <!-- Skorpion -->
+
+  <RNGun_SkorpionVZ61_SMG.label>Škorpion vz. 61</RNGun_SkorpionVZ61_SMG.label>
+  <RNGun_SkorpionVZ61_SMG.description>Škorpion vz. 61, 1959'da tasarlanmış ve 1961-1979 arasında Çekoslovakya'da üretilmiş kompakt bir makineli tabancadır. Özellikle araç personeli ve düşük rütbeli askerler için tasarlanmıştır.</RNGun_SkorpionVZ61_SMG.description>
+  <RNGun_SkorpionVZ61_SMG.tools.0.label>kabza</RNGun_SkorpionVZ61_SMG.tools.0.label>
+  <RNGun_SkorpionVZ61_SMG.tools.1.label>namlu</RNGun_SkorpionVZ61_SMG.tools.1.label>
+
+  <!-- PPSh-41 -->
+
+  <RNGun_PPSh41_SMG.label>PPSh-41</RNGun_PPSh41_SMG.label>
+  <RNGun_PPSh41_SMG.description>PPSh-41, Georgy Shpagin tarafından tasarlanmış Sovyet makineli tabancasıdır. "Papaşa" lakabıyla bilinir ve İkinci Dünya Savaşı'nda geniş çapta kullanılmıştır.</RNGun_PPSh41_SMG.description>
+  <RNGun_PPSh41_SMG.tools.0.label>kabza</RNGun_PPSh41_SMG.tools.0.label>
+  <RNGun_PPSh41_SMG.tools.1.label>namlu</RNGun_PPSh41_SMG.tools.1.label>
+
+  <!-- PP-19 -->
+
+  <RNGun_PP19_SMG.label>PP-19 Bizon</RNGun_PP19_SMG.label>
+  <RNGun_PP19_SMG.description>Bizon, 1993'te İzhmash’ta Viktor Kalaşnikov ve Alexey Dragunov tarafından geliştirilmiş 9 mm’lik Sovyet yapımı bir makineli tabancadır. Spiral magazini ile tanınır.</RNGun_PP19_SMG.description>
+  <RNGun_PP19_SMG.tools.0.label>kabza</RNGun_PP19_SMG.tools.0.label>
+  <RNGun_PP19_SMG.tools.1.label>namlu</RNGun_PP19_SMG.tools.1.label>
+
+  <!-- KRISS Vector -->
+
+  <RNGun_KrissVector_PDW.label>KRISS Vector</RNGun_KrissVector_PDW.label>
+  <RNGun_KrissVector_PDW.description>KRISS Vector serisi, geri tepme azaltıcı tasarımı ile bilinen ve ABD merkezli KRISS USA tarafından üretilmiş bir makineli tabanca serisidir. Özellikle düşük namlu kalkışı ile dikkat çeker.</RNGun_KrissVector_PDW.description>
+  <RNGun_KrissVector_PDW.tools.0.label>kabza</RNGun_KrissVector_PDW.tools.0.label>
+  <RNGun_KrissVector_PDW.tools.1.label>namlu</RNGun_KrissVector_PDW.tools.1.label>
+
+</LanguageData>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+  <MendRecycle>OnarVeGeriDönüştür</MendRecycle>
+
+  <!-- Ayarlar -->
+
+  <!-- TR: Kıyafetlerden "cesetten alındı" etiketini kaldırır -->
+  <MendRecycle.RemovesDeadman>Kıyafetlerden "cesetten alındı" etiketini kaldır</MendRecycle.RemovesDeadman>
+
+  <!-- TR: Kıyafet tamir edildiğinde bu etiket otomatik kaldırılsın mı? -->
+  <MendRecycle.RemovesDeadmanTooltip>Onarım tezgahında tamir edilen kıyafetlerden "cesetten alındı" etiketi kaldırılsın mı?</MendRecycle.RemovesDeadmanTooltip>
+
+  <!-- TR: Yakıt gerektirir -->
+  <MendRecycle.RequiresFuel>Yakıt gerektirir</MendRecycle.RequiresFuel>
+
+  <!-- TR: Onarım tezgahı onarım kiti gerektiriyor mu? (Yeniden başlatma gerekir) -->
+  <MendRecycle.RequiresFuelTooltip>Onarım tezgahı için onarım kiti gerekli mi? (Yeniden başlatma gerekir)</MendRecycle.RequiresFuelTooltip>
+
+  <!-- TR: Elektrik gerektirir -->
+  <MendRecycle.RequiresPower>Elektrik gerektirir</MendRecycle.RequiresPower>
+
+  <!-- TR: Onarım tezgahı elektrik gerektiriyor mu? (Yeniden başlatma gerekir) -->
+  <MendRecycle.RequiresPowerTooltip>Onarım tezgahı çalışmak için elektrik gerektiriyor mu? (Yeniden başlatma gerekir)</MendRecycle.RequiresPowerTooltip>
+
+  <!-- TR: Maksimum Dayanıklılık Üzerinden Yüzdelik Kullanım -->
+  <MendRecycle.MaxHPCost>Onarım/geri dönüşüm hızı, eşyanın maksimum dayanıklılığının yüzdesi olarak.</MendRecycle.MaxHPCost>
+
+  <!-- TR: Teknoloji Seviyesine Göre Başarısızlık Şansı -->
+  <MendRecycle.FailChances>Teknoloji seviyesine bağlı başarısızlık şansı</MendRecycle.FailChances>
+  
+</LanguageData>

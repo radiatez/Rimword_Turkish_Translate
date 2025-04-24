@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ModMetaData>
+	<name>Universal Trade Hub - Türkçe Çeviri</name>
+	<author>Hamza YILMAZ</author>
+    <supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+		<modDependencies>		
+		<li>
+			<packageId>alt4s.UniversalTradeHub</packageId>
+			<displayName>Universal Trade Hub</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/3281403886</steamWorkshopUrl>
+		</li>		
+	</modDependencies>
+		<loadAfter>
+		<li>alt4s.UniversalTradeHub</li>
+	</loadAfter>
+	<packageId>hyilmaz.rimword.tr.3281403886</packageId>
+	<description>	
+Hakkında:
+
+Universal Trade Hub modunun Türkçe çevirisi.
+Bazı çeviri hataları olabilir. 
+Bu modların Türkçe çevirileri olmadığından kendi oyunum için çevirdim ve paylaşmaya karar verdim.
+Bi nebze de olsa belki işinize yarayabilir.
+
+https://github.com/radiatez/Rimword_Turkish_Translate
+
+Hamza YILMAZ	
+	</description>
+</ModMetaData>
+

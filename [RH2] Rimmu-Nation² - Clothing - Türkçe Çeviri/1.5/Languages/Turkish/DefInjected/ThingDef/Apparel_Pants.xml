@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RNApparel_Pants_511Stryke.label>Stryke Pantolon</RNApparel_Pants_511Stryke.label>
+    <RNApparel_Pants_511Stryke.description>Ağır ve dayanıklı bir taktik pantolon seti; zorlu görevler ve operasyonlar için tasarlanmıştır.\n\nBu model, 5.11 Stryke serisine aittir.</RNApparel_Pants_511Stryke.description>
+
+    <RNApparel_Pants_BlackhawkPursuit.label>Pursuit Pantolon</RNApparel_Pants_BlackhawkPursuit.label>
+    <RNApparel_Pants_BlackhawkPursuit.description>Ağır ve dayanıklı bir taktik pantolon seti; zorlu görevler ve operasyonlar için tasarlanmıştır.\n\nBu model, BLACKHAWK! Pursuit serisine aittir.</RNApparel_Pants_BlackhawkPursuit.description>
+
+    <RNApparel_Pants_511StrykeMulticam.label>Multicam Stryke Pantolon</RNApparel_Pants_511StrykeMulticam.label>
+    <RNApparel_Pants_511StrykeMulticam.description>Ağır ve dayanıklı bir taktik pantolon seti; zorlu görevler ve operasyonlar için tasarlanmıştır.\n\nBu model, 5.11 Stryke Multicam desenli versiyonudur.</RNApparel_Pants_511StrykeMulticam.description>
+
+    <RNApparel_Pants_HelikonPilgrim.label>Pilgrim Pantolon</RNApparel_Pants_HelikonPilgrim.label>
+    <RNApparel_Pants_HelikonPilgrim.description>Ağır ve dayanıklı bir taktik pantolon seti; zorlu görevler ve operasyonlar için tasarlanmıştır.\n\nBu model, Helikon Pilgrim serisine aittir.</RNApparel_Pants_HelikonPilgrim.description>
+
+    <RNApparel_Pants_FjallravenKeb.label>Keb Pantolon</RNApparel_Pants_FjallravenKeb.label>
+    <RNApparel_Pants_FjallravenKeb.description>Ağır ve dayanıklı bir taktik pantolon seti; zorlu görevler ve operasyonlar için tasarlanmıştır.\n\nBu model, Fjallraven Keb serisine aittir.</RNApparel_Pants_FjallravenKeb.description>
+
+    <RNApparel_Pants_BearGryllsSurvivor.label>Survivor Pantolon</RNApparel_Pants_BearGryllsSurvivor.label>
+    <RNApparel_Pants_BearGryllsSurvivor.description>Ağır ve dayanıklı bir taktik pantolon seti; zorlu görevler ve operasyonlar için tasarlanmıştır.\n\nBu model, Bear Grylls’in “Survivor” serisine aittir.\n\nNot: Lütfen idrarınızı içmeyin.</RNApparel_Pants_BearGryllsSurvivor.description>
+
+    <RNApparel_Pants_GORKA3Pants.label>GORKA 3 Pantolon</RNApparel_Pants_GORKA3Pants.label>
+    <RNApparel_Pants_GORKA3Pants.description>Bu pantolon, zorlu soğuk hava koşullarında kullanılmak üzere tasarlanmış GORKA 3 askeri donanım setinin bir parçasıdır. GORKA 3, Sovyet ordusunda geliştirilen ve ilk olarak Afganistan’da kullanılan, ardından Çeçenya ve diğer operasyonlarda yaygınlaşan bir Rus askeri dağ üniformasıdır. Genellikle özel kuvvetler, İçişleri Bakanlığı, FSB, Hava İndirme ve GRU birlikleri tarafından kullanılır.</RNApparel_Pants_GORKA3Pants.description>
+
+    <RNApparel_Jeans_Generic.label>Kot Pantolon</RNApparel_Jeans_Generic.label>
+    <RNApparel_Jeans_Generic.description>Kot pantolonlar genellikle denim kumaştan yapılır. "Kot" kelimesi genellikle mavi kotları ifade eder. İlk olarak 1871 yılında Jacob Davis ve Levi Strauss & Co. tarafından icat edilmiş, 20 Mayıs 1873’te patentlenmiştir. "Mavi kot" terimi, maviye boyanmış denimden yapılmış çeşitli kıyafetleri (pantolon, tulum, ceket) ifade etmekteydi.</RNApparel_Jeans_Generic.description>
+
+    <RNApparel_Pants_ACUUCP.label>ACU Pantolon (UCP)</RNApparel_Pants_ACUUCP.label>
+    <RNApparel_Pants_ACUUCP.description>Ağır ve dayanıklı bir taktik pantolon seti; zorlu görevler ve operasyonlar için tasarlanmıştır.\n\nBu model, Ordu Savaş Üniforması (Army Combat Uniform) ve Evrensel Kamuflaj Deseni (Universal Camo Pattern) ile birlikte gelir.</RNApparel_Pants_ACUUCP.description>
+
+    <RNApparel_Pants_BDUDMARPAT.label>BDU Pantolon (D MARPAT)</RNApparel_Pants_BDUDMARPAT.label>
+    <RNApparel_Pants_BDUDMARPAT.description>Ağır ve dayanıklı bir taktik pantolon seti; zorlu görevler ve operasyonlar için tasarlanmıştır.\n\nBu model, Çöl Deniz Kamuflajı (Desert Marine Pattern) desenli Savaş Üniforması (Battle Dress Uniform) pantolonudur.</RNApparel_Pants_BDUDMARPAT.description>
+
+    <RNApparel_Pants_CombatsDDPM.label>Komando Pantolonu (D DPM)</RNApparel_Pants_CombatsDDPM.label>
+    <RNApparel_Pants_CombatsDDPM.description>Ağır ve dayanıklı bir taktik pantolon seti; zorlu görevler ve operasyonlar için tasarlanmıştır.\n\nBu model, Çöl Kamuflaj Deseni (Desert Disruptive Pattern Material) ile gelen savaş pantolonudur.</RNApparel_Pants_CombatsDDPM.description>
+
+    <RNApparel_Pants_SuitBrioni.label>Takım Elbise Pantolonu</RNApparel_Pants_SuitBrioni.label>
+    <RNApparel_Pants_SuitBrioni.description>Takım elbise; ceket (veya palto) ile pantolondan oluşan bir kıyafet setidir. Genellikle aynı kumaştan üretilir ve klasik gömlek, kravat ve ayakkabıyla tamamlanarak Batı dünyasında geleneksel bir kıyafet sayılır.</RNApparel_Pants_SuitBrioni.description>
+
+</LanguageData>

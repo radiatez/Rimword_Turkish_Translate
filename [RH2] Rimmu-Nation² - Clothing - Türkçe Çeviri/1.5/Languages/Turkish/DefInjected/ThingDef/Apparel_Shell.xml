@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RNApparel_Overcoat_Generic.label>Overcoat Palto</RNApparel_Overcoat_Generic.label>
+    <RNApparel_Overcoat_Generic.description>Overcoat (uzun palto), dış giyim olarak giyilen ve dizleri örten bir palto türüdür. Genellikle kış aylarında tercih edilir. Bazen daha kısa olan “topcoat” (üst palto) ile karıştırılır. Her ikisi de "outercoat" olarak adlandırılır. Topcoat genellikle gabardin gibi daha hafif kumaşlardan yapılırken, overcoat daha kalın kumaş ve kürkten üretilir.</RNApparel_Overcoat_Generic.description>
+
+    <RNApparel_SuitJacket_Generic.label>Takım Ceketi</RNApparel_SuitJacket_Generic.label>
+    <RNApparel_SuitJacket_Generic.description>Takım elbise; ceket veya palto ile pantolondan oluşan bir kıyafet setidir. Genellikle aynı kumaştan yapılır, klasik gömlek, kravat ve ayakkabıyla tamamlanarak Batı’da geleneksel kıyafet sayılır.</RNApparel_SuitJacket_Generic.description>
+
+    <RNApparel_SuedeJacket_Generic.label>Süet Ceket</RNApparel_SuedeJacket_Generic.label>
+    <RNApparel_SuedeJacket_Generic.description>Deri ceket, aslında kısaltılmış bir palto olup genellikle başka kıyafetlerin üzerine giyilir ve hayvan derisinden yapılır. Genellikle siyah veya kahverengi tonlarında boyanır, ama başka renkleri de olabilir. Deri ceketler birçok amaç için kullanılır; motosikletçiler, gangsterler, savaş pilotları (özellikle II. Dünya Savaşı dönemi), punk, gotik ve metal gibi müzik altkültürlerine ait kişiler tarafından sıklıkla giyilir. Moda ya da sert görünmek için tercih edilir.</RNApparel_SuedeJacket_Generic.description>
+
+    <RHApparel_PUTrenchCoat_PUBG.label>Kalın Palto</RHApparel_PUTrenchCoat_PUBG.label>
+    <RHApparel_PUTrenchCoat_PUBG.description>Kalın ve dayanıklı bir palto; sıcak tutar ve aynı zamanda dışarıdaki toza karşı koruma sağlar.</RHApparel_PUTrenchCoat_PUBG.description>
+
+    <RHApparel_TrenchCoat_Vigilante.label>Vigilante Paltosu</RHApparel_TrenchCoat_Vigilante.label>
+    <RHApparel_TrenchCoat_Vigilante.description>Kalın ve dayanıklı bir palto; sıcak tutar ve aynı zamanda dışarıdaki toza karşı koruma sağlar.</RHApparel_TrenchCoat_Vigilante.description>
+
+    <RNApparel_FieldParka_Generic.label>Alan Parkası</RNApparel_FieldParka_Generic.label>
+    <RNApparel_FieldParka_Generic.description>Aşırı soğuk hava koşullarında sıcak tutmak için özel olarak tasarlanmış bir alan parkası. Zorlu koşullara dayanıklıdır.</RNApparel_FieldParka_Generic.description>
+
+    <RNApparel_VintageParka_Generic.label>Vintage Parka</RNApparel_VintageParka_Generic.label>
+    <RNApparel_VintageParka_Generic.description>Aşırı soğuk hava koşullarında sıcak tutmak için özel olarak tasarlanmış vintage tarzda bir parka.</RNApparel_VintageParka_Generic.description>
+
+    <RNApparel_VestJacket_Generic.label>Yelek</RNApparel_VestJacket_Generic.label>
+    <RNApparel_VestJacket_Generic.description>Kolsuz bir yelek; aşırı soğuklarda sıcak tutmak için özel olarak tasarlanmıştır.</RNApparel_VestJacket_Generic.description>
+
+    <RNApparel_TrenchCoat_Detective.label>Noir Dedektif Paltosu</RNApparel_TrenchCoat_Detective.label>
+    <RNApparel_TrenchCoat_Detective.description>Dayanıklı bir palto; sıcak tutar ve dış ortam tozuna karşı koruma sağlar.</RNApparel_TrenchCoat_Detective.description>
+
+    <RNApparel_BikerJacket_Generic.label>Motosikletçi Ceketi</RNApparel_BikerJacket_Generic.label>
+    <RNApparel_BikerJacket_Generic.description>Deri ceket, aslında kısa bir palto olup, genellikle başka kıyafetlerin üzerine giyilir ve hayvan derisinden yapılır. Siyah ya da kahverengi tonlarında olur ama başka renkleri de olabilir. Punk, gotik, metal, motosikletçi ve savaş pilotu gibi altkültürlerle ilişkilendirilir. Moda veya sert bir görünüm için tercih edilir.</RNApparel_BikerJacket_Generic.description>
+
+    <RNApparel_GunslingerJacket_Generic.label>Kovboy Yeleği</RNApparel_GunslingerJacket_Generic.label>
+    <RNApparel_GunslingerJacket_Generic.description>Hayvan derisinden yapılmış deri yelek. Genellikle altına başka kıyafetlerle birlikte giyilir. Bu tür yelekler genellikle koyu veya kahverengi tonlardadır, ancak farklı renk seçenekleri de olabilir. Altın arayıcıları, isyancılar ve öncüler gibi dönemin çeşitli grupları tarafından kullanılmıştır; sağlam yapısı ve sert görünümüyle gücü ve korkusuzluğu yansıtır.</RNApparel_GunslingerJacket_Generic.description>
+
+    <RNApparel_CombatJacket_Generic.label>Askeri Ceket</RNApparel_CombatJacket_Generic.label>
+    <RNApparel_CombatJacket_Generic.description>Sert askeri kıyafetlerin bir parçası olan bu ceketler, birçok ordunun personeli tarafından tarihi çatışmalar sırasında giyilmiştir. Genellikle siyah veya haki renktedir. Zamanla sivil piyasaya da yayılmış ve farklı renklerle üretilmeye başlanmıştır.</RNApparel_CombatJacket_Generic.description>
+
+</LanguageData>

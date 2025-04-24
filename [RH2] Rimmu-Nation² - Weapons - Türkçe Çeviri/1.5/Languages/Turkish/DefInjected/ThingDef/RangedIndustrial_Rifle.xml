@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- M4A1 Daniel Defense -->
+
+  <RNGun_DDM4V11_Rifle.label>DDM4 V11</RNGun_DDM4V11_Rifle.label>
+  <RNGun_DDM4V11_Rifle.description>M4 — M16A2 saldırı tüfeğinin kısaltılmış ve hafifletilmiş bir versiyonudur. Kalibresi 5.56×45 mm NATO’dur. Gazlı sistemle çalışan, şarjörlü, 14.5 inç (370 mm) namlulu ve teleskopik dipçikli bir silahtır. M4, ABD Silahlı Kuvvetleri tarafından aktif olarak kullanılmakta olup, piyade için standart tüfek olarak M16’nın yerini almaktadır. Bu versiyon, Daniel Defense M4 V11 modelidir.</RNGun_DDM4V11_Rifle.description>
+  <RNGun_DDM4V11_Rifle.tools.0.label>dipçik</RNGun_DDM4V11_Rifle.tools.0.label>
+  <RNGun_DDM4V11_Rifle.tools.1.label>namlu</RNGun_DDM4V11_Rifle.tools.1.label>
+
+  <!-- M4A1 MilSpecs -->
+
+  <RNGun_M4A1_Rifle.label>M4A1</RNGun_M4A1_Rifle.label>
+  <RNGun_M4A1_Rifle.description>M4 — M16A2 saldırı tüfeğinin kısaltılmış ve hafifletilmiş bir versiyonudur. Kalibresi 5.56×45 mm NATO’dur. Gazlı sistemle çalışan, şarjörlü, 14.5 inç (370 mm) namlulu ve teleskopik dipçikli bir silahtır. ABD ordusunda yaygın olarak kullanılır ve M16'nın yerini almaya başlamıştır.</RNGun_M4A1_Rifle.description>
+  <RNGun_M4A1_Rifle.tools.0.label>dipçik</RNGun_M4A1_Rifle.tools.0.label>
+  <RNGun_M4A1_Rifle.tools.1.label>namlu</RNGun_M4A1_Rifle.tools.1.label>
+
+  <!-- M4A1 DEVGRU -->
+
+  <RNGun_M4A1DEVGRU_Rifle.label>M4A1 (DEVGRU)</RNGun_M4A1DEVGRU_Rifle.label>
+  <RNGun_M4A1DEVGRU_Rifle.description>M4 — M16A2 saldırı tüfeğinin kısaltılmış ve hafifletilmiş bir versiyonudur. Kalibresi 5.56×45 mm NATO’dur. Gazlı sistemle çalışan, şarjörlü, 14.5 inç (370 mm) namlulu ve teleskopik dipçikli bir silahtır. ABD ordusu tarafından aktif şekilde kullanılmakta ve M16’nın yerini almaktadır.</RNGun_M4A1DEVGRU_Rifle.description>
+  <RNGun_M4A1DEVGRU_Rifle.tools.0.label>dipçik</RNGun_M4A1DEVGRU_Rifle.tools.0.label>
+  <RNGun_M4A1DEVGRU_Rifle.tools.1.label>namlu</RNGun_M4A1DEVGRU_Rifle.tools.1.label>
+
+  <!-- TAR-21 -->
+
+  <RNGun_TAR-21_Rifle.label>TAR-21</RNGun_TAR-21_Rifle.label>
+  <RNGun_TAR-21_Rifle.description>TAR-21 — İsrail yapımı, 5.56×45 mm NATO kalibresinde, yarı ve tam otomatik atış modlarına sahip bullpup tarzı bir saldırı tüfeğidir. Tavor, Israel Weapon Industries (IWI) tarafından geliştirilmiş olup TAR-21 ve CTAR-21 olmak üzere iki ana varyantı vardır.</RNGun_TAR-21_Rifle.description>
+  <RNGun_TAR-21_Rifle.tools.0.label>dipçik</RNGun_TAR-21_Rifle.tools.0.label>
+  <RNGun_TAR-21_Rifle.tools.1.label>namlu</RNGun_TAR-21_Rifle.tools.1.label>
+
+  <!-- SA80 -->
+
+  <RNGun_SA80A2_Rifle.label>SA80</RNGun_SA80A2_Rifle.label>
+  <RNGun_SA80A2_Rifle.description>SA80 — 5.56×45 mm NATO kalibresinde, Birleşik Krallık tarafından üretilen bir ateşli silah ailesidir. L85 modeli, 1987’den beri İngiliz ordusunun standart tüfeğidir. A1 versiyonunun üretimi 1985’te başlamış, A2 versiyonu ise 2000’lerin başında Heckler &amp;amp; Koch tarafından modernize edilmiştir. A3 modeli 2018’de piyasaya sürülmüştür.</RNGun_SA80A2_Rifle.description>
+  <RNGun_SA80A2_Rifle.tools.0.label>dipçik</RNGun_SA80A2_Rifle.tools.0.label>
+  <RNGun_SA80A2_Rifle.tools.1.label>namlu</RNGun_SA80A2_Rifle.tools.1.label>
+
+  <!-- CZ 805 BREN -->
+
+  <RNGun_CZ805BrenA2_Rifle.label>CZ 805 BREN A2</RNGun_CZ805BrenA2_Rifle.label>
+  <RNGun_CZ805BrenA2_Rifle.description>CZ BREN, Česká zbrojovka firması tarafından 2006 yılında geliştirilen, CZ 805 BREN, CZ 807 ve CZ BREN 2'yi içeren bir saldırı tüfeği serisidir. Bu seri, Çek ordusunda Sa vz. 58 tüfeğinin yerini almıştır. İlk CZ BREN 2 sevkiyatı 2016 yılında yapılmıştır.</RNGun_CZ805BrenA2_Rifle.description>
+  <RNGun_CZ805BrenA2_Rifle.tools.0.label>dipçik</RNGun_CZ805BrenA2_Rifle.tools.0.label>
+  <RNGun_CZ805BrenA2_Rifle.tools.1.label>namlu</RNGun_CZ805BrenA2_Rifle.tools.1.label>
+
+  <!-- LVOA-C -->
+
+  <RNGun_LVOAC_Rifle.label>LVOA-C</RNGun_LVOAC_Rifle.label>
+  <RNGun_LVOAC_Rifle.description>LVOA-C, doğrudan gaz tepkili (DGI) sistemle çalışan AR-15 tabanlı bir tüfektir. Entegre kompansatörlü ve alev gizleyicili özel bir namlu kılıfına sahiptir, bu da onu kısa menzilli çatışmalar için ideal hale getirir. 5.56×45 mm NATO ve .223 Wylde mühimmatları ile uyumludur. LVOA-C, özel güvenlik şirketleri tarafından düşük geri tepme ve yüksek güvenilirliği nedeniyle tercih edilmektedir.</RNGun_LVOAC_Rifle.description>
+  <RNGun_LVOAC_Rifle.tools.0.label>dipçik</RNGun_LVOAC_Rifle.tools.0.label>
+  <RNGun_LVOAC_Rifle.tools.1.label>namlu</RNGun_LVOAC_Rifle.tools.1.label>
+
+  <!-- HK416 -->
+
+  <RNGun_HK416_Rifle.label>HK416</RNGun_HK416_Rifle.label>
+  <RNGun_HK416_Rifle.description>HK416, Heckler &amp; Koch tarafından geliştirilen bir saldırı tüfeğidir. Tasarımı AR-15 tabanlı olsa da, ArmaLite AR-18 tüfeğinde kullanılan gaz piston sistemine sahiptir. HK416, Fransa ve Norveç gibi ülkelerin ordularında kullanılmış ve 2011 yılında Usame Bin Ladin'in öldürüldüğü operasyon sırasında SEAL Team Six tarafından da kullanılmıştır.</RNGun_HK416_Rifle.description>
+  <RNGun_HK416_Rifle.tools.0.label>dipçik</RNGun_HK416_Rifle.tools.0.label>
+  <RNGun_HK416_Rifle.tools.1.label>namlu</RNGun_HK416_Rifle.tools.1.label>
+
+  <!-- G36K -->
+
+  <RNGun_G36K_Rifle.label>G36K</RNGun_G36K_Rifle.label>
+  <RNGun_G36K_Rifle.description>G36, Heckler &amp; Koch tarafından 1990’ların başında geliştirilen 5.56×45 mm NATO kalibresinde bir saldırı tüfeğidir. G3’ün yerine geçmesi amacıyla üretilmiş ve 1997 yılında Alman ordusu tarafından hizmete alınmıştır.</RNGun_G36K_Rifle.description>
+  <RNGun_G36K_Rifle.tools.0.label>dipçik</RNGun_G36K_Rifle.tools.0.label>
+  <RNGun_G36K_Rifle.tools.1.label>namlu</RNGun_G36K_Rifle.tools.1.label>
+
+  <!-- C7A1 -->
+
+  <RNGun_C7A1_Rifle.label>C7A1</RNGun_C7A1_Rifle.label>
+  <RNGun_C7A1_Rifle.description>Colt Canada C7, Colt M16A3'e benzer özelliklere sahip olan, Colt Canada tarafından üretilen bir Kanada saldırı tüfeğidir. Kanada, Norveç, Danimarka ve Hollanda ordularında kullanılmaktadır. C8 versiyonu ise İngiliz özel kuvvetleri ve diğer bazı birliklerce kullanılmaktadır.</RNGun_C7A1_Rifle.description>
+  <RNGun_C7A1_Rifle.tools.0.label>dipçik</RNGun_C7A1_Rifle.tools.0.label>
+  <RNGun_C7A1_Rifle.tools.1.label>namlu</RNGun_C7A1_Rifle.tools.1.label>
+
+  <!-- IWI ACE -->
+
+  <RNGun_IWIACE52_Rifle.label>ACE 52</RNGun_IWIACE52_Rifle.label>
+  <RNGun_IWIACE52_Rifle.description>IWI Galil ACE, Israel Military Industries tarafından geliştirilen ve üretilen bir saldırı tüfeği ve muharebe tüfeği serisidir. Seride 5.56×45 mm NATO, 7.62×39 mm ve 7.62×51 mm NATO kalibreleri mevcuttur. Galil ACE, IMI Galil tüfeğinin mekanizması üzerine kuruludur, ancak daha iyi isabet oranı ve daha az ağırlık için yeniden tasarlanmıştır.</RNGun_IWIACE52_Rifle.description>
+  <RNGun_IWIACE52_Rifle.tools.0.label>dipçik</RNGun_IWIACE52_Rifle.tools.0.label>
+  <RNGun_IWIACE52_Rifle.tools.1.label>namlu</RNGun_IWIACE52_Rifle.tools.1.label>
+
+  <!-- AUG -->
+
+  <RNGun_AUGA1_Rifle.label>AUG A1</RNGun_AUGA1_Rifle.label>
+  <RNGun_AUGA1_Rifle.description>Steyr AUG (Avusturya Üniversal Tüfeği) — Steyr-Daimler-Puch firması tarafından 1960'larda geliştirilen, 5.56×45 mm NATO kalibreli Avusturya menşeli bir bullpup saldırı tüfeğidir. 1978 yılında, 7.62×51 mm NATO kalibreli StG 58’in yerini alarak Avusturya ordusunda hizmete girmiştir.</RNGun_AUGA1_Rifle.description>
+  <RNGun_AUGA1_Rifle.tools.0.label>dipçik</RNGun_AUGA1_Rifle.tools.0.label>
+  <RNGun_AUGA1_Rifle.tools.1.label>namlu</RNGun_AUGA1_Rifle.tools.1.label>
+  
+  <!-- M16A4 -->
+  
+  <RNGun_M16A2_Rifle.label>M16A2</RNGun_M16A2_Rifle.label>
+  <RNGun_M16A2_Rifle.description>M16, ArmaLite AR-15'in Amerikan askeri versiyonudur. 1964 yılında ABD Ordusu tarafından hizmete alınmış ve Vietnam Savaşı sırasında kullanılmıştır. 1969 yılında M16A1, M14'ün yerini alarak ana piyade tüfeği olmuştur.</RNGun_M16A2_Rifle.description>
+  <RNGun_M16A2_Rifle.tools.0.label>dipçik</RNGun_M16A2_Rifle.tools.0.label>
+  <RNGun_M16A2_Rifle.tools.1.label>namlu</RNGun_M16A2_Rifle.tools.1.label>
+  
+  <!-- FAMAS -->
+  
+  <RNGun_FAMAS_Rifle.label>FAMAS F1</RNGun_FAMAS_Rifle.label>
+  <RNGun_FAMAS_Rifle.description>FAMAS (Saint-Étienne Silah Fabrikası Saldırı Tüfeği) — Fransız MAS şirketi tarafından geliştirilen ve üretilen bullpup tarzı bir saldırı tüfeğidir. FAMAS, Fransız Silahlı Kuvvetleri’nde HK416 ile değiştirilmiştir.</RNGun_FAMAS_Rifle.description>
+  <RNGun_FAMAS_Rifle.tools.0.label>dipçik</RNGun_FAMAS_Rifle.tools.0.label>
+  <RNGun_FAMAS_Rifle.tools.1.label>namlu</RNGun_FAMAS_Rifle.tools.1.label>
+  
+  <!-- C8A2 -->
+  
+  <RNGun_C8CQB_Carbine.label>C8 CQB</RNGun_C8CQB_Carbine.label>
+  <RNGun_C8CQB_Carbine.description>L119A1/L119A2 — İngiliz özel kuvvetleri tarafından kullanılan bir karabindir. Kanada üretimi C8 tüfekleri, Birleşik Krallık ordusunda M16'nın yerini almıştır. C8A2, daha kalın namluya ve geliştirilmiş gövdeye sahip bir modifikasyondur.</RNGun_C8CQB_Carbine.description>
+  <RNGun_C8CQB_Carbine.tools.0.label>dipçik</RNGun_C8CQB_Carbine.tools.0.label>
+  <RNGun_C8CQB_Carbine.tools.1.label>namlu</RNGun_C8CQB_Carbine.tools.1.label>
+  
+  <!-- AK47 Comrade -->
+  
+  <RNGun_AK47_Rifle.label>AK-47</RNGun_AK47_Rifle.label>
+  <RNGun_AK47_Rifle.description>AK-47 (Avtomat Kalaşnikova) — 7.62×39 mm kalibreli, gazlı sistemle çalışan, Sovyetler Birliği'nde Mihail Kalaşnikov tarafından geliştirilen bir saldırı tüfeğidir. Kalaşnikov tüfek ailesinin atasıdır.</RNGun_AK47_Rifle.description>
+  <RNGun_AK47_Rifle.tools.0.label>dipçik</RNGun_AK47_Rifle.tools.0.label>
+  <RNGun_AK47_Rifle.tools.1.label>namlu</RNGun_AK47_Rifle.tools.1.label>
+  
+  <!-- AKM-S -->
+  
+  <RNGun_AKMSD_Rifle.label>AKM-SD</RNGun_AKMSD_Rifle.label>
+  <RNGun_AKMSD_Rifle.description>AKM (Avtomat Kalaşnikova Modernize edilmiş) — Mihail Kalaşnikov tarafından 1959 yılında geliştirilen, AK-47'nin geliştirilmiş bir versiyonudur.</RNGun_AKMSD_Rifle.description>
+  <RNGun_AKMSD_Rifle.tools.0.label>dipçik</RNGun_AKMSD_Rifle.tools.0.label>
+  <RNGun_AKMSD_Rifle.tools.1.label>namlu</RNGun_AKMSD_Rifle.tools.1.label>
+  
+  <!-- AK74 -->
+  
+  <RNGun_AK74_Rifle.label>AK-74</RNGun_AK74_Rifle.label>
+  <RNGun_AK74_Rifle.description>AK-74 — 1970'lerde AKM'nin yerine geçmesi için Mihail Kalaşnikov tarafından geliştirilen bir saldırı tüfeğidir. Daha küçük kalibreli 5.45×39 mm mühimmat kullanır, bu da isabetliliği artırır.</RNGun_AK74_Rifle.description>
+  <RNGun_AK74_Rifle.tools.0.label>dipçik</RNGun_AK74_Rifle.tools.0.label>
+  <RNGun_AK74_Rifle.tools.1.label>namlu</RNGun_AK74_Rifle.tools.1.label>
+  
+  <!-- Type 56 -->
+  
+  <RNGun_Type56_Rifle.label>Type 56</RNGun_Type56_Rifle.label>
+  <RNGun_Type56_Rifle.description>Type 56 — Çin yapımı, AK-47 ve AKM’nin lisanssız versiyonudur. 1956 yılında devlet fabrikasında üretime başlanmış, daha sonra ihracat için Norinco’ya devredilmiştir. Afrika, Güneydoğu Asya ve Orta Doğu'da yaygın şekilde kullanılmıştır.</RNGun_Type56_Rifle.description>
+  <RNGun_Type56_Rifle.tools.0.label>dipçik</RNGun_Type56_Rifle.tools.0.label>
+  <RNGun_Type56_Rifle.tools.1.label>namlu</RNGun_Type56_Rifle.tools.1.label>
+  
+  <!-- Type CQ -->
+  
+  <RNGun_TypeCQ_Rifle.label>Type CQ</RNGun_TypeCQ_Rifle.label>
+  <RNGun_TypeCQ_Rifle.description>Type CQ — Norinco tarafından üretilen, M16'nın lisanssız Çin versiyonudur. Uzun kabzası ve özel dipçik tasarımı ile dikkat çeker.</RNGun_TypeCQ_Rifle.description>
+  <RNGun_TypeCQ_Rifle.tools.0.label>dipçik</RNGun_TypeCQ_Rifle.tools.0.label>
+  <RNGun_TypeCQ_Rifle.tools.1.label>namlu</RNGun_TypeCQ_Rifle.tools.1.label>
+  
+  <!-- AS VAL -->
+  
+  <RNGun_ASVAL_Rifle.label>AS VAL</RNGun_ASVAL_Rifle.label>
+  <RNGun_ASVAL_Rifle.description>AS VAL — 1980’lerde Klimovsk’taki TsNIITochMash tarafından geliştirilen, entegre susturucuya sahip bir Sovyet saldırı tüfeğidir. AS VAL ve kardeş modeli VSS, Rus ordusu ve özel kuvvetleri tarafından hala kullanılmaktadır.</RNGun_ASVAL_Rifle.description>
+  <RNGun_ASVAL_Rifle.tools.0.label>dipçik</RNGun_ASVAL_Rifle.tools.0.label>
+  <RNGun_ASVAL_Rifle.tools.1.label>namlu</RNGun_ASVAL_Rifle.tools.1.label>
+  
+  <!-- AK5C -->
+  
+  <RNGun_AK5C_Carbine.label>AK 5C</RNGun_AK5C_Carbine.label>
+  <RNGun_AK5C_Carbine.description>AK 5 (Automatkarbin 5) — FN FNC’nin, subarktik iklim koşullarına uygun hale getirilmiş İsveç versiyonudur. 2000’lerin başında İsveç ordusu, yeni silah almak yerine mevcut AK 5B tüfeklerini ergonomi ve dayanıklılık açısından modernize etti.</RNGun_AK5C_Carbine.description>
+  <RNGun_AK5C_Carbine.tools.0.label>dipçik</RNGun_AK5C_Carbine.tools.0.label>
+  <RNGun_AK5C_Carbine.tools.1.label>namlu</RNGun_AK5C_Carbine.tools.1.label>
+  
+  <!-- AK-103 -->
+  
+  <RNGun_AK103_Rifle.label>AK-103</RNGun_AK103_Rifle.label>
+  <RNGun_AK103_Rifle.description>AK-103 — 7.62×39 mm mühimmat kullanan, AK-74M'nin modernize edilmiş bir versiyonudur. Farklı dürbün, süngü ve bomba atarlarla donatılabilir. Metal ve ahşap yerine plastik parçalar kullanır.</RNGun_AK103_Rifle.description>
+  <RNGun_AK103_Rifle.tools.0.label>dipçik</RNGun_AK103_Rifle.tools.0.label>
+  <RNGun_AK103_Rifle.tools.1.label>namlu</RNGun_AK103_Rifle.tools.1.label>
+  
+  <!-- MD 97 -->
+  
+  <RNGun_MD97_Rifle.label>MD97</RNGun_MD97_Rifle.label>
+  <RNGun_MD97_Rifle.description>MD97 — 1997 yılından bu yana IMBEL tarafından üretilen bir Brezilya yapımı saldırı tüfeğidir. IMBEL MD2 üzerine kurulmuştur; bu da FN FAL'den türetilmiştir.</RNGun_MD97_Rifle.description>
+  <RNGun_MD97_Rifle.tools.0.label>dipçik</RNGun_MD97_Rifle.tools.0.label>
+  <RNGun_MD97_Rifle.tools.1.label>namlu</RNGun_MD97_Rifle.tools.1.label>
+  
+  <!-- FB Beryl -->
+  
+  <RNGun_FBBeryl_Rifle.label>FB Beryl</RNGun_FBBeryl_Rifle.label>
+  <RNGun_FBBeryl_Rifle.description>FB Beryl — Radom kentindeki Łucznik silah fabrikası tarafından üretilen, 5.56 mm kalibreli Polonya yapımı bir saldırı tüfeğidir. Polonya ordusunda AKM ve FB Tantal’ın yerini almıştır.</RNGun_FBBeryl_Rifle.description>
+  <RNGun_FBBeryl_Rifle.tools.0.label>dipçik</RNGun_FBBeryl_Rifle.tools.0.label>
+  <RNGun_FBBeryl_Rifle.tools.1.label>namlu</RNGun_FBBeryl_Rifle.tools.1.label>
+
+
+  <!-- R1 Para -->
+
+  <RNGun_R1Para_Rifle.label>R1 Para</RNGun_R1Para_Rifle.label>
+  <RNGun_R1Para_Rifle.description>FAL (Fusil Automatique Léger) — Belçikalı tasarımcılar Ernest Vervier ve Dieudonné Saive tarafından geliştirilen ve FN Herstal tarafından üretilen bir muharebe tüfeğidir. FAL, 90'dan fazla ülkede kullanılmış ve "Özgür dünyanın sağ eli" lakabını almıştır. Güney Afrika, FAL'in kendi versiyonunu R1 adıyla üretmiştir.</RNGun_R1Para_Rifle.description>
+  <RNGun_R1Para_Rifle.tools.0.label>dipçik</RNGun_R1Para_Rifle.tools.0.label>
+  <RNGun_R1Para_Rifle.tools.1.label>namlu</RNGun_R1Para_Rifle.tools.1.label>
+  
+  <!-- FN FAL -->
+  
+  <RNGun_FNFAL_Rifle.label>FN FAL</RNGun_FNFAL_Rifle.label>
+  <RNGun_FNFAL_Rifle.description>FAL — FN Herstal firması tarafından geliştirilen bir muharebe tüfeğidir ve NATO ülkelerinin çoğunda yaygın olarak kullanılmıştır. Soğuk Savaş döneminde en çok bilinen tüfeklerden biri olmuş ve "Özgür dünyanın sağ eli" olarak anılmıştır.</RNGun_FNFAL_Rifle.description>
+  <RNGun_FNFAL_Rifle.tools.0.label>dipçik</RNGun_FNFAL_Rifle.tools.0.label>
+  <RNGun_FNFAL_Rifle.tools.1.label>namlu</RNGun_FNFAL_Rifle.tools.1.label>
+  
+  <!-- Romat FAL -->
+  
+  <RNGun_RomatFAL_Rifle.label>Romat FAL</RNGun_RomatFAL_Rifle.label>
+  <RNGun_RomatFAL_Rifle.description>FAL — FN Herstal tarafından geliştirilen bir muharebe tüfeğidir. Pek çok ülke tarafından benimsenmiş ve Soğuk Savaş döneminde yaygın olarak kullanılmıştır. İsrail, bu tüfeğin lisanslı versiyonunu Romat FAL adıyla üretmiştir.</RNGun_RomatFAL_Rifle.description>
+  <RNGun_RomatFAL_Rifle.tools.0.label>dipçik</RNGun_RomatFAL_Rifle.tools.0.label>
+  <RNGun_RomatFAL_Rifle.tools.1.label>namlu</RNGun_RomatFAL_Rifle.tools.1.label>
+  
+  <!-- FN FAL-SD -->
+  
+  <RNGun_FNFALTatiana_Rifle.label>FN FAL-SD (Tatyana)</RNGun_FNFALTatiana_Rifle.label>
+  <RNGun_FNFALTatiana_Rifle.description>FAL — FN Herstal tarafından geliştirilen bir muharebe tüfeğidir. NATO ülkeleri arasında yaygın olarak kullanılmıştır. "Tatyana" versiyonu, özel harekât görevleri için yapılan dahili iyileştirmeleri içeren bir modifikasyondur.</RNGun_FNFALTatiana_Rifle.description>
+  <RNGun_FNFALTatiana_Rifle.tools.0.label>dipçik</RNGun_FNFALTatiana_Rifle.tools.0.label>
+  <RNGun_FNFALTatiana_Rifle.tools.1.label>namlu</RNGun_FNFALTatiana_Rifle.tools.1.label>
+  
+  <!-- F2000 -->
+  
+  <RNGun_F2000_Rifle.label>FN F2000</RNGun_F2000_Rifle.label>
+  <RNGun_F2000_Rifle.description>FN F2000 — Belçikalı FN Herstal firması tarafından geliştirilen bullpup tipi bir saldırı tüfeğidir. 2001 yılında BAE'de düzenlenen IDEX fuarında tanıtılmıştır.</RNGun_F2000_Rifle.description>
+  <RNGun_F2000_Rifle.tools.0.label>dipçik</RNGun_F2000_Rifle.tools.0.label>
+  <RNGun_F2000_Rifle.tools.1.label>namlu</RNGun_F2000_Rifle.tools.1.label>
+  
+  <!-- G3A2 -->
+  
+  <RNGun_G3A2_Rifle.label>G3A2</RNGun_G3A2_Rifle.label>
+  <RNGun_G3A2_Rifle.description>G3 — 1950’lerde Heckler and Koch ve İspanyol CETME araştırma merkezi tarafından geliştirilen, 7.62×51 mm NATO kalibreli bir muharebe tüfeğidir. 1990’larda G36 ile değiştirilmeden önce Alman ordusunda hizmetteydi.</RNGun_G3A2_Rifle.description>
+  <RNGun_G3A2_Rifle.tools.0.label>dipçik</RNGun_G3A2_Rifle.tools.0.label>
+  <RNGun_G3A2_Rifle.tools.1.label>namlu</RNGun_G3A2_Rifle.tools.1.label>
+  
+  <!-- ACR -->
+  
+  <RNGun_ACR_Rifle.label>ACR</RNGun_ACR_Rifle.label>
+  <RNGun_ACR_Rifle.description>ACR (Adaptive Combat Rifle) — Magpul Industries tarafından Masada adıyla geliştirilen modüler bir saldırı tüfeğidir. 2008 yılında Bushmaster Firearms, Magpul ile üretim ve satış için lisans anlaşması yapmıştır.</RNGun_ACR_Rifle.description>
+  <RNGun_ACR_Rifle.tools.0.label>dipçik</RNGun_ACR_Rifle.tools.0.label>
+  <RNGun_ACR_Rifle.tools.1.label>namlu</RNGun_ACR_Rifle.tools.1.label>
+  
+  <!-- ACR-SD -->
+  
+  <RNGun_ACRSD_Rifle.label>ACR-SD</RNGun_ACRSD_Rifle.label>
+  <RNGun_ACRSD_Rifle.description>ACR (Adaptive Combat Rifle) — İlk olarak Masada adıyla Magpul Industries tarafından geliştirilen, modüler bir saldırı tüfeğidir. 2008’de Bushmaster Firearms bu tüfeğin üretim haklarını almıştır. SD modeli, susturuculu versiyonu temsil eder.</RNGun_ACRSD_Rifle.description>
+  <RNGun_ACRSD_Rifle.tools.0.label>dipçik</RNGun_ACRSD_Rifle.tools.0.label>
+  <RNGun_ACRSD_Rifle.tools.1.label>namlu</RNGun_ACRSD_Rifle.tools.1.label>
+  
+  <!-- SCAR-L-SD -->
+  
+  <RNGun_SCARLSD_Rifle.label>SCAR-L SD</RNGun_SCARLSD_Rifle.label>
+  <RNGun_SCARLSD_Rifle.description>FN SCAR (Special Operations Forces Combat Assault Rifle) — Belçikalı FN Herstal tarafından 2004 yılında ABD özel kuvvetleri (SOCOM) için geliştirilen otomatik tüfek ailesidir. SCAR-L modeli 5.56×45 mm NATO mühimmatını kullanır. SD versiyonu susturuculu varyanttır.</RNGun_SCARLSD_Rifle.description>
+  <RNGun_SCARLSD_Rifle.tools.0.label>dipçik</RNGun_SCARLSD_Rifle.tools.0.label>
+  <RNGun_SCARLSD_Rifle.tools.1.label>namlu</RNGun_SCARLSD_Rifle.tools.1.label>
+  
+
+</LanguageData>

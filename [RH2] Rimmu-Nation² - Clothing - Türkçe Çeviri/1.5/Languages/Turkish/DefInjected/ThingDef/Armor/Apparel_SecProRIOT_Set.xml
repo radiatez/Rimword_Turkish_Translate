@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RNApparel_SecProHelmet_Riot.label>SecPro İsyan Kaskı</RNApparel_SecProHelmet_Riot.label>
+    <RNApparel_SecProHelmet_Riot.description>İsyan bastırma kaskı, isyanlara müdahale amacıyla geliştirilen zırh takımlarının bir parçasıdır. Künt cisim darbelerini emmek için özel olarak tasarlanmıştır ve genellikle yüzü korumak üzere balistik bir vizörle birlikte gelir.\n\nBu model, SecPro serisine aittir.</RNApparel_SecProHelmet_Riot.description>
+
+    <RNApparel_RiotSuit_SecPro.label>İsyan Bastırma Zırhı</RNApparel_RiotSuit_SecPro.label>
+    <RNApparel_RiotSuit_SecPro.description>İsyan bastırma zırhı, künt darbeleri emmek için tasarlanmış vücut koruma ekipmanıdır. Genellikle yüzü kapatmak için balistik bir vizörle birlikte gelir. Bu ekipman, güvenlik personeli veya hapishane görevlileri gibi isyan kontrolüne yönelik eğitilmiş kişiler tarafından kullanılır ve mümkün olduğunca fazla vücut bölgesini kapatacak şekilde tasarlanmıştır.\n\nBu model, SecPro serisine aittir.</RNApparel_RiotSuit_SecPro.description>
+
+</LanguageData>

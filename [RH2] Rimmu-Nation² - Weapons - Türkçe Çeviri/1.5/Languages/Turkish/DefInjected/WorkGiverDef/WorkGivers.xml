@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Terzilik işleri -->
+
+  <DoBillsMakeRNWeapons.label>kıyafet üret</DoBillsMakeRNWeapons.label>
+  <DoBillsMakeRNWeapons.verb>üret</DoBillsMakeRNWeapons.verb>
+  <DoBillsMakeRNWeapons.gerund>üretim yapılıyor</DoBillsMakeRNWeapons.gerund>
+
+</LanguageData>

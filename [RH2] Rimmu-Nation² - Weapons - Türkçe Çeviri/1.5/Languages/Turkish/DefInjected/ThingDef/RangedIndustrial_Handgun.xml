@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cobra Guy Asla Ölmez -->
+
+  <RNGun_ColtCobra_Revolver.label>Colt Cobra</RNGun_ColtCobra_Revolver.label>
+  <RNGun_ColtCobra_Revolver.description>Colt Cobra — .38 Special ve .22 LR mermileriyle çalışan, çift etkili, alüminyum gövdeli hafif bir tabancadır. 1950’den 1981’e kadar üretilmiş olup, güvenilirliği ve kompakt tasarımıyla tanınır.</RNGun_ColtCobra_Revolver.description>
+  <RNGun_ColtCobra_Revolver.tools.0.label>kabza</RNGun_ColtCobra_Revolver.tools.0.label>
+  <RNGun_ColtCobra_Revolver.tools.1.label>namlu</RNGun_ColtCobra_Revolver.tools.1.label>
+  
+  <!-- Model 36 -->
+  
+  <RNGun_Model36_Revolver.label>S&amp;W Model 36</RNGun_Model36_Revolver.label>
+  <RNGun_Model36_Revolver.description>Smith &amp; Wesson Model 36, diğer adıyla Chief's Special, .38 Special mermisi kullanan bir revolverdir. 1950 yılında tanıtılmıştır ve pratikliği ile uygun fiyatı sayesinde hâlâ üretilmektedir.</RNGun_Model36_Revolver.description>
+  <RNGun_Model36_Revolver.tools.0.label>kabza</RNGun_Model36_Revolver.tools.0.label>
+  <RNGun_Model36_Revolver.tools.1.label>namlu</RNGun_Model36_Revolver.tools.1.label>
+  
+  <!-- Python -->
+  
+  <RNGun_ColtPython_Revolver.label>Colt Python</RNGun_ColtPython_Revolver.label>
+  <RNGun_ColtPython_Revolver.description>Colt Python — .357 Magnum kalibresinde bir revolverdir. Keskin nişancılığı ve şık tasarımıyla bilinir. 1955’te üretilmeye başlanmış ve 2005’e kadar devam etmiştir.</RNGun_ColtPython_Revolver.description>
+  <RNGun_ColtPython_Revolver.tools.0.label>kabza</RNGun_ColtPython_Revolver.tools.0.label>
+  <RNGun_ColtPython_Revolver.tools.1.label>namlu</RNGun_ColtPython_Revolver.tools.1.label>
+  
+  <!-- REX -->
+  
+  <RNGun_MP412REX_Revolver.label>MP-412 REX</RNGun_MP412REX_Revolver.label>
+  <RNGun_MP412REX_Revolver.description>MP-412 REX — .357 Magnum mermileri için tasarlanmış, tek ve çift etkili Rus yapımı bir revolverdir. Katlanabilir gövdeye ve otomatik boş kovan atıcısına sahiptir. İjevsk Mekanik Fabrikası tarafından geliştirilmiştir.</RNGun_MP412REX_Revolver.description>
+  <RNGun_MP412REX_Revolver.tools.0.label>kabza</RNGun_MP412REX_Revolver.tools.0.label>
+  <RNGun_MP412REX_Revolver.tools.1.label>namlu</RNGun_MP412REX_Revolver.tools.1.label>
+  
+  <!-- 1911 Ol' Reliable -->
+  
+  <RNGun_M1911_Pistol.label>M1911A1</RNGun_M1911_Pistol.label>
+  <RNGun_M1911_Pistol.description>M1911A1 — .45 ACP mermisi kullanan yarı otomatik bir tabancadır. 1911–1986 yılları arasında ABD ordusunun standart silahı olmuştur. Güvenilirliği ve savaşlardaki etkinliğiyle efsaneleşmiştir.</RNGun_M1911_Pistol.description>
+  <RNGun_M1911_Pistol.tools.0.label>kabza</RNGun_M1911_Pistol.tools.0.label>
+  <RNGun_M1911_Pistol.tools.1.label>namlu</RNGun_M1911_Pistol.tools.1.label>
+  
+  <RNGun_M1911Silverballer_Pistol.label>M1911 Silverballer</RNGun_M1911Silverballer_Pistol.label>
+  <RNGun_M1911Silverballer_Pistol.description>M1911 Silverballer — klasik M1911’in geliştirilmiş bir versiyonudur. .45 ACP mermisi kullanır ve ikonik filmler ile video oyunları sayesinde ün kazanmıştır.</RNGun_M1911Silverballer_Pistol.description>
+  <RNGun_M1911Silverballer_Pistol.tools.0.label>kabza</RNGun_M1911Silverballer_Pistol.tools.0.label>
+  <RNGun_M1911Silverballer_Pistol.tools.1.label>namlu</RNGun_M1911Silverballer_Pistol.tools.1.label>
+  
+  <!-- Glock Spaghetti, annenin glockettisi -->
+  
+  <RNGun_Glock17_Pistol.label>Glock 17</RNGun_Glock17_Pistol.label>
+  <RNGun_Glock17_Pistol.description>Glock 17 — polimer gövdeli yarı otomatik bir tabancadır. Güvenilirliği ve bakım kolaylığıyla dünya çapında hem askeri hem sivil kullanımda popülerlik kazanmıştır.</RNGun_Glock17_Pistol.description>
+  <RNGun_Glock17_Pistol.tools.0.label>kabza</RNGun_Glock17_Pistol.tools.0.label>
+  <RNGun_Glock17_Pistol.tools.1.label>namlu</RNGun_Glock17_Pistol.tools.1.label>
+  
+  <!-- Glock 17 SD -->
+  
+  <RNGun_Glock17SD_Pistol.label>Glock 17-SD</RNGun_Glock17SD_Pistol.label>
+  <RNGun_Glock17SD_Pistol.description>Glock 17-SD — susturuculu Glock 17 modifikasyonudur. Özel görevlerde geliştirilmiş performans ve sessiz kullanım sağlar.</RNGun_Glock17SD_Pistol.description>
+  <RNGun_Glock17SD_Pistol.tools.0.label>kabza</RNGun_Glock17SD_Pistol.tools.0.label>
+  <RNGun_Glock17SD_Pistol.tools.1.label>namlu</RNGun_Glock17SD_Pistol.tools.1.label>
+  
+  <!-- Glock 18 -->
+  
+  <RNGun_Glock18_Pistol.label>Glock 18</RNGun_Glock18_Pistol.label>
+  <RNGun_Glock18_Pistol.description>Glock 18 — yüksek atış hızına sahip tam otomatik Glock 17 versiyonudur. Genellikle özel kuvvetler tarafından tercih edilir, aynı zamanda yasa dışı çevrelerde de görülmüştür.</RNGun_Glock18_Pistol.description>
+  <RNGun_Glock18_Pistol.tools.0.label>kabza</RNGun_Glock18_Pistol.tools.0.label>
+  <RNGun_Glock18_Pistol.tools.1.label>namlu</RNGun_Glock18_Pistol.tools.1.label>
+  
+  <!-- John Wick’in Glock 34’ü -->
+  
+  <RNGun_Glock34CombatMaster_Pistol.label>Glock 34 Combat Master</RNGun_Glock34CombatMaster_Pistol.label>
+  <RNGun_Glock34CombatMaster_Pistol.description>Glock 34 Combat Master — yarışmalara özel olarak optimize edilmiş Glock 34 modelidir. Efsanevi katil Baba Yaga tarafından kullanılmasıyla tanınmıştır.</RNGun_Glock34CombatMaster_Pistol.description>
+  <RNGun_Glock34CombatMaster_Pistol.tools.0.label>kabza</RNGun_Glock34CombatMaster_Pistol.tools.0.label>
+  <RNGun_Glock34CombatMaster_Pistol.tools.1.label>namlu</RNGun_Glock34CombatMaster_Pistol.tools.1.label>
+  
+  <!-- John Wick’in STI 2011’i -->
+  
+  <RNGun_STI2011CombatMaster_Pistol.label>STI 2011 Combat Master</RNGun_STI2011CombatMaster_Pistol.label>
+  <RNGun_STI2011CombatMaster_Pistol.description>STI 2011 Combat Master — yarışmalar ve kişisel savunma için geliştirilmiş modüler bir tabancadır. Yüksek doğruluğu ve güvenilirliğiyle atıcılar arasında popülerdir.</RNGun_STI2011CombatMaster_Pistol.description>
+  <RNGun_STI2011CombatMaster_Pistol.tools.0.label>kabza</RNGun_STI2011CombatMaster_Pistol.tools.0.label>
+  <RNGun_STI2011CombatMaster_Pistol.tools.1.label>namlu</RNGun_STI2011CombatMaster_Pistol.tools.1.label>
+  
+  <!-- M9 Spaghetti, annenin beretti -->
+  
+  <RNGun_M9A1_Pistol.label>M9A1</RNGun_M9A1_Pistol.label>
+  <RNGun_M9A1_Pistol.description>Beretta M9 — 1985’te ABD ordusunda standart tabanca olarak kabul edilmiştir. Askeri ve polis kullanımı için güvenilirliğiyle ün kazanmıştır.</RNGun_M9A1_Pistol.description>
+  <RNGun_M9A1_Pistol.tools.0.label>kabza</RNGun_M9A1_Pistol.tools.0.label>
+  <RNGun_M9A1_Pistol.tools.1.label>namlu</RNGun_M9A1_Pistol.tools.1.label>
+  
+  <!-- Springfield XD -->
+  
+  <RNGun_SpringfieldXD_Pistol.label>XD-M</RNGun_SpringfieldXD_Pistol.label>
+  <RNGun_SpringfieldXD_Pistol.description>HS2000 (XD) — Hırvatistan'da üretilen polimer gövdeli yarı otomatik tabanca serisidir. Kullanım kolaylığı ve güvenilirliğiyle yaygın olarak tercih edilir.</RNGun_SpringfieldXD_Pistol.description>
+  <RNGun_SpringfieldXD_Pistol.tools.0.label>kabza</RNGun_SpringfieldXD_Pistol.tools.0.label>
+  <RNGun_SpringfieldXD_Pistol.tools.1.label>namlu</RNGun_SpringfieldXD_Pistol.tools.1.label>
+  
+  <!-- Makarov -->
+  
+  <RNGun_Makarov_Pistol.label>Makarov</RNGun_Makarov_Pistol.label>
+  <RNGun_Makarov_Pistol.description>Makarov Tabancası (PM) — 1951'de hizmete alınan Sovyet yarı otomatik tabancasıdır. SSCB’nin standart ordusu ve polis tabancası olmuş, birçok ülkede kullanılmaya devam etmektedir.</RNGun_Makarov_Pistol.description>
+  <RNGun_Makarov_Pistol.tools.0.label>kabza</RNGun_Makarov_Pistol.tools.0.label>
+  <RNGun_Makarov_Pistol.tools.1.label>namlu</RNGun_Makarov_Pistol.tools.1.label>
+  
+  <!-- P320 -->
+  
+  <RNGun_P320_Pistol.label>P320</RNGun_P320_Pistol.label>
+  <RNGun_P320_Pistol.description>SIG Sauer P320 — modüler bir yarı otomatik tabancadır. Çok yönlülüğü ve güvenilirliğiyle öne çıkar. XM17 Modüler Tabanca Sistemi yarışmasını kazanarak ABD ordusu tarafından tercih edilmiştir.</RNGun_P320_Pistol.description>
+  <RNGun_P320_Pistol.tools.0.label>kabza</RNGun_P320_Pistol.tools.0.label>
+  <RNGun_P320_Pistol.tools.1.label>namlu</RNGun_P320_Pistol.tools.1.label>
+  
+  
+  
+    <!-- P226 -->
+  
+  <RNGun_P226_Pistol.label>P226</RNGun_P226_Pistol.label>
+  <RNGun_P226_Pistol.description>SIG Sauer P226 — tam boy bir tabancadır ve yüksek isabet oranı ile güvenilirliğiyle bilinir. Modüler yapısı ve geniş mermi seçenekleri sayesinde birçok ülkenin askeri ve kolluk kuvvetleri tarafından tercih edilir.</RNGun_P226_Pistol.description>
+  <RNGun_P226_Pistol.tools.0.label>kabza</RNGun_P226_Pistol.tools.0.label>
+  <RNGun_P226_Pistol.tools.1.label>namlu</RNGun_P226_Pistol.tools.1.label>
+  
+  <!-- P226 SD -->
+  
+  <RNGun_P226SD_Pistol.label>P226 SD</RNGun_P226SD_Pistol.label>
+  <RNGun_P226SD_Pistol.description>SIG Sauer P226 SD — susturuculu bir P226 modifikasyonudur. Özel görevlerde üstün performans sağlamak için tasarlanmıştır.</RNGun_P226SD_Pistol.description>
+  <RNGun_P226SD_Pistol.tools.0.label>kabza</RNGun_P226SD_Pistol.tools.0.label>
+  <RNGun_P226SD_Pistol.tools.1.label>namlu</RNGun_P226SD_Pistol.tools.1.label>
+  
+  <!-- FiveSeven -->
+  
+  <RNGun_FiveSeven_Pistol.label>FN Five-seven</RNGun_FiveSeven_Pistol.label>
+  <RNGun_FiveSeven_Pistol.description>FN Five-seven — 5.7 mm kalibreli mühimmat için tasarlanmış yarı otomatik bir tabancadır. Yüksek delici gücüyle tanınır ve hem askeri hem sivil kullanımda yer alır.</RNGun_FiveSeven_Pistol.description>
+  <RNGun_FiveSeven_Pistol.tools.0.label>kabza</RNGun_FiveSeven_Pistol.tools.0.label>
+  <RNGun_FiveSeven_Pistol.tools.1.label>namlu</RNGun_FiveSeven_Pistol.tools.1.label>
+  
+  <RNGun_FiveSevenSD_Pistol.label>FN Five-seven SD</RNGun_FiveSevenSD_Pistol.label>
+  <RNGun_FiveSevenSD_Pistol.description>FN Five-seven SD — susturuculu versiyonu olup, özel operasyonlar için geliştirilmiş performans sunar.</RNGun_FiveSevenSD_Pistol.description>
+  <RNGun_FiveSevenSD_Pistol.tools.0.label>kabza</RNGun_FiveSevenSD_Pistol.tools.0.label>
+  <RNGun_FiveSevenSD_Pistol.tools.1.label>namlu</RNGun_FiveSevenSD_Pistol.tools.1.label>
+  
+  <!-- USP 45 -->
+  
+  <RNGun_USP45_Pistol.label>USP 45</RNGun_USP45_Pistol.label>
+  <RNGun_USP45_Pistol.description>USP (Universelle Selbstladepistole) — Almanya’da geliştirilmiş yarı otomatik bir tabancadır. Bu .45 ACP versiyonu yüksek isabet oranı ve güvenilirliğiyle hem görev hem kişisel savunma için idealdir.</RNGun_USP45_Pistol.description>
+  <RNGun_USP45_Pistol.tools.0.label>kabza</RNGun_USP45_Pistol.tools.0.label>
+  <RNGun_USP45_Pistol.tools.1.label>namlu</RNGun_USP45_Pistol.tools.1.label>
+  
+  <!-- USP-S 45 -->
+  
+  <RNGun_USPS45_Pistol.label>USP-S 45</RNGun_USPS45_Pistol.label>
+  <RNGun_USPS45_Pistol.description>USP-S 45 — gizlilik ve çeşitli durumlarda kullanım kolaylığı sağlayan susturuculu USP modelidir.</RNGun_USPS45_Pistol.description>
+  <RNGun_USPS45_Pistol.tools.0.label>kabza</RNGun_USPS45_Pistol.tools.0.label>
+  <RNGun_USPS45_Pistol.tools.1.label>namlu</RNGun_USPS45_Pistol.tools.1.label>
+  
+  <!-- Glock Spaghetti, annenin glockettisi -->
+  
+  <RNGun_STK100_Pistol.label>STK 100</RNGun_STK100_Pistol.label>
+  <RNGun_STK100_Pistol.description>STK 100 — Rock Island Armoury tarafından geliştirilen tetik mekanizmalı bir tabancadır. Glock modellerine daha hafif ve uygun fiyatlı bir alternatif olarak tasarlanmış, dayanıklılığı ve güvenilirliğiyle öne çıkar.</RNGun_STK100_Pistol.description>
+  <RNGun_STK100_Pistol.tools.0.label>kabza</RNGun_STK100_Pistol.tools.0.label>
+  <RNGun_STK100_Pistol.tools.1.label>namlu</RNGun_STK100_Pistol.tools.1.label>
+  
+  <!-- Juan Deag, Çöl Kartalı -->
+  
+  <RNGun_DesertEagle_Pistol.label>Desert Eagle</RNGun_DesertEagle_Pistol.label>
+  <RNGun_DesertEagle_Pistol.description>Desert Eagle — büyük kalibreli mermileri ateşleyebilen yarı otomatik bir tabancadır. Güçlü atış gücü ve ikonik tasarımı sayesinde popülerlik kazanmıştır.</RNGun_DesertEagle_Pistol.description>
+  <RNGun_DesertEagle_Pistol.tools.0.label>kabza</RNGun_DesertEagle_Pistol.tools.0.label>
+  <RNGun_DesertEagle_Pistol.tools.1.label>namlu</RNGun_DesertEagle_Pistol.tools.1.label>
+  
+  <!-- PT92 -->
+  
+  <RNGun_PT92SF_Pistol.label>PT92 SF</RNGun_PT92SF_Pistol.label>
+  <RNGun_PT92SF_Pistol.description>PT92 — Brezilya’da Beretta tabanlı olarak üretilen 9 mm çift etkili yarı otomatik bir tabancadır. Bu versiyon, özel kuvvetler için özelleştirilmiş bir yapı sunar.</RNGun_PT92SF_Pistol.description>
+  <RNGun_PT92SF_Pistol.tools.0.label>kabza</RNGun_PT92SF_Pistol.tools.0.label>
+  <RNGun_PT92SF_Pistol.tools.1.label>namlu</RNGun_PT92SF_Pistol.tools.1.label>
+  
+
+</LanguageData>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<!-- TR: basit kıyafeti onar -->
+	<MendSimpleApparel.label>basit kıyafeti onar</MendSimpleApparel.label> 
+	
+	<!-- TR: Basit kıyafeti onar. -->
+	<MendSimpleApparel.description>Basit kıyafetlerin onarımı.</MendSimpleApparel.description> 
+	
+	<!-- TR: Onarıyor. -->
+	<MendSimpleApparel.jobString>Basit kıyafeti onarıyor</MendSimpleApparel.jobString> 
+	
+	
+	<!-- TR: karmaşık kıyafeti onar -->
+	<MendComplexApparel.label>karmaşık kıyafeti onar</MendComplexApparel.label> 
+	
+	<!-- TR: Zırhı onar. -->
+	<MendComplexApparel.description>Zırh onarımı.</MendComplexApparel.description> 
+	
+	<!-- TR: Onarıyor. -->
+	<MendComplexApparel.jobString>Zırhı onarıyor</MendComplexApparel.jobString> 
+	
+	
+	<!-- TR: basit silahı onar -->
+	<MendSimpleWeapon.label>basit silahı onar</MendSimpleWeapon.label> 
+	
+	<!-- TR: Basit silahı onar. -->
+	<MendSimpleWeapon.description>Basit silahların onarımı.</MendSimpleWeapon.description> 
+	
+	<!-- TR: Onarıyor. -->
+	<MendSimpleWeapon.jobString>Basit silahı onarıyor</MendSimpleWeapon.jobString> 
+	
+	
+	<!-- TR: karmaşık silahı onar -->
+	<MendComplexWeapon.label>karmaşık silahı onar</MendComplexWeapon.label> 
+	
+	<!-- TR: Silahı onar. -->
+	<MendComplexWeapon.description>Silah onarımı.</MendComplexWeapon.description> 
+	
+	<!-- TR: Onarıyor. -->
+	<MendComplexWeapon.jobString>Karmaşık silahı onarıyor</MendComplexWeapon.jobString> 
+	
+	
+	<!-- TR: kıyafeti geri dönüştür -->
+	<RecycleApparel.label>kıyafeti geri dönüştür</RecycleApparel.label> 
+	
+	<!-- TR: Kıyafetleri temel bileşenlerine geri dönüştür. -->
+	<RecycleApparel.description>Kıyafetleri temel bileşenlerine dönüştürür.</RecycleApparel.description> 
+	
+	<!-- TR: Geri dönüştürüyor. -->
+	<RecycleApparel.jobString>Kıyafeti geri dönüştürüyor</RecycleApparel.jobString> 
+  
+</LanguageData>
