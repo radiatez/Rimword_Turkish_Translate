@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NuclearSmall.label>Küçük Reaktör Patlaması</NuclearSmall.label>
+  <NuclearSmall.deathMessage>{0} koloni üyesi bir reaktör patlamasında hayatını kaybetti.</NuclearSmall.deathMessage>
+  
+  <NuclearMedium.label>Reaktör Patlaması</NuclearMedium.label>
+  <NuclearMedium.deathMessage>{0} koloni üyesi bir reaktör patlamasında hayatını kaybetti.</NuclearMedium.deathMessage>
+  
+  <NuclearGiant.label>Devasa Reaktör Patlaması</NuclearGiant.label>
+  <NuclearGiant.deathMessage>{0} koloni üyesi bir reaktör patlamasında hayatını kaybetti.</NuclearGiant.deathMessage>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageInfo>
+  <friendlyNameNative>Türkçe</friendlyNameNative>
+  <friendlyNameEnglish>Turkish</friendlyNameEnglish>
+  <canBeTiny>true</canBeTiny>
+  <languageWorkerClass>LanguageWorker_TurkishTraditional</languageWorkerClass>
+  <credits>
+    <li Class="CreditRecord_Role">
+      <roleKey>Çevirmen</roleKey>
+      <creditee>Hamza YILMAZ</creditee>
+    </li>
+  </credits>
+</LanguageInfo>

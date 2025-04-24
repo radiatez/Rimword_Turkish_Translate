@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<ConDoor.label>Yalıtım Kapısı</ConDoor.label>
+	<ConDoor.description>Odaları ayırmak için kullanılır. Basit kapılar elle açılmalıdır, bu da insanların yavaşlamasına neden olur. Bu kapı, normal bir reaktör patlamasına dayanabilir.</ConDoor.description>
+
+	<ContAutodoor.label>Otomatik Yalıtım Kapısı</ContAutodoor.label>
+	<ContAutodoor.description>Odaları ayırmak için kullanılır. Elektrikle çalışan mekanizma, insanların yavaşlamadan geçmesine olanak tanır. Bu kapı manuel olanlardan daha zayıf olsa da normal bir reaktör patlamasına dayanabilir.</ContAutodoor.description>
+
+	<StrConDoor.label>Güçlendirilmiş Yalıtım Kapısı</StrConDoor.label>
+	<StrConDoor.description>Odaları ayırmak için kullanılır. Basit kapılar elle açılmalıdır, bu da insanların yavaşlamasına neden olur. Bu kapı, büyük bir reaktör patlamasına dayanabilir.</StrConDoor.description>
+
+	<StrContAutodoor.label>Güçlendirilmiş Otomatik Yalıtım Kapısı</StrContAutodoor.label>
+	<StrContAutodoor.description>Odaları ayırmak için kullanılır. Elektrikle çalışan mekanizma, insanların yavaşlamadan geçmesine olanak tanır. Bu kapı manuel olanlardan daha zayıf olsa da büyük bir reaktör patlamasına dayanabilir.</StrContAutodoor.description>
+
+	<ContainWall.label>Yalıtım Duvarı</ContainWall.label>
+	<ContainWall.description>Aşılamaz bir duvar. Üzerine çatı yapılabilir ve normal bir reaktör patlamasına dayanabilir. Reaktörleri bir odada muhafaza etmek için kullanılır.</ContainWall.description>
+
+	<StrContainWall.label>Güçlendirilmiş Yalıtım Duvarı</StrContainWall.label>
+	<StrContainWall.description>Aşılamaz bir duvar. Üzerine çatı yapılabilir ve büyük bir reaktör patlamasına dayanabilir. Reaktörleri bir odada muhafaza etmek için kullanılır.</StrContainWall.description>
+
+</LanguageData>

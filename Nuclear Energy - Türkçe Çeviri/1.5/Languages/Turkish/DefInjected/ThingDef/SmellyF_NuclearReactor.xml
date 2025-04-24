@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<NuclearReactor.label>Nükleer Reaktör</NuclearReactor.label>
+	<NuclearReactor.description>Rafine uranyum tüketerek büyük miktarda enerji üretir. Yakıt elle eklenmelidir. Patladığında çevreye zarar verir.</NuclearReactor.description>
+
+	<SmallNuclearReactor.label>Küçük Nükleer Reaktör</SmallNuclearReactor.label>
+	<SmallNuclearReactor.description>Rafine uranyum tüketerek büyük miktarda enerji üretir. Yakıt elle eklenmelidir. Patladığında çevreye zarar verir.</SmallNuclearReactor.description>
+
+	<GiantNuclearReactor.label>Dev Nükleer Reaktör</GiantNuclearReactor.label>
+	<GiantNuclearReactor.description>Rafine uranyum tüketerek çok büyük miktarda enerji üretir. Yakıt elle eklenmelidir. Patladığında çevreye ciddi zarar verir.</GiantNuclearReactor.description>
+
+</LanguageData>
