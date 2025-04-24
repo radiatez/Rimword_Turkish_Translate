@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>  
+
+  <SpeedSublink.label>Hız Alt Bağlantısı</SpeedSublink.label>  
+  <SpeedSublink.description>Bir sinir implantı; mekaniğin mekanoidlerinin hızını artırır.\n\nAmeliyat gerektirmeden doğrudan takılır.\n\nBu implant en fazla 6 kez takılarak etkisi artırılabilir.</SpeedSublink.description>    
+  <SpeedSublink.comps.CompUsableImplant.useLabel>Hız Alt Bağlantısını Kullan</SpeedSublink.comps.CompUsableImplant.useLabel>  
+
+  <UpgradeSublink.label>Yükseltme Alt Bağlantısı</UpgradeSublink.label>  
+  <UpgradeSublink.description>Bir sinir implantı; mekaniğin mekanoidlerinin iş verimliliğini artırır.\n\nAmeliyat gerektirmeden doğrudan takılır.\n\nBu implant en fazla 6 kez takılarak etkisi artırılabilir.</UpgradeSublink.description>  
+  <UpgradeSublink.comps.CompUsableImplant.useLabel>Yükseltme Alt Bağlantısını Kullan</UpgradeSublink.comps.CompUsableImplant.useLabel>  
+
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AdvancedAgrihand.label>Gelişmiş Bahçıvan Mekanoidi Üret</AdvancedAgrihand.label>
+  <AdvancedAgrihand.description>Bir gelişmiş bahçıvan mekanoidi üret.</AdvancedAgrihand.description>
+  <AdvancedAgrihand.jobString>Mekanoid üretiliyor</AdvancedAgrihand.jobString>
+
+  <AdvancedCleansweeper.label>Gelişmiş Temizlik Mekanoidi Üret</AdvancedCleansweeper.label>
+  <AdvancedCleansweeper.description>Bir gelişmiş temizlik mekanoidi üret.</AdvancedCleansweeper.description>
+  <AdvancedCleansweeper.jobString>Mekanoid üretiliyor</AdvancedCleansweeper.jobString>
+
+  <AdvancedConstructoid.label>Gelişmiş İnşaat Mekanoidi Üret</AdvancedConstructoid.label>
+  <AdvancedConstructoid.description>Bir gelişmiş inşaat mekanoidi üret.</AdvancedConstructoid.description>
+  <AdvancedConstructoid.jobString>Mekanoid üretiliyor</AdvancedConstructoid.jobString>
+
+  <AdvancedFabricor.label>Gelişmiş Üretim Mekanoidi Üret</AdvancedFabricor.label>
+  <AdvancedFabricor.description>Bir gelişmiş üretim mekanoidi üret.</AdvancedFabricor.description>
+  <AdvancedFabricor.jobString>Mekanoid üretiliyor</AdvancedFabricor.jobString>
+
+  <AdvancedLifter.label>Gelişmiş Taşıma Mekanoidi Üret</AdvancedLifter.label>
+  <AdvancedLifter.description>Bir gelişmiş taşıma mekanoidi üret.</AdvancedLifter.description>
+  <AdvancedLifter.jobString>Mekanoid üretiliyor</AdvancedLifter.jobString>
+
+  <AdvancedMilitor.label>Gelişmiş Muhafız Mekanoidi Üret</AdvancedMilitor.label>
+  <AdvancedMilitor.description>Bir gelişmiş muhafız mekanoidi üret.</AdvancedMilitor.description>
+  <AdvancedMilitor.jobString>Mekanoid üretiliyor</AdvancedMilitor.jobString>
+
+  <AdvancedParamedic.label>Gelişmiş Sağlık Mekanoidi Üret</AdvancedParamedic.label>
+  <AdvancedParamedic.description>Bir gelişmiş sağlık mekanoidi üret.</AdvancedParamedic.description>
+  <AdvancedParamedic.jobString>Mekanoid üretiliyor</AdvancedParamedic.jobString>
+
+  <AdvancedTunneler.label>Gelişmiş Tünel Açma Mekanoidi Üret</AdvancedTunneler.label>
+  <AdvancedTunneler.description>Bir gelişmiş tünel açma mekanoidi üret.</AdvancedTunneler.description>
+  <AdvancedTunneler.jobString>Mekanoid üretiliyor</AdvancedTunneler.jobString>
+
+  <ResurrectAdvancedMech.label>Gelişmiş Mekanoidi Dirilt</ResurrectAdvancedMech.label>
+  <ResurrectAdvancedMech.description>Dost bir gelişmiş mekanoidi dirilt. Mekanoidin bedeni tamamen yok edilmemişse, diriltilebilir.</ResurrectAdvancedMech.description>
+  <ResurrectAdvancedMech.jobString>Mekanoid diriltiliyor</ResurrectAdvancedMech.jobString>
+
+  <ResurrectLargeAdvancedMech.label>Büyük Gelişmiş Mekanoidi Dirilt</ResurrectLargeAdvancedMech.label>
+  <ResurrectLargeAdvancedMech.description>Dost bir büyük gelişmiş mekanoidi dirilt. Mekanoidin bedeni tamamen yok edilmemişse, diriltilebilir.</ResurrectLargeAdvancedMech.description>
+  <ResurrectLargeAdvancedMech.jobString>Mekanoid diriltiliyor</ResurrectLargeAdvancedMech.jobString>
+
+</LanguageData>

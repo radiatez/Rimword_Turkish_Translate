@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>  
+ 
+  <LeftPowerFist.label>Güç Yumruğu (Sol El)</LeftPowerFist.label>  
+  <LeftPowerFist.labelShort>Güç Yumruğu</LeftPowerFist.labelShort>  
+
+  <LeftPowerSaw.label>Güç Testere (Sol El)</LeftPowerSaw.label>  
+  <LeftPowerSaw.labelShort>Güç Testere</LeftPowerSaw.labelShort>  
+    
+  <PowerBlade.label>Güç Bıçağı</PowerBlade.label>   
+  <PowerBlade.labelShort>Güç Bıçağı</PowerBlade.labelShort>  
+
+  <RightHammerhead.label>Çekiç Başı (Sağ El)</RightHammerhead.label>  
+  <RightHammerhead.labelShort>Çekiç Başı</RightHammerhead.labelShort>  
+
+  <RightPowerFist.label>Güç Yumruğu (Sağ El)</RightPowerFist.label>  
+  <RightPowerFist.labelShort>Güç Yumruğu</RightPowerFist.labelShort>  
+    
+</LanguageData>

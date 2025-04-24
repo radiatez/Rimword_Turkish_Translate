@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Mech_AdvancedAgrihand.label>Gelişmiş Bahçıvan Mekanoidi</Mech_AdvancedAgrihand.label>
+  <Mech_AdvancedAgrihand.description>Bahçıvan mekanoidinin yükseltilmiş sürümü, daha hızlı çalışma hızına sahiptir.</Mech_AdvancedAgrihand.description>
+  <Mech_AdvancedAgrihand.tools.head.label>Baş</Mech_AdvancedAgrihand.tools.head.label>
+  <Mech_AdvancedAgrihand.tools.power_blade.label>Güç Bıçağı</Mech_AdvancedAgrihand.tools.power_blade.label>
+
+  <Mech_AdvancedCleansweeper.label>Gelişmiş Temizlik Mekanoidi</Mech_AdvancedCleansweeper.label>
+  <Mech_AdvancedCleansweeper.description>Temizlik mekanoidinin yükseltilmiş sürümü, daha hızlı temizlik yapar.</Mech_AdvancedCleansweeper.description>
+  <Mech_AdvancedCleansweeper.tools.head.label>Baş</Mech_AdvancedCleansweeper.tools.head.label>
+
+  <Mech_AdvancedConstructoid.label>Gelişmiş İnşa Mekanoidi</Mech_AdvancedConstructoid.label>
+  <Mech_AdvancedConstructoid.description>İnşa mekanoidinin yükseltilmiş sürümü, daha hızlı inşa eder.</Mech_AdvancedConstructoid.description>
+  <Mech_AdvancedConstructoid.tools.head.label>Baş</Mech_AdvancedConstructoid.tools.head.label>
+  <Mech_AdvancedConstructoid.tools.left_power_saw.label>Güçlü Testere (Sol)</Mech_AdvancedConstructoid.tools.left_power_saw.label>
+  <Mech_AdvancedConstructoid.tools.right_hammerhead.label>Çekiç Başı (Sağ)</Mech_AdvancedConstructoid.tools.right_hammerhead.label>
+
+  <Mech_AdvancedFabricor.label>Gelişmiş Zanaat Mekanoidi</Mech_AdvancedFabricor.label>
+  <Mech_AdvancedFabricor.description>Zanaat mekanoidinin yükseltilmiş sürümü, daha hızlı el işi yapar.</Mech_AdvancedFabricor.description>
+  <Mech_AdvancedFabricor.tools.head.label>Baş</Mech_AdvancedFabricor.tools.head.label>
+  <Mech_AdvancedFabricor.tools.left_power_fist.label>Güç Yumruğu (Sol)</Mech_AdvancedFabricor.tools.left_power_fist.label>
+  <Mech_AdvancedFabricor.tools.right_power_fist.label>Güç Yumruğu (Sağ)</Mech_AdvancedFabricor.tools.right_power_fist.label>
+
+  <Mech_AdvancedLifter.label>Gelişmiş Taşıma Mekanoidi</Mech_AdvancedLifter.label>
+  <Mech_AdvancedLifter.description>Taşıma mekanoidinin yükseltilmiş sürümü, daha hızlı ve daha güçlü taşıma kapasitesine sahiptir.</Mech_AdvancedLifter.description>
+  <Mech_AdvancedLifter.tools.head.label>Baş</Mech_AdvancedLifter.tools.head.label>
+
+  <Mech_AdvancedMilitor.label>Gelişmiş Muhafız Mekanoidi</Mech_AdvancedMilitor.label>
+  <Mech_AdvancedMilitor.description>Muhafız mekanoidinin yükseltilmiş sürümü; uzaktan mikro tüfek ve avlanma işleviyle donatılmıştır.</Mech_AdvancedMilitor.description>
+  <Mech_AdvancedMilitor.tools.head.label>Baş</Mech_AdvancedMilitor.tools.head.label>
+
+  <Mech_AdvancedParamedic.label>Gelişmiş Paramedik Mekanoidi</Mech_AdvancedParamedic.label>
+  <Mech_AdvancedParamedic.description>Paramedik mekanoidinin yükseltilmiş sürümü; daha hızlı tedavi, daha kısa bekleme süresiyle yangın köpüğü püskürtme ve zıplama yeteneğine sahiptir.</Mech_AdvancedParamedic.description>
+  <Mech_AdvancedParamedic.tools.head.label>Baş</Mech_AdvancedParamedic.tools.head.label>
+
+  <Mech_AdvancedTunneler.label>Gelişmiş Tünel Açıcı Mekanoid</Mech_AdvancedTunneler.label>
+  <Mech_AdvancedTunneler.description>Tünel açıcı mekanoidinin yükseltilmiş sürümü, daha hızlı kazma yapar.</Mech_AdvancedTunneler.description>
+  <Mech_AdvancedTunneler.tools.head.label>Baş</Mech_AdvancedTunneler.tools.head.label>
+  <Mech_AdvancedTunneler.tools.left_power_claw.label>Güç Pençesi (Sol)</Mech_AdvancedTunneler.tools.left_power_claw.label>
+  <Mech_AdvancedTunneler.tools.right_power_claw.label>Güç Pençesi (Sağ)</Mech_AdvancedTunneler.tools.right_power_claw.label>
+
+</LanguageData>

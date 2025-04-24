@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>  
+
+  <SpeedSublinkImplant.label>Hız Altbağlantı İmplantı</SpeedSublinkImplant.label>   
+  <SpeedSublinkImplant.description>Bir sinirsel implant, mekanitörün mechanoidlerinin hızını artırır.\n\nBu implant etkisini artırmak için en fazla 6 kez takılabilir.</SpeedSublinkImplant.description>  
+    
+  <UpgradeSublinkImplant.label>Yükseltme Altbağlantı İmplantı</UpgradeSublinkImplant.label>  
+  <UpgradeSublinkImplant.description>Bir sinirsel implant, mekanitörün mechanoidlerinin verimliliğini artırır.\n\nBu implant etkisini artırmak için en fazla 6 kez takılabilir.</UpgradeSublinkImplant.description>  
+    
+</LanguageData>

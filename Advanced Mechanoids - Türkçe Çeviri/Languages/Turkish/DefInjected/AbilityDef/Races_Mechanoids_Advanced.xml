@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>  
+  
+  <FirefoampopMechLowerCD.label>Alev Köpüğü Püskürtücü</FirefoampopMechLowerCD.label>  
+  <FirefoampopMechLowerCD.description>Yuvarlak bir alana yangın önleyici köpük salar.</FirefoampopMechLowerCD.description>  
+
+  <LongjumpMechLauncherLowerCD.label>Uzun Atlama Fırlatıcı</LongjumpMechLauncherLowerCD.label>  
+  <LongjumpMechLauncherLowerCD.description>Yerleşik fırlatıcıyı kullanarak uzak bir noktaya sıçrar.</LongjumpMechLauncherLowerCD.description>  
+  <LongjumpMechLauncherLowerCD.verbProperties.label>Sıçra</LongjumpMechLauncherLowerCD.verbProperties.label>  
+
+  <SmokepopMechLowerCD.label>Mekanik Duman Bombası</SmokepopMechLowerCD.label>  
+  <SmokepopMechLowerCD.description>Gizli havalandırma deliklerinden sıkıştırılmış duman salar. Duman, içinden geçen tüm atışların isabet oranını düşürür ve taretlerin hedef almasını tamamen engeller.</SmokepopMechLowerCD.description>  
+  
+</LanguageData>

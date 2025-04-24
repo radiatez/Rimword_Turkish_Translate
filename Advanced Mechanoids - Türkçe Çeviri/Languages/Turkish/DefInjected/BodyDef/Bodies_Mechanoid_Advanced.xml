@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+   <Mech_AdvancedAgrihand.label>Gelişmiş Tarım Mekanoidi</Mech_AdvancedAgrihand.label>
+   <Mech_AdvancedAgrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>Sol Görüntü Sensörü</Mech_AdvancedAgrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+   <Mech_AdvancedAgrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>Sağ Görüntü Sensörü</Mech_AdvancedAgrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+   <Mech_AdvancedAgrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>Sol İşitsel Sensör</Mech_AdvancedAgrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+   <Mech_AdvancedAgrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>Sağ İşitsel Sensör</Mech_AdvancedAgrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+   <Mech_AdvancedAgrihand.corePart.parts.left_shoulder.customLabel>Sol Omuz</Mech_AdvancedAgrihand.corePart.parts.left_shoulder.customLabel>
+   <Mech_AdvancedAgrihand.corePart.parts.left_shoulder.parts.left_arm.customLabel>Sol Kol</Mech_AdvancedAgrihand.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+   <Mech_AdvancedAgrihand.corePart.parts.left_shoulder.parts.left_arm.parts.power_blade.customLabel>Güç Bıçağı</Mech_AdvancedAgrihand.corePart.parts.left_shoulder.parts.left_arm.parts.power_blade.customLabel>
+   <Mech_AdvancedAgrihand.corePart.parts.right_shoulder.customLabel>Sağ Omuz</Mech_AdvancedAgrihand.corePart.parts.right_shoulder.customLabel>
+   <Mech_AdvancedAgrihand.corePart.parts.right_shoulder.parts.right_arm.customLabel>Sağ Kol</Mech_AdvancedAgrihand.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+   <Mech_AdvancedAgrihand.corePart.parts.left_leg.customLabel>Sol Bacak</Mech_AdvancedAgrihand.corePart.parts.left_leg.customLabel>
+   <Mech_AdvancedAgrihand.corePart.parts.left_leg.parts.left_foot.customLabel>Sol Ayak</Mech_AdvancedAgrihand.corePart.parts.left_leg.parts.left_foot.customLabel>
+   <Mech_AdvancedAgrihand.corePart.parts.right_leg.customLabel>Sağ Bacak</Mech_AdvancedAgrihand.corePart.parts.right_leg.customLabel>
+   <Mech_AdvancedAgrihand.corePart.parts.right_leg.parts.right_foot.customLabel>Sağ Ayak</Mech_AdvancedAgrihand.corePart.parts.right_leg.parts.right_foot.customLabel>
+   
+   <Mech_AdvancedCleansweeper.label>Gelişmiş Temizlik Mekanoidi</Mech_AdvancedCleansweeper.label>
+   <Mech_AdvancedCleansweeper.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>Sol Görüntü Sensörü</Mech_AdvancedCleansweeper.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+   <Mech_AdvancedCleansweeper.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>Sağ Görüntü Sensörü</Mech_AdvancedCleansweeper.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+   <Mech_AdvancedCleansweeper.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>Sol İşitsel Sensör</Mech_AdvancedCleansweeper.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+   <Mech_AdvancedCleansweeper.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>Sağ İşitsel Sensör</Mech_AdvancedCleansweeper.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+   <Mech_AdvancedCleansweeper.corePart.parts.left_shoulder.customLabel>Sol Omuz</Mech_AdvancedCleansweeper.corePart.parts.left_shoulder.customLabel>
+   <Mech_AdvancedCleansweeper.corePart.parts.left_shoulder.parts.left_arm.customLabel>Sol Kol</Mech_AdvancedCleansweeper.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+   <Mech_AdvancedCleansweeper.corePart.parts.right_shoulder.customLabel>Sağ Omuz</Mech_AdvancedCleansweeper.corePart.parts.right_shoulder.customLabel>
+   <Mech_AdvancedCleansweeper.corePart.parts.right_shoulder.parts.right_arm.customLabel>Sağ Kol</Mech_AdvancedCleansweeper.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+   <Mech_AdvancedCleansweeper.corePart.parts.left_leg.customLabel>Sol Bacak</Mech_AdvancedCleansweeper.corePart.parts.left_leg.customLabel>
+   <Mech_AdvancedCleansweeper.corePart.parts.left_leg.parts.left_foot.customLabel>Sol Ayak</Mech_AdvancedCleansweeper.corePart.parts.left_leg.parts.left_foot.customLabel>
+   <Mech_AdvancedCleansweeper.corePart.parts.right_leg.customLabel>Sağ Bacak</Mech_AdvancedCleansweeper.corePart.parts.right_leg.customLabel>
+   <Mech_AdvancedCleansweeper.corePart.parts.right_leg.parts.right_foot.customLabel>Sağ Ayak</Mech_AdvancedCleansweeper.corePart.parts.right_leg.parts.right_foot.customLabel>
+   
+   <Mech_AdvancedConstructoid.label>Gelişmiş Yapım Mekanoidi</Mech_AdvancedConstructoid.label>
+   <Mech_AdvancedConstructoid.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>Sol Görüntü Sensörü</Mech_AdvancedConstructoid.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+   <Mech_AdvancedConstructoid.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>Sağ Görüntü Sensörü</Mech_AdvancedConstructoid.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+   <Mech_AdvancedConstructoid.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>Sol İşitsel Sensör</Mech_AdvancedConstructoid.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+   <Mech_AdvancedConstructoid.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>Sağ İşitsel Sensör</Mech_AdvancedConstructoid.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+   <Mech_AdvancedConstructoid.corePart.parts.left_shoulder.customLabel>Sol Omuz</Mech_AdvancedConstructoid.corePart.parts.left_shoulder.customLabel>
+   <Mech_AdvancedConstructoid.corePart.parts.left_shoulder.parts.left_arm.customLabel>Sol Kol</Mech_AdvancedConstructoid.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+   <Mech_AdvancedConstructoid.corePart.parts.left_shoulder.parts.left_arm.parts.left_power_saw.customLabel>Sol Güç Testere</Mech_AdvancedConstructoid.corePart.parts.left_shoulder.parts.left_arm.parts.left_power_saw.customLabel>
+   <Mech_AdvancedConstructoid.corePart.parts.right_shoulder.customLabel>Sağ Omuz</Mech_AdvancedConstructoid.corePart.parts.right_shoulder.customLabel>
+   <Mech_AdvancedConstructoid.corePart.parts.right_shoulder.parts.right_arm.customLabel>Sağ Kol</Mech_AdvancedConstructoid.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+   <Mech_AdvancedConstructoid.corePart.parts.right_shoulder.parts.right_arm.parts.right_hammerhead.customLabel>Güç Çekici Ucu</Mech_AdvancedConstructoid.corePart.parts.right_shoulder.parts.right_arm.parts.right_hammerhead.customLabel>
+   <Mech_AdvancedConstructoid.corePart.parts.left_leg.customLabel>Sol Bacak</Mech_AdvancedConstructoid.corePart.parts.left_leg.customLabel>
+   <Mech_AdvancedConstructoid.corePart.parts.left_leg.parts.left_foot.customLabel>Sol Ayak</Mech_AdvancedConstructoid.corePart.parts.left_leg.parts.left_foot.customLabel>
+   <Mech_AdvancedConstructoid.corePart.parts.right_leg.customLabel>Sağ Bacak</Mech_AdvancedConstructoid.corePart.parts.right_leg.customLabel>
+   <Mech_AdvancedConstructoid.corePart.parts.right_leg.parts.right_foot.customLabel>Sağ Ayak</Mech_AdvancedConstructoid.corePart.parts.right_leg.parts.right_foot.customLabel>
+   <Mech_AdvancedFabricor.label>Gelişmiş Üretim Mekanoidi</Mech_AdvancedFabricor.label>
+   <Mech_AdvancedFabricor.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>Sol Görsel Sensör</Mech_AdvancedFabricor.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+   <Mech_AdvancedFabricor.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>Sağ Görsel Sensör</Mech_AdvancedFabricor.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+   <Mech_AdvancedFabricor.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>Sol İşitsel Sensör</Mech_AdvancedFabricor.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+   <Mech_AdvancedFabricor.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>Sağ İşitsel Sensör</Mech_AdvancedFabricor.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+   <Mech_AdvancedFabricor.corePart.parts.left_shoulder.customLabel>Sol Omuz</Mech_AdvancedFabricor.corePart.parts.left_shoulder.customLabel>
+   <Mech_AdvancedFabricor.corePart.parts.left_shoulder.parts.left_arm.customLabel>Sol Kol</Mech_AdvancedFabricor.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+   <Mech_AdvancedFabricor.corePart.parts.left_shoulder.parts.left_arm.parts.left_power_fist.customLabel>Güç Yumruğu (Sol)</Mech_AdvancedFabricor.corePart.parts.left_shoulder.parts.left_arm.parts.left_power_fist.customLabel>
+   <Mech_AdvancedFabricor.corePart.parts.right_shoulder.customLabel>Sağ Omuz</Mech_AdvancedFabricor.corePart.parts.right_shoulder.customLabel>
+   <Mech_AdvancedFabricor.corePart.parts.right_shoulder.parts.right_arm.customLabel>Sağ Kol</Mech_AdvancedFabricor.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+   <Mech_AdvancedFabricor.corePart.parts.right_shoulder.parts.right_arm.parts.right_power_fist.customLabel>Güç Yumruğu (Sağ)</Mech_AdvancedFabricor.corePart.parts.right_shoulder.parts.right_arm.parts.right_power_fist.customLabel>
+   <Mech_AdvancedFabricor.corePart.parts.left_leg.customLabel>Sol Bacak</Mech_AdvancedFabricor.corePart.parts.left_leg.customLabel>
+   <Mech_AdvancedFabricor.corePart.parts.left_leg.parts.left_foot.customLabel>Sol Ayak</Mech_AdvancedFabricor.corePart.parts.left_leg.parts.left_foot.customLabel>
+   <Mech_AdvancedFabricor.corePart.parts.right_leg.customLabel>Sağ Bacak</Mech_AdvancedFabricor.corePart.parts.right_leg.customLabel>
+   <Mech_AdvancedFabricor.corePart.parts.right_leg.parts.right_foot.customLabel>Sağ Ayak</Mech_AdvancedFabricor.corePart.parts.right_leg.parts.right_foot.customLabel>
+   
+   <Mech_AdvancedLifter.label>Gelişmiş Taşıyıcı Mekanoid</Mech_AdvancedLifter.label>
+   <Mech_AdvancedLifter.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>Sol Görsel Sensör</Mech_AdvancedLifter.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+   <Mech_AdvancedLifter.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>Sağ Görsel Sensör</Mech_AdvancedLifter.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+   <Mech_AdvancedLifter.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>Sol İşitsel Sensör</Mech_AdvancedLifter.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+   <Mech_AdvancedLifter.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>Sağ İşitsel Sensör</Mech_AdvancedLifter.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+   <Mech_AdvancedLifter.corePart.parts.left_shoulder.customLabel>Sol Omuz</Mech_AdvancedLifter.corePart.parts.left_shoulder.customLabel>
+   <Mech_AdvancedLifter.corePart.parts.left_shoulder.parts.left_arm.customLabel>Sol Kol</Mech_AdvancedLifter.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+   <Mech_AdvancedLifter.corePart.parts.right_shoulder.customLabel>Sağ Omuz</Mech_AdvancedLifter.corePart.parts.right_shoulder.customLabel>
+   <Mech_AdvancedLifter.corePart.parts.right_shoulder.parts.right_arm.customLabel>Sağ Kol</Mech_AdvancedLifter.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+   <Mech_AdvancedLifter.corePart.parts.left_leg.customLabel>Sol Bacak</Mech_AdvancedLifter.corePart.parts.left_leg.customLabel>
+   <Mech_AdvancedLifter.corePart.parts.left_leg.parts.left_foot.customLabel>Sol Ayak</Mech_AdvancedLifter.corePart.parts.left_leg.parts.left_foot.customLabel>
+   <Mech_AdvancedLifter.corePart.parts.right_leg.customLabel>Sağ Bacak</Mech_AdvancedLifter.corePart.parts.right_leg.customLabel>
+   <Mech_AdvancedLifter.corePart.parts.right_leg.parts.right_foot.customLabel>Sağ Ayak</Mech_AdvancedLifter.corePart.parts.right_leg.parts.right_foot.customLabel>
+   
+   <Mech_AdvancedMilitor.label>Gelişmiş Av Mekanoidi</Mech_AdvancedMilitor.label>
+   <Mech_AdvancedMilitor.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>Sol Görsel Sensör</Mech_AdvancedMilitor.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+   <Mech_AdvancedMilitor.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>Sağ İşitsel Sensör</Mech_AdvancedMilitor.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+   <Mech_AdvancedMilitor.corePart.parts.left_leg.customLabel>Sol Bacak</Mech_AdvancedMilitor.corePart.parts.left_leg.customLabel>
+   <Mech_AdvancedMilitor.corePart.parts.left_leg.parts.left_foot.customLabel>Sol Ayak</Mech_AdvancedMilitor.corePart.parts.left_leg.parts.left_foot.customLabel>
+   <Mech_AdvancedMilitor.corePart.parts.right_leg.customLabel>Sağ Bacak</Mech_AdvancedMilitor.corePart.parts.right_leg.customLabel>
+   <Mech_AdvancedMilitor.corePart.parts.right_leg.parts.right_foot.customLabel>Sağ Ayak</Mech_AdvancedMilitor.corePart.parts.right_leg.parts.right_foot.customLabel>
+   
+   <Mech_AdvancedParamedic.label>Gelişmiş Medikal Mekanoid</Mech_AdvancedParamedic.label>
+   <Mech_AdvancedParamedic.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>Sol Görsel Sensör</Mech_AdvancedParamedic.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+   <Mech_AdvancedParamedic.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>Sağ Görsel Sensör</Mech_AdvancedParamedic.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+   <Mech_AdvancedParamedic.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>Sol İşitsel Sensör</Mech_AdvancedParamedic.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+   <Mech_AdvancedParamedic.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>Sağ İşitsel Sensör</Mech_AdvancedParamedic.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+   <Mech_AdvancedParamedic.corePart.parts.left_shoulder.customLabel>Sol Omuz</Mech_AdvancedParamedic.corePart.parts.left_shoulder.customLabel>
+   <Mech_AdvancedParamedic.corePart.parts.left_shoulder.parts.left_arm.customLabel>Sol Kol</Mech_AdvancedParamedic.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+   <Mech_AdvancedParamedic.corePart.parts.right_shoulder.customLabel>Sağ Omuz</Mech_AdvancedParamedic.corePart.parts.right_shoulder.customLabel>
+   <Mech_AdvancedParamedic.corePart.parts.right_shoulder.parts.right_arm.customLabel>Sağ Kol</Mech_AdvancedParamedic.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+   <Mech_AdvancedParamedic.corePart.parts.left_leg.customLabel>Sol Bacak</Mech_AdvancedParamedic.corePart.parts.left_leg.customLabel>
+   <Mech_AdvancedParamedic.corePart.parts.left_leg.parts.left_foot.customLabel>Sol Ayak</Mech_AdvancedParamedic.corePart.parts.left_leg.parts.left_foot.customLabel>
+   <Mech_AdvancedParamedic.corePart.parts.right_leg.customLabel>Sağ Bacak</Mech_AdvancedParamedic.corePart.parts.right_leg.customLabel>
+   <Mech_AdvancedParamedic.corePart.parts.right_leg.parts.right_foot.customLabel>Sağ Ayak</Mech_AdvancedParamedic.corePart.parts.right_leg.parts.right_foot.customLabel>
+   
+   <Mech_AdvancedTunneler.label>Gelişmiş Tünel Açıcı Mekanoid</Mech_AdvancedTunneler.label>
+   <Mech_AdvancedTunneler.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>Sol Görsel Sensör</Mech_AdvancedTunneler.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+   <Mech_AdvancedTunneler.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>Sağ Görsel Sensör</Mech_AdvancedTunneler.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+   <Mech_AdvancedTunneler.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>Sol İşitsel Sensör</Mech_AdvancedTunneler.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+   <Mech_AdvancedTunneler.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>Sağ İşitsel Sensör</Mech_AdvancedTunneler.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+   <Mech_AdvancedTunneler.corePart.parts.left_shoulder.customLabel>Sol Omuz</Mech_AdvancedTunneler.corePart.parts.left_shoulder.customLabel>
+   <Mech_AdvancedTunneler.corePart.parts.left_shoulder.parts.left_arm.customLabel>Sol Kol</Mech_AdvancedTunneler.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+   <Mech_AdvancedTunneler.corePart.parts.left_shoulder.parts.left_arm.parts.left_power_claw.customLabel>Güç Pençesi (Sol)</Mech_AdvancedTunneler.corePart.parts.left_shoulder.parts.left_arm.parts.left_power_claw.customLabel>
+   <Mech_AdvancedTunneler.corePart.parts.right_shoulder.customLabel>Sağ Omuz</Mech_AdvancedTunneler.corePart.parts.right_shoulder.customLabel>
+   <Mech_AdvancedTunneler.corePart.parts.right_shoulder.parts.right_arm.customLabel>Sağ Kol</Mech_AdvancedTunneler.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+   <Mech_AdvancedTunneler.corePart.parts.right_shoulder.parts.right_arm.parts.right_power_claw.customLabel>Güç Pençesi (Sağ)</Mech_AdvancedTunneler.corePart.parts.right_shoulder.parts.right_arm.parts.right_power_claw.customLabel>
+   <Mech_AdvancedTunneler.corePart.parts.left_leg.customLabel>Sol Bacak</Mech_AdvancedTunneler.corePart.parts.left_leg.customLabel>
+   <Mech_AdvancedTunneler.corePart.parts.left_leg.parts.left_foot.customLabel>Sol Ayak</Mech_AdvancedTunneler.corePart.parts.left_leg.parts.left_foot.customLabel>
+   <Mech_AdvancedTunneler.corePart.parts.right_leg.customLabel>Sağ Bacak</Mech_AdvancedTunneler.corePart.parts.right_leg.customLabel>
+   <Mech_AdvancedTunneler.corePart.parts.right_leg.parts.right_foot.customLabel>Sağ Ayak</Mech_AdvancedTunneler.corePart.parts.right_leg.parts.right_foot.customLabel>
+
+</LanguageData>

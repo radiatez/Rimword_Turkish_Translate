@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>  
+    
+  <MovementSpeedGlobalFactorMech.label>Mekanoid Hareket Hızı Katsayısı</MovementSpeedGlobalFactorMech.label>  
+  <MovementSpeedGlobalFactorMech.description>Mekanikerin mekanoidlerine uygulanan genel hareket hızı katsayısı.</MovementSpeedGlobalFactorMech.description>  
+    
+</LanguageData>

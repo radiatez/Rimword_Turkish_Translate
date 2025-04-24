@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>  
+ 
+  <Bullet_MiniRifle.label>Tüfek Mermisi</Bullet_MiniRifle.label>  
+  <Gun_MiniRifle.label>Mikro Tüfek</Gun_MiniRifle.label>  
+  <Gun_MiniRifle.description>Kompakt yapıya ve uzun menzile sahip bir tüfek. Gelişmiş askeri mekanoidler için özel olarak tasarlanmıştır.</Gun_MiniRifle.description>  
+  <Gun_MiniRifle.tools.barrel.label>Namlu</Gun_MiniRifle.tools.barrel.label>  
+  <Gun_MiniRifle.verbs.Verb_Shoot.label>Mikro Tüfek</Gun_MiniRifle.verbs.Verb_Shoot.label>  
+ 
+</LanguageData>

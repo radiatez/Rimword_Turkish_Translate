@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>  
+    
+  <Mech_AdvancedAgrihand.label>Gelişmiş Bahçıvan Mekanoidi</Mech_AdvancedAgrihand.label>  
+  <Mech_AdvancedCleansweeper.label>Gelişmiş Temizlik Mekanoidi</Mech_AdvancedCleansweeper.label>  
+  <Mech_AdvancedConstructoid.label>Gelişmiş İnşaat Mekanoidi</Mech_AdvancedConstructoid.label>  
+  <Mech_AdvancedFabricor.label>Gelişmiş Üretim Mekanoidi</Mech_AdvancedFabricor.label>  
+  <Mech_AdvancedLifter.label>Gelişmiş Taşıma Mekanoidi</Mech_AdvancedLifter.label>  
+  <Mech_AdvancedMilitor.label>Gelişmiş Muhafız Mekanoidi</Mech_AdvancedMilitor.label>  
+  <Mech_AdvancedParamedic.label>Gelişmiş Sağlık Mekanoidi</Mech_AdvancedParamedic.label>  
+  <Mech_AdvancedTunneler.label>Gelişmiş Tünel Açma Mekanoidi</Mech_AdvancedTunneler.label>  
+    
+</LanguageData>
