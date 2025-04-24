@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CompRTFuse_SurgeMitigation>{0} Wd'ye kadar deşarjı dağıtır.</CompRTFuse_SurgeMitigation>
+	<CompRTFuse_WillBreakdown>Çalıştıktan sonra onarım gerektirir.</CompRTFuse_WillBreakdown>
+	<CompRTFuse_WillFlick>Çalıştıktan sonra elle sıfırlanması gerekir.</CompRTFuse_WillFlick>
+
+</LanguageData>

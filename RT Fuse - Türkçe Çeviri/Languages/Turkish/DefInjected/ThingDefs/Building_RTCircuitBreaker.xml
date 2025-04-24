@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Building_RTCircuitBreaker.label>Sigorta Kesici</Building_RTCircuitBreaker.label>
+	<Building_RTCircuitBreaker.description>Otomatik sigorta kesici bloğu. 1800 Wd'lik enerji boşalmasını güvenli bir şekilde dağıtır, ancak sigorta devreye girdikten sonra manuel sıfırlama gereklidir.</Building_RTCircuitBreaker.description>
+
+</LanguageData>

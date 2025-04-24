@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<IncidentWorker_RTShortCircuit_PartialMitigation>Tüm {0} Wd enerji bağlı bataryalardan kayboldu; {1} Wd deşarjı sigortalar tarafından dağıtıldı.</IncidentWorker_RTShortCircuit_PartialMitigation>
+
+	<IncidentWorker_RTShortCircuit_FullMitigation>Tüm {0} Wd enerji bağlı bataryalardan kayboldu, ancak sigortalar sayesinde ciddi hasarların önüne geçildi.</IncidentWorker_RTShortCircuit_FullMitigation>
+
+</LanguageData>

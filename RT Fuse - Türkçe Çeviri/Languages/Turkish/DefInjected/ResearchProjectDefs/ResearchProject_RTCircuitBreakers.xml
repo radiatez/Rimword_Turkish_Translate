@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ResearchProject_RTCircuitBreakers.label>Otomatik Sigorta Kesicileri</ResearchProject_RTCircuitBreakers.label>
+	<ResearchProject_RTCircuitBreakers.description>Otomatik sigorta kesicileri inşa etmeyi sağlar; batarya ağına herhangi bir yere kurulabilirler. Her biri 1800 Wd (üç standart batarya) kadar enerji boşalmasını güvenli bir şekilde dağıtmak için yeterlidir, ancak sigorta devreye girdikten sonra manuel sıfırlama gereklidir.</ResearchProject_RTCircuitBreakers.description>
+
+</LanguageData>
