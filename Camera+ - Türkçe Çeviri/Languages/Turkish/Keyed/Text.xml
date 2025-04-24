@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<CameraPlus3>Yeni Camera+ sürümüne hoş geldiniz! Gelişmiş deneyim için ayarlar menüsünde özel siluet seçeneklerini keşfedin.</CameraPlus3>
+	<Zoom>Yakınlaştırma</Zoom>
+	<ZoomedInPercent>Maksimum yakınlaştırma oranı</ZoomedInPercent>
+	<ZoomedOutPercent>Maksimum uzaklaştırma oranı</ZoomedOutPercent>
+	<ForZoomedInPercent>Yakınlaştırma için</ForZoomedInPercent>
+	<ForZoomedOutPercent>Uzaklaştırma için</ForZoomedOutPercent>
+	<Exponentiality>Üstel yakınlaştırma hızı</Exponentiality>
+	<SoundNearness>Uzak sesleri yaklaştır</SoundNearness>
+	<HotKeys>Kısayol tuşları</HotKeys>
+	<RulesStart>Kurallar (yeni oyunlar için)</RulesStart>
+	<RulesGame>Kurallar (oyunla birlikte kaydedildi)</RulesGame>
+	<SettingsKey>Camera+ Ayarları</SettingsKey>
+	<LoadModifier>Görünümü Yükle</LoadModifier>
+	<SaveModifier>Görünümü Kaydet</SaveModifier>
+	<DollyPercentLabel>Kaydırma hızı</DollyPercentLabel>
+	<ScreenEdgeDollyFrictionLabel>Kenar kaydırma katsayısı</ScreenEdgeDollyFrictionLabel>
+	<HideNamesWhenZoomedOut>Uzaklaştırıldığında isimleri gizle</HideNamesWhenZoomedOut>
+	<Pixel>Piksel</Pixel>
+	<HidePawnLabelBelow>Şunun altındaki piyon etiketlerini gizle:</HidePawnLabelBelow>
+	<HideThingLabelBelow>Şunun altındaki yığın etiketlerini gizle:</HideThingLabelBelow>
+	<HideDeadPawnsBelow>Şunun altındaki ölü piyonları gizle:</HideDeadPawnsBelow>
+	<ShowMarkerBelow>Şunun altında işaretçi olarak göster:</ShowMarkerBelow>
+	<DotStyle>Nokta stili{0}</DotStyle>
+	<VanillaDefault>Varsayılan (Vanilla)</VanillaDefault>
+	<ClassicDots>Camera+ Noktaları</ClassicDots>
+	<BetterSilhouettes>Camera+ Siluetleri</BetterSilhouettes>
+	<Animals>Hayvanlar</Animals>
+	<IncludeAnimals>Hayvanlar aynı işareti kullanır</IncludeAnimals>
+	<AnimalsDifferent>Hayvanlar farklı işaret kullanır</AnimalsDifferent>
+	<HideAnimals>Hayvanlar için işaret yok</HideAnimals>
+	<IncludeNotTamedAnimals>Evcilleştirilmemiş hayvanları dahil et</IncludeNotTamedAnimals>
+	<ZoomToMouse>Fareye göre yakınlaştır</ZoomToMouse>
+	<DisableCameraShake>Kamera sarsıntısını devre dışı bırak</DisableCameraShake>
+	<MouseRevealsLabels>Fare etiketleri gösterir{0}</MouseRevealsLabels>
+	<EdgeIndicators>Kenar göstergeleri{0}</EdgeIndicators>
+	<KeyLeftShift>Sol Shift</KeyLeftShift>
+	<KeyLeftAlt>Sol Alt</KeyLeftAlt>
+	<KeyLeftControl>Sol Ctrl</KeyLeftControl>
+	<KeyLeftCommand>Sol Cmd</KeyLeftCommand>
+	<KeyLeftWindows>Sol Win</KeyLeftWindows>
+	<KeyRightShift>Sağ Shift</KeyRightShift>
+	<KeyRightAlt>Sağ Alt</KeyRightAlt>
+	<KeyRightControl>Sağ Ctrl</KeyRightControl>
+	<KeyRightCommand>Sağ Cmd</KeyRightCommand>
+	<KeyRightWindows>Sağ Win</KeyRightWindows>
+	<DotSilhouetteSize>Nokta/Siluet Boyutu</DotSilhouetteSize>
+	<EdgeDotSize>Kenar noktası boyutu</EdgeDotSize>
+	<EdgeDistanceFactor>Kenar mesafe faktörü</EdgeDistanceFactor>
+	<OutlineSize>Kontur kalınlığı</OutlineSize>
+	<Outline>Kontur</Outline>
+	<Fill>Dolgu</Fill>
+	<Selected>Seçildi</Selected>
+	<NewCondition>Yeni koşul ekle</NewCondition>
+	<LoadCustomization>Özelleştirme yükle</LoadCustomization>
+	<SaveCustomization>Özelleştirme kaydet</SaveCustomization>
+	<Opposite>Zıt</Opposite>
+	<Duplicate>Çoğalt</Duplicate>
+	<TagCategoryType>Türler</TagCategoryType>
+	<TagCategoryAttribute>Nitelikler</TagCategoryAttribute>
+	<TagCategoryText>İsimler</TagCategoryText>
+	<ColumnConditions>Nokta stili kuralları</ColumnConditions>
+	<ColumnMode>Mod</ColumnMode>
+	<ColumnColors>Renkler</ColumnColors>
+	<ColumnMap>Harita</ColumnMap>
+	<ColumnEdge>Kenar</ColumnEdge>
+	<ColumnMouseReveal>Fareyle göster</ColumnMouseReveal>
+	<ColumnShowBelow>Şunun altında göster</ColumnShowBelow>
+	<ColumnSize>Boyut</ColumnSize>
+	<ColumnOutline>Kontur</ColumnOutline>
+	<OverwriteRuleSingular> ({0} kuralıyla üzerine yazıldı)</OverwriteRuleSingular>
+	<OverwriteRulePlural> ({0} kuralla üzerine yazıldı)</OverwriteRulePlural>
+
+</LanguageData>

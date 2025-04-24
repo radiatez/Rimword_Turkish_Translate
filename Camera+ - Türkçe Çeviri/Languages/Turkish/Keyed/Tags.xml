@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- türler -->
+	<AncientTag>Antik</AncientTag>
+	<NotAncientTag>Antik değil</NotAncientTag>
+
+	<AnimalTag>Hayvan</AnimalTag>
+	<NotAnimalTag>Hayvan değil</NotAnimalTag>
+
+	<CreepJoinerTag>Sürünerek katılan</CreepJoinerTag>
+	<NotCreepJoinerTag>Sürünerek katılan değil</NotCreepJoinerTag>
+
+	<EmpireTag>İmparatorluktan</EmpireTag>
+	<NotEmpireTag>İmparatorluktan değil</NotEmpireTag>
+
+	<EntityTag>Varlık</EntityTag>
+	<NotEntityTag>Varlık değil</NotEntityTag>
+
+	<GhoulTag>Gulyabani</GhoulTag>
+	<NotGhoulTag>Gulyabani değil</NotGhoulTag>
+
+	<HoraxCultTag>Kült üyesi</HoraxCultTag>
+	<NotHoraxCultTag>Kült üyesi değil</NotHoraxCultTag>
+
+	<HumanTag>İnsan</HumanTag>
+	<NotHumanTag>İnsan değil</NotHumanTag>
+
+	<InsectTag>Böcek</InsectTag>
+	<NotInsectTag>Böcek değil</NotInsectTag>
+
+	<MechanoidTag>Mechanoid</MechanoidTag>
+	<NotMechanoidTag>Mechanoid değil</NotMechanoidTag>
+
+	<Mechanitor>Mekanitor</Mechanitor>
+	<NotMechanitor>Mekanitor değil</NotMechanitor>
+
+	<MutantTag>Mutant</MutantTag>
+	<NotMutantTag>Mutant değil</NotMutantTag>
+
+	<PirateTag>Korsan</PirateTag>
+	<NotPirateTag>Korsan değil</NotPirateTag>
+
+	<PrisonerTag>Mahkûm</PrisonerTag>
+	<NotPrisonerTag>Mahkûm değil</NotPrisonerTag>
+
+	<ShamblerTag>Sallanan</ShamblerTag>
+	<NotShamblerTag>Sallanan değil</NotShamblerTag>
+
+	<SlaveTag>Köle</SlaveTag>
+	<NotSlaveTag>Köle değil</NotSlaveTag>
+
+	<VehicleTag>Araç</VehicleTag>
+	<NotVehicleTag>Araç değil</NotVehicleTag>
+
+	<WildManTag>Vahşi</WildManTag>
+	<NotWildManTag>Vahşi değil</NotWildManTag>
+
+	<!-- özellikler -->
+	<AdultTag>Yetişkin</AdultTag>
+	<NotAdultTag>Yetişkin değil</NotAdultTag>
+
+	<AttackingTag>Saldırıyor</AttackingTag>
+	<NotAttackingTag>Saldırmıyor</NotAttackingTag>
+
+	<AwakeTag>Uyanık</AwakeTag>
+	<NotAwakeTag>Uyuyor</NotAwakeTag>
+
+	<AwokenCorpseTag>Diriltilmiş ceset</AwokenCorpseTag>
+	<NotAwokenCorpseTag>Diriltilmiş değil</NotAwokenCorpseTag>
+
+	<ChildTag>Çocuk</ChildTag>
+	<NotChildTag>Çocuk değil</NotChildTag>
+
+	<CanCastTag>Büyü yapabilir</CanCastTag>
+	<NotCanCastTag>Büyü yapamaz</NotCanCastTag>
+
+	<ColonistTag>Kolonist</ColonistTag>
+	<NotColonistTag>Kolonist değil</NotColonistTag>
+
+	<ControllableTag>Kontrol edilebilir</ControllableTag>
+	<NotControllableTag>Kontrol edilemez</NotControllableTag>
+
+	<CrawlingTag>Sürünüyor</CrawlingTag>
+	<NotCrawlingTag>Sürünmüyor</NotCrawlingTag>
+
+	<DeadTag>Ölü</DeadTag>
+	<NotDeadTag>Canlı</NotDeadTag>
+
+	<DeathrestingTag>Ölüm uykusunda</DeathrestingTag>
+	<NotDeathrestingTag>Ölüm uykusunda değil</NotDeathrestingTag>
+
+	<DownedTag>Yıkılmış</DownedTag>
+	<NotDownedTag>Yıkılmamış</NotDownedTag>
+
+	<DraftedTag>Göreve çağrıldı</DraftedTag>
+	<NotDraftedTag>Göreve çağrılmadı</NotDraftedTag>
+
+	<ExitingMapTag>Haritadan çıkıyor</ExitingMapTag>
+	<NotExitingMapTag>Haritadan çıkmıyor</NotExitingMapTag>
+
+	<FemaleTag>Kadın</FemaleTag>
+	<NotFemaleTag>Kadın değil</NotFemaleTag>
+
+	<FreeTag>Özgür</FreeTag>
+	<NotFreeTag>Özgür değil</NotFreeTag>
+
+	<GuestTag>Misafir</GuestTag>
+	<NotGuestTag>Misafir değil</NotGuestTag>
+
+	<HasWeaponTag>Silahlı</HasWeaponTag>
+	<NotHasWeaponTag>Silahsız</NotHasWeaponTag>
+
+	<HostileTag>Düşman</HostileTag>
+	<NotHostileTag>Dost</NotHostileTag>
+
+	<IdleTag>Boşta</IdleTag>
+	<NotIdleTag>Boşta değil</NotIdleTag>
+
+	<InjuredTag>Yaralı</InjuredTag>
+	<NotInjuredTag>Yaralı değil</NotInjuredTag>
+
+	<InspiredTag>İlhamlı</InspiredTag>
+	<NotInspiredTag>İlhamlı değil</NotInspiredTag>
+
+	<MaleTag>Erkek</MaleTag>
+	<NotMaleTag>Erkek değil</NotMaleTag>
+
+	<ManhunterTag>İnsan avcısı</ManhunterTag>
+	<NotManhunterTag>İnsan avcısı değil</NotManhunterTag>
+
+	<MeleeTag>Yakın dövüş</MeleeTag>
+	<NotMeleeTag>Yakın dövüş değil</NotMeleeTag>
+
+	<MentalTag>Akıl sağlığı bozuk</MentalTag>
+	<NotMentalTag>Akıl sağlığı yerinde</NotMentalTag>
+
+	<ModdedTag>Modlu</ModdedTag>
+	<NotModdedTag>Orijinal</NotModdedTag>
+
+	<OverseenTag>Gözlemleniyor</OverseenTag>
+	<NotOverseenTag>Gözlemlenmiyor</NotOverseenTag>
+
+	<PlayerFactionTag>Oyuncu fraksiyonu</PlayerFactionTag>
+	<NotPlayerFactionTag>Oyuncu fraksiyonu değil</NotPlayerFactionTag>
+
+	<PredatorHuntTag>Yırtıcı avı</PredatorHuntTag>
+	<NotPredatorHuntTag>Yırtıcı avı değil</NotPredatorHuntTag>
+
+	<SelfShutdownTag>Kendini kapatıyor</SelfShutdownTag>
+	<NotSelfShutdownTag>Kendini kapatmıyor</NotSelfShutdownTag>
+
+	<TameTag>Evcilleştirilmiş</TameTag>
+	<NotTameTag>Evcilleştirilmemiş</NotTameTag>
+
+	<TeenagerTag>Ergen</TeenagerTag>
+	<NotTeenagerTag>Ergen değil</NotTeenagerTag>
+
+	<!-- isimler -->
+	<KindDefTag>Tür</KindDefTag>
+	<NotKindDefTag>Tür değil</NotKindDefTag>
+
+	<FactionNameTag>Fraksiyon</FactionNameTag>
+	<NotFactionNameTag>Fraksiyon değil</NotFactionNameTag>
+
+	<PawnNameTag>Adlandırılmış</PawnNameTag>
+	<NotPawnNameTag>Adlandırılmamış</NotPawnNameTag>
+
+	<HediffTag>Hastalık/Durum</HediffTag>
+	<NotHediffTag>Hastalık/durum yok</NotHediffTag>
+
+	<ApparelTag>Giysi</ApparelTag>
+	<NotApparelTag>Giysi yok</NotApparelTag>
+
+	<InventoryTag>Envanter</InventoryTag>
+	<NotInventoryTag>Envanter yok</NotInventoryTag>
+
+	<EquipmentTag>Ekipman</EquipmentTag>
+	<NotEquipmentTag>Ekipman yok</NotEquipmentTag>
+
+	<WeaponTag>Silah</WeaponTag>
+	<NotWeaponTag>Silah yok</NotWeaponTag>
+
+</LanguageData>

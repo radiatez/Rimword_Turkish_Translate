@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageInfo>
+	<friendlyNameNative>Türkçe</friendlyNameNative>
+	<friendlyNameEnglish>Turkish</friendlyNameEnglish>
+	<canBeTiny>true</canBeTiny>
+	<languageWorkerClass>LanguageWorker_Turkish</languageWorkerClass>
+</LanguageInfo>
