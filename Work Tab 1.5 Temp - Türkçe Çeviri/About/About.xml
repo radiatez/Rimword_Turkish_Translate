@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ModMetaData>
+	<name>Work Tab 1.5 Temp - Türkçe Çeviri</name>
+	<author>Hamza YILMAZ</author>
+    <supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+		<modDependencies>		
+		<li>
+			<packageId>arof.fluffy.worktab.continued</packageId>
+			<displayName>Work Tab 1.5 Temp</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2552065963</steamWorkshopUrl>
+		</li>		
+	</modDependencies>
+		<loadAfter>
+		<li>arof.fluffy.worktab.continued</li>
+	</loadAfter>
+	<packageId>hyilmaz.rimword.tr.2552065963</packageId>
+	<description>	
+Hakkında:
+
+Work Tab 1.5 Temp modunun Türkçe çevirisi.
+Bazı çeviri hataları olabilir. 
+Bu modların Türkçe çevirileri olmadığından kendi oyunum için çevirdim ve paylaşmaya karar verdim.
+Bi nebze de olsa belki işinize yarayabilir.
+
+https://github.com/radiatez/Rimword_Turkish_Translate
+
+Hamza YILMAZ	
+	</description>
+</ModMetaData>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WorkTab>İş Sekmesi</WorkTab>
+
+  <!-- Main tab toggle buttons -->
+  <WorkTab.PrioritiesSimple>Şu anda ayrıntılı (sayılarla) öncelik ayarları gösteriliyor\n\nBasit (aç/kapa) öncelik ayarlarına geçmek için tıklayın</WorkTab.PrioritiesSimple>
+  <WorkTab.PrioritiesDetailed>Şu anda basit (aç/kapa) öncelik ayarları gösteriliyor\n\nAyrıntılı (sayılarla) öncelik ayarlarına geçmek için tıklayın</WorkTab.PrioritiesDetailed>
+  <WorkTab.PrioritiesTimed>Şu anda tüm gün boyunca geçerli önceliklendirme gösteriliyor\n\nZamana bağlı önceliklendirmeye geçmek için tıklayın</WorkTab.PrioritiesTimed>
+  <WorkTab.PrioritiesWholeDay>Zamana bağlı önceliklendirme gösteriliyor\n\nTüm gün boyunca geçerli önceliklendirmeye geçmek için tıklayın</WorkTab.PrioritiesWholeDay>
+  <WorkTab.ExpandAll>Tüm öncelikleri genişletmek için tıklayın\nCtrl+Sol Tık bir başlığı yalnızca onun için genişletir</WorkTab.ExpandAll>
+  <WorkTab.CollapseAll>Tüm öncelikleri daraltmak için tıklayın\nCtrl+Sol Tık bir başlığı yalnızca onun için daraltır</WorkTab.CollapseAll>
+
+  <!-- column header tooltips -->
+  <WorkTab.DetailedColumnTip>Shift+Sol Tık veya Shift+tekerlek yukarı bu görevin önceliğini tüm yerleşimciler için artırır\nShift+Sağ Tık veya Shift+tekerlek aşağı önceliği düşürür</WorkTab.DetailedColumnTip>
+  <WorkTab.ToggleColumnTip>Shift+Sol Tık veya Shift+tekerlek yukarı tüm yerleşimcilere bu görevi atar\nShift+Sağ Tık veya Shift+tekerlek aşağı görevi kaldırır</WorkTab.ToggleColumnTip>
+  <WorkTab.ExpandWorkgiversColumnTip>Ctrl+Sol Tık ile ayrıntılı öncelik listesini genişlet</WorkTab.ExpandWorkgiversColumnTip>
+  <WorkTab.CollapseWorkgiversColumnTip>Ctrl+Sol Tık ile ayrıntılı öncelik listesini daralt</WorkTab.CollapseWorkgiversColumnTip>
+
+  <!-- settings -->
+  <WorkTab.24HourMode>24 Saat Modu</WorkTab.24HourMode>
+  <WorkTab.24HourModeTip>Zamanı 12 saatlik (ör. öğlen, 9p.m.) veya 24 saatlik (ör. 12:00, 21:00) formatta mı gösterelim?</WorkTab.24HourModeTip>
+  <WorkTab.MaxPriority>Öncelik Düzeyleri</WorkTab.MaxPriority>
+  <WorkTab.MaxPriorityTip>Kaç adet öncelik düzeyi kullanılacak? (4 ila 9 arası)</WorkTab.MaxPriorityTip>
+  <WorkTab.PlaySounds>Ses</WorkTab.PlaySounds>
+  <WorkTab.PlaySoundsTip>Öncelik değiştirildiğinde ses çal?</WorkTab.PlaySoundsTip>
+  <WorkTab.PlayCrunch>Hışırtı</WorkTab.PlayCrunch>
+  <WorkTab.PlayCrunchTip>Yerleşimci beceriksiz olduğu bir işe atanırsa hışırtı sesi çıkar</WorkTab.PlayCrunchTip>
+  <WorkTab.DisableScrollwheel>Kaydırmayı Devre Dışı Bırak</WorkTab.DisableScrollwheel>
+  <WorkTab.DisableScrollwheelTip>Becerilere odaklanıldığında fare tekeri kaydırmasını devre dışı bırak</WorkTab.DisableScrollwheelTip>
+  <WorkTab.VerticalLabels>Dikey Etiketler</WorkTab.VerticalLabels>
+  <WorkTab.VerticalLabelsTip>İş etiketlerini dikey olarak göster</WorkTab.VerticalLabelsTip>
+  <WorkTab.FontFix>Yazı Tipi Düzeltmesi</WorkTab.FontFix>
+  <WorkTab.FontFixTip>Unity yazı tiplerini döndürmede başarısız olabilir. Bu seçenek bulanıklığı azaltır ama yazı konumlandırmasını bozabilir.</WorkTab.FontFixTip>
+
+  <!-- scheduler -->
+  <WorkTab.SchedulerHourTip>{0}-{1} saat aralığı şu anda {2}\n\n{3}</WorkTab.SchedulerHourTip>
+  <WorkTab.Selected>seçildi</WorkTab.Selected>
+  <WorkTab.NotSelected>seçilmedi</WorkTab.NotSelected>
+  <WorkTab.ClickToSelect>Seçmek için tıklayın\nShift+Sol Tık yalnızca bu saat aralığını seçer</WorkTab.ClickToSelect>
+  <WorkTab.ClickToFocus>Gitmek için tıklayın</WorkTab.ClickToFocus>
+  <WorkTab.RightClickToDeselect>Sağ tık seçimi kaldırır</WorkTab.RightClickToDeselect>
+  <midnight>gece yarısı</midnight>
+  <noon>öğlen</noon>
+  <WorkTab.SelectWholeDayTip>Tüm günü seç</WorkTab.SelectWholeDayTip>
+  <WorkTab.SelectCurrentHourTip>Mevcut saati seç</WorkTab.SelectCurrentHourTip>
+
+  <!-- detailed tooltips -->
+  <WorkTab.XIsAssignedToY>{0}, {1} görevine atandı</WorkTab.XIsAssignedToY>
+
+  <!-- pawn label tooltip -->
+  <WorkTab.LabelCellTip>Yerleşimciye gitmek için tıklayın\nShift+Sol Tık veya Shift+tekerlek yukarı — tüm görevlerin önceliğini artır\nShift+Sağ Tık veya Shift+tekerlek aşağı — öncelikleri azalt</WorkTab.LabelCellTip>
+
+</LanguageData>
