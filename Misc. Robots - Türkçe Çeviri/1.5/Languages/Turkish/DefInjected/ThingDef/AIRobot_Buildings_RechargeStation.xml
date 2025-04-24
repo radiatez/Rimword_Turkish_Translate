@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+	<AIRobot_RechargeStation_Hauler.label>Yük Dronu Yerleştirme İstasyonu</AIRobot_RechargeStation_Hauler.label>
+	<AIRobot_RechargeStation_Hauler.description>Bu, özel yük taşıma dronu için bir bakım istasyonudur.</AIRobot_RechargeStation_Hauler.description>
+
+	<AIRobot_RechargeStation_Cleaner.label>Temizlik Dronu Yerleştirme İstasyonu</AIRobot_RechargeStation_Cleaner.label>
+	<AIRobot_RechargeStation_Cleaner.description>Bu, özel temizlik dronu için bir bakım istasyonudur.</AIRobot_RechargeStation_Cleaner.description>
+
+</LanguageData>

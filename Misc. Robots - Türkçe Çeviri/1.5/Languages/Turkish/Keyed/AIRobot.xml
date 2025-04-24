@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- AIRobotGenerator -->
+	<AIRobot_Basename_first>Drone</AIRobot_Basename_first>
+	<AIRobot_Basename_last>...</AIRobot_Basename_last>
+	<AIRobot_Basename_nick></AIRobot_Basename_nick>
+
+	<!-- AIRobotRechargeStation -->
+	<AIRobot_NoOwner>Sahibi atanmadı</AIRobot_NoOwner>
+	<AIRobot_RobotIs>Drone:</AIRobot_RobotIs>
+	<AIRobot_Label_SpawnRobot>Aktifleştir</AIRobot_Label_SpawnRobot>
+	<AIRobot_SpawnRobot>Dronu aktifleştir.</AIRobot_SpawnRobot>
+	<AIRobot_Label_SendOwnerToRecharge>Deaktif Et</AIRobot_Label_SendOwnerToRecharge>
+	<AIRobot_SendOwnerToRecharge>Aktif dronu geri çağır ve devre dışı bırak.</AIRobot_SendOwnerToRecharge>
+	<AIRobot_Start>Dronu aktifleştir</AIRobot_Start>
+	<AIRobot_NoPower>Güç yok!</AIRobot_NoPower>
+	<AIRobot_Label_RecallAllRobots>Tümünü Geri Çağır</AIRobot_Label_RecallAllRobots>
+	<AIRobot_RecallAllRobots>Tüm aktif dronları geri çağır ve devre dışı bırak.</AIRobot_RecallAllRobots>
+	<AIRobot_Label_ActivateAllRobots>Tümünü Aktifleştir</AIRobot_Label_ActivateAllRobots>
+	<AIRobot_ActivateAllRobots>Tüm uygun dronları aktifleştir.</AIRobot_ActivateAllRobots>
+	<AIRobot_RobotIsDestroyed>Drone yok edildi!</AIRobot_RobotIsDestroyed>
+	<AIRobot_Label_FindRobot>Dronu Bul</AIRobot_Label_FindRobot>
+	<AIRobot_FindRobot>Dronun konumunu gösterir.</AIRobot_FindRobot>
+	<AIRobot_Disabled_OnlyStartOnHomeMap>Yalnızca ana haritada başlatın. Aktif bir drone ile bu haritaya geçiş yapmak mod hatalarına neden olabilir!</AIRobot_Disabled_OnlyStartOnHomeMap>
+
+	<!-- AIRobot_MainButton -->
+	<AIRobot_MainTab_SendRobotToRecharge>Bu drone'u şarj için gönder.</AIRobot_MainTab_SendRobotToRecharge>
+
+	<AIRobot_MessageRechargeStationOutsideAreaRestriction>Atanan bölgede drone şarj istasyonu yok! Sıfırlanıyor...</AIRobot_MessageRechargeStationOutsideAreaRestriction>
+
+	<AIRobot_RenameRobot>Bu drone'u yeniden adlandırmak için tıklayın.</AIRobot_RenameRobot>
+	<AIRobot_RobotIsRenamed>Drone'unuz artık {0} olarak adlandırılıyor.</AIRobot_RobotIsRenamed>
+	<AIRobot_ShutDownRobot>Drone'u kapatmak ve yuvasına göndermek için tıklayın.</AIRobot_ShutDownRobot>
+	<AIRobot_ShutDownAllRobots>Tüm dronları yuvalarına gönderip kapatmak için tıklayın.</AIRobot_ShutDownAllRobots>
+	<AIRobot_RobotIsRecharging>Drone şarj oluyor.</AIRobot_RobotIsRecharging>
+
+	<!-- AIRobot_destroyed -->
+	<AIRobot_RepairRobot>Drone'u tamir et</AIRobot_RepairRobot>
+	<AIRobot_DismantleRobot>Drone'u ve şarj istasyonunu sök</AIRobot_DismantleRobot>
+
+</LanguageData>

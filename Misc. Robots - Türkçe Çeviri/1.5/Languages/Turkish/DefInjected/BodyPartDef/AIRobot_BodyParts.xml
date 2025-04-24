@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+	<!-- AIRobot -->
+	<AIRobot_Thorax.label>Zırh Gövdesi</AIRobot_Thorax.label>
+	<AIRobot_ArtificialBrain.label>Merkezi İşlem Birimi</AIRobot_ArtificialBrain.label>
+	<AIRobot_UnneededData.label>Hafıza Birimi</AIRobot_UnneededData.label>
+	<AIRobot_CommUnit.label>İletişim Modülü</AIRobot_CommUnit.label>
+	<AIRobot_BatteryLeft.label>Sol Batarya</AIRobot_BatteryLeft.label>
+	<AIRobot_BatteryRight.label>Sağ Batarya</AIRobot_BatteryRight.label>
+	<AIRobot_MaterialAnalyzer.label>Malzeme Analizörü</AIRobot_MaterialAnalyzer.label>
+	<AIRobot_Spine.label>İskelet Çerçevesi</AIRobot_Spine.label>
+
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<AIRobot_RechargeStation_Hauler.label>Yük Dronu Şarj İstasyonu</AIRobot_RechargeStation_Hauler.label>
+	<AIRobot_RechargeStation_Hauler.description>Bu istasyon, özel olarak yük taşıma görevine atanmış bir drone ile donatılmıştır.</AIRobot_RechargeStation_Hauler.description>
+
+	<AIRobot_RechargeStation_Cleaner.label>Temizlik Dronu Şarj İstasyonu</AIRobot_RechargeStation_Cleaner.label>
+	<AIRobot_RechargeStation_Cleaner.description>Bu istasyon, özel olarak temizlik görevine atanmış bir drone ile donatılmıştır.</AIRobot_RechargeStation_Cleaner.description>
+
+	<AIRobot_MinifiedRechargeStation.label>Drone</AIRobot_MinifiedRechargeStation.label>
+
+	<AIRobot_Hauler.description>Yük taşıma dronu. Satın aldığınız eşyaları evinize getirir, hatta 20. kattaki dairenize piyano bile çıkarır.</AIRRobot_Hauler.description>
+	<AIRobot_Cleaner.description>Temizlik dronu. Siz yokken odanızı temiz tutar. DİKKAT: Evcil hayvanlarınızı ona yaklaştırmayın!</AIRRobot_Cleaner.description>
+
+	<AIRobot_Hauler_disabled.label>Yük Dronu (devre dışı)</AIRRobot_Hauler_disabled.label>
+	<AIRobot_Hauler_disabled.description>Dronun trajik sonu. Artık çalışamaz durumda ve tamir ya da hurdaya ayrılma gerektiriyor.</AIRRobot_Hauler_disabled.description>
+
+	<AIRobot_Cleaner_disabled.label>Temizlik Dronu (devre dışı)</AIRRobot_Cleaner_disabled.label>
+	<AIRobot_Cleaner_disabled.description>Dronun trajik sonu. Artık çalışamaz durumda ve tamir ya da hurdaya ayrılma gerektiriyor.</AIRRobot_Cleaner_disabled.description>
+
+	<AIRobot_Hauler.tools.0.label>sol manipülatör</AIRRobot_Hauler.tools.0.label>
+	<AIRobot_Hauler.tools.1.label>sağ manipülatör</AIRRobot_Hauler.tools.1.label>
+	<AIRobot_Hauler.tools.2.label>başlık</AIRRobot_Hauler.tools.2.label>
+
+	<AIRobot_Cleaner.tools.0.label>sol manipülatör</AIRRobot_Cleaner.tools.0.label>
+	<AIRobot_Cleaner.tools.1.label>sağ manipülatör</AIRRobot_Cleaner.tools.1.label>
+	<AIRobot_Cleaner.tools.2.label>başlık</AIRRobot_Cleaner.tools.2.label>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+	<AIRobot_Hauler_disabled.label>Yük Dronu (devre dışı)</AIRobot_Hauler_disabled.label>
+	<AIRobot_Hauler_disabled.description>Bu drone artık çalışamaz durumda ve ya kapsamlı bir onarım ya da hurdaya ayrılma gerektiriyor.</AIRRobot_Hauler_disabled.description>
+
+	<AIRobot_Cleaner_disabled.label>Temizlik Dronu (devre dışı)</AIRobot_Cleaner_disabled.label>
+	<AIRobot_Cleaner_disabled.description>Bu drone artık çalışamaz durumda ve ya kapsamlı bir onarım ya da hurdaya ayrılma gerektiriyor.</AIRRobot_Cleaner_disabled.description>
+
+</LanguageData>
