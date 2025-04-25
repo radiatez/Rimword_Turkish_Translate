@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	
+	<RecruitRelationshipDamage.label>Zorunlu işe alma maliyeti (fraksiyon ilişkisi)</RecruitRelationshipDamage.label>
+	<RecruitRelationshipDamage.description>Bir misafiri işe almak için misafirin fraksiyonuyla olan ilişki puanı maliyeti.</RecruitRelationshipDamage.description>
+	
+	<ForcedRecruitRelationshipDamage.label>Zorla işe alma maliyeti (fraksiyon ilişkisi)</ForcedRecruitRelationshipDamage.label>
+	<ForcedRecruitRelationshipDamage.description>Bir misafiri zorla işe almak için misafirin fraksiyonuyla olan ilişki puanı maliyeti.</ForcedRecruitRelationshipDamage.description>
+	
+	<RecruitEffectivity.label>İşe alma etkinliği</RecruitEffectivity.label>
+	<RecruitEffectivity.description>Eğlence etkinliği.</RecruitEffectivity.description>
+
+</LanguageData>

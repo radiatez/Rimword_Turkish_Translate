@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	
+	<CharmGuest.reportString>TargetA ile kolonileriniz arasında dostane bağlar kurmaya çalışıyor.</CharmGuest.reportString>
+	<GuestImproveRelationship.reportString>TargetA'nın fraksiyonu ile arayı yumuşatmaya çalışıyor.</GuestImproveRelationship.reportString>
+	<BuyItem.reportString>TargetA hakkında bilgi alıyor.</BuyItem.reportString>
+	<BrowseItems.reportString>Satıştaki ürünlere göz atıyor.</BrowseItems.reportString>
+	<ClaimGuestBed.reportString>Bir yatak seçiyor.</ClaimGuestBed.reportString>
+	<VendingMachine_EmptyVendingMachine.reportString>Otomatı boşaltıyor.</VendingMachine_EmptyVendingMachine.reportString>
+
+</LanguageData>

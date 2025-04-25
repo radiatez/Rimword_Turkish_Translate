@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	
+	<Sentence_CharmAttemptAccepted.rulePack.rulesStrings>
+        <li>sent->[RECIPIENT_nameDef] [RECIPIENT_possessive] coşkuyla alkışlıyor.</li>
+        <li>sent->[RECIPIENT_nameDef] gülümsüyor.</li>
+        <li>sent->[RECIPIENT_nameDef] başını sallıyor.</li>
+        <li>sent->[RECIPIENT_nameDef] daha fazlasını duymak için sabırsızlanıyor.</li>
+        <li>sent->[RECIPIENT_nameDef] heyecanlı görünüyor.</li>
+        <li>sent->[RECIPIENT_nameDef] iltifat edilmiş gibi görünüyor.</li>
+        <li>sent->[RECIPIENT_nameDef], [INITIATOR_nameDef]'e şaşkınlıkla bakıyor.</li>
+	</Sentence_CharmAttemptAccepted.rulePack.rulesStrings>
+
+	<Sentence_CharmAttemptRejected.rulePack.rulesStrings>
+        <li>sent->[RECIPIENT_nameDef] sinirleniyor.</li>
+        <li>sent->[RECIPIENT_nameDef] başını sallayarak onaylamıyor.</li>
+        <li>sent->[RECIPIENT_nameDef] alay ediyor.</li>
+        <li>sent->[RECIPIENT_nameDef] zaten yeterince duymuş gibi.</li>
+        <li>sent->[RECIPIENT_nameDef] canı sıkılmış şekilde etrafına bakıyor...</li>
+        <li>sent->[RECIPIENT_nameDef] yakında ayrılacağını söylüyor.</li>
+        <li>sent->[RECIPIENT_nameDef] gözlerini devirdi.</li>
+	</Sentence_CharmAttemptRejected.rulePack.rulesStrings>
+	
+</LanguageData>

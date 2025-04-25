@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	
+	<GuestDiplomacy.label>İlişkileri geliştir</GuestDiplomacy.label>
+	<GuestDiplomacy.logRulesInitiator.rulesStrings>
+		<li>r_logentry->[INITIATOR_nameDef], [RECIPIENT_nameDef] ile [TalkTopicLight] hakkında zekice konuştu.</li>
+		<li>r_logentry->[INITIATOR_nameDef], [RECIPIENT_nameDef] hakkında [subject] konusundaki sözlerinden hoşlanmadı.</li>
+		<li>r_logentry->[INITIATOR_nameDef], [RECIPIENT_nameDef] kişiliğini [PersonalCharacteristic] üzerinden [complimented].</li>
+		<li>r_logentry->[INITIATOR_nameDef], [RECIPIENT_nameDef]'in fraksiyonunu [complimented].</li>
+		<li>r_logentry->[INITIATOR_nameDef], [RECIPIENT_factionName] ile olan ilişkisini [complimented].</li>
+		<li>r_logentry->[INITIATOR_nameDef], [RECIPIENT_nameDef]'e [PersonFamily] adına selam verdi.</li>
+		<li>r_logentry->[INITIATOR_nameDef], [RECIPIENT_nameDef] ile [opinion] hakkındaki fikirlerini paylaşarak bağ kurmaya çalıştı.</li>
+
+		<li>opinion->[ConceptPositive] desteği</li>
+		<li>opinion->[ConceptNegative]'den iğrenme</li>
+		<li>opinion->[ConceptNegative]'den korkma</li>
+		<li>opinion->[ConceptAny] hakkında fikir</li>
+		<li>opinion->[ConceptPositive] özlemi</li>
+		<li>complimented->övdü</li>
+     		<li>complimented->takdir etti</li>
+        	<li>complimented->yüceltti</li>
+        	<li>complimented->alkışladı</li>
+        	<li>complimented->kutladı</li>
+	</GuestDiplomacy.logRulesInitiator.rulesStrings>
+
+	<CharmGuestAttempt.label>etkileme girişimi</CharmGuestAttempt.label>
+ 	<CharmGuestAttempt.logRulesInitiator.rulesStrings>
+        <li>r_logentry->[INITIATOR_nameDef], [RECIPIENT_nameDef]'e [saidwords].</li>
+        <li>r_logentry->[INITIATOR_nameDef], [RECIPIENT_nameDef] ile [INITIATOR_factionName]'in [ConceptPositive] yönleri hakkında konuşuyor.</li>
+        <li>r_logentry->[INITIATOR_nameDef], [RECIPIENT_nameDef] ile başka bir kolonist hakkında birkaç [adjwords] kelime paylaştı.</li>
+        <li>r_logentry->[INITIATOR_nameDef], [RECIPIENT_nameDef]'e başka bir kolonistten bahsediyor.</li>
+        <li>saidwords->[adjwords] kelimelerle konuşuyor</li>
+        <li>saidwords->[ConceptPositive] duygularını ifade ediyor</li>
+        <li>saidwords->[adjwords] jestler yapıyor</li>
+		<li>adjwords->ilgi çekici</li>
+		<li>adjwords->nazik</li>
+		<li>adjwords->çekici</li>
+		<li>adjwords->samimi</li>
+		<li>adjwords->etkileyici</li>
+	</CharmGuestAttempt.logRulesInitiator.rulesStrings>
+
+</LanguageData>

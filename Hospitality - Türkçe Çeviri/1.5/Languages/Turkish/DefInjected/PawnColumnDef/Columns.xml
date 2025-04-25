@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	
+	<Faction.label>Fraksiyon</Faction.label>
+	<AccommodationArea.label>Konaklama Alanı</AccommodationArea.label>
+	<ShoppingArea.label>Alışveriş Alanı</ShoppingArea.label>
+	
+	<MakeFriends.headerTip>Arkadaşlık kur</MakeFriends.headerTip>
+	<Entertain.headerTip>Hibbe et</Entertain.headerTip>
+	<Hospitality.headerTip>Misafirperverlik</Hospitality.headerTip>
+	<FriendsForRecruiting.headerTip>Kolonideki arkadaşlar</FriendsForRecruiting.headerTip>
+
+</LanguageData>

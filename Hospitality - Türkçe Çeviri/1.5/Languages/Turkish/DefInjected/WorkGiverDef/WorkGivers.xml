@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	
+	<Recruiter.label>Misafirlerle arkadaşlık kur</Recruiter.label>
+	<Recruiter.verb>arkadaş oluyor</Recruiter.verb>
+	<Recruiter.gerund>ile arkadaşlık kuruyor</Recruiter.gerund>
+
+	<Diplomat.label>Misafirleri eğlendir</Diplomat.label>
+	<Diplomat.verb>Rehberlik ediyor</Diplomat.verb>
+	<Diplomat.gerund>eğlendiriyor</Diplomat.gerund>
+
+	<Hospitality_WithdrawVendingMachineEarnings.label>otomatı boşalt</Hospitality_WithdrawVendingMachineEarnings.label>
+	<Hospitality_WithdrawVendingMachineEarnings.verb>otomatı boşalt</Hospitality_WithdrawVendingMachineEarnings.verb>
+	<Hospitality_WithdrawVendingMachineEarnings.gerund>otomatı boşaltıyor</Hospitality_WithdrawVendingMachineEarnings.gerund>
+
+</LanguageData>

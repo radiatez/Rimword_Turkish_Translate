@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Recruiting -->
+  <RecruitAngerMultiple>{0}, {1}'i art arda {2} kez sinirlendirdi.</RecruitAngerMultiple>
+  <RecruitFactionAnger>{0} ({1}), {2}'yi ({3}) koloninize aldığınız için kızgın.</RecruitFactionAnger>
+  <RecruitFactionAngerLeaderless>{0} üyeleri, artık temsilcilerinden haber alamıyor ({2}).</RecruitFactionAngerLeaderless>
+  <LostGroupFactionAnger>{0} ({1}), artık temsilcilerini hatırlamıyor ({2}).</LostGroupFactionAnger>
+  <LostGroupFactionAngerLeaderless>{0} üyeleri, ({1})'yi koloninize aldığınız için kızgın.</LostGroupFactionAngerLeaderless>
+  <RecruitFactionPlease>{0} ({1}), {2}'den kurtulduğu için memnun! ({3})</RecruitFactionPlease>
+  <RecruitFactionPleaseLeaderless>{0} üyeleri, {1}'nin fraksiyonlarını terk etmesinden memnun ({2}).</RecruitFactionPleaseLeaderless>
+  <MessageGuestRecruitSuccess>{0}, koloninize katılmaya karar verdi!</MessageGuestRecruitSuccess>
+  <MessageGuestForcedRecruit>{0}, zorla koloninize alındı!</MessageGuestForcedRecruit>
+  <LetterLabelRecruitFactionChiefAnger>Öfkeli lider</LetterLabelRecruitFactionChiefAnger>
+  <LetterLabelRecruitFactionAnger>Öfkeli fraksiyon</LetterLabelRecruitFactionAnger>
+  <LetterLabelRecruitFactionChiefPlease>Memnun lider</LetterLabelRecruitFactionChiefPlease>
+  <LetterLabelRecruitFactionPlease>Memnun fraksiyon</LetterLabelRecruitFactionPlease>
+  
+  <GuestCanBeRecruitedNow>{PAWN_labelShort} artık koloninize katılabilecek kadar arkadaşa sahip.</GuestCanBeRecruitedNow>
+  
+  <TextMote_CharmFail>Alındı</TextMote_CharmFail>
+  <TextMote_CharmSuccess>Etkilendi</TextMote_CharmSuccess>
+  
+  <!-- Incident Results -->
+  <VisitorsLeavingGreat>Misafirperverliğinizden çok memnun kaldılar! (Puan: {1})</VisitorsLeavingGreat>
+  <VisitorsLeavingGood>Ziyaretlerinden memnun kaldılar! (Puan: {1})</VisitorsLeavingGood>
+  <VisitorsLeavingNormal>Ziyaretleri gayet iyi geçti. (Puan: {1})</VisitorsLeavingNormal>
+  <VisitorsLeavingBad>Sizden daha fazlasını bekliyorlardı. (Puan: {1})</VisitorsLeavingBad>
+  <VisitorsLeavingAwful>Kalışlarından çok büyük hayal kırıklığı yaşadılar. (Puan: {1})</VisitorsLeavingAwful>
+  <MessageVisitorsLeavingCold>{0}'in misafirleri soğuk nedeniyle ayrılıyor.</MessageVisitorsLeavingCold>
+  <VisitorsSentAway>Onları evlerine gönderdiniz.</VisitorsSentAway>
+  
+  <VisitorsReturnSoon>Yakında geri dönecekler.</VisitorsReturnSoon>
+  <VisitorsReturnWhile>Daha sonra geri dönecekler.</VisitorsReturnWhile>
+  <VisitorsReturnNotSoon>Uzun süre dönmeyecekler.</VisitorsReturnNotSoon>
+  <VisitorsReturnNot>Artık sizden bıktılar.</VisitorsReturnNot>
+  
+  <VisitorsArrivedTitle>{WORLDOBJECT_label} konumuna {1}'den gelen misafirler geldi</VisitorsArrivedTitle>
+  <VisitorsArrivedDesc>Şu sebeplerle topraklarınıza girmekten çekiniyorlar:\n{1}\n\nEğer onları geri gönderirseniz, bölgede kalıp daha sonra geri dönecekler.</VisitorsArrivedDesc>
+  <VisitorsArrivedAccept>Güvenliklerini garanti et</VisitorsArrivedAccept>
+  <VisitorsArrivedRefuse>Geri gönder</VisitorsArrivedRefuse>
+  <VisitorsArrivedRefuseUntilBeds>Yeterli yatak yoksa misafirleri reddet</VisitorsArrivedRefuseUntilBeds>
+  <VisitorsArrivedReasonNoBeds>Misafirler için yatak yok.</VisitorsArrivedReasonNoBeds>
+  
+  <LetterLabelDownedPawnBecameGuest>{PAWN_labelShort} artık bir misafir.</LetterLabelDownedPawnBecameGuest>
+  <LetterLabelDownedPawnJoinedGroup>{PAWN_labelShort} misafir grubuna katıldı.</LetterLabelDownedPawnJoinedGroup>
+  <RescuedPawnBecameGuest>{PAWN_nameDef}, onu kurtardığınız kişi artık bir misafir ve birkaç saat daha kalacak. {PAWN_labelShort}'ı serbest bırakabilir, ayrılmasını söyleyebilir ya da koloninize katılmasını sağlayabilirsiniz.\n\n{PAWN_pronoun} sağlıklı şekilde topraklarınızdan ayrıldığında fraksiyonu minnettar olacaktır.</RescuedPawnBecameGuest>
+  <RescuedPawnJoinedGroup>{PAWN_nameDef}, onu kurtardığınız kişi fraksiyonunun misafir grubuna katıldı. {PAWN_pronoun} grubu ile birlikte sağlıklı bir şekilde ayrılırsa, fraksiyonu size minnettar olacaktır.</RescuedPawnJoinedGroup>
+  <DownedPawnBecameGuest>{PAWN_nameDef} artık bir misafir ve birkaç saat daha kalacak. Bekleyebilir, {PAWN_objective}'i geri gönderebilir veya koloninize alabilirsiniz.</DownedPawnBecameGuest>
+  <DownedPawnJoinedGroup>{PAWN_nameDef}, fraksiyonunun misafir grubuna katıldı.</DownedPawnJoinedGroup>
+  
+  <LetterLabelHappyGuestJoins>{PAWN_labelShort} aranızda kalmak istiyor.</LetterLabelHappyGuestJoins>
+  <HappyGuestJoins>{PAWN_labelShort} ({0}), {PAWN_possessive} fraksiyonu ile anlaştı ve elçi olarak size katılmasına izin verildi. Bu, fraksiyonla olan ilişkinize zarar vermez.\n\n{PAWN_pronoun}'ı alıp almamaya karar vermek için vaktiniz var.</HappyGuestJoins>
+  
+  <GuestBoughtItem>{FACTION_name} üyesi {ITEM_label} adlı eşyayı {1} gümüş karşılığında satın aldı.</GuestBoughtItem>
+  <GuestTookFreeItem>{FACTION_name} üyesi {ITEM_label} adlı eşyayı ücretsiz aldı.</GuestTookFreeItem>
+  
+  
+    <!-- Communication -->
+  <InviteGuests>Koloninizde onlara rehberlik edin.</InviteGuests>
+  <GuestsCantBeHostile>Gelemezler, çünkü size düşmanlar.</GuestsCantBeHostile>
+  <GuestsDontWantToCome>Sizi ziyaret etmek istemiyorlar.</GuestsDontWantToCome>
+  <GuestsAlreadyComing>Zaten yoldalar ve {0} içinde varacaklar</GuestsAlreadyComing>
+  <GuestsOnTheirWay>Bir heyet gönderiyorlar. {0} içinde varacaklar.</GuestsOnTheirWay>
+  
+  <!-- Pawn Tab -->
+  <AreaToStay>Kalma bölgesi</AreaToStay>
+  <AreaToBuy>Alışveriş bölgesi</AreaToBuy>
+  <AreaNoShopping>Alışveriş yok</AreaNoShopping>
+  <AreaToStayTooltip>Misafirler bu bölgede uyuyabilir, çalışabilir ve dinlenebilir.</AreaToStayTooltip>
+  <AreaToBuyTooltip>Misafirler bu bölgede eşya satın alabilir. Alışveriş bölgesi kalma bölgesinin içinde olmalıdır.</AreaToBuyTooltip>
+  <FriendsRequirement>Rekabet için gereken arkadaşlar: {0}/{1}</FriendsRequirement>
+  <SeniorityRequirement>Yüksek rütbeli arkadaşlar: {0}/{1}</SeniorityRequirement>
+  <RecruitmentPenalty>Alım bedeli: {0} (zorla alım: {1})</RecruitmentPenalty>
+  <ImproveRelationship>Neşelendir</ImproveRelationship>
+  <MakeFriends>Arkadaşlık kur</MakeFriends>
+  <LeaveAlone>Yalnız bırak</LeaveAlone>
+  <FactionGoodwill>Fraksiyon ilişkisi</FactionGoodwill>
+  <Hospitality>Misafirperverlik</Hospitality>
+  <MakeDefault>Varsayılan yap</MakeDefault>
+  <SendAway>Geri gönder...</SendAway>
+  <SendAwayQuestion>{0} misafirlerini göndermek istediğinizden emin misiniz?\nGönderirseniz, ilişkilere etkisi olmayacak.</SendAwayQuestion>
+  <Recruit>Al...</Recruit>
+  <CantRecruit>Bu misafir şu anda alınamaz.</CantRecruit>
+  <CantForceRecruit>Bu misafir zorla alınamaz.</CantForceRecruit>
+  <RecruitQuestion>{PAWN_nameDef}'i alabilirsiniz.\n\n{PAWN_pronoun} yeterince arkadaşa sahip olduğu için sadece {0} ilişki puanı kaybedersiniz.{1}\n\n\n{PAWN_nameDef}'i almak istediğinizden emin misiniz?</RecruitQuestion>
+  <ForceRecruit>Zorla al...</ForceRecruit>
+  <ForceRecruitQuestion>{PAWN_nameDef}'i hemen zorla alabilirsiniz.\n\n{PAWN_pronoun} henüz yeterli arkadaşa sahip olmadığından {0} ilişki puanı kaybedersiniz. Daha fazla arkadaşı olsaydı bu maliyet daha düşük olabilirdi. {1}\n\n\nGerçekten beklememek mi istiyorsunuz?</ForceRecruitQuestion>
+  <ForceRecruitWarning>\n\nBu onları anında düşman yapar.</ForceRecruitWarning>
+  <ForceAcidifierWarning>\n\nÖlümcül asit cihazlarını etkinleştirecekler.</ForceAcidifierWarning>
+  <NotEnoughFriends>[PAWN_nameDef], kolonistlerinizi yeterince sevmiyor (görüş > {0}).</NotEnoughFriends>
+  <OnlyJoinsByForce>[PAWN_nameDef], yalnızca zorla katılır.</OnlyJoinsByForce>
+  <CanNowBeRecruited>[PAWN_nameDef] artık alınabilir.</CanNowBeRecruited>
+  <IsATrader>[PAWN_nameDef], bir kervana ait ve misafir değil.</IsATrader>
+  <ImproveTooltip>Ev sahipleriniz misafirlerin moralini yükseltmeye çalışır. Yüksek Sosyallik puanına sahip kolonistler daha başarılı olur. Düşük puanlılar misafiri rahatsız edebilir.</ImproveTooltip>
+  <TryRecruitTooltip>Ev sahipleriniz misafirlerle arkadaş olmaya çalışır. Yüksek Sosyallik puanına sahip kolonistler daha başarılı olur. Düşük puanlılar misafiri rahatsız edebilir. Misafir yeterince arkadaş edindiğinde alınabilir hale gelir.</TryRecruitTooltip>
+  <RecruitTooltip>Misafiriniz koloninizde yeterince arkadaş edinmiş. Onu almak bazı itibar puanlarına mal olur.</RecruitTooltip>
+  <MakeDefaultTooltip>Bu kuralları mevcut ve gelecek tüm misafirlere uygula.</MakeDefaultTooltip>
+  <ForceRecruitTooltip>Ev sahiplerinin misafirleri ikna etmesini beklemek yerine, onları kalmaya zorlayabilirsiniz. Ancak bu, fraksiyonlar arası ilişkilere zarar verir.</ForceRecruitTooltip>
+  <SendAwayTooltip>Bu misafirin grubunu gönder.</SendAwayTooltip>
+  
+  <!-- Main Tab -->
+  <BedsFilled>Dolu yataklar: {0}/{1}</BedsFilled>
+  <MapSettings>Harita ayarları...</MapSettings>
+  <GuestsWelcome>Yeni misafirlere izin ver</GuestsWelcome>
+  <GuestsWelcomeTooltip>Bu seçenek devre dışı bırakılırsa, bu koloniye yeni misafir grubu gelmez.</GuestsWelcomeTooltip>
+  <RefuseGuestsUntilBeds>Yeterli yatak yoksa misafirleri reddet</RefuseGuestsUntilBeds>
+  <RefuseGuestsUntilBedsTooltip>Bu seçenek aktifse, misafir yatağı yapmadığınız sürece yeni misafir grubu gelmez.</RefuseGuestsUntilBedsTooltip>
+  <GuestsCanTakeFoodForFree>Misafirler ücretsiz yemek alabilir</GuestsCanTakeFoodForFree>
+  <GuestsCanTakeFoodForFreeTooltip>Bu seçenek etkinleştirilirse, misafirler yemek stoğunuzdan ücretsiz şekilde yiyecek alabilir.</GuestsCanTakeFoodForFreeTooltip>
+  
+  <!-- Infos -->
+  <StatsReport_MissingFriends>Eksik arkadaşlar</StatsReport_MissingFriends>
+  
+  <!-- Vending Machine -->
+  <Hospitality_VendingMachine>Yiyecek otomatı</Hospitality_VendingMachine>
+  <Hospitality_VendingMachinePrice>Fiyat:</Hospitality_VendingMachinePrice>
+  <Hospitality_VendingMachineContains>İçindekiler:</Hospitality_VendingMachineContains>
+  <Hospitality_VendingMachineToggleDesc>Misafirlerin bu makineyi kullanmasına izin verin.</Hospitality_VendingMachineToggleDesc>
+  <Hospitality_VendingMachineThreshold>Şuraya kadar boşalt:</Hospitality_VendingMachineThreshold>
+  <Hospitality_VendingMachineContent>İçerik</Hospitality_VendingMachineContent>
+  
+  <!-- Bed -->
+  <GuestBedFormat>misafir {0}</GuestBedFormat>
+  <CommandBedSetAsGuestLabel>Misafirler için</CommandBedSetAsGuestLabel>
+  <CommandBedSetAsGuestDesc>Bu yatak misafirler içindir</CommandBedSetAsGuestDesc>
+  <BedGizmoAttractiveness>Çekicilik:</BedGizmoAttractiveness>
+  <BedSatisfiedTitles>Bu kraliyet unvanları bu yatağı kabul eder:</BedSatisfiedTitles>
+  <BedroomMustBeSingle>Tek kişilik yatak</BedroomMustBeSingle>
+  <NextTitleRequirements>Bir sonraki unvan için gereklilikler:\n- {0}</NextTitleRequirements>
+  
+    
+    
+   <!-- Alerts -->
+  <AlertCantClaimBed>Bir misafirin yatağı yok.</AlertCantClaimBed>
+  <AlertCantClaimBedDesc>Bu misafirler bir yatak kiralayamıyor:\n\n{0}\nFiyatı düşürün veya ziyaretçilere biraz para verin.\nİlişkisi daha iyi olan fraksiyonlar daha fazla para getirir.</AlertCantClaimBedDesc>
+  <AlertNotEnoughBeds>Misafirler için yeterli yatak yok.</AlertNotEnoughBeds>
+  <AlertNotEnoughBedsDesc>Şu misafirler için yatak eksik:\n\n{0}\nYatak inşa edin ya da mevcut yatakları misafirlere açın.</AlertNotEnoughBedsDesc>
+  <AlertHasNoFood>Misafirlerin yiyeceği yok</AlertHasNoFood>
+  <AlertHasNoFoodDesc>Bu misafirlerin yiyeceği yok:\n\n{0}\nYiyecek satışa sunun, bir otomat kurun ya da misafirlere para veya kumanya verin. Ayrıca, misafirlerin ücretsiz yiyecek almasına izin verebilirsiniz.\nİlişkisi daha iyi olan fraksiyonlar daha fazla para getirir.</AlertHasNoFoodDesc>
+  
+  <!-- Settings -->
+  <DisableLimits>Seçenek sınırlarını devre dışı bırak</DisableLimits>
+  <DisableLimitsDesc>Bu seçenek etkinleştirildiğinde, dengeli bir oyun için önerilen ayarları değiştirebilirsiniz.</DisableLimitsDesc>
+  <DisableVisitors>Misafirleri devre dışı bırak</DisableVisitors>
+  <DisableVisitorsDesc>Misafirlerden hoşlanmıyorsanız ve bu modu neden yüklediğinizi merak ediyorsanız...</DisableVisitorsDesc>
+  <DisableGuestsHelping>Misafir yardımını devre dışı bırak</DisableGuestsHelping>
+  <DisableGuestsHelpingDesc>Misafirler koloninizde görev yapmayacak.</DisableGuestsHelpingDesc>
+  <DisableArtAndCraft>El sanatlarını ve zanaati devre dışı bırak</DisableArtAndCraft>
+  <DisableArtAndCraftDesc>Misafirler hiçbir zanaat veya sanatsal iş yapmaz.</DisableArtAndCraftDesc>
+  <DisableOperations>Ameliyat yardımını devre dışı bırak</DisableOperations>
+  <DisableOperationsDesc>Misafirler hastalara artık ameliyat yapmaz.</DisableOperationsDesc>
+  <DisableMedical>Tıbbi yardımı devre dışı bırak</DisableMedical>
+  <DisableMedicalDesc>Misafirler hastaları tedavi etmeyecek.</DisableMedicalDesc>
+  <DisableGifts>Misafir hediyelerini devre dışı bırak</DisableGifts>
+  <DisableGiftsDesc>Misafirler memnun kaldıklarında ayrılırken hediye bırakmaz.</DisableGiftsDesc>
+  <MinGuestWorkSkill>Çalışma için minimum beceri seviyesi</MinGuestWorkSkill>
+  <MinGuestWorkSkillDesc>Bir misafirin göreve yardım edebilmesi için gerekli minimum beceri seviyesi (önerilen: 7)</MinGuestWorkSkillDesc>
+  <MinGuestGroupSize>Minimum misafir grup boyutu</MinGuestGroupSize>
+  <MinGuestGroupSizeDesc>Bir misafir grubunun minimum boyutu (önerilen: 1)</MinGuestGroupSizeDesc>
+  <MaxGuestGroupSize>Maksimum misafir grup boyutu</MaxGuestGroupSize>
+  <MaxGuestGroupSizeDesc>Bir misafir grubunun maksimum boyutu (önerilen: 16)</MaxGuestGroupSizeDesc>
+  <MaxIncidentsPer3Days>3 günde maksimum grup sayısı</MaxIncidentsPer3Days>
+  <MaxIncidentsPer3DaysDesc>3 gün içinde gelebilecek maksimum misafir grubu sayısı (önerilen: 5)</MaxIncidentsPer3DaysDesc>
+  <DisableGuestsTab>Misafirler sekmesini gizle</DisableGuestsTab>
+  <DisableGuestsTabDesc>Oyunun üst menüsündeki Misafirler sekmesini gizler.</DisableGuestsTabDesc>
+  <EnableBuyNotification>Satın alma bildirimlerini göster</EnableBuyNotification>
+  <EnableBuyNotificationDesc>Bir misafir alışveriş yaptığında bir mesaj gösterir.</EnableBuyNotificationDesc>
+  <EnableRecruitNotification>“Yeterince arkadaşı var” bildirimini göster</EnableRecruitNotification>
+  <EnableRecruitNotificationDesc>Bir misafirin alınabilir hale geldiğinde mesaj gösterir.</EnableRecruitNotificationDesc>
+  <DisableFriendlyGearDrops>Dostlar eşyalarını düşürmesin</DisableFriendlyGearDrops>
+  <DisableFriendlyGearDropsDesc>Dost bir karakter yere düşerse, envanterini düşürmez.</DisableFriendlyGearDropsDesc>
+  <UseIcon>Misafir sekmesi simgesini göster</UseIcon>
+  <UseIconDesc>Misafir sekmesinde metin yerine simge göster</UseIconDesc>
+
+  
+</LanguageData>
