@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <LT_DoorMatRed.label>Kilim (kırmızı)</LT_DoorMatRed.label>
+    <LT_DoorMatRed.description>Ayakları kirden temizler.</LT_DoorMatRed.description>
+
+    <LT_DoorMatGreen.label>Kilim (yeşil)</LT_DoorMatGreen.label>
+    <LT_DoorMatGreen.description>Ayakları kirden temizler.</LT_DoorMatGreen.description>
+
+    <LT_DoorMatBlue.label>Kilim (mavi)</LT_DoorMatBlue.label>
+    <LT_DoorMatBlue.description>Ayakları kirden temizler.</LT_DoorMatBlue.description>
+
+    <LT_DoorMatBigRed.label> Büyük kilim (kırmızı)</LT_DoorMatBigRed.label>
+    <LT_DoorMatBigRed.description>Ayakları kirden temizler.</LT_DoorMatBigRed.description>
+
+    <LT_DoorMatBigGreen.label>Büyük kilim (yeşil)</LT_DoorMatBigGreen.label>
+    <LT_DoorMatBigGreen.description>Ayakları kirden temizler.</LT_DoorMatBigGreen.description>
+
+    <LT_DoorMatBigBlue.label>Büyük kilim (mavi)</LT_DoorMatBigBlue.label>
+    <LT_DoorMatBigBlue.description>Ayakları kirden temizler.</LT_DoorMatBigBlue.description>
+
+</LanguageData>
