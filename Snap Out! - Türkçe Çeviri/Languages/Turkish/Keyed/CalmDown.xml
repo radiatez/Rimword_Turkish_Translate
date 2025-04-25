@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FailCalm>{0} {1}’i sakinleştirmeyi başaramadı.</FailCalm>
+  <SuccessCalm>{1} başarıyla sakinleştirildi, {0} sayesinde.</SuccessCalm>
+  <AggroFailCalm>{0}, {1}’i sakinleştirmeye çalıştıktan sonra saldırıya uğradı.</AggroFailCalm>
+  <SettingsCategoryLabel>Snap Out!</SettingsCategoryLabel>
+  <MessagesEnabledLabel>Karakter mesajlarını aç</MessagesEnabledLabel>
+  <AggroCalmEnabledLabel>Agressif kolonistleri sakinleştirmeyi aç</AggroCalmEnabledLabel>
+  <OpinionOnlyEnabledLabel>Sadece görüş geçerli</OpinionOnlyEnabledLabel>
+  <NonFactionEnabledLabel>Mahkumları sakinleştirmeyi aç</NonFactionEnabledLabel>
+  <TraderCalmEnabledLabel>Tüccarları sakinleştirmeyi aç</TraderCalmEnabledLabel>
+  <AdvancedMenu>Gelişmiş seçenekler</AdvancedMenu>
+  <SMultLabel>Diplomasi çarpanı</SMultLabel>
+  <OMultLabel>Görüş çarpanı</OMultLabel>
+  <OOMultLabel>Kişisel görüş çarpanı</OOMultLabel>
+  <StunWeight>Agressif kolonistin sersemletilme şansı</StunWeight>
+  <CalmDuration>Sakinlik süresi</CalmDuration>
+  <DebugChanceSetting>Debug ve rastgele mesajların konsola yazdırılması</DebugChanceSetting>
+  <NoCathEnabledLabel>Katarzisi devre dışı bırak</NoCathEnabledLabel>
+  <SOCooldown>Başarısız denemeden sonra yenileme süresi</SOCooldown>
+
+  <CM1>Her şey yoluna girecek.</CM1>
+  <CM2>Endişelenme, sana yardımcı olacağım.</CM2>
+  <CM3>Basitçe benimle kal, ben sonuna kadar seninle olacağım.</CM3>
+  <CM4>Bu sadece küçük bir sorun, her şey yolunda olacak.</CM4>
+  <CM5>Seninle olacağız.</CM5>
+  <CM6>Buradayım, bana neyin seni rahatsız ettiğini söyle - seni dinliyorum.</CM6>
+  <CM7>Bunu birlikte çözebiliriz.</CM7>
+  <CM8>Derin bir nefes al, bunu başarabilirsin. Rahatla.</CM8>
+  <CM9>Endişelendiğini biliyorum, sana gerçekten yardımcı olmak isterdim.</CM9>
+  <CM10>Seni ne endişelendiriyor?</CM10>
+  <CM11>Yine mi, dur artık.</CM11>
+  <CM12>Sorunlarını bana anlat.</CM12>
+  <CM13>Her şey geçecek.</CM13>
+  <CM14>Bu bir fırtına gibi, hepsi geçici.</CM14>
+  <CM15>Bunu birlikte çözelim.</CM15>
+  <CM16>Güvendesin, ben yanındayım.</CM16>
+  <CM17>Bunu yaşadığın için üzgünüm.</CM17>
+  <CM18>Burada yalnız değilsin, sana yardım edeceğiz.</CM18>
+  <CM19>Bu senin suçun değil.</CM19>
+  <CM20>Beni serbest bırakabilirsin, seni dinleyeceğim.</CM20>
+  <CM21>Harika bir dinlenme odamız var, birlikte satranç oynamaya ne dersin?</CM21>
+
+</LanguageData>

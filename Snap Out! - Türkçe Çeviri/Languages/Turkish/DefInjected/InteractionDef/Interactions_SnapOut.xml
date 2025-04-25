@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SnapOut_CalmDownInteraction.label>rahatlatmak</SnapOut_CalmDownInteraction.label>
+  <SnapOut_CalmDownInteraction.logRulesInitiator.rulesStrings.0>r_logentry->[RECIPIENT_nameDef]’i sakinleştirmeye çalışıyor.</SnapOut_CalmDownInteraction.logRulesInitiator.rulesStrings.0>
+  <SnapOut_CalmDownInteraction.logRulesRecipient.rulesStrings.0>r_logentry->[INITIATOR_nameDef] beni sakinleştirmeye çalışıyor.</SnapOut_CalmDownInteraction.logRulesRecipient.rulesStrings.0>
+
+</LanguageData>
