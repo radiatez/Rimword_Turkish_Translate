@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Concept_SimpleSidearmsBasic.label>SS: Yardımcı Silahlar</Concept_SimpleSidearmsBasic.label>
+  <Concept_SimpleSidearmsBasic.helpText>Simple Sidearms\n\nBir silahı yardımcı silah olarak takmak için sağ tıklayın ve "Yardımcı Silah Olarak Tak" seçeneğini seçin.\n\nBir silah taşıyan yerleşimciyi seçtiğinizde, ekranın alt kısmında küçük bir arayüzde yardımcı silah listesi gösterilir. Varsayılan olarak, yerleşimciler otomatik olarak mesafeye uygun silahı değiştirecek ve yakın dövüş başladığında yakın dövüş silahına geçecektir. Bu davranışı mod ayarlarında değiştirebilirsiniz.</Concept_SimpleSidearmsBasic.helpText>
+
+  <Concept_SidearmsInInventory.label>SS: Taşınan Yardımcı Silahlar</Concept_SidearmsInInventory.label>
+  <Concept_SidearmsInInventory.helpText>Arka planı gri olan yardımcı silahlar, yerleşimcinin envanterine girmiş ve kullanılabilir silahlardır. Sol tıklayarak değiştirebilir ve sağ tıklayarak bırakabilirsiniz.</Concept_SidearmsInInventory.helpText>
+
+  <Concept_SidearmsPrimary.label>SS: Devre Dışı Yardımcı Silah</Concept_SidearmsPrimary.label>
+  <Concept_SidearmsPrimary.helpText>Arka planı altın rengi olan yardımcı silah, yerleşimcinin ana silahı olarak belirlenmiş ancak şu anda kullanılmayan bir silahtır. Savaşın dışında kaldığında tekrar değiştirecektir.</Concept_SidearmsPrimary.helpText>
+
+  <Concept_SidearmsMissing.label>SS: Kaybolan Yardımcı Silah</Concept_SidearmsMissing.label>
+  <Concept_SidearmsMissing.helpText>Arka planı koyu mor olan yardımcı silah, yerleşimcinin envanterinden kaybolmuş bir silahtır. Bulunursa, olabildiğince hızlı bir şekilde tekrar takılacaktır. Sağ tıklayarak bu yardımcı silahı unutmasını sağlayabilirsiniz.</Concept_SidearmsMissing.helpText>
+
+  <Concept_SimpleSidearmsAdvanced.label>SS: Gelişmiş Kontrol</Concept_SimpleSidearmsAdvanced.label>
+  <Concept_SimpleSidearmsAdvanced.helpText>Yerleşimcinin kullanacağı yardımcı silahları ayrı ayrı ayarlayabilirsiniz. Üstteki kilidi kırmızıya kilitleyerek, diğer uzak mesafe silahlarının DPS'si daha yüksek olsa bile ana silahı kullanmalarını sağlarsınız. Silahı manuel olarak değiştirirseniz, otomatik geçiş devre dışı bırakılır ve bu çalışma şekli alt kısımdaki kilit ile açılabilir.</Concept_SimpleSidearmsAdvanced.helpText>
+
+  <Concept_SimpleSidearmsDropping.label>SS: Silah Düşürme</Concept_SimpleSidearmsDropping.label>
+  <Concept_SimpleSidearmsDropping.helpText>Ayarlara bağlı olarak, Simple Sidearms, farklı durumlar (varsayılan olarak yakın dövüş saldırısı) için yerleşimcilerin silahları düşürmesini sağlayabilir. Endişelenmeyin, savaş bittiğinde silahları tekrar alacaklardır.\n\nBu, ayarlanabilir bir özelliktir. Mod ayarları penceresinden daha fazla bilgi edinebilirsiniz.</Concept_SimpleSidearmsDropping.helpText>
+
+  <Concept_CEOverride.label>SS: CE Yaması</Concept_CEOverride.label>
+  <Concept_CEOverride.helpText>Combat Extended yaması etkin durumda. Simple Sidearms'ın envanter yönetim özelliği devre dışı bırakıldı.</Concept_CEOverride.helpText>
+
+</LanguageData>

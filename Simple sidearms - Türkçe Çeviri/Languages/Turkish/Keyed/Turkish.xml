@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ActiveTab_desc></ActiveTab_desc>
+  <ActiveTab_title>Ayarlar Sekmesi</ActiveTab_title>
+  
+  <ToolAutoSwitch_desc>Geçerli işe en uygun araç/silah ile otomatik olarak değiştirilsin mi?</ToolAutoSwitch_desc>
+  <ToolAutoSwitch_title>Otomatik Araç/Silah Değişimi</ToolAutoSwitch_title>
+  
+  <OptimalMelee_desc>Daha yüksek DPS'ye sahip yakın dövüş silahına otomatik geçilsin mi?</OptimalMelee_desc>
+  <OptimalMelee_title>En İyi Yakın Dövüş Silahını Kullan</OptimalMelee_title>
+  
+  <CQCAutoSwitch_desc>Yakın dövüş saldırısına uğrandığında yakın dövüş yardımcı silahına geçilsin mi?</CQCAutoSwitch_desc>
+  <CQCAutoSwitch_title>Yakın Dövüşte Otomatik Geçiş</CQCAutoSwitch_title>
+  
+  <CQCFistSwitch_desc>Silah yoksa bile geçiş yapılsın mı?</CQCFistSwitch_desc>
+  <CQCFistSwitch_title>Silahsız Savaşta Otomatik Geçiş</CQCFistSwitch_title>
+  
+  <CQCTargetOnly_desc>Sadece mevcut hedef saldırıya geçerse mi tepki verilsin?</CQCTargetOnly_desc>
+  <CQCTargetOnly_title>Sadece Hedef Saldırırsa Geçiş</CQCTargetOnly_title>
+  
+  <DropMode_desc>Hangi durumlarda silah yere bırakılması zorunlu kılınsın?</DropMode_desc>
+  <DropMode_title>Silah Bırakma Kriteri</DropMode_title>
+  
+  <ReEquipBest_desc>Silah bırakıldıktan sonra en yakındaki yerine en uygun silah otomatik olarak takılsın mı?</ReEquipBest_desc>
+  <ReEquipBest_title>En İyi Silahı Otomatik Tekrar Tak</ReEquipBest_title>
+  
+  <LimitCarryInfo_desc></LimitCarryInfo_desc>
+  <LimitCarryInfo_title>*Her zaman taşıma kapasitesine göre sınırlandırılır</LimitCarryInfo_title>
+  
+  <CEOverrideInfo_desc></CEOverrideInfo_desc>
+  <CEOverrideInfo_title>CE sistemi nedeniyle devre dışı bırakıldı.</CEOverrideInfo_title>
+  
+  
+  <LimitModeAmountMelee_desc>Tüm yakın dövüş yardımcı silahlar için uygulanacak sınırdır.</LimitModeAmountMelee_desc>
+  <LimitModeAmountMelee_title>Genel Yakın Dövüş Yardımcı Silah Sınır Modu</LimitModeAmountMelee_title>
+  
+  <LimitModeAmountRanged_desc>Tüm menzilli yardımcı silahlar için uygulanacak sınırdır.</LimitModeAmountRanged_desc>
+  <LimitModeAmountRanged_title>Genel Menzilli Yardımcı Silah Sınır Modu</LimitModeAmountRanged_title>
+  
+  <LimitModeAmount_desc>Tüm yardımcı silahlar için uygulanacak genel sınırdır.</LimitModeAmount_desc>
+  <LimitModeAmount_title>Genel Yardımcı Silah Sınır Modu</LimitModeAmount_title>
+  
+  <LimitModeSingleMelee_desc>Her bir yakın dövüş yardımcı silah için uygulanacak sınırdır.</LimitModeSingleMelee_desc>
+  <LimitModeSingleMelee_title>Bireysel Yakın Dövüş Yardımcı Silah Sınır Modu</LimitModeSingleMelee_title>
+  
+  <LimitModeSingleRanged_desc>Her bir menzilli yardımcı silah için uygulanacak sınırdır.</LimitModeSingleRanged_desc>
+  <LimitModeSingleRanged_title>Bireysel Menzilli Yardımcı Silah Sınır Modu</LimitModeSingleRanged_title>
+  
+  <LimitModeSingle_desc>Her bir yardımcı silah için uygulanacak bireysel sınırdır.</LimitModeSingle_desc>
+  <LimitModeSingle_title>Bireysel Yardımcı Silah Sınır Modu</LimitModeSingle_title>
+  
+  <LimitModeAmountTotal_title>Genel</LimitModeAmountTotal_title>
+  <LimitModeAmountTotal_desc>Tüm yardımcı silahlar için uygulanacak genel sınırdır.</LimitModeAmountTotal_desc>
+  
+  <MaximumMassAmountAbsolute_desc>Taşınabilecek toplam yardımcı silahların azami ağırlığıdır.</MaximumMassAmountAbsolute_desc>
+  <MaximumMassAmountAbsolute_title>Yardımcı Silah Maksimum Ağırlığı</MaximumMassAmountAbsolute_title>
+  
+  <MaximumMassAmountRelative_desc>Toplam taşıma kapasitesine kıyasla yardımcı silahların toplam maksimum ağırlığıdır.</MaximumMassAmountRelative_desc>
+  <MaximumMassAmountRelative_title>Yardımcı Silah Maksimum Ağırlık Oranı</MaximumMassAmountRelative_title>
+  
+  <MaximumMassSingleAbsolute_desc>Taşınabilecek tek bir yardımcı silahın azami ağırlığıdır.</MaximumMassSingleAbsolute_desc>
+  <MaximumMassSingleAbsolute_title>Yardımcı Silah Başına Maksimum Ağırlık</MaximumMassSingleAbsolute_title>
+  
+  <MaximumMassSingleRelative_desc>Toplam taşıma kapasitesine kıyasla tek bir yardımcı silahın maksimum ağırlığıdır.</MaximumMassSingleRelative_desc>
+  <MaximumMassSingleRelative_title>Yardımcı Silah Başına Maksimum Ağırlık Oranı</MaximumMassSingleRelative_title>
+  
+  <MaximumSlots_desc>Taşınabilecek yardımcı silah sayısıdır.</MaximumSlots_desc>
+  <MaximumSlots_title>Slot</MaximumSlots_title>
+  
+  <RangedCombatAutoSwitchMaxWarmup_desc>Yardımcı silaha geçmek için saldırıyı bırakmadan önceki maksimum nişan alma süresidir.</RangedCombatAutoSwitchMaxWarmup_desc>
+  <RangedCombatAutoSwitchMaxWarmup_title>Maksimum Nişan Gecikme Eşiği</RangedCombatAutoSwitchMaxWarmup_title>
+  
+  <RangedCombatAutoSwitch_desc>Uzak dövüşte uygun menzilli yardımcı silaha otomatik olarak geçilsin mi?</RangedCombatAutoSwitch_desc>
+  <RangedCombatAutoSwitch_title>En Uygun Menzilli Silahı Kullan</RangedCombatAutoSwitch_title>
+  
+  <SeparateModes_desc>Yakın dövüş ve menzilli silah sınırları ayrı ayrı mı yoksa ortak mı uygulanmalı?</SeparateModes_desc>
+  <SeparateModes_title>Yakın Dövüş / Menzilli Ayrımı</SeparateModes_title>
+  
+  <SidearmSelection_desc></SidearmSelection_desc>
+  <SidearmSelection_title>Yardımcı Silah Seçimi</SidearmSelection_title>
+  
+  <SingleshotAutoSwitch_desc>Tek kullanımlık silah kullanıldıktan sonra yardımcı silaha geçilsin mi?</SingleshotAutoSwitch_desc>
+  <SingleshotAutoSwitch_title>Tek Atımlık Silah Otomatik Geçiş</SingleshotAutoSwitch_title>
+  
+  <SpeedSelectionBiasMelee_desc>Daha hızlı saldırı yapan yakın dövüş silahlarını seçmeye ne kadar eğilimli olunacağıdır.</SpeedSelectionBiasMelee_desc>
+  <SpeedSelectionBiasMelee_title>Hız Tercihi (Yakın Dövüş)</SpeedSelectionBiasMelee_title>
+  
+  <SpeedSelectionBiasRanged_desc>Daha hızlı nişan alan menzilli silahları seçmeye ne kadar eğilimli olunacağıdır.</SpeedSelectionBiasRanged_desc>
+  <SpeedSelectionBiasRanged_title>Hız Tercihi (Menzilli)</SpeedSelectionBiasRanged_title>
+  
+  <WeaponMatch_desc>Geçerli kriterlere uyan silahlardır.</WeaponMatch_desc>
+  <WeaponMatch_title></WeaponMatch_title>
+  
+  
+  <SidearmSpawnChance_desc>Silahla doğan bir birimin ayrıca yardımcı silahlarla doğma olasılığıdır.</SidearmSpawnChance_desc>
+  <SidearmSpawnChance_title>Yardımcı Silah Doğma Olasılığı</SidearmSpawnChance_title>
+  
+  <SidearmSpawnChanceDropoff_desc>Her ek yardımcı silah için bu olasılığın ne kadar azalacağıdır.</SidearmSpawnChanceDropoff_desc>
+  <SidearmSpawnChanceDropoff_title>Ek Doğma Olasılığı Azalması</SidearmSpawnChanceDropoff_title>
+  
+  <SidearmBudgetMultiplier_desc>Ana silaha kıyasla yardımcı silahın sahip olabileceği değer oranıdır.</SidearmBudgetMultiplier_desc>
+  <SidearmBudgetMultiplier_title>Yardımcı Silah Değer Katsayısı</SidearmBudgetMultiplier_title>
+  
+  <SidearmBudgetDropoff_desc>Her ek yardımcı silah için değer oranında yapılacak azalmadır.</SidearmBudgetDropoff_desc>
+  <SidearmBudgetDropoff_title>Ek Yardımcı Silah Değer Azalması</SidearmBudgetDropoff_title>
+  
+  <ColonistDefaultWeaponMode_desc>Oyuncu tarafından kontrol edilen yerleşimcilerin varsayılan silah tercih modudur.</ColonistDefaultWeaponMode_desc>
+  <ColonistDefaultWeaponMode_title>Yerleşimci Varsayılan Silah Modu</ColonistDefaultWeaponMode_title>
+  
+  <NPCDefaultWeaponMode_desc>NPC'lerin varsayılan silah tercih modudur.</NPCDefaultWeaponMode_desc>
+  <NPCDefaultWeaponMode_title>NPC Varsayılan Silah Modu</NPCDefaultWeaponMode_title>
+  
+  <PrimaryWeaponMode_option_Ranged>Menzilli</PrimaryWeaponMode_option_Ranged>
+  <PrimaryWeaponMode_option_Melee>Yakın Dövüş</PrimaryWeaponMode_option_Melee>
+  <PrimaryWeaponMode_option_BySkill>Becerilere Göre</PrimaryWeaponMode_option_BySkill>
+  <PrimaryWeaponMode_option_ByGenerated>Ana Silah</PrimaryWeaponMode_option_ByGenerated>
+  
+  <LimitModeSingle_option_None>Sınırlama Yok</LimitModeSingle_option_None>
+  <LimitModeSingle_option_RelativeWeight>Ağırlık Oranı</LimitModeSingle_option_RelativeWeight>
+  <LimitModeSingle_option_AbsoluteWeight>Mutlak Ağırlık</LimitModeSingle_option_AbsoluteWeight>
+  <LimitModeSingle_option_Selection>Belirli Silah</LimitModeSingle_option_Selection>
+  
+  <LimitModeAmount_option_MaximumCarryWeightOnly>Sınırlama Yok</LimitModeAmount_option_MaximumCarryWeightOnly>
+  <LimitModeAmount_option_RelativeWeight>Ağırlık Oranı</LimitModeAmount_option_RelativeWeight>
+  <LimitModeAmount_option_AbsoluteWeight>Mutlak Ağırlık</LimitModeAmount_option_AbsoluteWeight>
+  <LimitModeAmount_option_Slots>Slot</LimitModeAmount_option_Slots>
+  
+  <ActiveTab_option_Folded>&lt;</ActiveTab_option_Folded>
+  <ActiveTab_option_Presets>Hazır Ayarlar</ActiveTab_option_Presets>
+  <ActiveTab_option_Automation>Otomasyon</ActiveTab_option_Automation>
+  <ActiveTab_option_Allowances>Sınırlar</ActiveTab_option_Allowances>
+  <ActiveTab_option_Spawning>Doğma</ActiveTab_option_Spawning>
+  <ActiveTab_option_Misc>Diğer</ActiveTab_option_Misc>
+  
+  <DropMode_option_Never>Asla</DropMode_option_Never>
+  <DropMode_option_InDistress>Tehlike Anında</DropMode_option_InDistress>
+  <DropMode_option_InCombat>Savaşta</DropMode_option_InCombat>
+  <DropMode_option_Always>Her Zaman</DropMode_option_Always>
+  
+  <PresetExport_title></PresetExport_title>
+  <PresetExport_desc></PresetExport_desc>
+  <PresetExport_label>Mevcut ayarları panoya kopyala</PresetExport_label>
+  
+  <PresetCustom_title>Özel</PresetCustom_title>
+  <PresetCustom_desc>Bu özel bir ayardır. Ayarlar değiştiğinde otomatik olarak seçilir.</PresetCustom_desc>
+  <PresetCustom_label></PresetCustom_label>
+  
+  <Preset0_title>Devre Dışı</Preset0_title>
+  <Preset0_desc>Tüm özellikleri devre dışı bırakır. Modun işlevselliğini minimumda kullanmak isteyenler için iyi bir başlangıç noktasıdır.</Preset0_desc>
+  <Preset0_label></Preset0_label>
+  
+  <Preset1half_title>Hafif</Preset1half_title>
+  <Preset1half_desc>Bir yardımcı silah taşınmasına izin verir.</Preset1half_desc>
+  <Preset1half_label></Preset1half_label>
+  
+  <Preset1_title>Sadece Taşıma</Preset1_title>
+  <Preset1_desc>Yardımcı silah taşınabilir ancak otomasyon olmaz. Temelde envanteri genişletme seçeneğidir.</Preset1_desc>
+  <Preset1_label></Preset1_label>
+  
+  <Preset2_title>Temel</Preset2_title>
+  <Preset2_desc>Basit bir yapılandırmadır. Birkaç yardımcı silah taşınır ve uygun durumlarda kullanılır.</Preset2_desc>
+  <Preset2_label></Preset2_label>
+  
+  <Preset3_title>Gelişmiş</Preset3_title>
+  <Preset3_desc>Daha yaratıcı silah seçimleri yapar ama yine de sınır dünyalarda hayatta kalmak isteyen biri için makuldür.</Preset3_desc>
+  <Preset3_label></Preset3_label>
+  
+  <Preset4_title>Aşırı</Preset4_title>
+  <Preset4_desc>Hepsini al! Minigun mu? İki tane! Mızrak? Bir çuval dolusu!</Preset4_desc>
+  <Preset4_label></Preset4_label>
+  
+  <Preset5_title>Dövüşçü</Preset5_title>
+  <Preset5_desc>Herkese bir yakın dövüş yardımcı silahı ver.</Preset5_desc>
+  <Preset5_label></Preset5_label>
+  
+  
+  
+  <SidearmPickupFail_NoFreeSpace>Boş alan yok</SidearmPickupFail_NoFreeSpace>
+  <SidearmPickupFail_TooHeavyForSidearm>Ekipman çok ağır</SidearmPickupFail_TooHeavyForSidearm>
+  <SidearmPickupFail_TooHeavyForSidearmMelee>Yakın dövüş ekipmanı çok ağır</SidearmPickupFail_TooHeavyForSidearmMelee>
+  <SidearmPickupFail_TooHeavyForSidearmRanged>Menzilli ekipman çok ağır</SidearmPickupFail_TooHeavyForSidearmRanged>
+  <SidearmPickupFail_SidearmsTooHeavy>Yardımcı silah olarak taşınamayacak kadar ağır</SidearmPickupFail_SidearmsTooHeavy>
+  <SidearmPickupFail_SidearmsTooHeavyMelee>Yakın dövüş yardımcı silahı olarak taşınamayacak kadar ağır</SidearmPickupFail_SidearmsTooHeavyMelee>
+  <SidearmPickupFail_SidearmsTooHeavyRanged>Menzilli yardımcı silah olarak taşınamayacak kadar ağır</SidearmPickupFail_SidearmsTooHeavyRanged>
+  <SidearmPickupFail_SidearmsTooHeavyInTotal>Toplamda yardımcı silah olarak taşınamayacak kadar ağır</SidearmPickupFail_SidearmsTooHeavyInTotal>
+  <SidearmPickupFail_NotASidearm>Yardımcı silah değil</SidearmPickupFail_NotASidearm>
+  <SidearmPickupFail_NotASidearmMelee>Yakın dövüş yardımcı silahı değil</SidearmPickupFail_NotASidearmMelee>
+  <SidearmPickupFail_NotASidearmRanged>Menzilli yardımcı silah değil</SidearmPickupFail_NotASidearmRanged>
+  <SidearmPickupFail_AllSlotsFull>Tüm slotlar dolu</SidearmPickupFail_AllSlotsFull>
+  <SidearmPickupFail_MeleeSlotsFull>Yakın dövüş slotları dolu</SidearmPickupFail_MeleeSlotsFull>
+  <SidearmPickupFail_RangedSlotsFull>Menzilli slotlar dolu</SidearmPickupFail_RangedSlotsFull>
+  <SidearmPickupFail_NotAToolForPacifist>Bu bir araç değil. {0} savaşamaz.</SidearmPickupFail_NotAToolForPacifist>
+  <SidearmPickupPass>Sorun yok</SidearmPickupPass>
+  <AsSidearm> Yardımcı silah olarak</AsSidearm>
+  <AsTool> Araç olarak</AsTool>
+  
+  <Preset_option_NoneApplied>Uygulanmadı</Preset_option_NoneApplied>
+  <Preset_option_Custom>Özel</Preset_option_Custom>
+  <Preset_option_Lite>Hafif</Preset_option_Lite>
+  <Preset_option_Disabled>Devre dışı</Preset_option_Disabled>
+  <Preset_option_LoadoutOnly>Sadece ekipman</Preset_option_LoadoutOnly>
+  <Preset_option_Basic>Temel</Preset_option_Basic>
+  <Preset_option_Advanced>Gelişmiş</Preset_option_Advanced>
+  <Preset_option_Excessive>Aşırı</Preset_option_Excessive>
+  <Preset_option_Brawler>Dövüşçü</Preset_option_Brawler>
+  
+  <WeaponListKind_option_Both>Her ikisi</WeaponListKind_option_Both>
+  <WeaponListKind_option_Melee>Yakın dövüş</WeaponListKind_option_Melee>
+  <WeaponListKind_option_Ranged>Menzilli</WeaponListKind_option_Ranged>
+  
+  <TribalWeapons>Kabile</TribalWeapons>
+  <NonTribalWeapons>Kabile dışı</NonTribalWeapons>
+  
+  <ConsideredSidearms>Yardımcı silahlar</ConsideredSidearms>
+  <NotConsideredSidearms>Yardımcı silah değil</NotConsideredSidearms>
+  
+  <LockedWeaponSwitch>Otomatik geçiş devre dışı (menzilli)</LockedWeaponSwitch>
+  <UnlockedWeaponSwitch>Otomatik geçiş aktif (menzilli)</UnlockedWeaponSwitch>
+  
+  <WeaponSwitchAutolockOn>Silah çekildiğinde otomatik geçiş kilitli</WeaponSwitchAutolockOn>
+  <WeaponSwitchAutolockOff>Kapalı</WeaponSwitchAutolockOff>
+  
+  <DrawSidearm_gizmoTitle>Yardımcı Silah</DrawSidearm_gizmoTitle>
+  <SidearmPreference_Ranged>Menzilli silahı kullan</SidearmPreference_Ranged>
+  <SidearmPreference_Skill>Beceri veya ilgiye göre kullan</SidearmPreference_Skill>
+  <SidearmPreference_Melee>Yakın dövüş silahı kullan</SidearmPreference_Melee>
+  
+  <DrawSidearm_gizmoTooltipRanged>Sol tık ile {0} ana menzilli silah olarak ayarlanır.
+  Sağ tık ile {0} yere bırakılır.</DrawSidearm_gizmoTooltipRanged>
+  <DrawSidearm_gizmoTooltipMelee>Sol tık ile {0} tercih edilen yakın dövüş silahı olarak ayarlanır.
+  Sağ tık ile {0} yere bırakılır.</DrawSidearm_gizmoTooltipMelee>
+  <DrawSidearm_gizmoTooltipRangedDefault>Sol tık ile {0} zorla kullanılır.
+  Sağ tık ile {0} ana menzilli silah olmaktan çıkarılır.</DrawSidearm_gizmoTooltipRangedDefault>
+  <DrawSidearm_gizmoTooltipMeleePreferred>Sol tık ile {0} zorla kullanılır.
+  Sağ tık ile {0} tercih edilen yakın dövüş silahı olmaktan çıkarılır.</DrawSidearm_gizmoTooltipMeleePreferred>
+  <DrawSidearm_gizmoTooltipForced>Sağ tık ile {0} zorla kullanım iptal edilir.</DrawSidearm_gizmoTooltipForced>
+  <DrawSidearm_gizmoTooltipWhileDrafted>Sol tık ile {0} savaş bitene kadar zorla kullanılır.</DrawSidearm_gizmoTooltipWhileDrafted>
+  <DrawSidearm_gizmoTooltipForcedWhileDrafted>Sağ tık ile {0} zorla kullanım iptal edilir.</DrawSidearm_gizmoTooltipForcedWhileDrafted>
+  <DrawSidearm_gizmoTooltipMemory>Sağ tık ile {0} unutulur.</DrawSidearm_gizmoTooltipMemory>
+  <DrawSidearm_gizmoTooltipMemoryWhileDrafted>Sevk halinde etkileşim yok.</DrawSidearm_gizmoTooltipMemoryWhileDrafted>
+  <DrawSidearm_gizmoTooltipUnarmed>Sol tık ile yumruk tercih edilen yakın dövüş silahı olarak ayarlanır.</DrawSidearm_gizmoTooltipUnarmed>
+  <DrawSidearm_gizmoTooltipUnarmedPreferred>Sol tık ile yumruk zorla kullanılır.
+  Sağ tık ile yumruk tercih edilmeyen silah yapılır.</DrawSidearm_gizmoTooltipUnarmedPreferred>
+  <DrawSidearm_gizmoTooltipUnarmedForced>Sağ tık ile yumruk zorla kullanımı iptal edilir.</DrawSidearm_gizmoTooltipUnarmedForced>
+  <DrawSidearm_gizmoTooltipUnarmedWhileDrafted>Sol tık ile savaş bitene kadar yumruk zorla kullanılır.</DrawSidearm_gizmoTooltipUnarmedWhileDrafted>
+  <DrawSidearm_gizmoTooltipUnarmedForcedWhileDrafted>Sağ tık ile yumruk zorla kullanımı iptal edilir.</DrawSidearm_gizmoTooltipUnarmedForcedWhileDrafted>
+  
+  <Alert_MissingSidearm_label>Yardımcı Silah Kayboldu</Alert_MissingSidearm_label>
+  <Alert_MissingPrimary_label>Ana Silah Kayboldu</Alert_MissingPrimary_label>
+  <Alert_MissingSidearm_desc>Bu yerleşimciler bir veya daha fazla yardımcı silahlarını kaybetti:\n\n{0}</Alert_MissingSidearm_desc>
+  <Alert_MissingPrimary_desc>Bu yerleşimciler ana silahlarını kaybetti:\n\n{0}</Alert_MissingPrimary_desc>
+  
+  <!-- Legacy -->
+  <DropMode_option_Panic>Tehlike anında</DropMode_option_Panic>
+  <DropMode_option_PanicOrRange>Savaş sırasında</DropMode_option_PanicOrRange>
+  
+  <SidearmsEnableNeolithicExtension_desc>Kabile üyelerinin daha fazla yardımcı silah kullanmasına izin verir.</SidearmsEnableNeolithicExtension_desc>
+  <SidearmsEnableNeolithicExtension_title>Taş Devri Yardımcı Silah Genişlemesi</SidearmsEnableNeolithicExtension_title>
+  <SidearmsNeolithicExtension_desc></SidearmsNeolithicExtension_desc>
+  <SidearmsNeolithicExtension_title>Taş devrine ait sayılacak yardımcı silahlar</SidearmsNeolithicExtension_title>
+
+
+</LanguageData>
