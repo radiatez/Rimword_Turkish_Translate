@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SRTSSuperpod_Incoming.label>Super Taşıma Kapsülü (İniyor)</SRTSSuperpod_Incoming.label>
+  <SRTSSuperpod_Leaving.label>Super Taşıma Kapsülü (Uçuyor)</SRTSSuperpod_Leaving.label>
+  <SRTSSuperpod_Active.label>Super Taşıma Kapsülü (Aktif)</SRTSSuperpod_Active.label>
+
+  <SRTSSkip_Incoming.label>SRTS Mk.I (İniyor)</SRTSSkip_Incoming.label>
+  <SRTSSkip_BomberRun.label>SRTS Mk.I (Bomba Atıyor)</SRTSSkip_BomberRun.label>
+  <SRTSSkip_Leaving.label>SRTS Mk.I (Uçuyor)</SRTSSkip_Leaving.label>
+  <SRTSSkip_Actice.label>SRTS Mk.I (Aktif)</SRTSSkip_Actice.label>
+
+  <SRAF_Incoming.label>SRAF: Kanarya (İniyor)</SRAF_Incoming.label>
+  <SRAF_Leaving.label>SRAF: Kanarya (Uçuyor)</SRAF_Leaving.label>
+  <SRAF_Active.label>SRAF: Kanarya (Aktif)</SRAF_Active.label>
+
+  <SRAFTek_Incoming.label>SRAF: TEK-7 (İniyor)</SRAFTek_Incoming.label>
+  <SRAFTek_Leaving.label>SRAF: TEK-7 (Uçuyor)</SRAFTek_Leaving.label>
+  <SRAFTek_Active.label>SRAF: TEK-7 (Aktif)</SRAFTek_Active.label>
+
+  <SRTSMkII_Incoming.label>SRTS Mk.II (İniyor)</SRTSMkII_Incoming.label>
+  <SRTSMkII_BomberRun.label>SRTS Mk.II (Bomba Atıyor)</SRTSMkII_BomberRun.label>
+  <SRTSMkII_Leaving.label>SRTS Mk.II (Uçuyor)</SRTSMkII_Leaving.label>
+  <SRTSMkII_Active.label>SRTS Mk.II (Aktif)</SRTSMkII_Active.label>
+
+  <SRTSMkIII_Incoming.label>SRTS Mk.III (İniyor)</SRTSMkIII_Incoming.label>
+  <SRTSMkIII_BomberRun.label>SRTS Mk.III (Bomba Atıyor)</SRTSMkIII_BomberRun.label>
+  <SRTSMkIII_Leaving.label>SRTS Mk.III (Uçuyor)</SRTSMkIII_Leaving.label>
+  <SRTSMkIII_Active.label>SRTS Mk.III (Aktif)</SRTSMkIII_Active.label>
+
+  <SRTSMkIIIp_Incoming.label>SRTS Mk.IIIp (İniyor)</SRTSMkIIIp_Incoming.label>
+  <SRTSMkIIIp_Leaving.label>SRTS Mk.IIIp (Uçuyor)</SRTSMkIIIp_Leaving.label>
+  <SRTSMkIIIp_Active.label>SRTS Mk.IIIp (Aktif)</SRTSMkIIIp_Active.label>
+
+  <SRTSMkIV_Incoming.label>SRTS Mk.IV (İniyor)</SRTSMkIV_Incoming.label>
+  <SRTSMkIV_BomberRun.label>SRTS Mk.IV (Bomba Atıyor)</SRTSMkIV_BomberRun.label>
+  <SRTSMkIV_Leaving.label>SRTS Mk.IV (Uçuyor)</SRTSMkIV_Leaving.label>
+  <SRTSMkIV_Active.label>SRTS Mk.IV (Aktif)</SRTSMkIV_Active.label>
+
+</LanguageData>

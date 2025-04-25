@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Labels and Titles -->
+  <SRTSExpanded>SRTS Expanded</SRTSExpanded>
+  <SRTSDef>SRTS Tanımı</SRTSDef>
+
+  <!-- Settings -->
+  <ResetDefault>Sıfırla</ResetDefault>
+  <ResetDefaultTooltip>Varsayılan değerlere sıfırlayın</ResetDefaultTooltip>
+  <ResetThisSRTS>Bunu Sıfırla</ResetThisSRTS>
+  <ResetAll>Hepsini Sıfırla</ResetAll>
+
+  <DefaultValues>Varsayılan Ayarlar</DefaultValues>
+  <CustomValues>Kişisel Ayarlar</CustomValues>
+
+  <MainSettings>Ana Ayarlar</MainSettings>
+
+  <PassengerLimit>Yolcu Limiti</PassengerLimit>
+  <PassengerLimitTooltip>Şatllar için izin verilen minimum ve maksimum yolcu sayısını sabitleyin.</PassengerLimitTooltip>
+  <DisplayHomeItems>Tüm Eşyaları Göster</DisplayHomeItems>
+  <DisplayHomeItemsTooltip>Şatlları yüklerken haritada sadece ev bölgesindeki eşyaları değil, tüm eşyaları gösterin.</DisplayHomeItemsTooltip>
+  <DefSettings>Özellikler</DefSettings>
+  <DynamicWorldObjectSRTS>Dinamik Görselleştirme</DynamicWorldObjectSRTS>
+  <DynamicWorldObjectSRTSTooltip>Harita üzerinde şatların dokularını dinamik olarak görselleştirin.</DynamicWorldObjectSRTSTooltip>
+  <ExpandBombPoints>Bombalama Hedeflerini Genişlet</ExpandBombPoints>
+  <ExpandBombPointsTooltip>Bombalama hedeflerini, hedefleme hattı boyunca yayılacak şekilde genişletin.</ExpandBombPointsTooltip>
+  <AllowedBombs>İzin Verilen Patlayıcılar</AllowedBombs>
+  <ChangeItemSRTS>Eklemek</ChangeItemSRTS>
+  <SearchExplosive>Bir Nesne Ekleyin</SearchExplosive>
+  <CurrentExplosives>İzin Verilen Bombalar</CurrentExplosives>
+  <SRTSBoardingOptions>Gemiye Binme Seçenekleri</SRTSBoardingOptions>
+  <AllowDownedSRTS>Düşürülmüş Karakterlere İzin Ver</AllowDownedSRTS>
+  <AllowUnsecurePrisonerSRTS>Güvensiz Mahkumlara İzin Ver</AllowUnsecurePrisonerSRTS>
+  <AllowCapturablePawnSRTS>Yakalanabilir Karakterlere İzin Ver</AllowCapturablePawnSRTS>
+
+  <SOS2Compatibility>Save Our Ship 2 Uyumluluğu</SOS2Compatibility>
+  <SpaceFaring>Uzaya Yolculuk</SpaceFaring>
+  <ShuttleBayLanding>(Bağlanıyor)</ShuttleBayLanding>
+  <NonSpaceFaringSRTS>{0} yörüngeye ulaşamıyor.</NonSpaceFaringSRTS>
+
+  <SRTSSettings>SRTS Ayarları</SRTSSettings>
+  <FlightSpeed>Uçuş Hızı (Harita)</FlightSpeed>
+  <Instant>Hemen</Instant>
+  <FuelEfficiency>Yakıt Verimliliği</FuelEfficiency>
+  <FuelEfficiencySymbol> her kare</FuelEfficiencySymbol>
+  <CargoCapacity>Yük Kapasitesi</CargoCapacity>
+  <MinPassengers>Minimum Yolcu</MinPassengers>
+  <MaxPassengers>Maksimum Yolcu</MaxPassengers>
+  <SRTSResearch>Araştırma Maliyeti</SRTSResearch>
+  <SRTSResearchRequirements>Araştırma Gereksinimleri</SRTSResearchRequirements>
+
+  <BombSettings>Silah Ayarları</BombSettings>
+  <BombSpeed>Bombalama Hızı</BombSpeed>
+  <RadiusDrop>Bombaların Yayılması</RadiusDrop>
+  <BombCountSRTS>Bombaların Sayısı</BombCountSRTS>
+  <CarpetBombing>Halı Bombardımanı</CarpetBombing>
+  <PreciseBombing>Hassas Bombardıman</PreciseBombing>
+  <DistanceBetweenDrops>İndirme Aralığı</DistanceBetweenDrops>
+  <CellsEndValue> Hücreler</CellsEndValue>
+  <SingleDrop>Tekli İndirme</SingleDrop>
+
+  <ResearchSettings>Araştırma</ResearchSettings>
+  <ResearchDef>{0} AraştırmaTanımı</ResearchDef>
+  <SearchResearch>Araştırma Tanımları Ekle</SearchResearch>
+  <AddItemSRTS>Eklemek</AddItemSRTS>
+  <RemoveResearch>Silmek</RemoveResearch>
+  <RestartGameResearch>Yeni araştırma ayarlarını uygulamak için oyunu yeniden başlatın.</RestartGameResearch>
+
+  <!-- Float Menu -->
+  <BoardSRTS>{0} Gemisine Bin</BoardSRTS>
+  <JoinSRTSGroup>SRTS Gemisine Binme Grubuna Katıl</JoinSRTSGroup>
+
+  <!-- Messages -->
+  <SRTSNoPilot>Şatlı pilot olmadan gönderilemez.</SRTSNoPilot>
+  <NotEnoughPilots>Başlatmak için yeterli pilot yok.</NotEnoughPilots>
+  <TooManyPilots>Başlatmak için çok fazla yolcu var.</TooManyPilots>
+  <BombRunStarted>Bombardıman başladı!</BombRunStarted>
+  <CannotBombMap>Bombalama yapılamaz.</CannotBombMap>
+  <CommandAddFuelSRTS>{0} yakıtını ekle</CommandAddFuelSRTS>
+  <CommandAddFuelDescSRTS>Şatlıyı envanterden yakıtla doldurun.</CommandAddFuelDescSRTS>
+  <AddFuelSRTSCaravan>{0} birim yakıt {1} içine eklenmiştir.</AddFuelSRTSCaravan>
+  <NoFuelSRTSCaravan>Yeterli yakıt yok.</NoFuelSRTSCaravan>
+
+  <!-- Caravans -->
+
+  <!-- Status and Compatibility -->
+  <CommandLaunchOrbit>Yörüngede başlat</CommandLaunchOrbit>
+  <CommandLaunchOrbitDesc>Yörüngedeki bir lokasyona başlat.</CommandLaunchOrbitDesc>
+
+  <!-- Gizmo -->
+  <BombTarget>Bombalama Hedefi</BombTarget>
+  <BombTargetDesc>Başka bir haritadaki bombalama hedefini seçin.</BombTargetDesc>
+
+</LanguageData>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SRTSSuperpod.label>Süper Taşıma Kapsülü</SRTSSuperpod.label>
+  <SRTSSuperpod.description>Sub-orbital uçuş için geliştirilmiş taşıma kapsülü, gezegen boyunca yavaş bir şekilde yolcu ve yük taşıma amacıyla tasarlanmıştır.
+
+Yolcu Kapasitesi: 1
+----------------------------
+Hız: Korkunç
+Yakıt Deposu Kapasitesi: 300 birim
+Yakıt Verimliliği: Korkunç
+----------------------------
+Yük Taşıma Kapasitesi: 120 kg
+İç Elektrik İstasyonu: 400 W</SRTSSuperpod.description>
+
+  <SRTSSkip.label>SRTS Mk.I: Skip</SRTSSkip.label>
+  <SRTSSkip.description>Hava tabanlı askeri shuttle, keşif, görev tamamlama ve küçük saldırılar için tasarlanmıştır.
+
+Yolcu Kapasitesi: 1 ~ 2
+
+--Silahlanma--
+  Bombalar: 4/4
+  Hassasiyet: Zayıf
+----------------------------
+Hız: Zayıf
+Yakıt Deposu Kapasitesi: 500 birim
+Yakıt Verimliliği: Orta
+----------------------------
+Yük Taşıma Kapasitesi: 170 kg
+İç Elektrik İstasyonu: 650 W</SRTSSkip.description>
+
+  <SRAF.label>SRAF: Kanarya</SRAF.label>
+  <SRAF.description>Kısa menzilli hava taşımacılık shuttle'ı (SRAF). Kanarya, gezegenin her yerine yük taşımak için tasarlanmış, ancak yolcular için neredeyse hiç yer yok. Bu endüstriyel devler binlerce yıldır hizmette.
+
+Yolcu Kapasitesi: 1 ~ 3
+----------------------------
+Hız: Zayıf
+Yakıt Deposu Kapasitesi: 2.000 birim
+Yakıt Verimliliği: Zayıf
+----------------------------
+Yük Taşıma Kapasitesi: 5.000 kg
+İç Elektrik İstasyonu: 1.000 W</SRAF.description>
+
+  <SRAFTek.label>SRAF: TEK-7</SRAFTek.label>
+  <SRAFTek.description>Uzay havacılık shuttle'ı, büyük miktarda insan ve yük taşıma amacıyla tasarlanmış. Büyük yük taşıma kapasitesi ve yolcu kapasitesi.
+
+Yolcu Kapasitesi: 1 ~ 28
+----------------------------
+Hız: Orta
+Yakıt Deposu Kapasitesi: 2.600 birim
+Yakıt Verimliliği: İyi
+----------------------------
+Yük Taşıma Kapasitesi: 10.000 kg
+İç Elektrik İstasyonu: 1.700 W</SRAFTek.description>
+
+  <SRTSMkII.label>SRTS Mk.II: Albatros</SRTSMkII.label>
+  <SRTSMkII.description>Çok amaçlı hava shuttle'ı, gerçek bir işçi atı. İyi bir gemi, ancak uzmanlaşmamış olduğu için herhangi bir alanda mükemmel değil.
+
+Yolcu Kapasitesi: 1 ~ 7
+
+--Silahlanma--
+  Bombalar: 6/16
+  Hassasiyet: Orta
+----------------------------
+Hız: İyi
+Yakıt Deposu Kapasitesi: 1.600 birim
+Yakıt Verimliliği: İyi
+----------------------------
+Yük Taşıma Kapasitesi: 2.200 kg
+İç Elektrik İstasyonu: 1.700 W</SRTSMkII.description>
+
+  <SRTSMkIII.label>SRTS Mk.III: Phoenix</SRTSMkIII.label>
+  <SRTSMkIII.description>Askeri hava taşımacılık shuttle'ı, askeri operasyonlar için tasarlanmış. Yüksek teknoloji, eski bir uygarlık tarafından yaratıldı.
+
+Yolcu Kapasitesi: 1 ~ 17
+
+--Silahlanma--
+  Bombalar: 20/10
+  Hassasiyet: İyi
+----------------------------
+Hız: Mükemmel
+Yakıt Deposu Kapasitesi: 2.800 birim
+Yakıt Verimliliği: Mükemmel
+----------------------------
+Yük Taşıma Kapasitesi: 3.600 kg
+İç Elektrik İstasyonu: 3.600 W</SRTSMkIII.description>
+
+  <SRTSMkIIIp.label>SRTS Mk.IIIp: Pelikan</SRTSMkIIIp.label>
+  <SRTSMkIIIp.description>Uzay taşımacılık shuttle'ı. Sınır bölgelerindeki en iyi normal taşımacılık gemisi. Yüksek teknoloji, eski bir uygarlık tarafından yaratıldı.
+
+Yolcu Kapasitesi: 1 ~ 42
+----------------------------
+Hız: Mükemmel
+Yakıt Deposu Kapasitesi: 5.000 birim
+Yakıt Verimliliği: Mükemmel
+----------------------------
+Yük Taşıma Kapasitesi: 20.000 kg
+İç Elektrik İstasyonu: 2.800 W</SRTSMkIIIp.description>
+
+  <SRTSMkIV.label>SRTS Mk.IV: Genesis</SRTSMkIV.label>
+  <SRTSMkIV.description>Genesis, yüksek teknolojiye sahip bir Archotek shuttle'ıdır. Bu gemi, yakıt olarak uran kullanır ve kendi içinde daha fazla alan yaratarak, taşıdığı yükleri çok daha ağır ve büyük taşıyabilir.
+
+Yolcu Kapasitesi: Sınırsız
+----------------------------
+--Silahlanma--
+  Bombalar: 32/32
+  Hassasiyet: Efsanevi
+----------------------------
+Hız: Efsanevi
+Yakıt Türü: Uran
+Yakıt Deposu Kapasitesi: Efsanevi
+Yakıt Verimliliği: Efsanevi
+----------------------------
+Yük Taşıma Kapasitesi: Sınırsız
+İç Elektrik İstasyonu: 12.000 W</SRTSMkIV.description>
+
+</LanguageData>

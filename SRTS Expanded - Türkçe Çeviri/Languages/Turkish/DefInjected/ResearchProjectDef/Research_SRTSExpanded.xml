@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Research_SRTSSuperpod.label>Super Taşıma Kabini</Research_SRTSSuperpod.label>
+  <Research_SRTSSuperpod.description>Suborbitik uçuş modülünü yeniden programlayın, yakıt ekleyin ve geleneksel taşıma kabinine birkaç yeniden kullanılabilir motor ekleyin, işte size geri dönüşümlü taşıma aracı! Ancak "super taşıma kabini" sadece ilk adımdır.</Research_SRTSSuperpod.description>
+
+  <Research_SRTSSkip.label>Skip</Research_SRTSSkip.label>
+  <Research_SRTSSkip.description>Skip, popüler, ucuz ve güvenilir bir uzay gemisidir.\n\nZayıf askeri potansiyeli vardır.</Research_SRTSSkip.description>
+  <Research_SRTSSkip.discoveredLetterTitle>Kısa Menzilli Şateller</Research_SRTSSkip.discoveredLetterTitle>
+  <Research_SRTSSkip.discoveredLetterText>Artık kendi şatellerinizi inşa edebilirsiniz!\n\nŞatellerin inşası pahalı ve uzun bir süreçtir, ancak kesinlikle buna değerdir.\n\nŞatellerin planları, inşa menüsünde "GEMİ" sekmesinde bulunabilir. Karmaşık şatellerin inşası için "şatellere ait bileşenler" gerekir, bu bileşenleri yapabilir ya da satın alabilirsiniz.\n\nSkip için şatellere ait bileşenlere ihtiyaç yoktur.</Research_SRTSSkip.discoveredLetterText>
+
+  <Research_SRAF.label>Kanarya</Research_SRAF.label>
+  <Research_SRAF.description>Büyük bir hava-kargo taşıma gemisidir. Bu geminin tarihini bilmiyoruz ama her yerde var. Çeşitli gezegenlerde milyonlarca Kanarya bulabilirsiniz. Kanarya, yakıt verimliliği açısından tam bir felakettir, çok yavaştır ama kargo bölmesi inanılmazdır.</Research_SRAF.description>
+
+  <Research_SRAFTek.label>TEK-7 İniş Şateli</Research_SRAFTek.label>
+  <Research_SRAFTek.description>Büyük bir hava-kosmik kargo taşıma gemisidir. TEK-7 sınıfı gemiler, daha modern teknolojiler kullanarak öncekilerden daha fazla şey başarmaktadır.\n\nBu sınıf gemiler birçok savaşa tanıklık etmiştir, çünkü çok sayıda model seçeneği vardır, her biri belirli görevler için özelleştirilmiştir.\n\nTEK-7 saf bir taşıyıcıdır.</Research_SRAFTek.description>
+
+  <Research_SRTSMkII.label>Albatros</Research_SRTSMkII.label>
+  <Research_SRTSMkII.description>Albatros X-11, başlangıçta egzoplanetleri keşfetmek için tasarlanmıştı, ancak çok geçmeden daha yeni motorlara sahip gemi modeliyle değiştirilmiştir. X-11 parçalarını galakside tipik düşük fiyatlarla bulabilirsiniz.\n\nOrta derecede askeri potansiyele sahiptir.</Research_SRTSMkII.description>
+  <Research_SRTSMkII.discoveredLetterTitle>Gelişmiş Şatellerin Bileşenleri</Research_SRTSMkII.discoveredLetterTitle>
+  <Research_SRTSMkII.discoveredLetterText>Artık gelişmiş şateller için bileşenler - "gelişmiş çelik levhalar" yapabilirsiniz, bunlar daha teknolojik gemiler için gereklidir. Şu an için gerekli değiller ama şatellerin bir üst seviyesi/nesli için kullanılırlar ve bunları hala atölyede yapabilirsiniz.</Research_SRTSMkII.discoveredLetterText>
+
+  <Research_SRTSMkIII.label>Phoenix</Research_SRTSMkIII.label>
+  <Research_SRTSMkIII.description>Yoğun araştırmalar sonucunda nihayet özel bir şey keşfettik: eski ölü bir uzaylı medeniyetinin başlangıçta kullandığı yeni teknolojiler, gemi üretimi sürecinde kullanılan yöntemler.\n\nBu üretim yöntemleri, gemiyi "mistik" bir yapay zeka teknolojisiyle dolduruyor, aynı zamanda daha az malzeme kullanılarak inşa ediliyor. Yeni gemi hafif, geniş ve Albatros'a göre daha fazla kargo taşıyabiliyor.\n\nCiddi askeri potansiyele sahiptir.</Research_SRTSMkIII.description>
+
+  <Research_SRTSMkIIIp.label>Pelikan</Research_SRTSMkIIIp.label>
+  <Research_SRTSMkIIIp.description>Pelikan, aslında bir Phoenix'tir, ancak bir kargo taşıma gemisine dönüştürülmüş ve askeri potansiyelden yoksundur. En son teknolojiyle yapılmış, Pelikan daha hızlı ve daha güçlüdür, daha önce bilinen her şeyden daha iyi.</Research_SRTSMkIIIp.description>
+
+  <Research_SRTSMkIV.label>Genesis</Research_SRTSMkIV.label>
+  <Research_SRTSMkIV.description>"SRTS Mk.4: Genesis", uran kullanarak yakıt sağlayan yüksek teknoloji bir taşıma gemisidir ve Arkhotech seviyesinde teknolojiler kullanarak kargo kapasitesini olağanüstü şekilde artırır.\n\nBu proje, aşırı gelişmiş bileşenlerle dolu olduğundan çalışmayacak gibi görünüyor, ancak bunu denemeden bilemeyiz.</Research_SRTSMkIV.description>
+  <Research_SRTSMkIV.discoveredLetterTitle>Genesis</Research_SRTSMkIV.discoveredLetterTitle>
+  <Research_SRTSMkIV.discoveredLetterText>Genesis'i inşa etmek için birkaç özel bileşen gereklidir. Bunları yapabileceğinizden şüpheliyiz, çünkü çok karmaşıklar. En azından şu an için.\n\nŞu anda Genesis'i kendi başınıza inşa etmek mümkün değil, ancak bu özel bileşenleri satın alabilir ya da görevlerden ödül olarak alabilirsiniz.</Research_SRTSMkIV.discoveredLetterText>
+
+  <Research_SRTSArchoComps.label>Arkhotech Bileşenleri</Research_SRTSArchoComps.label>
+  <Research_SRTSArchoComps.description>Mitolojik Genesis'i inşa etmek için gereken süper gelişmiş bileşenlerin üretim yöntemlerini öğrenin.</Research_SRTSArchoComps.description>
+
+</LanguageData>

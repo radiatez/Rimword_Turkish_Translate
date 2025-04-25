@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ShuttleComp_Plates.label>SRTS Çelik Plakalar</ShuttleComp_Plates.label>
+  <ShuttleComp_Plates.description>Farklı boyutlarda ve şekillerde birkaç ısıl işlenmiş çelik plaka, kolay inşa için gruplanmış. Bu plakalar içinde hassas kablolama, borular ve elektrikli bileşenler bulunur. Yakın mesafeli taşıma shuttle'larının (SRTS) montajı için gereklidir.</ShuttleComp_Plates.description>
+
+  <ShuttleComp_MechSystem.label>SRTS Mekanik Bileşenleri</ShuttleComp_MechSystem.label>
+  <ShuttleComp_MechSystem.description>Farklı dişliler, kollar, devre kartları, mekanizmalar ve diğer endüstriyel parçalar. Yakın mesafeli taşıma shuttle'larının (SRTS) montajı için gereklidir.</ShuttleComp_MechSystem.description>
+
+  <ShuttleComp_ElectricSystem.label>SRTS Elektrik Bileşenleri</ShuttleComp_ElectricSystem.label>
+  <ShuttleComp_ElectricSystem.description>Farklı yongalar, kablolar, sensörler, devre kartları, bağlantı noktaları, anahtarlar, düğmeler ve diğer elektrikli bileşenler. Yakın mesafeli taşıma shuttle'larının (SRTS) montajı için gereklidir.</ShuttleComp_ElectricSystem.description>
+
+  <ShuttleComp_Engines.label>SRTS Motor Bileşenleri</ShuttleComp_Engines.label>
+  <ShuttleComp_Engines.description>Farklı borular, vanalar, kaplamalar, plakalar, döner pimler ve diğer ısıl işlenmiş motor bileşenleri. Yakın mesafeli taşıma shuttle'larının (SRTS) montajı için gereklidir.</ShuttleComp_Engines.description>
+
+  <ShuttleComp_Structural.label>SRTS İç Bileşenleri</ShuttleComp_Structural.label>
+  <ShuttleComp_Structural.description>Farklı koltuklar, gösterge panelleri, iç duvarlar, perdeler, lavabolar, tuvaletler, masalar ve yolcular için gerekli birçok iç mekan öğesi. Yakın mesafeli taşıma shuttle'larının (SRTS) montajı için gereklidir.</ShuttleComp_Structural.description>
+
+  <ShuttleComp_MeshPlate.label>SRTS Gelişmiş Çelik Plakalar</ShuttleComp_MeshPlate.label>
+  <ShuttleComp_MeshPlate.description>Farklı boyutlarda ve şekillerde birkaç gelişmiş ısıl işlenmiş çelik plaka, kolay inşa için gruplanmış. Yüksek teknolojiye sahip sinir ağı, çelik kaplama içine dokunmuştur. Yüksek teknolojiye sahip yakın mesafeli taşıma shuttle'larının (SRTS) montajı için gereklidir.</ShuttleComp_MeshPlate.description>
+
+  <ShuttleComp_Reactor.label>SRTS Nükleer Reaktör Bileşenleri</ShuttleComp_Reactor.label>
+  <ShuttleComp_Reactor.description>Yüksek teknolojiye sahip ve mini boyutlu bileşenler, uranı enerjiye dönüştürmek için özel bir nükleer reaktör içinde kullanılır. Son derece karmaşık shuttle'ların montajı için gereklidir.</ShuttleComp_Reactor.description>
+
+  <ShuttleComp_DimShift.label>SRTS Yüksek Teknoloji Bileşenleri</ShuttleComp_DimShift.label>
+  <ShuttleComp_DimShift.description>Geminin farklı yerlerine bağlanan ileri düzey Archotek sistemi. Borular, flaş lambalar, kablolar ve birçok gizemli kutu ve parça içerir. Son derece karmaşık shuttle'ların montajı için gereklidir.</ShuttleComp_DimShift.description>
+
+</LanguageData>
