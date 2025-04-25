@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <SS_EventSpeed>Etkinlik Hızı</SS_EventSpeed>
+  <EventSpeedLabel>Etkinlik Hızını Değiştir</EventSpeedLabel>
+  <SS_Slow>Yavaş (normal hızın yarısı)</SS_Slow>
+  <SS_Normal>Normal</SS_Normal>
+  <SS_Fast>Hızlı (normal hızın iki katı)</SS_Fast>
+  <SS_Half>Mevcut hızın yarısı</SS_Half>
+  <SS_Ignore>Yoksay (hızda azalma yok)</SS_Ignore>
+  
+  <SS_normalSpeed>Normal hız (hız 1)</SS_normalSpeed>
+  <SS_normalSpeedTooltip>Normal hız için çarpan. Varsayılan 1'dir, bu da saniyede 60 tık anlamına gelir.</SS_normalSpeedTooltip>
+  <SS_fastSpeed>Hızlı hız (hız 2)</SS_fastSpeed>
+  <SS_fastSpeedTooltip>Hızlı hız için çarpan. Varsayılan 3'tür, bu da saniyede 180 tık anlamına gelir.</SS_fastSpeedTooltip>
+  <SS_superfastSpeed>Süper hızlı hız (hız 3)</SS_superfastSpeed>
+  <SS_superfastSpeedTooltip>Süper hızlı hız için çarpan. Varsayılan 6'dır, bu da saniyede 360 tık anlamına gelir.</SS_superfastSpeedTooltip>
+  <SS_ultrafastSpeed>Ultra hızlı hız (hız 4)</SS_ultrafastSpeed>
+  <SS_ultrafastSpeedTooltip>Ultra hızlı hız için çarpan. Varsayılan 15'tir, bu da saniyede 900 tık anlamına gelir. Bu sihir değil. Bilgisayarınız saniyede 8000 tık işleyebiliyorsa, işleyecektir. Eğer işleyemezse, sınırlandırılacaktır.</SS_ultrafastSpeedTooltip>
+  <SS_Reset>Sıfırla</SS_Reset>
+</LanguageData>
