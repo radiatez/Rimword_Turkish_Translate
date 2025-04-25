@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Planning_TogglePlanVisibility.label>Plan görünürlüğünü değiştir</Planning_TogglePlanVisibility.label>
+  <Planning_Modifier.label>Değiştirici</Planning_Modifier.label>
+  <Planning_ColorPicker.label>Renk paleti</Planning_ColorPicker.label>
+  <Planning_NoOverwrite_Mode.label>Üzerine yazmadan</Planning_NoOverwrite_Mode.label>
+  <Planning_PlanDoors.label>Kapı planı</Planning_PlanDoors.label>
+  <Planning_PlanFloors.label>Zemin planı</Planning_PlanFloors.label>
+  <Planning_PlanObjects.label>Nesne planı</Planning_PlanObjects.label>
+  <Planning_PlanWalls.label>Duvar planı</Planning_PlanWalls.label>
+  <Planning_ChangeShapeVariant.label>Şekil varyantını değiştir</Planning_ChangeShapeVariant.label>
+  <Planning_Action1.label>Eylem 1</Planning_Action1.label>
+  <Planning_Action2.label>Eylem 2</Planning_Action2.label>
+  <Planning_Undo.label>Geri al</Planning_Undo.label>
+  <Planning_Redo.label>İleri al</Planning_Redo.label>
+
+</LanguageData>
