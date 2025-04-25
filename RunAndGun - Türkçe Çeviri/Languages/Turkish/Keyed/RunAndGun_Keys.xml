@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RG_tab1>Ağır / Hafif olarak ayarla...</RG_tab1>
+  <RG_tab2>Silahları yasakla...</RG_tab2>
+  <RG_Tabs_Title>Gelişmiş Seçenekler</RG_Tabs_Title>
+  <RG_WeaponForbidder_Title>Koş ve Ateş için Silahları Yasakla</RG_WeaponForbidder_Title>
+  <RG_WeaponForbidder_Description>Koş ve Ateş modunu kullanmasını istemediğiniz silahları seçin</RG_WeaponForbidder_Description>
+  <RG_Forbid>Yasakla</RG_Forbid>
+  <RG_Allow>İzin Ver</RG_Allow>
+  <RG_AccuracyPenalty_Title>Nişan cezası (%)</RG_AccuracyPenalty_Title>
+  <RG_AccuracyPenalty_Description>"Koş ve Ateş" açıkken uygulanan nişan cezası</RG_AccuracyPenalty_Description>
+  <RG_MovementPenaltyHeavy_Title>Ağır silahlar için hareket cezası (%)</RG_MovementPenaltyHeavy_Title>
+  <RG_MovementPenaltyHeavy_Description>Ağır silahlarla koşarken uygulanan hareket cezası</RG_MovementPenaltyHeavy_Description>
+  <RG_MovementPenaltyLight_Title>Hafif silahlar için hareket cezası (%)</RG_MovementPenaltyLight_Title>
+  <RG_MovementPenaltyLight_Description>Hafif silahlarla koşarken uygulanan hareket cezası</RG_MovementPenaltyLight_Description>
+  <RG_EnableRGForAI_Title>Yapay zeka için Koş ve Ateş'i Etkinleştir</RG_EnableRGForAI_Title>
+  <RG_EnableRGForAI_Description>Yapay zeka için Koş ve Ateş modunu etkinleştirir. Dikkatli olun, bu onları inanılmaz derecede ölümcül yapar.</RG_EnableRGForAI_Description>
+  <RG_EnableRGForFleeChance_Title>Kaçarken Koş ve Ateş Şansı (%)</RG_EnableRGForFleeChance_Title>
+  <RG_EnableRGForFleeChance_Description>Düşman piyadelerin kaçarken Koş ve Ateş modunu kullanma ihtimali</RG_EnableRGForFleeChance_Description>
+  <RG_WeightLimitFilter_Title>Ağır/Hafif ağırlık sınırı filtresi</RG_WeightLimitFilter_Title>
+  <RG_WeightLimitFilter_Description>Kaydırıcıyı kullanarak ağırlık sınırını belirleyin. "Uygula" butonuna bastığınızda silahlar bu ağırlık eşiğine göre ağır ya da hafif olarak sınıflandırılır. Ağır silahlar bir tür ceza alır, hafif olanlar başka bir ceza.</RG_WeightLimitFilter_Description>
+  <RG_WeaponSelection_Title>Hangi silah ağır / hafif? \n(hareket cezası için kullanılır)</RG_WeaponSelection_Title>
+  <RG_WeaponSelection_Description>Hareket cezası uygulanırken silahın ağır mı hafif mi sayılacağını ayarlamak için silaha tıklayın</RG_WeaponSelection_Description>
+  <RG_Button_Apply>Uygula</RG_Button_Apply>
+  <RG_ConsideredLight>Hafif Silah</RG_ConsideredLight>
+  <RG_ConsideredHeavy>Ağır Silah</RG_ConsideredHeavy>
+  <RG_Action_Enable_Label>Koş ve Ateş!</RG_Action_Enable_Label>
+  <RG_Action_Disable_Label>Koş ve Ateş'i Devre Dışı Bırak</RG_Action_Disable_Label>
+  <RG_Action_Disable_Description>Koş ve Ateş modunu devre dışı bırak</RG_Action_Disable_Description>
+  <RG_Action_Enable_Description>Koşarken ateş etmeyi mümkün kılan Koş ve Ateş modunu etkinleştirir. Koşarken ateş etmek isabet ve hareket cezaları uygular.</RG_Action_Enable_Description>
+</LanguageData>
