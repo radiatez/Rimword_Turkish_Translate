@@ -1,0 +1,25 @@
+﻿<LanguageData>
+	<GU_Title>Otlatmayı Geliştir</GU_Title>
+	<GU_ResetToDefault>Varsayılan</GU_ResetToDefault>
+
+	<GU_GrazeInSnowName>Karda otlatma</GU_GrazeInSnowName>
+	<GU_GrazeInSnowDesc>Bitkiler karla kaplıyken otlatılabilir mi? Vanilla = KAPALI</GU_GrazeInSnowDesc>
+
+	<GU_LifespanName>Bitkilerin ömrü</GU_LifespanName>
+	<GU_LifespanDesc>Bitkilerin yaşam süresi. Vanilla = %100</GU_LifespanDesc>
+
+	<GU_LifespanFloorName>Bitki ömrü için taban değer</GU_LifespanFloorName>
+	<GU_LifespanFloorDesc>Bir bitkinin ömrü, ölçeklendirmeden sonra bu değerden düşükse, bu değere doğru yarı yolda tutulur. Vanilla = 0 gün</GU_LifespanFloorDesc>
+
+	<GU_NutritionName>Besin değeri</GU_NutritionName>
+	<GU_NutritionDesc>Bitkilerin sağladığı besin miktarı. Vanilla = %100</GU_NutritionDesc>
+
+	<GU_NutritionRegrowName>Besin (yeniden büyüyen bitkiler)</GU_NutritionRegrowName>
+	<GU_NutritionRegrowDesc>Büyümekte olan bitkilerin sağladığı besin miktarı. Vanilla = %350</GU_NutritionRegrowDesc>
+
+	<GU_NutritionDestroyName>Yıkıcı otlatma bonusu</GU_NutritionDestroyName>
+	<GU_NutritionDestroyDesc>Bir bitkinin yok edilmesiyle sağlanan besin miktarı. Vanilla = %0</GU_NutritionDestroyDesc>
+
+	<GU_DestructiveGrazersName>Yıkıcı otçullar</GU_DestructiveGrazersName>
+	<GU_DestructiveGrazersDesc>Otlatırken bitkileri yok edebilen canlılar. Vanilla = Hepsi</GU_DestructiveGrazersDesc>
+</LanguageData>
