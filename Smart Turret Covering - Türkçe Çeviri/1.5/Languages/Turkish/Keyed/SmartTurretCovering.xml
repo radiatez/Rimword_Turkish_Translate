@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- TR: Akıllı Taret Kapatma -->
+	<SmartTurretCovering.Title>Akıllı Taret Kapatma</SmartTurretCovering.Title>
+	<!-- TR: Taretler için Kapalı Faktörü -->
+	<SmartTurretCovering.CoveredFactorForTurrets>Taretler için Kapalı Faktörü</SmartTurretCovering.CoveredFactorForTurrets>
+	<!-- TR: Pekiştirilmiş -->
+	<SmartTurretCovering.Fortified>Pekiştirilmiş</SmartTurretCovering.Fortified>
+	<!-- TR: Katı -->
+	<SmartTurretCovering.Solid>Katı</SmartTurretCovering.Solid>
+	<!-- TR: İyi -->
+	<SmartTurretCovering.Decent>İyi</SmartTurretCovering.Decent>
+	<!-- TR: Orta -->
+	<SmartTurretCovering.Modest>Orta</SmartTurretCovering.Modest>
+	<!-- TR: (mod yok gibi) -->
+	<SmartTurretCovering.SameAsNoMod>(mod yok gibi)</SmartTurretCovering.SameAsNoMod>
+	<!-- TR: (mod varsayılanı) -->
+	<SmartTurretCovering.Default>(varsayılan)</SmartTurretCovering.Default>
+	<!-- TR: └ Aynı Oran Peşinden -->
+	<SmartTurretCovering.Fortified.description>└ Peşeklerin kapalı oranı gibi</SmartTurretCovering.Fortified.description>
+	<!-- TR: └ Yarım Oran -->
+	<SmartTurretCovering.Solid.description>└ Yarım kapalı</SmartTurretCovering.Solid.description>
+	<!-- TR: └ Üçte Bir Oran -->
+	<SmartTurretCovering.Decent.description>└ Üçte bir kapalı</SmartTurretCovering.Decent.description>
+	<!-- TR: └ Dörtte Bir Oran -->
+	<SmartTurretCovering.Modest.description>└ Dörtte bir kapalı</SmartTurretCovering.Modest.description>
+	<!-- TR: Sürekli kapama oranı geçişi -->
+	<SmartTurretCovering.AnalogCoverRate>Alternatif kapama oranı</SmartTurretCovering.AnalogCoverRate>
+</LanguageData>
