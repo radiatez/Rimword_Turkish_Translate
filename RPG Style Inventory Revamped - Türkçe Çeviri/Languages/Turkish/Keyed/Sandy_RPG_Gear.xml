@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SandyMassCarried>Taşınan Ağırlık</SandyMassCarried>
+  <SandyMassValue>{0} / {1} kg</SandyMassValue>
+  <Sandy_ViewList>Liste Olarak Göster</Sandy_ViewList>
+  <Sandy_Head>Başlık</Sandy_Head>
+  <Sandy_TorsoMiddle>Dış Üst Giyim</Sandy_TorsoMiddle>
+  <Sandy_TorsoOnSkin>İç Üst Giyim</Sandy_TorsoOnSkin>
+  <Sandy_TorsoShell>Zırh</Sandy_TorsoShell>
+  <Sandy_Belt>Kemer</Sandy_Belt>
+  <Sandy_Pants>Pantolon</Sandy_Pants>
+
+</LanguageData>

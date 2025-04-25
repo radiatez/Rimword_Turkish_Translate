@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<ItemSlotTorsoOnSkin.label>İç Üst Giyim</ItemSlotTorsoOnSkin.label>
+	<ItemSlotTorsoShell.label>Zırh</ItemSlotTorsoShell.label>
+	<ItemSlotTorsoMiddle.label>Dış Üst Giyim</ItemSlotTorsoMiddle.label>
+	<ItemSlotHead.label>Başlık</ItemSlotHead.label>
+	<ItemSlotWaistBelt.label>Kemer</ItemSlotWaistBelt.label>
+	<ItemSlotLegsSkin.label>Pantolon</ItemSlotLegsSkin.label>
+
+</LanguageData>

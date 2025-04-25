@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ModMetaData>
+	<name>RPG Style Inventory Revamped - Türkçe Çeviri</name>
+	<author>Hamza YILMAZ</author>
+    <supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+		<modDependencies>		
+		<li>
+			<packageId>Sandy.RPGStyleInventory.avilmask.Revamped</packageId>
+			<displayName>RPG Style Inventory Revamped</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2478833213</steamWorkshopUrl>
+		</li>		
+	</modDependencies>
+		<loadAfter>
+		<li>Sandy.RPGStyleInventory.avilmask.Revamped</li>
+	</loadAfter>
+	<packageId>hyilmaz.rimword.tr.2478833213</packageId>
+	<description>	
+Hakkında:
+
+RPG Style Inventory Revamped modunun Türkçe çevirisi.
+Bazı çeviri hataları olabilir. 
+Bu modların Türkçe çevirileri olmadığından kendi oyunum için çevirdim ve paylaşmaya karar verdim.
+Bi nebze de olsa belki işinize yarayabilir.
+
+https://github.com/radiatez/Rimword_Turkish_Translate
+
+Hamza YILMAZ	
+	</description>
+</ModMetaData>
+
