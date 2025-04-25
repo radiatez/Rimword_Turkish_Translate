@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CallTradeShips.ModName>Ticaret Gemisi Çağır</CallTradeShips.ModName>
+  <CallTradeShips.Call>Yörünge Ticaret Gemisi Çağır: {0}</CallTradeShips.Call>
+  <CallTradeShips.CallWithCost>Yörünge Ticaret Gemisi Çağır: {0} (Maliyet: {1} gümüş)</CallTradeShips.CallWithCost>
+  <CallTradeShips.Cost>Maliyet</CallTradeShips.Cost>
+  <CallTradeShips.NotEnoughSilver>Ticaret gemisi çağırmak için yeterli gümüş yok (Gerekli: {1}, Mevcut: {0})</CallTradeShips.NotEnoughSilver>
+
+  <!-- For TraderShips mod - https://github.com/AUTOMATIC1111/TraderShips -->
+  <CallTradeShips.AllowOrbitalTraders>Yörünge Tüccarlarına İzin Ver</CallTradeShips.AllowOrbitalTraders>
+  <CallTradeShips.CallTraderShip>Ticaret Gemisini İnişe Çağır</CallTradeShips.CallTraderShip>
+  <CallTradeShips.CallTraderShipCost>Ticaret Gemisini İnişe Çağır (Maliyet: {0} gümüş)</CallTradeShips.CallTraderShipCost>
+</LanguageData>
