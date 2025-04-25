@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StartCity.label>şehirde başla (RimCities)</StartCity.label>
+  <StartCitadel.label>sitadel yakınında başla (RimCities)</StartCitadel.label>
+  <StartEquipment.label>her kolonicinin yanında ver</StartEquipment.label>
+  <StartElite.label>elit kolonistler</StartElite.label>
+  <StartAllies.label>müttefiklerle başla</StartAllies.label>
+  <RescuePrisoners.label>mahkumları kurtar</RescuePrisoners.label>
+
+</LanguageData>

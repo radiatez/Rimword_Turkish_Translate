@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QuestResultComplete>Tamamlandığında: {0}</QuestResultComplete>
+  <QuestResultCancel>Başarısızlık durumunda: {0}</QuestResultCancel>
+  <QuestResultExpire>Süre dolduğunda: {0}</QuestResultExpire>
+  <QuestExpireTime>Kalan süre: {0}</QuestExpireTime>
+
+  <QuestAppendWorth>değeri {0}</QuestAppendWorth>
+
+  <QuestComplete>Görev tamamlandı ({0})</QuestComplete>
+  <QuestCancelled>Görev iptal edildi ({0})</QuestCancelled>
+  <QuestExpired>Görev artık geçersiz ({0})</QuestExpired>
+
+  <QuestReceivedLabel>Ödül</QuestReceivedLabel>
+  <QuestReceived>Şunu alacaksınız: {0}</QuestReceived>
+
+  <QuestDefendWave>Saldırı dalgası ({0} / {1})</QuestDefendWave>
+
+  <QuestTargetLocated>Hedef tespit edildi</QuestTargetLocated>
+  <QuestTargetLocatedMessage>Görev hedefinizin konumu hakkında bilgilendirildiniz.</QuestTargetLocatedMessage>
+
+</LanguageData>

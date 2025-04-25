@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Quest_City_Sabotage.label>şehirde sabotaj</Quest_City_Sabotage.label>
+  <Quest_City_Sabotage.letterText>Gerilla birliği, {0} şehrindeki {1} bölgesine saldırmayı planlıyor. Onlara yardım etmek için {1}'deki savunma taretlerini yok edebilirsiniz. \n\nSaldırganların kimliği, saldırı başlayana kadar gizli kalacak.\n\nGörev tamamlandıktan sonra, her iki fraksiyonun da koloninize olan bakış açısı dramatik şekilde değişecektir.</Quest_City_Sabotage.letterText>
+  <Quest_City_Sabotage.letterLabel>Sabotaj fırsatı</Quest_City_Sabotage.letterLabel>
+
+  <Quest_City_Assault.label>şehir kuşatmasına katılım</Quest_City_Assault.label>
+  <Quest_City_Assault.letterText>{0}, {1} yerleşimindeki {2}'ye saldırmaya hazırlanıyor.\n\nEğer katılırsanız, {0} size fethedilen şehri elinizde tutma izni verecek.</Quest_City_Assault.letterText>
+  <Quest_City_Assault.letterLabel>Ortak saldırı</Quest_City_Assault.letterLabel>
+
+  <Quest_City_Assassinate.label>suikast görevi</Quest_City_Assassinate.label>
+  <Quest_City_Assassinate.letterText>Gizemli bir yabancı, koloninizden {0}’ı öldürmenizi istedi. {1}, {3} yerleşiminde yaşayan etkili bir {2} vatandaşıdır. \n\nÖlüm doğrudan size bağlanmazsa, siyasi sonuçları olmayacaktır.</Quest_City_Assassinate.letterText>
+  <Quest_City_Assassinate.letterLabel>Suikast teklifi</Quest_City_Assassinate.letterLabel>
+  <Quest_City_Assassinate.questParts.1.letter>Hedef etkisiz hale getirildi</Quest_City_Assassinate.questParts.1.letter>
+  <Quest_City_Assassinate.questParts.2.letter>Hedef kaçtı</Quest_City_Assassinate.questParts.2.letter>
+
+  <Quest_City_Defend.label>şehri savunma</Quest_City_Defend.label>
+  <Quest_City_Defend.letterText>{0} güçleri tarafından kuşatma altında olan {2} şehri acil takviyeye ihtiyaç duyuyor.\n\nEğer {2}'yi başarıyla savunursanız, şehir sizi cömertçe ödüllendirecek.</Quest_City_Defend.letterText>
+  <Quest_City_Defend.letterLabel>Şehir saldırı altında</Quest_City_Defend.letterLabel>
+  <Quest_City_Defend.questParts.1.letter>Saldırganlar geri çekildi</Quest_City_Defend.questParts.1.letter>
+  <Quest_City_Defend.questParts.2.letter>Şehir ele geçirildi</Quest_City_Defend.questParts.2.letter>
+  <Quest_City_Defend.questParts.1.message>{0} güçleri paniğe kapıldı ve geri çekildi. {2} başarıyla savunuldu.</Quest_City_Defend.questParts.1.message>
+  <Quest_City_Defend.questParts.2.message>{2}, {0} birlikleri tarafından ele geçirildi.</Quest_City_Defend.questParts.2.message>
+
+  <Quest_City_PrisonBreak.label>hapishane kaçışı</Quest_City_PrisonBreak.label>
+  <Quest_City_PrisonBreak.letterText>{1}’deki mahkumlar kaçış planı yapıyor. Eğer yardım etmeyi kabul ederseniz, özgür kaldıktan sonra size katılacaklar.\n\nNe yazık ki, onları tutsak edenler sizin gelişinizden haberdar. {1}’e mahkumlar kaçmadan önce girerseniz, {0}’dan düşmanca bir tepki almayı bekleyin.</Quest_City_PrisonBreak.letterText>
+  <Quest_City_PrisonBreak.letterLabel>Kaçış planı</Quest_City_PrisonBreak.letterLabel>
+  <Quest_City_PrisonBreak.questParts.0.letter>Mahkumlar başarıyla kaçtı</Quest_City_PrisonBreak.questParts.0.letter>
+  <Quest_City_PrisonBreak.questParts.0.message>Görünüşe göre mahkumlar kaçmayı başardı.</Quest_City_PrisonBreak.questParts.0.message>
+
+</LanguageData>

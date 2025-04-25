@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ModMetaData>
+	<name>RimCities - Türkçe Çeviri</name>
+	<author>Hamza YILMAZ</author>
+    <supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+		<modDependencies>		
+		<li>
+			<packageId>Cabbage.RimCities</packageId>
+			<displayName>RimCities</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1775170117</steamWorkshopUrl>
+		</li>		
+	</modDependencies>
+		<loadAfter>
+		<li>Cabbage.RimCities</li>
+	</loadAfter>
+	<packageId>hyilmaz.rimword.tr.1775170117</packageId>
+	<description>	
+Hakkında:
+
+RimCities modunun Türkçe çevirisi.
+Bazı çeviri hataları olabilir. 
+Bu modların Türkçe çevirileri olmadığından kendi oyunum için çevirdim ve paylaşmaya karar verdim.
+Bi nebze de olsa belki işinize yarayabilir.
+
+https://github.com/radiatez/Rimword_Turkish_Translate
+
+Hamza YILMAZ	
+	</description>
+</ModMetaData>
+

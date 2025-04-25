@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EnterCity>Şehre Gir</EnterCity>
+  <EnterCityDesc>Seçilen şehre gir.</EnterCityDesc>
+
+  <CitiesConfigReset>Varsayılanlara Sıfırla</CitiesConfigReset>
+  <LimitCitySize>Şehir haritası için özel boyut: [{0} x {1}]</LimitCitySize>
+  <EnableCityQuests>Şehirle ilgili görevleri etkinleştir</EnableCityQuests>
+  <EnableCityEvents>Şehir etkinliklerini etkinleştir (yiyecek malzemeleri, takviyeler)</EnableCityEvents>
+  <EnableCityLooting>Şehir yağmalama cezalarını devre dışı bırak</EnableCityLooting>
+  <CityLootScale>Şehirden elde edilen ganimet çarpanı: [{0}]</CityLootScale>
+  <AbandonedCityChance>Şehrin terkedilmiş olma olasılığı: [{0}]</AbandonedCityChance>
+  <CitiesPer100kTiles>100.000 karoda şehir oluşma sıklığı:</CitiesPer100kTiles>
+  <AbandonedPer100kTiles>100.000 karoda terkedilmiş şehir oluşma sıklığı:</AbandonedPer100kTiles>
+  <CompromisedPer100kTiles>100.000 karoda haydut şehir oluşma sıklığı:</CompromisedPer100kTiles>
+  <MinCitadelsPerWorld>Dünyadaki minimum sitadel sayısı: [{0}]</MinCitadelsPerWorld>
+
+  <FriendlyCityKind>Dostça</FriendlyCityKind>
+  <HostileCityKind>Düşmanca</HostileCityKind>
+  <PirateCityKind>Korsan</PirateCityKind>
+  <AbandonedCityKind>Terkedilmiş</AbandonedCityKind>
+  <GhostCityKind>Hayalet</GhostCityKind>
+  <CompromisedCityKind>Haydut</CompromisedCityKind>
+
+  <CitadelName>{0} Sitadeli</CitadelName>
+  <GeneratingCitadel>Sitadel oluşturuluyor (bu işlem biraz zaman alabilir)</GeneratingCitadel>
+
+</LanguageData>
