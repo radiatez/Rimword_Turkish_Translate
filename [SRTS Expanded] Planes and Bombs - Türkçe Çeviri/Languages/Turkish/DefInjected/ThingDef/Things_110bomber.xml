@@ -1,0 +1,730 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  
+<A10a_Active.label>A10 Motor Çalıştırıldı</A10a_Active.label>
+
+<A10a_BomberRun.label>A10 Bombardımanı</A10a_BomberRun.label>
+
+<A10a_Incoming.label>A10 Yaklaşıyor</A10a_Incoming.label>
+
+<A10a_Leaving.label>A10 Ayrılıyor</A10a_Leaving.label>
+
+
+<A6M7a_Active.label>A6M7 Motor Çalıştırıldı</A6M7a_Active.label>
+
+<A6M7a_BomberRun.label>A6M7 Bombardımanı</A6M7a_BomberRun.label>
+
+<A6M7a_Incoming.label>A6M7 Yaklaşıyor</A6M7a_Incoming.label>
+
+<A6M7a_Leaving.label>A6M7 Ayrılıyor</A6M7a_Leaving.label>
+
+
+<AEROL29a_Active.label>AEROL29 Motor Çalıştırıldı</AEROL29a_Active.label>
+
+<AEROL29a_BomberRun.label>AEROL29 Bombardımanı</AEROL29a_BomberRun.label>
+
+<AEROL29a_Incoming.label>AEROL29 Yaklaşıyor</AEROL29a_Incoming.label>
+
+<AEROL29a_Leaving.label>AEROL29 Ayrılıyor</AEROL29a_Leaving.label>
+
+
+<AH1C_Active.label>AH1C Motor Çalıştırıldı</AH1C_Active.label>
+
+<AH1C_BomberRun.label>AH1C Bombardımanı</AH1C_BomberRun.label>
+
+<AH1C_Incoming.label>AH1C Yaklaşıyor</AH1C_Incoming.label>
+
+<AH1C_Leaving.label>AH1C Ayrılıyor</AH1C_Leaving.label>
+
+
+<AH56C_Active.label>AH56C Motor Çalıştırıldı</AH56C_Active.label>
+
+<AH56C_BomberRun.label>AH56C Bombardımanı</AH56C_BomberRun.label>
+
+<AH56C_Incoming.label>AH56C Yaklaşıyor</AH56C_Incoming.label>
+
+<AH56C_Leaving.label>AH56C Ayrılıyor</AH56C_Leaving.label>
+
+
+<AN225a_Active.label>AN225 Motor Çalıştırıldı</AN225a_Active.label>
+
+<AN225a_BomberRun.label>AN225 Bombardımanı</AN225a_BomberRun.label>
+
+<AN225a_Incoming.label>AN225 Yaklaşıyor</AN225a_Incoming.label>
+
+<AN225a_Leaving.label>AN225 Ayrılıyor</AN225a_Leaving.label>
+
+
+<AR234Ba_Active.label>AR 234 B Motor Çalıştırıldı</AR234Ba_Active.label>
+
+<AR234Ba_BomberRun.label>AR 234 B Bombardımanı</AR234Ba_BomberRun.label>
+
+<AR234Ba_Incoming.label>AR 234 B Yaklaşıyor</AR234Ba_Incoming.label>
+
+<AR234Ba_Leaving.label>AR 234 B Ayrılıyor</AR234Ba_Leaving.label>
+
+
+<AvroLana_Active.label>Avro Lancaster Motor Çalıştırıldı</AvroLana_Active.label>
+
+<AvroLana_BomberRun.label>Avro Lancaster Bombardımanı</AvroLana_BomberRun.label>
+
+<AvroLana_Incoming.label>Avro Lancaster Yaklaşıyor</AvroLana_Incoming.label>
+
+<AvroLana_Leaving.label>Avro Lancaster Ayrılıyor</AvroLana_Leaving.label>
+
+
+<AVROVULCANa_Active.label>AVROVULCAN Motor Çalıştırıldı</AVROVULCANa_Active.label>
+
+<AVROVULCANa_BomberRun.label>AVROVULCAN Bombardımanı</AVROVULCANa_BomberRun.label>
+
+<AVROVULCANa_Incoming.label>AVROVULCAN Yaklaşıyor</AVROVULCANa_Incoming.label>
+
+<AVROVULCANa_Leaving.label>AVROVULCAN Ayrılıyor</AVROVULCANa_Leaving.label>
+
+
+<AvroYork685a_Active.label>AvroYork685 Motor Çalıştırıldı</AvroYork685a_Active.label>
+
+<AvroYork685a_BomberRun.label>AvroYork685 Bombardımanı</AvroYork685a_BomberRun.label>
+
+<AvroYork685a_Incoming.label>AvroYork685 Yaklaşıyor</AvroYork685a_Incoming.label>
+
+<AvroYork685a_Leaving.label>AvroYork685 Ayrılıyor</AvroYork685a_Leaving.label>
+
+
+<B1La_Active.label>B1La Motor Çalıştırıldı</B1La_Active.label>
+
+<B1La_BomberRun.label>B1La Bombardımanı</B1La_BomberRun.label>
+
+<B1La_Incoming.label>B1La Yaklaşıyor</B1La_Incoming.label>
+
+<B1La_Leaving.label>B1La Ayrılıyor</B1La_Leaving.label>
+
+
+<B29SFa_Active.label>B29 SF Motor Çalıştırıldı</B29SFa_Active.label>
+
+<B29SFa_BomberRun.label>B29 SF Bombardımanı</B29SFa_BomberRun.label>
+
+<B29SFa_Incoming.label>B29 SF Yaklaşıyor</B29SFa_Incoming.label>
+
+<B29SFa_Leaving.label>B29 SF Ayrılıyor</B29SFa_Leaving.label>
+
+  
+  
+<B2a_Active.label>B2 Motor Çalıştırıldı</B2a_Active.label>
+<B2a_BomberRun.label>B2 Bombardımanı</B2a_BomberRun.label>
+<B2a_Incoming.label>B2 Yaklaşıyor</B2a_Incoming.label>
+<B2a_Leaving.label>B2 Ayrılıyor</B2a_Leaving.label>
+
+
+<B52a_Active.label>B52 Motor Çalıştırıldı</B52a_Active.label>
+<B52a_BomberRun.label>B52 Bombardımanı</B52a_BomberRun.label>
+<B52a_Incoming.label>B52 Yaklaşıyor</B52a_Incoming.label>
+<B52a_Leaving.label>B52 Ayrılıyor</B52a_Leaving.label>
+
+
+<Bf110C7a_Active.label>BF110 Motor Çalıştırıldı</Bf110C7a_Active.label>
+<Bf110C7a_BomberRun.label>BF110 Bombardımanı</Bf110C7a_BomberRun.label>
+<Bf110C7a_Incoming.label>BF110 Yaklaşıyor</Bf110C7a_Incoming.label>
+<Bf110C7a_Leaving.label>BF110 Ayrılıyor</Bf110C7a_Leaving.label>
+
+
+<BR1001a_Active.label>BR1001 Motor Çalıştırıldı</BR1001a_Active.label>
+<BR1001a_BomberRun.label>BR1001 Bombardımanı</BR1001a_BomberRun.label>
+<BR1001a_Incoming.label>BR1001 Yaklaşıyor</BR1001a_Incoming.label>
+<BR1001a_Leaving.label>BR1001 Ayrılıyor</BR1001a_Leaving.label>
+
+
+<C130a_Active.label>C-130 Motor Çalıştırıldı</C130a_Active.label>
+<C130a_BomberRun.label>C-130 Bombardımanı</C130a_BomberRun.label>
+<C130a_Incoming.label>C-130 Yaklaşıyor</C130a_Incoming.label>
+<C130a_Leaving.label>C-130 Ayrılıyor</C130a_Leaving.label>
+
+
+<C17GBa_Active.label>C-17 Motor Çalıştırıldı</C17GBa_Active.label>
+<C17GBa_BomberRun.label>C-17 Bombardımanı</C17GBa_BomberRun.label>
+<C17GBa_Incoming.label>C-17 Yaklaşıyor</C17GBa_Incoming.label>
+<C17GBa_Leaving.label>C-17 Ayrılıyor</C17GBa_Leaving.label>
+
+
+<C5Ga_Active.label>C-5 Galaxy Motor Çalıştırıldı</C5Ga_Active.label>
+<C5Ga_BomberRun.label>C-5 Galaxy Bombardımanı</C5Ga_BomberRun.label>
+<C5Ga_Incoming.label>C-5 Galaxy Yaklaşıyor</C5Ga_Incoming.label>
+<C5Ga_Leaving.label>C-5 Galaxy Ayrılıyor</C5Ga_Leaving.label>
+
+
+<CH53a_Active.label>CH-53 Motor Çalıştırıldı</CH53a_Active.label>
+<CH53a_BomberRun.label>CH-53 Bombardımanı</CH53a_BomberRun.label>
+<CH53a_Incoming.label>CH-53 Yaklaşıyor</CH53a_Incoming.label>
+<CH53a_Leaving.label>CH-53 Ayrılıyor</CH53a_Leaving.label>
+
+
+<DC133a_Active.label>Douglas C-133 Motor Çalıştırıldı</DC133a_Active.label>
+<DC133a_BomberRun.label>Douglas C-133 Bombardımanı</DC133a_BomberRun.label>
+<DC133a_Incoming.label>Douglas C-133 Yaklaşıyor</DC133a_Incoming.label>
+<DC133a_Leaving.label>Douglas C-133 Ayrılıyor</DC133a_Leaving.label>
+
+
+<DCA3a_Active.label>DCA3 Motor Çalıştırıldı</DCA3a_Active.label>
+<DCA3a_BomberRun.label>DCA3 Bombardımanı</DCA3a_BomberRun.label>
+<DCA3a_Incoming.label>DCA3 Yaklaşıyor</DCA3a_Incoming.label>
+<DCA3a_Leaving.label>DCA3 Ayrılıyor</DCA3a_Leaving.label>
+
+
+<DO217a_Active.label>DO217 Motor Çalıştırıldı</DO217a_Active.label>
+<DO217a_BomberRun.label>DO217 Bombardımanı</DO217a_BomberRun.label>
+<DO217a_Incoming.label>DO217 Yaklaşıyor</DO217a_Incoming.label>
+<DO217a_Leaving.label>DO217 Ayrılıyor</DO217a_Leaving.label>
+
+
+<F100a_Active.label>F-100 Motor Çalıştırıldı</F100a_Active.label>
+<F100a_BomberRun.label>F-100 Bombardımanı</F100a_BomberRun.label>
+<F100a_Incoming.label>F-100 Yaklaşıyor</F100a_Incoming.label>
+<F100a_Leaving.label>F-100 Ayrılıyor</F100a_Leaving.label>
+
+
+<F111Ka_Active.label>F-111K Motor Çalıştırıldı</F111Ka_Active.label>
+<F111Ka_BomberRun.label>F-111K Bombardımanı</F111Ka_BomberRun.label>
+<F111Ka_Incoming.label>F-111K Yaklaşıyor</F111Ka_Incoming.label>
+<F111Ka_Leaving.label>F-111K Ayrılıyor</F111Ka_Leaving.label>
+
+
+<F117a_Active.label>F-117A Motor Çalıştırıldı</F117a_Active.label>
+<F117a_BomberRun.label>F-117A Bombardımanı</F117a_BomberRun.label>
+<F117a_Incoming.label>F-117A Yaklaşıyor</F117a_Incoming.label>
+<F117a_Leaving.label>F-117A Ayrılıyor</F117a_Leaving.label>
+
+
+<F16a_Active.label>F-16 Motor Çalıştırıldı</F16a_Active.label>
+
+  
+
+<F16a_BomberRun.label>F16 Bombardımanı</F16a_BomberRun.label>
+
+
+<F16a_Incoming.label>F16 Yaklaşıyor</F16a_Incoming.label>
+
+
+<F16a_Leaving.label>F16 Ayrılıyor</F16a_Leaving.label>
+
+
+<F16XLa_Active.label>F16XL Aktif</F16XLa_Active.label>
+
+
+<F16XLa_BomberRun.label>F16XL Bombardımanı</F16XLa_BomberRun.label>
+
+
+<F16XLa_Incoming.label>F16XL Yaklaşıyor</F16XLa_Incoming.label>
+
+
+<F16XLa_Leaving.label>F16XL Ayrılıyor</F16XLa_Leaving.label>
+
+
+<F22R_Active.label>F22R Aktif</F22R_Active.label>
+
+
+<F22R_BomberRun.label>F22R Bombardımanı</F22R_BomberRun.label>
+
+
+<F22R_Incoming.label>F22R Yaklaşıyor</F22R_Incoming.label>
+
+
+<F22R_Leaving.label>F22R Ayrılıyor</F22R_Leaving.label>
+
+
+<F4IIa_Active.label>F4IIa Aktif</F4IIa_Active.label>
+
+
+<F4IIa_BomberRun.label>F4IIa Bombardımanı</F4IIa_BomberRun.label>
+
+
+<F4IIa_Incoming.label>F4IIa Yaklaşıyor</F4IIa_Incoming.label>
+
+
+<F4IIa_Leaving.label>F4IIa Ayrılıyor</F4IIa_Leaving.label>
+
+
+<fa18a_Active.label>fa18 Aktif</fa18a_Active.label>
+
+
+<fa18a_BomberRun.label>fa18 Bombardımanı</fa18a_BomberRun.label>
+
+
+<fa18a_Incoming.label>fa18 Yaklaşıyor</fa18a_Incoming.label>
+
+
+<fa18a_Leaving.label>fa18 Ayrılıyor</fa18a_Leaving.label>
+
+
+<FA223a_Active.label>FA223a Aktif</FA223a_Active.label>
+
+
+<FA223a_BomberRun.label>FA223a Bombardımanı</FA223a_BomberRun.label>
+
+
+<FA223a_Incoming.label>FA223a Yaklaşıyor</FA223a_Incoming.label>
+
+
+<FA223a_Leaving.label>FA223a Ayrılıyor</FA223a_Leaving.label>
+
+
+<HAIIa_Active.label>HAII Aktif</HAIIa_Active.label>
+
+
+<HAIIa_BomberRun.label>HAII Bombardımanı</HAIIa_BomberRun.label>
+
+
+<HAIIa_Incoming.label>HAII Yaklaşıyor</HAIIa_Incoming.label>
+
+
+<HAIIa_Leaving.label>HAII Ayrılıyor</HAIIa_Leaving.label>
+
+
+<HE111a_Active.label>HE111 Aktif</HE111a_Active.label>
+
+
+<HE111a_BomberRun.label>HE111 Bombardımanı</HE111a_BomberRun.label>
+
+
+<HE111a_Incoming.label>HE111 Yaklaşıyor</HE111a_Incoming.label>
+
+
+<HE111a_Leaving.label>HE111 Ayrılıyor</HE111a_Leaving.label>
+
+
+<he177a_Active.label>he177 Aktif</he177a_Active.label>
+
+
+<he177a_BomberRun.label>he177 Bombardımanı</he177a_BomberRun.label>
+
+
+<he177a_Incoming.label>he177 Yaklaşıyor</he177a_Incoming.label>
+
+
+<he177a_Leaving.label>he177 Ayrılıyor</he177a_Leaving.label>
+
+
+<J10a_Active.label>J10a Aktif</J10a_Active.label>
+
+  
+
+<J10a_BomberRun.label>J10a Bombardımanı</J10a_BomberRun.label>
+
+
+<J10a_Incoming.label>J10a Yaklaşıyor</J10a_Incoming.label>
+
+
+<J10a_Leaving.label>J10a Ayrılıyor</J10a_Leaving.label>
+
+
+<J20a_Active.label>J20a Aktif</J20a_Active.label>
+
+
+<J20a_BomberRun.label>J20a Bombardımanı</J20a_BomberRun.label>
+
+
+<J20a_Incoming.label>J20a Yaklaşıyor</J20a_Incoming.label>
+
+
+<J20a_Leaving.label>J20a Ayrılıyor</J20a_Leaving.label>
+
+
+<JCC16a_Active.label>JCC16a Aktif</JCC16a_Active.label>
+
+
+<JCC16a_BomberRun.label>JCC16a Bombardımanı</JCC16a_BomberRun.label>
+
+
+<JCC16a_Incoming.label>JCC16a Yaklaşıyor</JCC16a_Incoming.label>
+
+
+<JCC16a_Leaving.label>JCC16a Ayrılıyor</JCC16a_Leaving.label>
+
+
+<JH7a_Active.label>JH7 Aktif</JH7a_Active.label>
+
+
+<JH7a_BomberRun.label>JH7 Bombardımanı</JH7a_BomberRun.label>
+
+
+<JH7a_Incoming.label>JH7 Yaklaşıyor</JH7a_Incoming.label>
+
+
+<JH7a_Leaving.label>JH7 Ayrılıyor</JH7a_Leaving.label>
+
+
+<JU52a_Active.label>JU52 Aktif</JU52a_Active.label>
+
+
+<JU52a_BomberRun.label>JU52 Bombardımanı</JU52a_BomberRun.label>
+
+
+<JU52a_Incoming.label>JU52 Yaklaşıyor</JU52a_Incoming.label>
+
+
+<JU52a_Leaving.label>JU52 Ayrılıyor</JU52a_Leaving.label>
+
+
+<JU87stua_Active.label>JU87stu Aktif</JU87stua_Active.label>
+
+
+<JU87stua_BomberRun.label>JU87stu Bombardımanı</JU87stua_BomberRun.label>
+
+
+<JU87stua_Incoming.label>JU87stu Yaklaşıyor</JU87stua_Incoming.label>
+
+
+<JU87stua_Leaving.label>JU87stu Ayrılıyor</JU87stua_Leaving.label>
+
+
+<LKPV1C7a_Active.label>LKPV1C7 Aktif</LKPV1C7a_Active.label>
+
+
+<LKPV1C7a_BomberRun.label>LKPV1C7 Bombardımanı</LKPV1C7a_BomberRun.label>
+
+
+<LKPV1C7a_Incoming.label>LKPV1C7 Yaklaşıyor</LKPV1C7a_Incoming.label>
+
+
+<LKPV1C7a_Leaving.label>LKPV1C7 Ayrılıyor</LKPV1C7a_Leaving.label>
+
+
+<Lp38la_Active.label>Lp38l Aktif</Lp38la_Active.label>
+
+
+<Lp38la_BomberRun.label>Lp38l Bombardımanı</Lp38la_BomberRun.label>
+
+
+<Lp38la_Incoming.label>Lp38l Yaklaşıyor</Lp38la_Incoming.label>
+
+
+<Lp38la_Leaving.label>Lp38l Ayrılıyor</Lp38la_Leaving.label>
+
+
+<ME1075a_Active.label>ME1075 Aktif</ME1075a_Active.label>
+
+
+<ME1075a_BomberRun.label>ME1075 Bombardımanı</ME1075a_BomberRun.label>
+
+
+<ME1075a_Incoming.label>ME1075 Yaklaşıyor</ME1075a_Incoming.label>
+
+
+<ME1075a_Leaving.label>ME1075 Ayrılıyor</ME1075a_Leaving.label>
+
+
+<ME262a_Active.label>ME262 Aktif</ME262a_Active.label>
+
+
+<ME262a_BomberRun.label>ME262 Bombardımanı</ME262a_BomberRun.label>
+
+
+<ME262a_Incoming.label>ME262 Yaklaşıyor</ME262a_Incoming.label>
+
+
+<ME262a_Leaving.label>ME262 Ayrılıyor</ME262a_Leaving.label>
+
+
+<MFF50a_Active.label>MFF50 Aktif</MFF50a_Active.label>
+
+
+<MFF50a_BomberRun.label>MFF50 Bombardımanı</MFF50a_BomberRun.label>
+
+
+<MFF50a_Incoming.label>MFF50 Yaklaşıyor</MFF50a_Incoming.label>
+
+
+<MFF50a_Leaving.label>MFF50 Ayrılıyor</MFF50a_Leaving.label>
+
+
+<MI12a_Active.label>MI12a Aktif</MI12a_Active.label>
+
+
+<MI12a_BomberRun.label>MI12a Bombardımanı</MI12a_BomberRun.label>
+
+
+<MI12a_Incoming.label>MI12a Yaklaşıyor</MI12a_Incoming.label>
+
+
+<MI12a_Leaving.label>MI12a Ayrılıyor</MI12a_Leaving.label>
+
+
+<MI24A_Active.label>MI24A Aktif</MI24A_Active.label>
+
+
+<MI24A_BomberRun.label>MI24A Bombardımanı</MI24A_BomberRun.label>
+
+
+<MI24A_Incoming.label>MI24A Yaklaşıyor</MI24A_Incoming.label>
+
+
+<MI24A_Leaving.label>MI24A Ayrılıyor</MI24A_Leaving.label>
+
+
+<MI4a_Active.label>MI4a Aktif</MI4a_Active.label>
+
+
+<MI4a_BomberRun.label>MI4a Bombardımanı</MI4a_BomberRun.label>
+
+  
+ 
+<MI4a_Incoming.label>MI4a Yaklaşıyor</MI4a_Incoming.label>
+
+
+<MI4a_Leaving.label>MI4a Ayrılıyor</MI4a_Leaving.label>
+
+
+<mi8a_Active.label>mi8a Aktif</mi8a_Active.label>
+
+
+<mi8a_BomberRun.label>mi8a Bombardımanı</mi8a_BomberRun.label>
+
+
+<mi8a_Incoming.label>mi8a Yaklaşıyor</mi8a_Incoming.label>
+
+
+<mi8a_Leaving.label>mi8a Ayrılıyor</mi8a_Leaving.label>
+
+
+<MIG144a_Active.label>MIG144 Aktif</MIG144a_Active.label>
+
+
+<MIG144a_BomberRun.label>MIG144 Bombardımanı</MIG144a_BomberRun.label>
+
+
+<MIG144a_Incoming.label>MIG144 Yaklaşıyor</MIG144a_Incoming.label>
+
+
+<MIG144a_Leaving.label>MIG144 Ayrılıyor</MIG144a_Leaving.label>
+
+
+<MIG19a_Active.label>MIG19 Aktif</MIG19a_Active.label>
+
+
+<MIG19a_BomberRun.label>MIG19 Bombardımanı</MIG19a_BomberRun.label>
+
+
+<MIG19a_Incoming.label>MIG19 Yaklaşıyor</MIG19a_Incoming.label>
+
+
+<MIG19a_Leaving.label>MIG19 Ayrılıyor</MIG19a_Leaving.label>
+
+
+<mig27a_Active.label>mig27 Aktif</mig27a_Active.label>
+
+
+<mig27a_BomberRun.label>mig27 Bombardımanı</mig27a_BomberRun.label>
+
+
+<mig27a_Incoming.label>mig27 Yaklaşıyor</mig27a_Incoming.label>
+
+
+<mig27a_Leaving.label>mig27 Ayrılıyor</mig27a_Leaving.label>
+
+
+<mig29a_Active.label>mig29 Aktif</mig29a_Active.label>
+
+
+<mig29a_BomberRun.label>mig29 Bombardımanı</mig29a_BomberRun.label>
+
+
+<mig29a_Incoming.label>mig29 Yaklaşıyor</mig29a_Incoming.label>
+
+
+<mig29a_Leaving.label>mig29 Ayrılıyor</mig29a_Leaving.label>
+
+
+<MIRAGEIIIa_Active.label>MIRAGEIII Aktif</MIRAGEIIIa_Active.label>
+
+
+<MIRAGEIIIa_BomberRun.label>MIRAGEIII Bombardımanı</MIRAGEIIIa_BomberRun.label>
+
+
+<MIRAGEIIIa_Incoming.label>MIRAGEIII Yaklaşıyor</MIRAGEIIIa_Incoming.label>
+
+
+<MIRAGEIIIa_Leaving.label>MIRAGEIII Ayrılıyor</MIRAGEIIIa_Leaving.label>
+
+
+<MM4a_Active.label>MM4 Aktif</MM4a_Active.label>
+
+
+<MM4a_BomberRun.label>MM4 Bombardımanı</MM4a_BomberRun.label>
+
+
+<MM4a_Incoming.label>MM4 Yaklaşıyor</MM4a_Incoming.label>
+
+
+<MM4a_Leaving.label>MM4 Ayrılıyor</MM4a_Leaving.label>
+
+
+<NAP51Da_Active.label>NAP51D Aktif</NAP51Da_Active.label>
+
+
+<NAP51Da_BomberRun.label>NAP51D Bombardımanı</NAP51Da_BomberRun.label>
+
+
+<NAP51Da_Incoming.label>NAP51D Yaklaşıyor</NAP51Da_Incoming.label>
+
+
+<NAP51Da_Leaving.label>NAP51D Ayrılıyor</NAP51Da_Leaving.label>
+
+
+<PHRP_Active.label>PHRP Aktif</PHRP_Active.label>
+
+
+<PHRP_BomberRun.label>PHRP Bombardımanı</PHRP_BomberRun.label>
+
+
+<PHRP_Incoming.label>PHRP Yaklaşıyor</PHRP_Incoming.label>
+
+
+<PHRP_Leaving.label>PHRP Ayrılıyor</PHRP_Leaving.label>
+
+
+<PNTa_Active.label>PNT Aktif</PNTa_Active.label>
+
+
+<PNTa_BomberRun.label>PNT Bombardımanı</PNTa_BomberRun.label>
+
+
+<PNTa_Incoming.label>PNT Yaklaşıyor</PNTa_Incoming.label>
+
+
+<PNTa_Leaving.label>PNT Ayrılıyor</PNTa_Leaving.label>
+
+
+<SKR4a_Active.label>SKR4a Aktif</SKR4a_Active.label>
+
+
+<SKR4a_BomberRun.label>SKR4a Bombardımanı</SKR4a_BomberRun.label>
+
+
+<SKR4a_Incoming.label>SKR4a Yaklaşıyor</SKR4a_Incoming.label>
+
+
+<SKR4a_Leaving.label>SKR4a Ayrılıyor</SKR4a_Leaving.label>
+
+
+<SU15a_Active.label>SU15 Aktif</SU15a_Active.label>
+
+
+<SU15a_BomberRun.label>SU15 Bombardımanı</SU15a_BomberRun.label>
+
+
+<SU15a_Incoming.label>SU15 Yaklaşıyor</SU15a_Incoming.label>
+
+
+<SU15a_Leaving.label>SU15 Ayrılıyor</SU15a_Leaving.label>
+
+
+<SU47a_Active.label>SU47 Aktif</SU47a_Active.label>
+
+
+<SU47a_BomberRun.label>SU47 Bombardımanı</SU47a_BomberRun.label>
+
+
+<SU47a_Incoming.label>SU47 Yaklaşıyor</SU47a_Incoming.label>
+
+  
+  
+<SU47a_Leaving.label>SU47 Ayrılıyor</SU47a_Leaving.label>
+
+
+<tu2da_Active.label>TU 2 Aktif</tu2da_Active.label>
+
+
+<tu2da_BomberRun.label>TU 2 Bombardımanı</tu2da_BomberRun.label>
+
+
+<tu2da_Incoming.label>TU 2 Yaklaşıyor</tu2da_Incoming.label>
+
+
+<tu2da_Leaving.label>TU 2 Ayrılıyor</tu2da_Leaving.label>
+
+
+<TU95a_Active.label>TU95 Aktif</TU95a_Active.label>
+
+
+<TU95a_BomberRun.label>TU95 Bombardımanı</TU95a_BomberRun.label>
+
+
+<TU95a_Incoming.label>TU95 Yaklaşıyor</TU95a_Incoming.label>
+
+
+<TU95a_Leaving.label>TU95 Ayrılıyor</TU95a_Leaving.label>
+
+
+<UH1a_Active.label>UH1a Aktif</UH1a_Active.label>
+
+
+<UH1a_BomberRun.label>UH1a Bombardımanı</UH1a_BomberRun.label>
+
+
+<UH1a_Incoming.label>UH1a Yaklaşıyor</UH1a_Incoming.label>
+
+
+<UH1a_Leaving.label>UH1a Ayrılıyor</UH1a_Leaving.label>
+
+
+<V22OSa_Active.label>V22OS Aktif</V22OSa_Active.label>
+
+
+<V22OSa_BomberRun.label>V22OS Bombardımanı</V22OSa_BomberRun.label>
+
+
+<V22OSa_Incoming.label>V22OS Yaklaşıyor</V22OSa_Incoming.label>
+
+
+<V22OSa_Leaving.label>V22OS Ayrılıyor</V22OSa_Leaving.label>
+
+
+<X44a_Active.label>X44 Aktif</X44a_Active.label>
+
+
+<X44a_BomberRun.label>X44 Bombardımanı</X44a_BomberRun.label>
+
+
+<X44a_Incoming.label>X44 Yaklaşıyor</X44a_Incoming.label>
+
+
+<X44a_Leaving.label>X44 Ayrılıyor</X44a_Leaving.label>
+
+
+<XB35a_Active.label>XB35a Aktif</XB35a_Active.label>
+
+
+<XB35a_BomberRun.label>XB35a Bombardımanı</XB35a_BomberRun.label>
+
+
+<XB35a_Incoming.label>XB35a Yaklaşıyor</XB35a_Incoming.label>
+
+
+<XB35a_Leaving.label>XB35a Ayrılıyor</XB35a_Leaving.label>
+
+
+<yak41a_Active.label>yak41 Aktif</yak41a_Active.label>
+
+
+<yak41a_BomberRun.label>yak41 Bombardımanı</yak41a_BomberRun.label>
+
+
+<yak41a_Incoming.label>yak41 Yaklaşıyor</yak41a_Incoming.label>
+
+
+<yak41a_Leaving.label>yak41 Ayrılıyor</yak41a_Leaving.label>
+
+
+<YAK9Ba_Active.label>YAK9B Aktif</YAK9Ba_Active.label>
+
+
+<YAK9Ba_BomberRun.label>YAK9B Bombardımanı</YAK9Ba_BomberRun.label>
+
+
+<YAK9Ba_Incoming.label>YAK9B Yaklaşıyor</YAK9Ba_Incoming.label>
+
+
+<YAK9Ba_Leaving.label>YAK9B Ayrılıyor</YAK9Ba_Leaving.label>
+
+  
+</LanguageData>

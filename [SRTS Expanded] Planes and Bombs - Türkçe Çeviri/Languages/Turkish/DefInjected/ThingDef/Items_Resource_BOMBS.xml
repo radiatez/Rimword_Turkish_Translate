@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- TR: Kılavuzsuz 1000 lb bomba -->
+  <Bullet_Shell_1000lb.label>Kılavuzsuz 1000 lb bomba</Bullet_Shell_1000lb.label>
+  
+  <!-- TR: Kılavuzsuz 12000 lb bomba -->
+  <Bullet_Shell_12000lb.label>Kılavuzsuz 12000 lb bomba</Bullet_Shell_12000lb.label>
+  
+  <!-- TR: Kılavuzsuz 120 lb bomba -->
+  <Bullet_Shell_120lb.label>Kılavuzsuz 120 lb bomba</Bullet_Shell_120lb.label>
+  
+  <!-- TR: Kılavuzsuz 2100 lb bomba -->
+  <Bullet_Shell_2100lb.label>Kılavuzsuz 2100 lb bomba</Bullet_Shell_2100lb.label>
+  
+  <!-- TR: Kılavuzsuz 22000 lb bomba -->
+  <Bullet_Shell_22000lb.label>Kılavuzsuz 22000 lb bomba</Bullet_Shell_22000lb.label>
+  
+  <!-- TR: Kılavuzsuz 220 lb bomba -->
+  <Bullet_Shell_220lb.label>Kılavuzsuz 220 lb bomba</Bullet_Shell_220lb.label>
+  
+  <!-- TR: Kılavuzsuz 3080 lb bomba -->
+  <Bullet_Shell_3080lb.label>Kılavuzsuz 3080 lb bomba</Bullet_Shell_3080lb.label>
+  
+  <!-- TR: Kılavuzsuz 350 lb bomba -->
+  <Bullet_Shell_350lb.label>Kılavuzsuz 350 lb bomba</Bullet_Shell_350lb.label>
+  
+  <!-- TR: Kılavuzsuz 4000 lb bomba -->
+  <Bullet_Shell_4000lb.label>Kılavuzsuz 4000 lb bomba</Bullet_Shell_4000lb.label>
+  
+  <!-- TR: Kılavuzsuz 40 lb bomba -->
+  <Bullet_Shell_40lb.label>Kılavuzsuz 40 lb bomba</Bullet_Shell_40lb.label>
+  
+  <!-- TR: Kılavuzsuz 500 lb bomba -->
+  <Bullet_Shell_500lb.label>Kılavuzsuz 500 lb bomba</Bullet_Shell_500lb.label>
+  
+  <!-- TR: Kılavuzsuz EMP bombası -->
+  <Bullet_Shell_500lbEMP.label>Kılavuzsuz EMP bombası</Bullet_Shell_500lbEMP.label>
+  
+  <!-- TR: Kılavuzsuz yangın söndürücü bomba -->
+  <Bullet_Shell_500lbExtinguish.label>Kılavuzsuz söndürücü bomba</Bullet_Shell_500lbExtinguish.label>
+  
+  <!-- TR: Kılavuzsuz 500 lb yangın bombası -->
+  <Bullet_Shell_500lbNapalm.label>Kılavuzsuz 500 lb napalm bombası</Bullet_Shell_500lbNapalm.label>
+  
+  <!-- TR: Kılavuzsuz sis bombası -->
+  <Bullet_Shell_500lbSmoke.label>Kılavuzsuz sis bombası</Bullet_Shell_500lbSmoke.label>
+  
+  <!-- TR: Kılavuzsuz 8000 lb bomba -->
+  <Bullet_Shell_8000lb.label>Kılavuzsuz 8000 lb bomba</Bullet_Shell_8000lb.label>
+  
+  <!-- TR: B-28 taktik nükleer bomba -->
+  <Bullet_Shell_B28NukePyB.label>B-28 taktik nükleer bomba</Bullet_Shell_B28NukePyB.label>
+  
+  <!-- TR: Taktik nükleer bomba -->
+  <Bullet_Shell_fatmanNukePyB.label>Taktik nükleer bomba</Bullet_Shell_fatmanNukePyB.label>
+  
+  <!-- TR: Kılavuzsuz 1000 lb bomba -->
+  <Shell_1000lb.label>Kılavuzsuz 1000 lb bomba</Shell_1000lb.label>
+  <!-- TR: Uçaklardan atılabilen 1000 lb'lik kılavuzsuz bir bomba. -->
+  <Shell_1000lb.description>Uçaklardan atılabilen 1000 lb'lik kılavuzsuz bir bomba.</Shell_1000lb.description>
+  
+    
+  <!-- TR: Kılavuzsuz 12000 lb bomba -->
+  <Shell_12000lb.label>Kılavuzsuz 12000 lb bomba</Shell_12000lb.label>
+  <!-- TR: Uçaklardan atılabilen 12000 lb'lik kılavuzsuz bir bomba. -->
+  <Shell_12000lb.description>Uçaklardan atılabilen 12000 lb'lik kılavuzsuz bir bomba.</Shell_12000lb.description>
+  
+  <!-- TR: Kılavuzsuz 120 lb bomba -->
+  <Shell_120lb.label>Kılavuzsuz 120 lb bomba</Shell_120lb.label>
+  <!-- TR: Uçaklardan atılabilen 120 lb'lik kılavuzsuz bir bomba. -->
+  <Shell_120lb.description>Uçaklardan atılabilen 120 lb'lik kılavuzsuz bir bomba.</Shell_120lb.description>
+  
+  <!-- TR: Kılavuzsuz 2100 lb bomba -->
+  <Shell_2100lb.label>Kılavuzsuz 2100 lb bomba</Shell_2100lb.label>
+  <!-- TR: Uçaklardan atılabilen 2100 lb'lik kılavuzsuz bir bomba. -->
+  <Shell_2100lb.description>Uçaklardan atılabilen 2100 lb'lik kılavuzsuz bir bomba.</Shell_2100lb.description>
+  
+  <!-- TR: Kılavuzsuz 22000 lb bomba -->
+  <Shell_22000lb.label>Kılavuzsuz 22000 lb bomba</Shell_22000lb.label>
+  <!-- TR: Uçaklardan atılabilen 22000 lb'lik kılavuzsuz bir bomba. -->
+  <Shell_22000lb.description>Uçaklardan atılabilen 22000 lb'lik kılavuzsuz bir bomba.</Shell_22000lb.description>
+  
+  <!-- TR: Kılavuzsuz 220 lb bomba -->
+  <Shell_220lb.label>Kılavuzsuz 220 lb bomba</Shell_220lb.label>
+  <!-- TR: Uçaklardan atılabilen 220 lb'lik kılavuzsuz bir bomba. -->
+  <Shell_220lb.description>Uçaklardan atılabilen 220 lb'lik kılavuzsuz bir bomba.</Shell_220lb.description>
+  
+  <!-- TR: Kılavuzsuz 3080 lb bomba -->
+  <Shell_3080lb.label>Kılavuzsuz 3080 lb bomba</Shell_3080lb.label>
+  <!-- TR: Uçaklardan atılabilen 3080 lb'lik kılavuzsuz bir bomba. -->
+  <Shell_3080lb.description>Uçaklardan atılabilen 3080 lb'lik kılavuzsuz bir bomba.</Shell_3080lb.description>
+  
+  <!-- TR: Kılavuzsuz 350 lb bomba -->
+  <Shell_350lb.label>Kılavuzsuz 350 lb bomba</Shell_350lb.label>
+  <!-- TR: Uçaklardan atılabilen 350 lb'lik kılavuzsuz bir bomba. -->
+  <Shell_350lb.description>Uçaklardan atılabilen 350 lb'lik kılavuzsuz bir bomba.</Shell_350lb.description>
+  
+  <!-- TR: Kılavuzsuz 4000 lb bomba -->
+  <Shell_4000lb.label>Kılavuzsuz 4000 lb bomba</Shell_4000lb.label>
+  <!-- TR: Uçaklardan atılabilen 4000 lb'lik kılavuzsuz bir bomba. -->
+  <Shell_4000lb.description>Uçaklardan atılabilen 4000 lb'lik kılavuzsuz bir bomba.</Shell_4000lb.description>
+  
+  <!-- TR: Kılavuzsuz 40 lb bomba -->
+  <Shell_40lb.label>Kılavuzsuz 40 lb bomba</Shell_40lb.label>
+  <!-- TR: Uçaklardan atılabilen 40 lb'lik kılavuzsuz bir bomba. -->
+  <Shell_40lb.description>Uçaklardan atılabilen 40 lb'lik kılavuzsuz bir bomba.</Shell_40lb.description>
+  
+  <!-- TR: Kılavuzsuz 500 lb bomba -->
+  <Shell_500lb.label>Kılavuzsuz 500 lb bomba</Shell_500lb.label>
+  <!-- TR: Uçaklardan atılabilen 500 lb'lik kılavuzsuz bir bomba. -->
+  <Shell_500lb.description>Uçaklardan atılabilen 500 lb'lik kılavuzsuz bir bomba.</Shell_500lb.description>
+  
+  <!-- TR: Kılavuzsuz Elektromanyetik Darbe Bombası -->
+  <Shell_500lbEMP.label>Kılavuzsuz EMP bombası</Shell_500lbEMP.label>
+  <!-- TR: Uçaklardan/helikopterlerden atılabilen bir elektromanyetik darbe bombası. -->
+  <Shell_500lbEMP.description>Uçaklardan veya helikopterlerden atılabilen bir elektromanyetik darbe bombası.</Shell_500lbEMP.description>
+  
+    
+    <!-- TR: Kılavuzsuz Yangın Söndürücü Bomba -->
+  <Shell_500lbExtinguish.label>Kılavuzsuz Yangın Söndürücü Bomba</Shell_500lbExtinguish.label>
+  <!-- TR: Uçaklardan/helikopterlerden atılabilen bir yangın söndürücü bomba. -->
+  <Shell_500lbExtinguish.description>Uçaklardan veya helikopterlerden atılabilen bir yangın söndürücü bomba.</Shell_500lbExtinguish.description>
+  
+  <!-- TR: Kılavuzsuz 500 lb Napalm Bomba -->
+  <Shell_500lbNapalm.label>Kılavuzsuz 500 lb Napalm Bomba</Shell_500lbNapalm.label>
+  <!-- TR: Uçaklardan atılabilen 500 lb'lik bir kılavuzsuz yangın bombası. -->
+  <Shell_500lbNapalm.description>Uçaklardan atılabilen 500 lb'lik kılavuzsuz bir napalm bombası.</Shell_500lbNapalm.description>
+  
+  <!-- TR: Kılavuzsuz Duman Perdesi Bombası -->
+  <Shell_500lbSmoke.label>Kılavuzsuz Duman Perdesi Bombası</Shell_500lbSmoke.label>
+  <!-- TR: Uçaklardan/helikopterlerden atılabilen bir kılavuzsuz duman bombası. -->
+  <Shell_500lbSmoke.description>Uçaklardan veya helikopterlerden atılabilen kılavuzsuz bir duman bombası.</Shell_500lbSmoke.description>
+  
+  <!-- TR: Kılavuzsuz 8000 lb bomba -->
+  <Shell_8000lb.label>Kılavuzsuz 8000 lb Bomba</Shell_8000lb.label>
+  <!-- TR: Uçaklardan atılabilen 8000 lb'lik kılavuzsuz bir bomba. -->
+  <Shell_8000lb.description>Uçaklardan atılabilen 8000 lb'lik kılavuzsuz bir bomba.</Shell_8000lb.description>
+  
+  <!-- TR: B-28 Taktik Nükleer Bomba -->
+  <Shell_B28NukePyB.label>B-28 Taktik Nükleer Bomba</Shell_B28NukePyB.label>
+  <!-- TR: Daha küçük, 21 kilotonluk bir nükleer bomba (Uyarı: Son derece tehlikeli). -->
+  <Shell_B28NukePyB.description>Daha küçük, 21 kilotonluk bir nükleer bomba (Uyarı: Son derece tehlikeli).</Shell_B28NukePyB.description>
+  
+  <!-- TR: Taktik Nükleer Bomba -->
+  <Shell_fatmanNukePyB.label>Taktik Nükleer Bomba</Shell_fatmanNukePyB.label>
+  <!-- TR: 21 kilotonluk bir nükleer bomba (Uyarı: Son derece tehlikeli). -->
+  <Shell_fatmanNukePyB.description>21 kilotonluk bir nükleer bomba (Uyarı: Son derece tehlikeli).</Shell_fatmanNukePyB.description>
+  
+  <!-- TR: Kılavuzsuz 4000 lb Elektromanyetik Darbe Bombası -->
+  <Shell_4000lbEMP.label>Kılavuzsuz 4000 lb EMP Bombası</Shell_4000lbEMP.label>
+  <!-- TR: Uçaklardan/helikopterlerden atılabilen dev bir elektromanyetik darbe bombası. -->
+  <Shell_4000lbEMP.description>Uçaklardan veya helikopterlerden atılabilen dev bir elektromanyetik darbe bombası.</Shell_4000lbEMP.description>
+
+  
+</LanguageData>

@@ -1,0 +1,48 @@
+﻿<LanguageData>
+  
+  
+  <EMPpyb.label>EMP</EMPpyb.label>
+  
+  <EMPpyb.deathMessage>{0} EMP nedeniyle öldü</EMPpyb.deathMessage>
+  
+  
+  <ExtinguishbombBombPyB.label>Yangın Söndürücü Bomba</ExtinguishbombBombPyB.label>
+  
+  <ExtinguishbombBombPyB.deathMessage>{0}, yangın söndürücü bomba nedeniyle öldü</ExtinguishbombBombPyB.deathMessage>
+  
+  
+  <ExtinguishPYB.label>Yangın Söndürücü</ExtinguishPYB.label>
+  
+  <ExtinguishPYB.deathMessage>{0}, yangın söndürücü bomba nedeniyle öldü</ExtinguishPYB.deathMessage>
+  
+  
+  <NuclearBombPyB.label>Taktik Nükleer Bomba</NuclearBombPyB.label>
+  
+  <NuclearBombPyB.deathMessage>{0}, büyük bir patlamayla buharlaştı</NuclearBombPyB.deathMessage>
+  
+  
+  <NuclearSuperBombPyB.label>Stratejik Nükleer Bomba</NuclearSuperBombPyB.label>
+  
+  <NuclearSuperBombPyB.deathMessage>{0}, büyük bir patlamayla buharlaştı</NuclearSuperBombPyB.deathMessage>
+  
+  
+  <sBombPyB.label>Havadan Bomba</sBombPyB.label>
+  
+  <sBombPyB.deathMessage>{0}, bir patlamayla yok oldu</sBombPyB.deathMessage>
+  
+  
+  <smokebombBombPyB.label>Havadan Duman Bombası</smokebombBombPyB.label>
+  
+  <smokebombBombPyB.deathMessage>{0}, bir duman bombasıyla sersemledi</smokebombBombPyB.deathMessage>
+  
+  
+  <SmokebombPYB.label>Duman Bombası</SmokebombPYB.label>
+  
+  <SmokebombPYB.deathMessage>{0}, bir duman bombasıyla sersemledi</SmokebombPYB.deathMessage>
+  
+  
+  <SuperBombPyB.label>Süper Hava Bombası</SuperBombPyB.label>
+  
+  <SuperBombPyB.deathMessage>{0}, bir patlamayla yok oldu</SuperBombPyB.deathMessage>
+
+</LanguageData>

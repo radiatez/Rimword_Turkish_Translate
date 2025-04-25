@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Earlyavionics.label>Erken Havacılık Elektroniği Araştırması</Earlyavionics.label>
+  <Earlyavionics.description>Erken uçak araştırmaları ve prototip testleri</Earlyavionics.description>
+
+  <Earlypbombs.label>Hafif Uçak Bombaları</Earlypbombs.label>
+  <Earlypbombs.description>120 lb'ye kadar olan serbest düşme bombaları için araştırma ve prototip testleri</Earlypbombs.description>
+
+  <EarlypbombsII.label>Orta Ağırlıkta Uçak Bombaları</EarlypbombsII.label>
+  <EarlypbombsII.description>600 lb'ye kadar olan serbest düşme bombaları için araştırma ve prototip testleri</EarlypbombsII.description>
+
+  <EarlypbombsIII.label>Ağır Uçak Bombaları</EarlypbombsIII.label>
+  <EarlypbombsIII.description>2000 lb'ye kadar olan serbest düşme bombaları için araştırma ve prototip testleri</EarlypbombsIII.description>
+
+  <EarlypbombsIV.label>Süper Ağır Uçak Bombaları</EarlypbombsIV.label>
+  <EarlypbombsIV.description>4000 lb'ye kadar olan serbest düşme bombaları için araştırma ve prototip testleri</EarlypbombsIV.description>
+
+  <Earlypbombsv.label>Absürt Ağır Uçak Bombaları</Earlypbombsv.label>
+  <Earlypbombsv.description>22000 lb'ye kadar olan serbest düşme bombaları için araştırma ve prototip testleri</Earlypbombsv.description>
+
+  <EarlypbombsVI.label>Atomun Gücü</EarlypbombsVI.label>
+  <EarlypbombsVI.description>Nükleer bombalar için araştırma ve prototip testleri</EarlypbombsVI.description>
+
+  <EarlypbombsVII.label>Küçük Nükleer Bomba Tasarımları</EarlypbombsVII.label>
+  <EarlypbombsVII.description>Daha küçük nükleer bombalar için araştırma ve prototip testleri</EarlypbombsVII.description>
+
+  <EarlypEZbombs.label>Özel Uçak Bombaları</EarlypEZbombs.label>
+  <EarlypEZbombs.description>Duman ve EMP serbest düşme bombaları için araştırma ve prototip testleri</EarlypEZbombs.description>
+
+  <GyrocopterCWi.label>Erken Soğuk Savaş Helikopterleri</GyrocopterCWi.label>
+  <GyrocopterCWi.description>Erken Soğuk Savaş helikopterlerini açar</GyrocopterCWi.description>
+
+  <GyrocopterCWii.label>Orta Dönem Soğuk Savaş Helikopterleri</GyrocopterCWii.label>
+  <GyrocopterCWii.description>Orta dönem Soğuk Savaş helikopterlerini açar</GyrocopterCWii.description>
+
+  <GyrocopterCWiii.label>Geç Dönem Soğuk Savaş Helikopterleri</GyrocopterCWiii.label>
+  <GyrocopterCWiii.description>Geç dönem Soğuk Savaş helikopterlerini açar</GyrocopterCWiii.description>
+
+  <Gyrocoptermodern1.label>Erken Modern Helikopterler</Gyrocoptermodern1.label>
+  <Gyrocoptermodern1.description>Erken modern helikopterleri açar</Gyrocoptermodern1.description>
+
+  <GyrocopterWWI.label>Erken Otogirolar</GyrocopterWWI.label>
+  <GyrocopterWWI.description>1. Dünya Savaşı otogirolarını açar</GyrocopterWWI.description>
+
+  <GyrocopterWWII.label>2. Dünya Savaşı Helikopterleri</GyrocopterWWII.label>
+  <GyrocopterWWII.description>2. Dünya Savaşı helikopterlerini açar</GyrocopterWWII.description>
+
+  <PLANESI.label>2. Dünya Savaşı Sabit Kanatlı Uçakları</PLANESI.label>
+  <PLANESI.description>2. Dünya Savaşı sabit kanatlı uçaklarını açar</PLANESI.description>
+
+  <PLANESII.label>Aerodinamik ve Aviyonik Geliştirmeleri</PLANESII.label>
+  <PLANESII.description>Geç dönem 2. Dünya Savaşı uçaklarını açar</PLANESII.description>
+
+  <PLANESJet2000.label>Modern Uçaklar I</PLANESJet2000.label>
+  <PLANESJet2000.description>Erken modern uçakları açar</PLANESJet2000.description>
+
+  <PLANESJetEngineafterburn.label>Art Yakıcı Geliştirmesi</PLANESJetEngineafterburn.label>
+  <PLANESJetEngineafterburn.description>Çok hızlı hafif uçakları açar</PLANESJetEngineafterburn.description>
+
+  <PLANESJetEngineCWI.label>Motor ve Gövde Geliştirmeleri I</PLANESJetEngineCWI.label>
+  <PLANESJetEngineCWI.description>Erken Soğuk Savaş ağır uçaklarını açar</PLANESJetEngineCWI.description>
+
+  <PLANESJetEngineCWII.label>Hafif Jet Uçak Geliştirmeleri</PLANESJetEngineCWII.label>
+  <PLANESJetEngineCWII.description>Erken Soğuk Savaş hafif uçaklarını açar</PLANESJetEngineCWII.description>
+
+  <PLANESJetEngineCWIIB.label>Çok Ağır Uçak Geliştirmeleri</PLANESJetEngineCWIIB.label>
+  <PLANESJetEngineCWIIB.description>Soğuk Savaş stratejik bombardıman ve taşıma uçaklarını açar</PLANESJetEngineCWIIB.description>
+
+  <PLANESJetEngineCWIIH.label>Delta Kanatlı Uçak Prototipleri</PLANESJetEngineCWIIH.label>
+  <PLANESJetEngineCWIIH.description>Erken delta kanatlı uçakları açar</PLANESJetEngineCWIIH.description>
+
+  <PLANESJetEngineCWIII.label>Hafif Jet Uçak Geliştirmeleri II</PLANESJetEngineCWIII.label>
+  <PLANESJetEngineCWIII.description>Orta ve geç dönem Soğuk Savaş hafif uçaklarını açar</PLANESJetEngineCWIII.description>
+
+  <PLANESJetEngineCWIIID.label>Geliştirilmiş Delta Kanatlı Uçaklar</PLANESJetEngineCWIIID.label>
+  <PLANESJetEngineCWIIID.description>Geliştirilmiş delta kanatlı uçakları açar</PLANESJetEngineCWIIID.description>
+
+  <PLANESJetEngineEA.label>Erken Jet Motorlu Uçaklar</PLANESJetEngineEA.label>
+  <PLANESJetEngineEA.description>Erken jet motorlu uçakları açar</PLANESJetEngineEA.description>
+
+  <PLANESJetEnginesuperheavy.label>Ağır Stratejik Uzun Menzilli Taşıma Uçakları</PLANESJetEnginesuperheavy.label>
+  <PLANESJetEnginesuperheavy.description>Ağır yük taşıyan stratejik uzun menzilli uçakları açar</PLANESJetEnginesuperheavy.description>
+
+  <PLANESJetEnginevtol.label>VTOL Savaş Uçakları</PLANESJetEnginevtol.label>
+  <PLANESJetEnginevtol.description>Dikey kalkış ve iniş (VTOL) uçaklarını açar</PLANESJetEnginevtol.description>
+
+  <PLANESJetprototypesI.label>Geç Dönem Soğuk Savaş Teknoloji Prototipleri</PLANESJetprototypesI.label>
+  <PLANESJetprototypesI.description>Geç dönem Soğuk Savaş uçak prototiplerini açar</PLANESJetprototypesI.description>
+
+  <PLANESJetStealthI.label>Erken Stealth (Görünmezlik) Uçakları</PLANESJetStealthI.label>
+  <PLANESJetStealthI.description>Erken dönem görünmez uçakları açar</PLANESJetStealthI.description>
+
+  <PLANESpropvtol.label>VTOL Nakliye Uçakları</PLANESpropvtol.label>
+  <PLANESpropvtol.description>VTOL taşıma uçaklarını açar</PLANESpropvtol.description>
+
+  <PLANESTurboProp.label>Erken Stratejik Bombardıman Uçakları</PLANESTurboProp.label>
+  <PLANESTurboProp.description>B-29 Superfortress uçağını açar</PLANESTurboProp.description>
+
+  <PLANESWWI.label>Erken Dönem Uçaklar</PLANESWWI.label>
+  <PLANESWWI.description>1. Dünya Savaşı uçaklarını açar</PLANESWWI.description>
+
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  
+  <Make_x10_Shell_120lb.label>10 adet 120 lb uçak bombası üret</Make_x10_Shell_120lb.label>
+  
+  <Make_x10_Shell_120lb.description>10 adet 120 lb uçak bombası üret.</Make_x10_Shell_120lb.description>
+  
+  <Make_x10_Shell_120lb.jobString>Bomba üretiliyor</Make_x10_Shell_120lb.jobString>
+
+  
+  <Make_x10_Shell_220lb.label>10 adet 220 lb uçak bombası üret</Make_x10_Shell_220lb.label>
+  <Make_x10_Shell_220lb.description>10 adet 220 lb uçak bombası üret.</Make_x10_Shell_220lb.description>
+  <Make_x10_Shell_220lb.jobString>Bomba üretiliyor</Make_x10_Shell_220lb.jobString>
+
+  
+  <Make_x10_Shell_350lb.label>10 adet 350 lb uçak bombası üret</Make_x10_Shell_350lb.label>
+  <Make_x10_Shell_350lb.description>10 adet 350 lb uçak bombası üret.</Make_x10_Shell_350lb.description>
+  <Make_x10_Shell_350lb.jobString>Bomba üretiliyor</Make_x10_Shell_350lb.jobString>
+
+  
+  <Make_x10_Shell_40lb.label>10 adet 40 lb uçak bombası üret</Make_x10_Shell_40lb.label>
+  <Make_x10_Shell_40lb.description>10 adet 40 lb uçak bombası üret.</Make_x10_Shell_40lb.description>
+  <Make_x10_Shell_40lb.jobString>Bomba üretiliyor</Make_x10_Shell_40lb.jobString>
+
+  
+  <Make_x10_Shell_500lb.label>10 adet 500 lb uçak bombası üret</Make_x10_Shell_500lb.label>
+  <Make_x10_Shell_500lb.description>10 adet 500 lb uçak bombası üret.</Make_x10_Shell_500lb.description>
+  <Make_x10_Shell_500lb.jobString>Bomba üretiliyor</Make_x10_Shell_500lb.jobString>
+
+  
+  <Make_x10_Shell_500lbExtinguish.label>10 adet hava yangın söndürücü bomba üret</Make_x10_Shell_500lbExtinguish.label>
+  <Make_x10_Shell_500lbExtinguish.description>10 adet hava yangın söndürücü bomba üret.</Make_x10_Shell_500lbExtinguish.description>
+  <Make_x10_Shell_500lbExtinguish.jobString>Bomba üretiliyor</Make_x10_Shell_500lbExtinguish.jobString>
+
+  
+  <Make_x10_Shell_500lbNapalm.label>10 adet 500 lb napalm bombası üret</Make_x10_Shell_500lbNapalm.label>
+  <Make_x10_Shell_500lbNapalm.description>10 adet 500 lb napalm bombası üret.</Make_x10_Shell_500lbNapalm.description>
+  <Make_x10_Shell_500lbNapalm.jobString>Bomba üretiliyor</Make_x10_Shell_500lbNapalm.jobString>
+
+  
+  <Make_x10_Shell_500lbSmoke.label>10 adet hava duman bombası üret</Make_x10_Shell_500lbSmoke.label>
+  <Make_x10_Shell_500lbSmoke.description>10 adet hava duman bombası üret.</Make_x10_Shell_500lbSmoke.description>
+  <Make_x10_Shell_500lbSmoke.jobString>Bomba üretiliyor</Make_x10_Shell_500lbSmoke.jobString>
+
+</LanguageData>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ModMetaData>
+	<name>[SRTS Expanded] Planes and Bombs - Türkçe Çeviri</name>
+	<author>Hamza YILMAZ</author>
+    <supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+		<modDependencies>
+		<li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+            <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+        </li>
+        <li>
+            <packageId>smashphil.srtsexpanded</packageId>
+            <displayName>SRTS Expanded</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2878587061</steamWorkshopUrl>
+            <downloadUrl>https://steamcommunity.com/workshop/filedetails/?id=2878587061</downloadUrl>
+        </li>		
+		<li>
+			<packageId>Asieruso23.SRTS.Planes</packageId>
+			<displayName>[SRTS Expanded] Planes and Bombs</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2164607079</steamWorkshopUrl>
+		</li>		
+	</modDependencies>
+		<loadAfter>
+		<li>Asieruso23.SRTS.Planes</li>
+	</loadAfter>
+	<packageId>hyilmaz.rimword.tr.2164607079</packageId>
+	<description>	
+Hakkında:
+
+[SRTS Expanded] Planes and Bombs modunun Türkçe çevirisi.
+Bazı çeviri hataları olabilir. 
+Bu modların Türkçe çevirileri olmadığından kendi oyunum için çevirdim ve paylaşmaya karar verdim.
+Bi nebze de olsa belki işinize yarayabilir.
+
+https://github.com/radiatez/Rimword_Turkish_Translate
+
+Hamza YILMAZ	
+	</description>
+</ModMetaData>
+

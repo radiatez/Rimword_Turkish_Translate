@@ -1,0 +1,686 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  
+  <A10a.label>A-10 "Warthog"</A10a.label>
+
+<A10a.description>Genellikle “Warthog” veya “Domuz” olarak adlandırılır, ancak A-10’un resmi adı, II. Dünya Savaşı sırasında kara hedeflerine etkili saldırılar düzenleyen Republic P-47 “Thunderbolt” savaş bombardıman uçağından gelmektedir.
+  
+  \n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 8\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+  \nHız: 15.0\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 1800L\nYakıt Verimliliği: Çok İyi\n- - - - - - - - - - - - - - - - - -
+  \nYük Kapasitesi: 7200kg\n Dahili Jeneratör: 680w</A10a.description>
+
+
+<A6M7a.label>Mitsubishi A6M7 Rei-sen (Zero Savaş Uçağı)</A6M7a.label>
+
+<A6M7a.description>Mitsubishi A6M "Rei-sen", Japon İmparatorluğu'nun II. Dünya Savaşı'na girdiğinde kullandığı ana deniz kuvvetleri savaş uçağıydı. İmparatorluk takvimine göre (o zamanlar 1940 yılıydı), bu uçak pilotlar tarafından “Zero-sen” olarak tanımlanıyordu. Müttefikler sonunda bu uçağı “Zero” adıyla anmaya başladı ve resmi kod adı “Zeke” oldu. A6M, Pasifik Savaşı’nın erken dönemlerinde büyük ilgi gördü; hız, manevra kabiliyeti ve menzili birleştirerek kara tabanlı tüm rakiplerini alt edebilen ilk deniz kuvvetleri uçağı oldu. Mitsubishi Heavy Industries 1940'tan itibaren yaklaşık 10.939 adet üretti. Bu seri tüm savaş boyunca hayatta kaldı ve 1945 Eylül'ündeki Japonya'nın teslimine kadar etkin kaldı; beş yıllık çatışma süresince değeri kanıtlanmıştı.
+  
+  \n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 2\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+  \nHız: 8.9\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 550L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+  \nYük Kapasitesi: 500kg\n Dahili Jeneratör: 240w</A6M7a.description>
+
+
+<AEROL29a.label>Aero L-29 Delfín</AEROL29a.label>
+
+<AEROL29a.description>Aero L-29 Delfín (Türkçesi: Yunus, NATO kod adı: Maya), Çekoslovak havacılık firması Aero Vodochody tarafından geliştirilen ve üretilen bir askeri jet eğitim uçağıdır. Bu, ülkenin kendi başına tasarlayıp ürettiği ilk jet uçağıydı ve muhtemelen Sovyetler dışında COMECON (Karşılıklı Ekonomik Yardım Konseyi) ülkeleri arasındaki en büyük havacılık projesiydi.
+  
+  \n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 4\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+  \nHız: 16.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2900L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+  \nYük Kapasitesi: 1900kg\n Dahili Jeneratör: 570w</AEROL29a.description>
+
+
+<AH1C.label>Bell AH-1 Cobra</AH1C.label>
+
+<AH1C.description>Bell AH-1 Cobra, Bell Helicopter tarafından üretilen çift palalı rotor sistemine sahip, tek motorlu bir saldırı helikopteridir. Bu helikopter, Bell UH-1 Iroquois’in motoru, şanzımanı ve rotor sisteminden faydalanılarak geliştirilmiştir. “Huey” ailesinin üretken bir üyesi olan AH-1, Huey Cobra veya kısaca "Cobra" olarak da bilinir.
+  
+\n\n AH-1, bir zamanlar ABD Ordusu'nun saldırı helikopteri filosunun bel kemiğiydi, ancak artık AH-64 Apache ile değiştirilmiştir. Bazı ülkeler hala yükseltilmiş versiyonlarını kullanmaktadır. AH-1’in çift motorlu versiyonu halen ABD Deniz Piyadeleri (USMC) tarafından ana saldırı helikopteri olarak kullanılmaktadır. Kullanım dışı kalan bazı AH-1’ler yangın söndürme görevlerinde kullanılmak üzere modifiye edilmiştir.
+  
+\n\n Minimum Mürettebat: 2\n Mürettebat: 2\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 8\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+  \nHız: 4.3\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 415L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+  \nYük Kapasitesi: 2800kg\n Dahili Jeneratör: 240w</AH1C.description>
+
+  
+  
+  <AH56C.label>Lockheed AH-56 Cheyenne</AH56C.label>
+
+<AH56C.description>Lockheed AH-56 Cheyenne, Lockheed tarafından ABD Ordusu için geliştirilen bir saldırı helikopteridir. ABD Ordusu'nun Gelişmiş Hava Ateş Gücü Destek Sistemi (AAFSS) programından türetilmiştir ve hizmete giren ilk özel saldırı helikopteri olarak tasarlanmıştır. Lockheed tarafından tasarlanan Cheyenne, dört kanatlı rijit rotor sistemine sahiptir ve alçak yerleştirilmiş kanatlara ve kuyrukta yer alan itici pervaneye sahip kompozit bir helikopter olarak yapılandırılmıştır. Bu sistem, General Electric T64 turboşaft motoru tarafından çalıştırılmaktadır.
+\n Cheyenne, yüksek hızlı atak yeteneğine sahip olup, Bell UH-1 Iroquois gibi ordu taşıma helikopterlerine silahlı eskort sağlamak için tasarlanmıştır.
+\n\n Minimum Mürettebat: 2 \n Mürettebat: 2\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 6\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 4.1\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 395L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 2500kg\n Dahili Jeneratör: 220w</AH56C.description>
+
+
+<AN225a.label>Antonov An-225 "Mriya"</AN225a.label>
+
+<AN225a.description>Antonov An-225 "Mriya" (anlamı “Hayal”) (NATO: “Cossack”), tarihteki en büyük ve en ağır uçaklardan biridir ve hatta 1940’ların efsanevi Hughes H-4 Hercules (Spruce Goose) ile kıyaslanabilir. An-225, Airbus A380 ve Boeing 747'den daha uzundur, ancak kanat açıklığı Hughes uçağından 17.7 metre daha kısadır.
+An-225, Antonov'un An-124 (NATO: “Condor”) uçağından türetilen başka bir ağır yük taşıyıcısıdır ve stratejik kargo taşımacılığı olarak sınıflandırılmıştır.
+\n\n Minimum Mürettebat: 6 \n Mürettebat: 32\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 0\n Hassasiyet: Silahsız\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 15\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 25500L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 250000kg\n Dahili Jeneratör: 1800w</AN225a.description>
+
+
+<AR234Ba.label>Arado Ar 234 - B</AR234Ba.label>
+
+<AR234Ba.description>Arado Ar 234 Blitz bombardıman uçağı (“Blitz” Almancada “Yıldırım” demektir), Almanya'nın II. Dünya Savaşı'nın son evresinde ürettiği ve dünyanın ilk operasyonel jet bombardıman uçağıdır.
+\n\n Sınırlı sayıda üretilmiş olup, neredeyse tamamen keşif görevlerinde kullanılmıştır. Bombardıman olarak birkaç kullanımında neredeyse durdurulamaz olduğu kanıtlanmıştır. 1945 Nisan ayında, II. Dünya Savaşı sırasında Britanya hava sahasını geçen son Alman uçağı olmuştur.
+\n\n Minimum Mürettebat: 2 \n Mürettebat: 2\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 6\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 11.2\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 900L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 1000kg\n Dahili Jeneratör: 490w</AR234Ba.description>
+
+
+<AvroLana.label>Avro Lancaster</AvroLana.label>
+
+<AvroLana.description>Avro Lancaster, II. Dünya Savaşı döneminde Birleşik Krallık tarafından kullanılan ağır bombardıman uçağıydı. Avro tarafından tasarlanıp üretilmiştir. Handley Page Halifax ve Short Stirling gibi uçaklarla aynı dönemde geliştirilmiş olup, hepsi dört motorlu ağır bombardıman uçaklarıydı ve İngiliz Kraliyet Hava Kuvvetleri (RAF) tarafından savaşta kullanılmıştır.
+\n\n Minimum Mürettebat: 2 \n Mürettebat: 4\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 8\n Hassasiyet: Orta\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 8\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2800L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 5600kg\n Dahili Jeneratör: 600w</AvroLana.description>
+
+
+<AVROVULCANa.label>Avro Vulcan</AVROVULCANa.label>
+
+<AVROVULCANa.description>Avro Vulcan (1963 Temmuz’undan sonra Hawker Siddeley Vulcan), 1956’dan 1984’e kadar İngiliz Kraliyet Hava Kuvvetleri (RAF) tarafından kullanılan üçgen kanatlı, jet motorlu, yüksek irtifa stratejik bombardıman uçağıdır.
+Uçak üreticisi A.V. Roe and Company (Avro), Vulcan’ı B.35/46 spesifikasyonuna göre tasarlamıştır. Üretilen üç “V-bombardıman uçağı” serisinden Vulcan, teknik olarak en gelişmiş olanıydı ve bu nedenle en tehlikeli seçenek olarak kabul edilmiştir. Üçgen kanat tasarım ilkelerini test etmek ve geliştirmek amacıyla Avro 707 adı verilen birkaç küçük uçak üretilmiştir.
+\n\n Minimum Mürettebat: 2 \n Mürettebat: 5\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 24\n Hassasiyet: Orta\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 14.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 8000L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 8000kg\n Dahili Jeneratör: 790w</AVROVULCANa.description>
+
+
+<AvroYork685a.label>Avro York (Model 685)</AvroYork685a.label>
+
+<AvroYork685a.description>Avro York (Model 685), dört motorlu ağır bir nakliye/uçak modelidir. Şubat 1942’de Avro Lancaster dört motorlu ağır bombardıman uçağı, İngiliz Kraliyet Hava Kuvvetleri’nde hizmete girmiştir. II. Dünya Savaşı (1939–1945) sırasında Müttefik bombardıman görevleri ve genel başarı açısından hayati bir rol oynamıştır.
+\n Avro, Lancaster’a dayanan yeni bir dört motorlu nakliye uçağı tasarlamaya devam etti ve bu yeni tasarıma “Model 685” kodu verildi. Geliştirmeyi hızlandırmak adına, yeni uçakta orijinalin kanatları, kuyruk birimi ve iniş takımı kullanılmış; iç hacmi artırmak amacıyla tamamen yeni bir düz gövde eklenmiştir. Çift dikey kuyruk düzeni uçağın arkasında konumlandırılmıştır (tıpkı Lancaster gibi) ve kokpit uçuş güvertesi, burun kısmının üstünde konumlandırılarak iyi bir görüş sunmuştur. Mürettebat sayısı dört kişidir.
+\n\n Minimum Mürettebat: 2 \n Mürettebat: 8\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 0\n Hassasiyet: Silahsız\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 6\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 890L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 1590kg\n Dahili Jeneratör: 700w</AvroYork685a.description>
+
+  
+  
+<B1La.label>Rockwell B-1 Mızrakçı</B1La.label>
+
+<B1La.description>Rockwell B-1 "Lancer", ABD Hava Kuvvetleri tarafından kullanılan süpersonik, değişken geometrili kanatlara sahip ağır bir bombardıman uçağıdır. Genellikle "Kemik" (İngilizce “Bone”, B-1’in telaffuzundan türetilmiştir) olarak bilinir. 2020 itibarıyla, B-2 “Spirit” ve B-52 “Stratofortress” ile birlikte üç stratejik bombardıman uçağından biridir. B-1, 1960'larda B-58 “Hustler”ın Mach 2 hızı ile B-52’nin menzili ve yük kapasitesini birleştiren bir platform olarak düşünüldü. Uzun araştırmaların ardından Rockwell International (şu an Boeing’in bir parçası) B-1A tasarımıyla projeyi kazandı. Bu model yüksek irtifada Mach 2.2 hıza, düşük irtifada ise Mach 0.85 ile uzun menzilli uçuş yeteneğine sahipti. Uçağın yüksek maliyeti, AGM-86 seyir füzelerinin gelişi, benzer görev profili ve hayalet bombardıman uçaklarının erken çalışmaları B-1’e olan ilgiyi azalttı. Bu nedenle program 1977’de B-1A prototipleri tamamlandıktan sonra iptal edildi.
+\n\n Minimum Mürettebat: 4 \n Mürettebat: 4\n Uzay İnişi: Hayır, İniş Limanı: Hayır \n\n - - Askeri - - \n Bomba: 32\n Hassasiyet: Orta\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 15.4\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 6500L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 24000kg\n Dahili Jeneratör: 790w</B1La.description>
+
+
+<B29SFa.label>Boeing B-29 Süper Kale</B29SFa.label>
+
+<B29SFa.description>Boeing B-29 Superfortress, Boeing tarafından tasarlanan ve II. Dünya Savaşı ile Kore Savaşı sırasında ABD tarafından kullanılan dört motorlu pervaneli ağır bir bombardıman uçağıydı. “Superfortress” ismi, öncülü olan B-17 “Flying Fortress”ten gelmektedir. Yüksek irtifa stratejik bombardıman görevleri için tasarlanmış olsa da, alçak irtifa gece yangın bombası saldırılarında da oldukça etkiliydi ve Japonya'nın ablukası sırasında mayın dökümünde kullanıldı. B-29, Hiroşima ve Nagazaki'ye atom bombası atan ve savaşta nükleer silah kullanan tek uçaktır.
+\n\n Minimum Mürettebat: 2 \n Mürettebat: 6\n Uzay İnişi: Hayır, İniş Limanı: Hayır \n\n - - Askeri - - \n Bomba: 12\n Hassasiyet: Orta\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 7\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 3000L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 5600kg\n Dahili Jeneratör: 600w</B29SFa.description>
+
+
+<B2a.label>Northrop Grumman B-2 Spirit</B2a.label>
+
+<B2a.description>Northrop (daha sonra Northrop Grumman) tarafından geliştirilen B-2 Spirit, düşük radar görünürlüğüne sahip, yoğun hava savunma sistemlerine nüfuz edebilen ABD yapımı ağır stratejik bombardıman uçağıdır. Soğuk Savaş döneminde tasarlanan uçak, uçan kanat tasarımına sahiptir ve iki kişilik mürettebatla çalışır. B-2, 80 adet 500 libre (230 kg) Mk 82 JDAM GPS güdümlü bomba ya da 16 adet 2400 libre (1100 kg) B83 nükleer bomba taşıyabilir. B-2, büyük boyutlu yer hedeflerine karşı gizli hava saldırısı yapabilen tek tanınmış uçaktır.
+\n B-2'nin geliştirilmesi, Carter yönetimi döneminde başlatılan “Gelişmiş Teknoloji Bombardıman Uçağı (ATB)” projesi kapsamında başlamıştır; bu proje aynı zamanda Mach 2 hızındaki B-1A programının iptal edilme nedenlerinden biridir. Reagan döneminde ATB projesi devam etti, fakat teslimattaki olası gecikmeler nedeniyle B-1 programı tekrar başlatıldı.
+\n\n Minimum Mürettebat: 2 \n Mürettebat: 2\n Uzay İnişi: Hayır, İniş Limanı: Hayır \n\n - - Askeri - - \n Bomba: 80\n Hassasiyet: Orta\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 14.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 8000L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 18350kg\n Dahili Jeneratör: 990w</B2a.description>
+
+
+<B52a.label>Boeing B-52 Stratofortress</B52a.label>
+
+<B52a.description>Boeing B-52 Stratofortress, ABD yapımı uzun menzilli, subsonik jet motorlu stratejik bombardıman uçağıdır. Boeing tarafından tasarlanıp üretilmiştir ve firma hâlâ bakım ve modernizasyonunu sağlamaktadır. 1950'lerden bu yana ABD Hava Kuvvetleri tarafından aktif olarak kullanılmaktadır. B-52, 12.000 kg’a kadar mühimmat taşıyabilir ve havada yakıt ikmali olmaksızın 14.080 km (8800 mil) menzile ulaşabilir.
+\n\n Minimum Mürettebat: 2 \n Mürettebat: 4\n Uzay İnişi: Hayır, İniş Limanı: Hayır \n\n - - Askeri - - \n Bomba: 24\n Hassasiyet: Orta\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 13.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 12000L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 12000kg\n Dahili Jeneratör: 990w</B52a.description>
+
+
+<Bf110C7a.label>Bf 110 C-7</Bf110C7a.label>
+
+<Bf110C7a.description>Messerschmitt Bf-110, genellikle gayri resmi olarak Me 110 olarak da bilinir, Almanya tarafından geliştirilen ve II. Dünya Savaşı boyunca Alman Hava Kuvvetleri (Luftwaffe) tarafından kullanılan çift motorlu bir Zerstörer (ağır avcı uçağı) ve Jagdbomber (savaş bombardıman uçağı) türüdür.
+\n\n Mürettebat: 2\n Uzay İnişi: Hayır, İniş Limanı: Hayır \n\n - - Askeri - - \n Bomba: 2\n Hassasiyet: Orta\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 8\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 300L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 500kg\n Dahili Jeneratör: 150w</Bf110C7a.description>
+
+  
+  
+  <BR1001a.label>Bréguet Br.1001 Taon B</BR1001a.label>
+
+<BR1001a.description>1953 yılında NATO, Avrupa uçak üreticilerini “LWSF” (Hafif Vuruş Savaş Uçağı) rolü için uçak tasarımları sunmaya davet etti. Taon (anlamı: At sineği – aynı zamanda NATO’nun Fransızca versiyonu olan OTAN’ın bir tür anagramı), bu gereksinimleri karşılamak üzere tasarlandı. Taon, geri çekilebilir üç tekerlekli iniş takımına, süpürülmüş kanat ve kuyruk yüzeylerine sahip küçük bir orta kanat tek kanatlı uçaktır. Uçak, Bristol Orpheus BOr.3 turbojet motoruyla çalışır. Şirket, üç adet prototip üretmekle görevlendirildi ve ilk uçuş 26 Temmuz 1957'de gerçekleşti. İkinci prototip daha uzun bir gövdeye sahipti. Geliştirme durduruldu ve yalnızca iki uçak üretildi.
+\n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 4\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 14.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 1800L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 2100kg\n Dahili Jeneratör: 470w</BR1001a.description>
+
+
+<C130a.label>Lockheed C-130 Hercules</C130a.label>
+
+<C130a.description>Lockheed tarafından geliştirilen C-130 Hercules, dört motorlu türboprop bir Amerikan askeri nakliye uçağıdır. Günümüzde Lockheed Martin tarafından üretilmeye devam edilmektedir. C-130, hazırlanmış pist gerektirmeden kalkış ve iniş yapabilir ve ilk olarak asker, hasta tahliyesi ve kargo taşımacılığı amacıyla tasarlanmıştır. Ancak zamanla AC-130 silahlı varyantı ile hava saldırıları, arama-kurtarma, bilimsel araştırmalar, hava tahmini, yakıt ikmali, deniz devriyesi ve yangın söndürme gibi birçok alanda kullanılmıştır. Bugün hâlâ birçok ülkenin ana taktik hava nakliye uçağıdır. Hercules'in Lockheed L-100 isimli sivil versiyonu da dahil olmak üzere 40'tan fazla varyantı vardır ve 60'tan fazla ülkede hizmet vermektedir.
+\n\n Minimum Mürettebat: 2\n Mürettebat: 12\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 0\n Hassasiyet: Silahsız\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 7\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 3500L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 20000kg\n Dahili Jeneratör: 1100w</C130a.description>
+
+
+<C17GBa.label>McDonnell Douglas/Boeing C-17 Globemaster III</C17GBa.label>
+
+<C17GBa.description>C-17 Globemaster III, 1980'lerin sonlarında ve 1990'ların başlarında McDonnell Douglas tarafından ABD Hava Kuvvetleri (USAF) için geliştirilen büyük bir askeri nakliye uçağıdır. İsmini önceki iki piston motorlu nakliye uçağından, Douglas C-74 “Globemaster” ve C-124 “Globemaster II”den alır. C-17 genellikle dünya genelinde birlik ve kargo taşımak için taktik ve stratejik hava taşımacılığı görevleri üstlenir; bunun yanı sıra hasta tahliyesi ve hava indirme görevleri gibi işlevlerde de kullanılır. Lockheed C-141’in yerini alması ve C-5 Galaxy filosunu takviye etmesi amacıyla tasarlanmıştır.
+\n\n Minimum Mürettebat: 3\n Mürettebat: 106\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 0\n Hassasiyet: Silahsız\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 14.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 24500L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 77619kg\n Dahili Jeneratör: 1600w</C17GBa.description>
+
+
+<C5Ga.label>Lockheed C-5 Galaxy (Yük Taşıma Versiyonu)</C5Ga.label>
+
+<C5Ga.description>Lockheed C-5 Galaxy, başlangıçta Lockheed tarafından tasarlanan ve günümüzde Lockheed Martin tarafından sürdürülen büyük bir askeri nakliye uçağıdır. ABD Hava Kuvvetleri’ne (USAF) ağır kıtalararası stratejik hava taşımacılığı kapasitesi sağlar. Çok büyük ve ağır kargoları, hava onayı almış her türlü yükü taşıyabilir. Galaxy, daha küçük Lockheed C-141 Starlifter ve daha yeni Boeing C-17 Globemaster III ile birçok yönüyle benzerlik taşır. C-5, dünyanın en büyük askeri uçaklarından biridir.
+\n\n Minimum Mürettebat: 4\n Mürettebat: 7\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 0\n Hassasiyet: Silahsız\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 14.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 25500L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 127459kg\n Dahili Jeneratör: 1650w</C5Ga.description>
+
+  
+  
+  <CH53a.label>Sikorsky CH-53 Sea Stallion</CH53a.label>
+
+<CH53a.description>CH-53 Sea Stallion (Sikorsky S-65), Sikorsky Aircraft tarafından tasarlanıp üretilmiş ağır nakliye helikopteri serisidir. İlk olarak ABD Deniz Piyadeleri için geliştirilmiştir ve Almanya, İran, İsrail ve Meksika’da da kullanılmıştır. ABD Hava Kuvvetleri, Vietnam Savaşı’nın son döneminde HH-53 “Süper Yeşil Dev” olarak kullandı ve bu helikopterlerin çoğunu düşük irtifa görevleri için MH-53'e yükseltti. Benzer boyutlarda olan CH-53E Super Stallion, daha ağır yük kapasitesine sahip geliştirilmiş bir versiyondur ve Sikorsky tarafından S-80E olarak adlandırılmıştır. Üçüncü motoru sayesinde Sea Stallion'dan daha güçlüdür ve ağır taşıma görevlerinde onun yerini almıştır.
+\n\n Minimum Mürettebat: 3\n Mürettebat: 38\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 0\n Hassasiyet: Silahsız\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 3.4\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 595L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 3600kg\n Dahili Jeneratör: 210w</CH53a.description>
+
+
+<DC133a.label>Douglas C-133 Cargomaster</DC133a.label>
+
+<DC133a.description>Douglas C-133 Cargomaster, Douglas Aircraft Company tarafından 1956–1961 yılları arasında ABD Hava Kuvvetleri için üretilen büyük bir turboprop kargo uçağıdır. C-133, ABD Hava Kuvvetleri'nin üretimdeki tek turboprop stratejik taşıma uçağıydı. Lockheed C-130 Hercules’ten kısa süre sonra hizmete giren bu uçak, taktik taşıma görevlerinden ziyade stratejik taşıma görevlerine odaklanmıştı. Geniş bir hava nakliye hizmeti sunmuş ve 1970'lerin başında C-5 Galaxy tarafından değiştirilmiştir.
+\n\n Minimum Mürettebat: 2\n Mürettebat: 12\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 0\n Hassasiyet: Silahsız\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 6\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 4000L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 50000kg\n Dahili Jeneratör: 1200w</DC133a.description>
+
+
+<DCA3a.label>Douglas A-3 Skywarrior</DCA3a.label>
+
+<DCA3a.description>Douglas A-3 Skywarrior, Douglas Aircraft Company tarafından geliştirilen ve üretilen jet motorlu stratejik bombardıman uçağıdır. ABD Donanması için tasarlanmış olup uçak gemisinden operasyon yapabilecek bir bombardıman uçağı olarak geliştirildi. 1949 yılının Temmuz ayında Douglas, sekiz rakip şirketi geride bırakarak üretim sözleşmesini kazandı. Rakip uçaklar 100.000 lb (45.000 kg) maksimum kalkış ağırlığına sahipken, Skywarrior bu sınırı 68.000 lb (31.000 kg) olarak tutarak mevcut Midway sınıfı uçak gemilerine uygun hale getirildi.
+\n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 6\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 12.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2000L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 5400kg\n Dahili Jeneratör: 390w</DCA3a.description>
+
+
+<DO217a.label>Dornier Do 217</DO217a.label>
+
+<DO217a.description>Dornier Do 217, II. Dünya Savaşı sırasında Alman Luftwaffe tarafından kullanılan bir bombardıman uçağıdır. Daha önce kullanılan Do 17’nin gelişmiş versiyonudur. Do 17, “Fliegender Bleistift” (Uçan Kurşun Kalem) olarak bilinirdi. 1937–1938 yıllarında ağır bombardıman uçağı olarak tasarlanmış, ancak Heinkel He 177 gibi daha büyük uçakların görevlerini üstlenmesi beklenmemiştir. 1939’da tasarımı geliştirilen Do 217, 1940 sonlarında üretime girdi ve 1941’in başlarında hizmete girmeye başladı. 1942 yılı başlarında geniş çapta kullanılıyordu.
+\n\n Minimum Mürettebat: 2\n Mürettebat: 4\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 6\n Hassasiyet: Orta\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 7\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 800L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 3500kg\n Dahili Jeneratör: 280w</DO217a.description>
+
+
+<F100a.label>North American F-100 Super Sabre</F100a.label>
+
+<F100a.description>North American F-100 Super Sabre, 1954’ten 1971’e kadar ABD Hava Kuvvetleri (USAF) tarafından kullanılan süpersonik bir jet savaş uçağıdır. 1979 yılına kadar ise Hava Ulusal Muhafızları (ANG) tarafından hizmette kalmıştır. USAF’ın “Yüzyıl Serisi” jet savaş uçaklarının ilki olup yatay uçuşta süpersonik hızlara ulaşabilen ilk Amerikan savaş uçağıdır.
+\n F-100, North American Aviation tarafından tasarlanmış ve F-86 Sabre'ın üstün performanslı halefi olarak geliştirilmiştir.
+\n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 6\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 13.6\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2300L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 3910kg\n Dahili Jeneratör: 470w</F100a.description>
+
+
+<F111Ka.label>General Dynamics F-111K</F111Ka.label>
+
+<F111Ka.description>General Dynamics F-111K, General Dynamics F-111 Aardvark'ın İngiliz Kraliyet Hava Kuvvetleri (RAF) ihtiyaçlarına göre planlanmış bir versiyonuydu. Proje, 1965’te BAC TSR-2 saldırı uçağının iptaliyle başlatıldı. F-111K, farklı varyantların bir karışımı olarak planlanmıştı ve İngiltere’nin özel ihtiyaçlarına göre üretilecekti. RAF, 1967’de 50 adet sipariş verdi; ancak sipariş bir yıl sonra iptal edildi.
+\n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 4\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 19.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2500L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 3800kg\n Dahili Jeneratör: 670w</F111Ka.description>
+
+  
+  
+  <F117a.label>Lockheed Martin F-117 "Nighthawk" Savaş Uçağı</F117a.label>
+
+<F117a.description>Lockheed F-117 Nighthawk, Lockheed'in gizli Skunk Works departmanı tarafından geliştirilen ve ABD Hava Kuvvetleri (USAF) tarafından kullanılan, tek koltuklu, çift motorlu Amerikan yapımı gizli taarruz uçağıdır. F-117, "Have Blue" adlı teknoloji göstericisine dayanıyordu. Nighthawk, gizlilik teknolojisi etrafında tasarlanmış ilk operasyonel savaş uçağıdır. İlk uçuşu 1981 yılında Nevada Groom Lake'de gerçekleştirilmiştir ve 1983'te operasyonel kabiliyete ulaşmıştır. Uçak, 1988 yılına kadar gizli tutulmuş ve kamuya açıklanmamıştır. Üretilen 64 adet F-117'den 59'u üretim modeli, 5'i ise prototiptir.
+\n\n Minimum Mürettebat: 1\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 2\n Hassasiyet: Mükemmel\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 21\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2300L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 12000kg\n Dahili Jeneratör: 690w</F117a.description>
+
+
+<F16a.label>F-16</F16a.label>
+
+<F16a.description>General Dynamics tarafından geliştirilen F-16 Fighting Falcon, tek motorlu, süpersonik, çok amaçlı bir savaş uçağıdır ve başlangıçta ABD Hava Kuvvetleri (USAF) için tasarlanmıştır. Öncelikle gündüz hava üstünlüğü sağlayan bir savaş uçağı olarak planlansa da, zamanla tüm hava koşullarında görev yapabilen başarılı bir çok amaçlı uçak hâline gelmiştir. 1976 yılında üretim onayı alındığından bu yana 4600'den fazla üretilmiştir.
+\n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 6\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 20\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2800L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 6600kg\n Dahili Jeneratör: 680w</F16a.description>
+
+
+<F16XLa.label>General Dynamics F-16XL</F16XLa.label>
+
+<F16XLa.description>General Dynamics’in ilk araştırma projesi, USAF’ın daha büyük, daha pahalı ve daha karmaşık F-111 "Aardvark" değişken kanatlı avcı bombardıman uçağının yerini alacak alternatifini aramasına yol açtı. Bu çabanın sonucu olarak F-16XL ortaya çıktı; bu, orijinal F-16 Fighting Falcon'un kapsamlı biçimde geliştirilmiş bir versiyonuydu. F-16XL, McDonnell Douglas’ın F-15 tabanlı yer saldırı varyantı ile rekabet etti fakat USAF tarafından seçilmedi. Potansiyeline rağmen yalnızca iki prototipi üretildi ve havacılık tarihine geçti. F-16XL, 1970’lerin sonlarında General Dynamics tarafından başlatılan SCAMP (Supersonic Cruise and Maneuver Prototype) projesine dayanıyordu. Bu proje, süpersonik laminer hava akışı ve sonik patlamaların neden ve etkileri üzerine tasarlanmış bir aerodinamik araştırmaydı.
+\n\n Minimum Mürettebat: 1\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 16\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 23\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 3800L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 12500kg\n Dahili Jeneratör: 880w</F16XLa.description>
+
+
+<F22R.label>Lockheed Martin F-22 Raptor</F22R.label>
+
+<F22R.description>Lockheed Martin F-22 Raptor, ABD Hava Kuvvetleri (USAF) için özel olarak geliştirilmiş, tek koltuklu, çift motorlu, her hava koşuluna uygun, gizli bir taktik avcı uçağıdır. USAF’ın Gelişmiş Taktik Avcı (ATF) programı kapsamında geliştirilen bu uçak, öncelikle hava üstünlüğü için tasarlanmış olup, yer saldırısı, elektronik harp ve sinyal istihbaratı görevlerini de başarıyla gerçekleştirebilir. Geliştirme çalışmaları ayrıca Lockheed Martin X-44 MANTA ve FB-22 projeleriyle devam etmiştir.
+\n\n Minimum Mürettebat: 1\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 6\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 24.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2600L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 21500kg\n Dahili Jeneratör: 790w</F22R.description>
+
+
+<F4IIa.label>McDonnell F-4 Phantom II</F4IIa.label>
+
+<F4IIa.description>McDonnell F-4 Phantom II, tandem çift koltuklu, çift motorlu, her hava koşulunda görev yapabilen, uzun menzilli süpersonik jet motorlu önleme ve saldırı uçağıdır. İlk olarak ABD Donanması için geliştirilen bu uçak, 1961'de hizmete girmiştir. Uçak yüksek derecede uyumlu olup, daha sonra ABD Deniz Piyadeleri ve Hava Kuvvetleri tarafından da kullanılmış ve 1960’ların ortalarında onların ana savaş uçağı hâline gelmiştir. Phantom II, saatte Mach 2.2'yi aşabilen büyük bir savaş uçağıydı. Dokuz dış silah istasyonunda 8.400 kg’dan fazla mühimmat taşıyabilir; bunlar hava-hava, hava-yer füzeleri ve çeşitli bombalardan oluşmaktadır. İlk tasarımında top barındırmasa da daha sonraki modellerde M61 Vulcan topu eklenmiştir. 1959'dan itibaren uçuş sırasında 15 dünya rekoru kırmıştır. F-4, Vietnam Savaşı'nda yaygın olarak kullanılmış, hava üstünlüğü, yer saldırısı ve keşif görevlerinde önemli rol oynamıştır.
+\n\n Minimum Mürettebat: 2\n Mürettebat: 2\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 8\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 17.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2500L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 8600kg\n Dahili Jeneratör: 670w</F4IIa.description>
+
+
+<fa18a.label>Boeing (McDonnell Douglas) F/A-18 Hornet</fa18a.label>
+
+<fa18a.description>McDonnell Douglas/Boeing F/A-18 Hornet, Soğuk Savaş’ın son dönemlerinde geliştirilen son derece başarılı dördüncü nesil çok amaçlı savaş uçağıdır. Başından beri çok rollü olarak tasarlanmış olan bu uçak, hem filo savunma önleme görevlerini hem de yer hedeflerine saldırı görevlerini en az yapılandırmayla üstlenebilir.
+\n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 9\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 22.0\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2500L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 6514kg\n Dahili Jeneratör: 690w</fa18a.description>
+
+
+<FA223a.label>Focke-Achgelis Fa 223 Drache</FA223a.label>
+
+<FA223a.description>Focke-Achgelis Fa 223 Drache (anlamı: Ejderha), II. Dünya Savaşı sırasında Almanya tarafından geliştirilen bir helikopterdir. 750 kW (1010 beygir) gücündeki Bramo 323 yıldız tipi motor, 11.9 metrelik üç kanatlı iki rotoru döndürüyordu. Bu rotorlar, 12.2 metre uzunluğundaki silindirik gövdenin yanlarında yer alan çift bomlu yapılara monte edilmiştir. Fa 223, üretime ulaşan ilk helikopterlerden biri olarak kabul edilse de, müttefik bombardımanları nedeniyle üretim büyük ölçüde engellenmiş ve sadece 20 adet üretilmiştir. Fa 223, 175 km/s seyir hızına, 182 km/s azami hıza ve 7100 metreye (23300 ft) kadar tırmanma kabiliyetine sahiptir. Drache, 121 km/s hızla 1000 kg’dan fazla yük taşıyabilir ve 2440 metre (8010 ft) yüksekliğe ulaşabilir.
+\n\n Minimum Mürettebat: 1\n Mürettebat: 8\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 0\n Hassasiyet: Silahsız\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 3.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 225L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 1050kg\n Dahili Jeneratör: 150w</FA223a.description>
+
+  
+  
+  <HAIIa.label>Boeing (BAe Systems/McDonnell) AV-8B Harrier II</HAIIa.label>
+
+<HAIIa.description>Başlangıçta İngiliz ve Amerikan havacılık şirketlerinin ortak girişimi olarak geliştirilen bu uçak (İngiltere erken bir şekilde projeden ayrıldı, ancak sonra tekrar katıldı) sonunda "Harrier" savaş uçağının "AV-8B Harrier II" versiyonunu üretti. AV-8B (İngiltere'de Harrier GR olarak adlandırılmaktadır) Irak, Kosova ve günümüzde Afganistan'da operasyonel görevler üstlenmiş olup, hala ABD Deniz Piyadeleri ve İngiltere Kraliyet Hava Kuvvetleri/Royal Air Force tarafından tercih edilmektedir.
+\n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 6\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 20\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2200L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 6100kg\n Dahili Jeneratör: 690w</HAIIa.description>
+
+
+<HE111a.label>Heinkel He 111</HE111a.label>
+
+<HE111a.description>Heinkel He 111, 1934 yılında Siegfried ve Walter Günter tarafından Heinkel Flugzeugwerke'de tasarlanan bir Alman bombardıman uçağıdır. Geliştirilmesiyle "koyun postu giymiş kurt" olarak tanımlanmıştır. I. Dünya Savaşı sonrası Almanya'nın bombardıman uçaklarına getirdiği kısıtlamalar nedeniyle sivil uçak gibi tasarlanmış, ancak tasarımının amacı, yeni kurulan Alman Hava Kuvvetleri’ne hızlı bir orta menzilli bombardıman uçağı sağlamaktı.
+\n\n Minimum Mürettebat: 2\n Mürettebat: 4\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 6\n Hassasiyet: Orta\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 7\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 500L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 1500kg\n Dahili Jeneratör: 250w</HE111a.description>
+
+
+<he177a.label>Heinkel He 177</he177a.label>
+
+<he177a.description>Heinkel He 177 Greif, II. Dünya Savaşı sırasında Almanya'nın Luftwaffe tarafından kullanılan bir uzun menzilli ağır bombardıman uçağıydı. Motor gelişimindeki sorunlar ve hedeflenen görevlerin sıklıkla değişmesi nedeniyle He 177'nin savaşta kullanılmaya başlanması gecikmiştir. Ancak, savaş boyunca Almanya Hava Kuvvetleri'ne hizmet veren tek uzak menzilli ağır bombardıman uçağı olmuştur. He 177’nin taşıma kapasitesi ve menzili, Müttefiklerin Avrupa cephesinde kullandığı dört motorlu ağır bombardıman uçaklarına benzerdi ve seyir hızı ile azami hızları da Müttefik uçaklarından daha yüksekti.
+\n\n Minimum Mürettebat: 2\n Mürettebat: 4\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 8\n Hassasiyet: Orta\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 8\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2000L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 4500kg\n Dahili Jeneratör: 350w</he177a.description>
+
+
+<J10a.label>J-10</J10a.label>
+
+<J10a.description>J-10 (Çin'de 简体中文: 歼-10; geleneksel Çince: 殲-10; NATO raporlama adı: Firebird, aynı zamanda “Xiong Long” olarak da bilinir), her hava koşulunda operasyon yapabilen, tek motorlu hafif bir savaş uçağıdır. Üçgen kanat ve kanatçık tasarımıyla, Chengdu Aircraft Corporation (CAC) tarafından Çin Hava Kuvvetleri (PLAAF) için üretilmiştir. İlk J-10 uçağı 1997 yılında montajı tamamlanmış ve 2006 yılında hizmete girmiştir. 2007 yılında Çin hükümeti tarafından resmi olarak duyurulmuş ve Xinhua Ajansı tarafından fotoğrafları yayımlanmıştır.
+\n\n Minimum Mürettebat: 1\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 11\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 21\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2600L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 8500kg\n Dahili Jeneratör: 720w</J10a.description>
+
+  
+  
+  <J20a.label>J-20</J20a.label>
+
+<J20a.description>J-20 (Çin: 歼-20; Pinyin: Jiān-Erling), aynı zamanda "Güçlü Ejderha" (Çin: 威龙; Çince Pinyin: Wēilóng) olarak da bilinir, Çin Chengdu Havacılık ve Uzay Şirketi tarafından Çin Halk Kurtuluş Ordusu Hava Kuvvetleri (PLAAF) için geliştirilen tek koltuklu, çift motorlu, her hava koşulunda görev yapabilen, gizli bir beşinci nesil savaş uçağıdır. J-20, hassas vurma yeteneğine sahip bir hava üstünlüğü savaş uçağıdır; 1990'ların başında başlatılan J-XX projesinin bir sonucu olarak geliştirilmiştir. J-20, 11 Ocak 2011'de ilk uçuşunu gerçekleştirmiş ve 2016 Çin Uluslararası Havacılık ve Uzay Fuarı'nda resmi olarak tanıtılmıştır. Uçak, Mart 2017'de hizmete girmiş ve Eylül 2017'de savaş eğitim aşamasına geçmiştir.
+\n\n Minimum Mürettebat: 1\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 14\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 22\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2800L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 9500kg\n Dahili Jeneratör: 750w</J20a.description>
+
+
+<JCC16a.label>Cierva C.19</JCC16a.label>
+
+<JCC16a.description>De la Cierva'nın ilk başarılı döner kanatlı uçağı olan Cierva C.6'nın Avro 504 gövdesi kullanılarak geliştirilen, De la Cierva ve Avro şirketleri arasında 1926'da başlayan uzun süreli işbirliği, döner kanatlı uçakların konseptini geliştirdi. 1929'da ortaya çıkan C.19, mevcut Avro uçaklarıyla ilgisi olmayan ancak Avro tarafından Hamburgh’da inşa edilen bir De la Cierva tasarımıydı. Diğer döner kanatlı uçaklar gibi, C.19 da geleneksel bir gövdeye ve küçük kanat açıklığına sahipti. Uçakta serbest dönen rotorlar, dört çelik tel ile desteklenmiş kanatlar veya Mk IV'te üç kanatlı askı kanatlar kullanılarak öndeki dört destek direğinden oluşan bir piramitte montelenmiştir.
+\n\n Minimum Mürettebat: 1\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 0\n Hassasiyet: Silahsız\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 3\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 125L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 150kg\n Dahili Jeneratör: 100w</JCC16a.description>
+
+
+<JH7a.label>Jianhong 7 (Struggle)</JH7a.label>
+
+<JH7a.description>Jianhong-7 (Jianjiji Hongzhaji - Savaş Bombardıman Uçağı; NATO raporlama adı: Flounder), aynı zamanda FBC-1 (Savaş Uçağı/Bombardıman Uçağı Çin-1) olarak bilinir, Çin Halk Kurtuluş Ordusu Deniz Kuvvetleri Hava Kuvvetleri (PLANAF) ve Çin Halk Kurtuluş Ordusu Hava Kuvvetleri (PLAAF) tarafından kullanılan tandem çift koltuklu, çift motorlu bir savaş bombardıman uçağıdır. Ana yüklenici, Xi'an Aircraft Industrial Corporation (XAC) ve 603 Uçak Tasarım Enstitüsü (sonradan China Aviation Industry First Aircraft Design Institute olarak adlandırılmıştır). İlk JH-7 uçağı, 1990'ların ortalarında PLANAF için değerlendirme amacıyla teslim edilmiş ve geliştirilmiş JH-7A, 2004 yılında hizmete girmiştir.
+\n\n Minimum Mürettebat: 2\n Mürettebat: 2\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 8\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 20\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2800L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 10000kg\n Dahili Jeneratör: 720w</JH7a.description>
+
+
+<JU52a.label>Junkers Ju 52</JU52a.label>
+
+<JU52a.description>“Junkers Ju 52/3m” (lakap: “Tante Ju” ve “Iron Annie”) Almanya'nın Junkers tarafından tasarlanıp üretilen bir nakliye uçağıdır. Ju 52’nin gelişimi 1930'da başlamış ve Alman havacılık mühendisi Ernst Zindel tarafından yönlendirilmiştir. Uçak, o dönemde çok alışılmadık olan, dalgalı sert alüminyum metal dış kaplama tasarımını kullanıyordu. Ju 52 ilk uçuşunu 13 Ekim 1930'da gerçekleştirmiştir. Başlangıçta tek motorlu olarak tasarlanmış olsa da, sonradan üç motorlu olarak üretilmiştir. Başlıca erken üretim modeli olan Ju 52/3m, 1930'larda çeşitli sivil işletmeciler tarafından 17 koltuklu yolcu uçağı veya çok amaçlı nakliye uçağı olarak kullanılmıştır. Nazi Almanyası’nın yükselmesiyle birlikte, binlerce Ju 52, ülkenin ana askeri nakliye aracı olarak satın alınmıştır. Temel üretim modeli, Ju 52/3mg7e'dir.
+\n\n Minimum Mürettebat: 2\n Mürettebat: 8\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 0\n Hassasiyet: Silahsız\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 5.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 910L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 4590kg\n Dahili Jeneratör: 700w</JU52a.description>
+
+
+<JU87stua.label>Junkers Ju-87 Stuka</JU87stua.label>
+
+<JU87stua.description>Junkers Ju 87 veya Stuka (Almanca: Sturzkampfflugzeug, “Daldırma Bombardıman Uçağı”) Almanya tarafından geliştirilen bir daldırma bombardıman uçağı ve kara saldırı uçağıdır. Hermann Pohlmann tarafından tasarlanmış ve 1935 yılında ilk uçuşunu yapmıştır. 1937’deki İspanya İç Savaşı sırasında Ju 87, Alman Hava Kuvvetleri’nin “Condor Lejyonu” içinde ilk kez kullanıldı ve II. Dünya Savaşı sırasında eksen güçleri tarafından hizmete alındı.
+\n\n Mürettebat: 2\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 2\n Hassasiyet: Mükemmel\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 6\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 250L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 350kg\n Dahili Jeneratör: 150w</JU87stua.description>
+
+
+<LKPV1C7a.label>Lockheed Ventura PV-1</LKPV1C7a.label>
+
+<LKPV1C7a.description>Lockheed Ventura, II. Dünya Savaşı sırasında kullanılan bir çift motorlu orta sınıf bombardıman uçağı ve devriye bombardıman uçağıdır. 1942 sonlarında, Ventura bombardıman uçağı ilk kez İngiliz Kraliyet Hava Kuvvetleri (RAF) tarafından Avrupa cephesinde kullanıldı. ABD Donanması (US Navy) tarafından PV-1 olarak adlandırılmış, 1943’te Pasifik cephesinde hizmete girmiştir. Bu bombardıman uçağı, ABD Hava Kuvvetleri (USAAF) tarafından da kullanılmış ve Lockheed B-34 (Lexington) ve B-37 olarak eğitim uçağı olarak görev yapmıştır. İngiliz Milletler Topluluğu ülkeleri, çeşitli maskelenmiş versiyonları ile onu deniz hedeflerine karşı ve denizaltı savunma savaşları için kullanmıştır.
+\n\n Minimum Mürettebat: 2\n Mürettebat: 4\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 6\n Hassasiyet: Zayıf\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 6\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 450L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 600kg\n Dahili Jeneratör: 200w</LKPV1C7a.description>
+
+
+<Lp38la.label>Lockheed P-38 Lightning</Lp38la.label>
+
+<Lp38la.description>Lockheed tarafından geliştirilen P-38 Lightning, II. Dünya Savaşı sırasında kullanılan bir Amerikan pistonlu motorlu savaş uçağıdır. ABD Hava Kuvvetleri tarafından geliştirilen P-38, özgün çift asma kirişli ve ortada yer alan bir kokpitle tasarlanmıştı.
+\n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 2\n Hassasiyet: Orta\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 8\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 350L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 390kg\n Dahili Jeneratör: 250w</Lp38la.description>
+
+  
+  
+  <ME1075a.label>Messerschmitt-264 – Me P.1075 / Me P.1085</ME1075a.label>
+
+<ME1075a.description>Messerschmitt-264 - Me P.1075 / Me P.1085, savaşın küreselleşmesinin ardından geliştirilen Amerika'nın ilk bombardıman uçağıdır. (Hayali prototip)
+\n\n Minimum Mürettebat: 2\n Mürettebat: 6\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 12\n Hassasiyet: Orta\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 7\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 3200L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 12000kg\n Dahili Jeneratör: 600w</ME1075a.description>
+
+
+<ME262a.label>Messerschmitt Me 262 A-2a</ME262a.label>
+
+<ME262a.description>Messerschmitt Me 262, savaş uçağı versiyonunda Schwalbe (Almanca: "Kırlangıç"), saldırı bombardıman uçağı versiyonunda ise Sturmvogel (Almanca: "Fırtına Kuşu") olarak bilinir, dünyadaki ilk operasyonal jet motorlu savaş uçağıdır. Tasarım çalışmaları, II. Dünya Savaşı başlamadan önce başlamış olsa da, motor, metalurji ve yüksek irtifa sorunları nedeniyle Almanya Hava Kuvvetleri’nde hizmete girmesi 1944 yılına kadar gecikmiştir. Me 262, tüm Müttefik savaş uçaklarından daha hızlıydı ve İngiliz jet motorlu Gloster Meteor’dan daha iyi donanıma sahipti.
+\n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 4\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 10.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 700L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 800kg\n Dahili Jeneratör: 290w</ME262a.description>
+
+
+<MFF50a.label>Maurice Farman F50</MFF50a.label>
+
+<MFF50a.description>Çift motorlu F.50, 1918 yılı başlarında ilk uçuşunu yapmıştır ve iki adet 180 kW (240 beygir) Lorraine 8Bb motoru ile güçlendirilmiştir. Bir eşit mesafeye sahip çift kanatlı uçak olup, düz kenarlı gövde ve tek bir kuyruk yüzeyi ve dümenle tasarlanmıştır. Uçak, sabit kuyruk kızak iniş takımına sahip olup, ana iniş takımında iki tekerlek bulunmaktadır. Pilot ve silahşör/gözlemci için açık bir kokpit bulunurken, uçak başlığında bir silahşör pozisyonu vardır.
+\n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 1\n Hassasiyet: Zayıf\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 150L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 150kg\n Dahili Jeneratör: 100w</MFF50a.description>
+
+
+<MI12a.label>Mil M-12 Homer</MI12a.label>
+
+<MI12a.description>Mil V-12 (NATO kod adı: Homer), Izdeliye 65 ("Proje 65") kod adıyla bilinir ve şimdiye kadar yapılmış en büyük helikopterdir. "Mi-12" aslında bir helikopterin üretim adıydı ve V-12 prototipine uygulanmamıştır.
+\n\n Minimum Mürettebat: 2\n Mürettebat: 196\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 0\n Hassasiyet: Silahsız\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 3.6\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 575L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 40000kg\n Dahili Jeneratör: 790w</MI12a.description>
+
+
+<MI24A.label>Mil Mi-24A</MI24A.label>
+
+<MI24A.description>Mi-24 (Rusça: Ми-24; NATO raporlama adı: Hind), büyük bir silahlı helikopter, saldırı helikopteri ve düşük kapasitede asker taşıma aracıdır ve 8 yolcu taşıyabilir. Mil Moskova Helikopter Fabrikası tarafından üretilmiş olup, 1972'den bu yana Sovyet Hava Kuvvetleri ve ardılları ile 48'den fazla ülke tarafından işletilmektedir. NATO’da, Mi-25 ve Mi-35'in dışa satılan versiyonları "Hind D" ve "Hind E" olarak belirtilir. Sovyet pilotları Mi-24'e "uçan tank" (летящий танк; letayushchiy tank) derlerdi, bu terim II. Dünya Savaşı'nda ünlü Sovyet Il-2 Shturmovik zırhlı yer saldırı uçağındaki bir terimle aynıdır. Daha yaygın olan gayri resmi takma adlar "Galina" (veya "Galya"), "Krokodil" (Çekçe: Krokodil), helikopterin kamuflaj düzeni nedeniyle ve "İçki Bardağı" (Стакан; çünkü erken Mi-24 modellerinde kokpit etrafı düz camlarla çevrilidir).
+\n\n Minimum Mürettebat: 2\n Mürettebat: 10\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 6\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 3.8\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 420L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 2900kg\n Dahili Jeneratör: 240w</MI24A.description>
+
+
+<MI4a.label>Mil Mi-4 (Av Köpeği)</MI4a.label>
+
+<MI4a.description>Mi-4'ün tasarımı, Kore Savaşı sırasında ABD'nin H-19 Chickasaw helikopteri ve Amerikan helikopterlerinin kullanımı için cevap olarak yapılmıştır. Mi-4, genel düzen açısından H-19 Chickasaw ile çok benzerdi, ancak daha büyük bir helikopter olup daha fazla yük taşıma kapasitesine sahipti ve üretimi çok daha fazlaydı. İlk model 1953 yılında hizmete girmiştir. Bu helikopter, 1952'de Sovyet Hava Gösterisi'nde ilk kez gösterilmiştir. Mi-4, fırlatılabilir bir döner kanatla inşa edilmiştir ve gelecekteki pilotlar için güvenlik ve paraşüt tasarımlarının test aracı olarak kullanılmıştır.
+\n\n Minimum Mürettebat: 2\n Mürettebat: 11\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 2\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 3.6\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 375L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 1690kg\n Dahili Jeneratör: 190w</MI4a.description>
+
+
+<mi8a.label>Mil Mi-8 Hip</mi8a.label>
+
+<mi8a.description>Mi-8 (Rusça: Ми-8, NATO raporlama adı: Hip), orta boyutlu bir çift turboşarjlı helikopter olup, ilk olarak Sovyetler Birliği tarafından tasarlanmış ve şu an Rusya tarafından üretilmektedir. En yaygın olarak taşıma helikopteri olarak kullanılsa da, Mi-8 aynı zamanda bir hava komuta merkezi, silahlı saldırı helikopteri ve keşif platformu olarak da kullanılmaktadır. Mi-8, daha güçlü Mil Mi-17 ile birlikte, dünyanın en fazla üretilen helikopterlerinden biri olup, 50'den fazla ülke tarafından kullanılmaktadır. 2015 itibariyle, bu iki helikopter birleştirildiğinde, dünyadaki üçüncü en yaygın askeri uçak olmuştur.
+\n\n Minimum Mürettebat: 3\n Mürettebat: 28\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 4\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 3.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 395L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 1900kg\n Dahili Jeneratör: 190w</mi8a.description>
+
+  
+  
+  <MIG144a.label>Mikoyan MiG 1.42 / 1.44 / MFI</MIG144a.label>
+
+<MIG144a.description>Mikoyan tarafından tasarlanan MiG 1.42, Sovyetler Birliği'nin 1980'lerdeki çok amaçlı ön cephe savaş uçağı ihtiyacına yanıt olarak geliştirilmiştir. Bu savaş uçağı, Amerika'da uygulanan "İleri Seviye Taktik Savaş Uçağı" programının son ürününe doğrudan rakip olacaktı (bu son ürün, sonunda Lockheed F-22 "Raptor" hava üstünlük savaş uçağına dönüşecektir). 1.42, 1986'da Sukhoi Su-27 "Flanker" serisinin son yerine geçmesi için seçildi. "1.42" adı, proje ve ana prototip(s) için kullanılırken, "1.44" adı, bu planın aerodinamik test gövdesini belirtmek için kullanılmıştır (muhtemelen iki tane üretilmiştir). Bu iki gövde tipi arasındaki fark, 1.42'nin dikkate değer iyileştirmeler ve üretim standardı gövdesine en yakın versiyonları temsil etmesidir. 1.44 esasen bir aerodinamik gösterimciydi. Kısacası, 1.42 projesi sadece Mikoyan bürosu ve Rusya Hava Kuvvetleri için bir teknik gösteriydi.
+\n\n Minimum Mürettebat: 1\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 8\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 23\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2500L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 17100kg\n Dahili Jeneratör: 690w</MIG144a.description>
+
+
+<MIG19a.label>Mikoyan-Gurevich MiG-19</MIG19a.label>
+
+<MIG19a.description>Mikoyan-Gurevich MiG-19 (Rusça: Микоян-Гуревич МиГ-19; NATO raporlama adı: Farmer), Sovyetler Birliği'nin ikinci nesil tek koltuklu, çift jet motorlu savaş uçağı olup, dünyanın ilk seri üretime giren süpersonik uçağıdır. Bu uçak, Sovyetler Birliği tarafından üretilen ilk süpersonik uçaktır. Benzer şekilde, Amerika'nın "Yüzyıl Serisi" savaş uçaklarından North American F-100 Super Sabre gibi, MiG-19 daha modern McDonnell Douglas F-4 Phantom II ve Republic F-105 Thunderchief uçaklarına karşı Vietnam'da kullanılmıştır.
+\n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 6\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 13.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2200L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 4000kg\n Dahili Jeneratör: 370w</MIG19a.description>
+
+
+<mig27a.label>Mikoyan MiG-27</mig27a.label>
+
+<mig27a.description>Mikoyan MiG-27 (Rusça: Микоян МиГ-27; NATO raporlama adı: Flogger - D / J), Sovyetler Birliği tarafından tasarlanmış ve Hindistan Hindustan Aeronautics tarafından lisansla üretilen, değişken geometrili bir yer saldırı uçağıdır. Bu uçak, MiG-23 savaş uçağının temel alınıp, yer saldırısı için optimize edilmiştir. MiG-23'ten farklı olarak, MiG-27, Rusya dışında geniş çapta kullanılmamıştır, çünkü çoğu ülke MiG-23BN ve Sukhoi Su-22'yi tercih etmiştir. MiG-27, şu anda sadece Kazakistan Hava Kuvvetleri'nde yer saldırısı görevlerinde kullanılmaktadır. Rusya, Hindistan ve Ukrayna'daki MiG-27 uçaklarının tamamı artık emekli olmuştur.
+\n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 6\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 20\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2500L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 4200kg\n Dahili Jeneratör: 670w</mig27a.description>
+
+
+<mig29a.label>Mig-29</mig29a.label>
+
+<mig29a.description>Mikoyan MiG-29 (Rusça: Микоян МиГ-29; NATO raporlama adı: Fulcrum), Sovyetler Birliği tarafından tasarlanan çift motorlu jet savaş uçağı ve yer saldırı uçağıdır. MiG-29 ve daha büyük Sukhoi Su-27, 1970'lerde Mikoyan tasarım bürosu tarafından hava üstünlüğü savaş uçağı / yer saldırısı olarak geliştirilmiş ve yeni nesil Amerikan uçakları, McDonnell Douglas F-15 Eagle ve General Dynamics F-16 Fighting Falcon'a karşı rakip olarak tasarlanmıştır. MiG-29, 1982'de Sovyet Hava Kuvvetleri'ne hizmete girmiştir.
+\n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 6\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 20\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2800L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 6700kg\n Dahili Jeneratör: 680w</mig29a.description>
+
+
+<MIRAGEIIIa.label>Dassault Mirage III</MIRAGEIIIa.label>
+
+<MIRAGEIIIa.description>Dassault Mirage III (Fransızca telaffuz: [miʁaʒ]), Fransız Dassault Aviation tarafından tasarlanan ve üretilen tek koltuklu, tek motorlu bir savaş uçağı serisidir. Bu uçak, Avrupa'daki ilk Mach 2 hızını aşabilen savaş uçağıdır.
+\n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 6\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 18.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2000L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 2800kg\n Dahili Jeneratör: 570w</MIRAGEIIIa.description>
+
+
+<MM4a.label>Myasishchev M-4</MM4a.label>
+
+<MM4a.description>Myasishchev M-4 Molot (Rusça: Молот (Çekiç), Amerikan Hava Kuvvetleri / Savunma Bakanlığı raporlama adı "37 tipi", NATO raporlama adı "Bear") Sovyetler Birliği tarafından 1950'lerde üretilen, dört motorlu bir stratejik bombardıman uçağıdır ve Kuzey Amerika hedeflerine saldırabilen bir uzun menzilli hava bombardıman uçağı sağlar.
+\n\n Minimum Mürettebat: 2\n Mürettebat: 4\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 16\n Hassasiyet: Orta\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 13.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 8500L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 12000kg\n Dahili Jeneratör: 790w</MM4a.description>
+  
+
+<NAP51Da.label>North American P-51D</NAP51Da.label>
+
+<NAP51Da.description>North American Aviation tarafından üretilen P-51 Mustang, II. Dünya Savaşı ve Kore Savaşı'nda kullanılan bir Amerikan uzun menzilli tek koltuklu savaş uçağı ve savaş bombardıman uçağıdır. Mustang, 1940'da North American Aviation (NAA) tarafından James Kindelberger tarafından yönetilen bir tasarım ekibi tarafından, İngiltere'nin satın alma komitesinin taleplerine yanıt olarak tasarlanmıştır. Satın alma komitesi, North American Aviation'ı Curtis P-40 savaş uçağını üretmesi için Royal Air Force (RAF) lisansı altında yaklaştırmıştı. North American Aviation, eski bir tasarım yerine daha modern bir savaş uçağı tasarım ve üretimini önerdi. NA-73X prototipi, 9 Eylül 1940'ta, sözleşme imzalanmasının 102. günü kullanıma alındı ve 26 Ekim 1940'ta ilk uçuşunu gerçekleştirdi.
+\n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 2\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 9\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 500L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 400kg\n Dahili Jeneratör: 250w</NAP51Da.description>
+
+
+  
+  
+  <SU15a.label>Su-15Sh</SU15a.label>
+
+<SU15a.description>Sukhoi Su-15 (NATO raporlama adı: Flagon), Sovyetler Birliği tarafından geliştirilen çift jet motorlu süpersonik bir interceptör uçağıdır. 1965 yılında hizmete girmiş ve 1990'lara kadar ön cephe tasarımlarından biri olmuştur. Su-15, Sukhoi Su-11 ve Sukhoi Su-9'un yerine geçmek için tasarlanmış ve NATO'nun daha yeni ve daha güçlü stratejik bombardıman uçaklarının devreye girmesiyle eskiyen Su-11 ve Su-9'ların yerini almıştır.
+\n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 4\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 19.8\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2300L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 3400kg\n Dahili Jeneratör: 650w</SU15a.description>
+
+
+<SU47a.label>Sukhoi Su-47 Berkut (Golden Eagle)</SU47a.label>
+
+<SU47a.description>1991'de Sovyetler Birliği'nin çöküşü, Rusya'nın birçok planını engelledi, ancak Sukhoi şirketi, Su-37/47 "Berkut" ("Altın Kartal") teknolojik gösterisini sürdürdü. Diğer Sukhoi uçaklarından birçok bileşen ödünç alınmış - Sukhoi Su-27 "Flanker" - ancak ana kanat yapılarını, süpersonik hızda çevikliğe ve uçuş kabiliyetine yönelik yapılan değişikliklerle tasarlandı, sağlam ve hafif kompozit malzemeler kullanıldı ve modern gelişmiş uçuş kontrol sistemleri entegre edildi. Rus Hava Kuvvetleri Su-47'yi resmi olarak kabul etmemiş olsa da, dört işlevsel prototip tamamlanmış ve Su-47 havacılık tarihine bir sayfa eklemiştir. Berkut'un testlerinden toplanan veriler, Sukhoi Su-35 (Su-27'nin gelişmiş bir modeli) ve Rusya'nın beşinci nesil savaş uçağı PAK-FA "T-50"nin geliştirilmesinde kullanılmıştır.
+\n\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 8\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 22\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2600L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 20500kg\n Dahili Jeneratör: 690w</SU47a.description>
+
+
+<tu2da.label>Tu-2</tu2da.label>
+
+<tu2da.description>Tupolev Tu-2 (geliştirme adı ANT-58 ve 103; NATO raporlama adı Bat), II. Dünya Savaşı sırasında Sovyetler Birliği tarafından üretilen çift motorlu hızlı gündüz ve ön cephe bombardıman uçağıdır. Tu-2, yüksek hızda bombardıman veya dalış bombardıman uçağı gereksinimlerini karşılamak üzere kesilmiştir, büyük bir iç yük taşıma kapasitesine sahip olup, tek koltuklu savaş uçaklarına benzer hızda uçabilmektedir. Alman Junkers Ju 88'ine karşı tasarlanan Tu-2, karşılaştırılabilir özelliklere sahip olup, torpido, interceptor ve keşif versiyonlarıyla üretilmiştir. Tu-2, II. Dünya Savaşı'nın öne çıkan savaş uçaklarından biridir ve Kızıl Ordu'nun son taarruzlarında önemli bir rol oynamıştır.
+\n\n Mürettebat: 2\n Mürettebat: 4\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 8\n Hassasiyet: Orta\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 6\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 1000L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 3000kg\n Dahili Jeneratör: 500w</tu2da.description>
+
+
+<TU95a.label>Tu-95</TU95a.label>
+
+<TU95a.description>Tupolev Tu-95 (Rusça: Туполев Ту-95; NATO raporlama adı: "Bear"), Sovyetler Birliği tarafından üretilen büyük, dört motorlu turboprop stratejik bombardıman uçağı ve füzeler için platformdur. Tu-95, 1952'de ilk uçuşunu yapmış ve 1956'da Sovyetler Birliği'nde hizmete girmiştir ve 2040 yılına kadar Rusya Hava ve Uzay Kuvvetleri'nde hizmet vermesi beklenmektedir. Uçak, dört adet Kuznetsov NK-12 motoru ve ters yönlü pervanelere sahiptir. Bu, hala kullanılan tek pervaneli stratejik bombardıman uçağıdır. Tu-95, özellikle pervane uçuş kanat uçları hızının ses hızını geçtiği için en gürültülü askeri uçaklardan biridir.
+\n\n Mürettebat: 2\n Mürettebat: 6\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 18\n Hassasiyet: Orta\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 11.5\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 12500L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 15000kg\n Dahili Jeneratör: 1000w</TU95a.description>
+
+
+<UH1a.label>Bell UH-1 HUEY</UH1a.label>
+
+<UH1a.description>Bell UH-1 Iroquois (lakap: "Huey"), tek bir turboşaftlı motorla tahrik edilen, çok amaçlı bir askeri helikopterdir. Çok sayıda Huey ailesinin ilk üyesi olan bu helikopter, 1952'de ABD Ordusu'nun tıbbi tahliye ve çok amaçlı helikopter taleplerine cevap olarak Bell Helicopter tarafından geliştirilmiş ve 1956'da ilk uçuşunu yapmıştır. UH-1, ABD askeri için üretilen ilk turbo motorlu helikopterdir ve 1960'tan itibaren 16000'den fazla üretilmiştir.
+\n\n Mürettebat: 2\n Mürettebat: 13\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 0\n Hassasiyet: Silahsız\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 3.7\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 355L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 1550kg\n Dahili Jeneratör: 190w</UH1a.description>
+
+
+<V22OSa.label>Bell-Boeing V-22 Osprey</V22OSa.label>
+
+<V22OSa.description>Bell-Boeing V-22 Osprey, Amerikan çok görevli, eğilebilir pervaneli askeri bir uçaktır ve dikey kalkış ve iniş (VTOL) ve kısa kalkış ve iniş (STOL) kabiliyetine sahiptir. Tasarımı, geleneksel helikopter işlevlerini, turboprop uçaklarının uzun menzilli hızlı seyir yetenekleri ile birleştirmeyi amaçlar. 1980'lerdeki İran rehin krizi sırasında, Eagle Claw operasyonunun başarısızlığı, ABD Savunma Bakanlığı'na yeni bir uzun menzilli, hızlı, dikey kalkış uçağı ihtiyacını vurgulamıştır. Buna karşılık, Birleşik Hizmetler Dikey Kalkış / İniş Deneme Uçağı (JVX) programı 1981'de başlamıştır. Bell Helicopter ve Boeing Helicopter ortaklığı, 1983'te V-22 eğilebilir kanatlı uçak geliştirme sözleşmesini kazanmıştır. Bu uçak, Bell-Boeing ortaklığı tarafından üretilmiştir. V-22, 1989'da ilk uçuşunu yapmış ve uçuş testleri ve tasarım değişiklikleri başladı; ilk eğilebilir uçak olarak hizmete girmesi ve yaşanan zorluklar nedeniyle gelişmesi yıllar almıştır.
+\n\n Mürettebat: 2\n Mürettebat: 25\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 0\n Hassasiyet: Silahsız\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 12\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2590L\nYakıt Verimliliği: Zayıf\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 9390kg\n Dahili Jeneratör: 700w</V22OSa.description>
+
+
+<X44a.label>Lockheed Martin X-44 MANTA</X44a.label>
+
+<X44a.description>X-44 MANTA, kısa hizmet ömrü boyunca önerilen "deneysel" aşamadaydı. ABD Hava Kuvvetleri ve NASA, bu ürüne bazı ilgi göstermişti, ancak bu proje neredeyse 2000'lerin başlarında kaybolmuş gibiydi. X-44, Lockheed'in diğer bir ürünü olan "X-44A"da tekrar adını duyurdu, bu da daha gelişmiş insansız hava araçları (İHA) geliştirmeyi amaçlayan bir derin gövdeye ve kuyruksuz bir tasarıma sahipti (bu "Sentinel" dahil).
+\n\n Mürettebat: 1\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 8\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 25\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2800L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 22500kg\n Dahili Jeneratör: 790w</X44a.description>
+  
+
+<XB35a.label>Northrop XB-35</XB35a.label>
+
+<XB35a.description>Northrop XB-35 ve YB-35, Northrop'un II. Dünya Savaşı ve hemen sonrasında, ABD Hava Kuvvetleri için geliştirdiği deneysel ağır bombardıman uçağıdır. Bu uçak, cesur ve potansiyel olarak çok etkili bir kanat tasarımını kullanır, kuyruk ve gövdeyi ortadan kaldırarak tüm yükü kalın kanatta taşır. Yalnızca prototip ve ön üretim uçakları üretilmiştir, ancak hala tasarıma olan ilgi, YB-49 adıyla bir jet bombardıman uçağı olarak daha fazla gelişmesini sağlamıştır.
+\n\n Mürettebat: 2\n Mürettebat: 2\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 16\n Hassasiyet: Orta\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 8\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 4500L\nYakıt Verimliliği: Orta\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 8000kg\n Dahili Jeneratör: 590w</XB35a.description>
+
+
+<yak41a.label>Yak-41 Freestyle</yak41a.label>
+
+<yak41a.description>1975 yılında, Yakovlev OKB, Yak-36 tasarım kapasitesini genişletme görevini doğrudan aldı ve resmi devlet sözleşmesi ile ilerledi. Bu ürün, Sovyetler Birliği'nin deniz savunma savaş uçağı olarak tasarlanmış ve batı savaş uçaklarıyla başa çıkabilecek süpersonik performans sunması gerekmekteydi. Bu da, uçağın dövüşçü gibi özellikler sergilemesi, çevikliğini, iyi silah entegrasyonunu ve uzun menzilli interceptör olarak gereken performansı taşıması anlamına geliyordu. Yeni dikey kalkış uçağı programı, "48 ürün" adı altında doğmuş ve Sovyet Deniz Kuvvetleri tarafından "Yak-41" olarak adlandırılmıştır. Tasarım çalışmaları, uyumsuz motor düzenlemeleri ve konfigürasyonları dışlamaya başlamıştı. Temel zorluk, süpersonik performans sağlarken vektör itiş kapasitesini korumaktı ve mühendisler, güvenli ve basit bir tek motor düzeni kullanmayı seçtiler. İtiş vektörü, gövde ortasında yer alan bir egzozdan (gövde ön kısmında daha küçük bir "itme jet motoru" yardımcı olarak) ve uçağın arkasındaki genel ileri itiş/kuvvet sağlamak için kullanılan egzoz borusundan sağlanacaktır. Arkadaki egzoz borusu, uçağın dikey kalkış hareketlerine destek olacak şekilde 90 derece konumlandırılmıştır — bu düzenleme, ABD'nin Lockheed şirketinin F-35 "Lightning II" beşinci nesil saldırı uçağında görülmüştür.
+\n\n Mürettebat: 1\n Mürettebat: 1\n Uzay İnişi: Hayır, İniş Limanı: Hayır\n\n - - Askeri - - \n Bomba: 4\n Hassasiyet: İyi\n Yapı: Hassas\n- - - - - - - - - - - - - - - - - -
+\nHız: 22\nYakıt Türü: Kimyasal Yakıt\nYakıt Miktarı: 2400L\nYakıt Verimliliği: İyi\n- - - - - - - - - - - - - - - - - -
+\nYük Kapasitesi: 13100kg\n Dahili Jeneratör: 690w</yak41a.description>
+
+
+  
+
+
+
+
+
+
+
+  
+  <A26NVADERa.label>Douglas A-26 Invader</A26NVADERa.label>
+
+<A26NVADERa.description>Douglas A-26 Invader (1948 ve 1965 yılları arasında B-26 olarak adlandırılmıştır), Amerika'nın çift motorlu hafif bombardıman uçağı ve kara saldırı uçağıdır. II. Dünya Savaşı sırasında Douglas Aircraft Company tarafından üretilen Invader, birkaç büyük Soğuk Savaş çatışmasında da görev almıştır. 1969 yılına kadar sınırlı sayıda yüksek iyileştirilmiş Amerikan Hava Kuvvetleri uçağı, Güneydoğu Asya'da görev yapmıştır. Çok sayıda bomba taşıyabilen hızlı bir uçaktır. Bir dizi top, güçlü bir kara saldırı uçağı oluşturmak için kullanılabilir.
+
+Mürettebat: 2
+Mürettebat Sayısı: 4
+Uzay İnişi: Hayır, İniş Limanı: Hayır
+
+- - Askeri - -
+Bomba: 6
+Hassasiyet: Kötü
+Yapı: Hassas
+----------------------------
+
+Hız: 6.5
+Yakıt Türü: Kimyasal Yakıt
+Yakıt Miktarı: 470L
+Yakıt Verimliliği: Kötü
+----------------------------
+
+Yük Kapasitesi: 2700kg
+Dahili Motor: 200w</A26NVADERa.description>
+
+<Mitsug4m.label>Mitsubishi G4M</Mitsug4m.label>
+
+<Mitsug4m.description>Mitsubishi G4M, Mitsubishi Aircraft Company tarafından üretilen, 1940'tan 1945'e kadar Japon İmparatorluk Donanması tarafından kullanılan çift motorlu bir kara tabanlı orta menzil bombardıman uçağıdır. Resmi adı Mitsubishi Naval Type 1 Attack Bomber (Ishiki rikujō kōgeki ki), Japon İmparatorluk Donanması tarafından genellikle Hamaki (Yamak) olarak adlandırılmıştır. Çünkü uçağın gövdesi silindirik olup, vuruldukça ateş almasıyla ünlüdür. Batı tarafından adı "Betty" olarak raporlanmıştır.
+
+Mürettebat: 2
+Mürettebat Sayısı: 7
+Uzay İnişi: Hayır, İniş Limanı: Hayır
+
+- - Askeri - -
+Bomba: 5
+Hassasiyet: Kötü
+Yapı: Hassas
+----------------------------
+
+Hız: 6.4
+Yakıt Türü: Kimyasal Yakıt
+Yakıt Miktarı: 520L
+Yakıt Verimliliği: Kötü
+----------------------------
+
+Yük Kapasitesi: 1500kg
+Dahili Motor: 200w</Mitsug4m.description>
+
+<DH100V.label>de Havilland DH.100 Vampire</DH100V.label>
+
+<DH100V.description>De Havilland Vampire, Birleşik Krallık tarafından geliştirilen bir jet savaş uçağıdır. Bu uçak, Kraliyet Hava Kuvvetleri'nin Gloster Meteor'dan sonra sahip olduğu ikinci jet savaş uçağıdır ve tek bir jet motoruyla tahrik edilen ilk savaş uçağıdır.
+
+Vampire'ın deneysel bir uçak olarak geliştirilmesine 1941'de başlanmıştır. 1944'te Kraliyet Hava Kuvvetleri için bir interceptör olarak üretimi kararlaştırılmıştır. 1946'da Kraliyet Hava Kuvvetleri'nde hizmete girmiştir.
+
+Mürettebat: 1
+Uzay İnişi: Hayır, İniş Limanı: Hayır
+
+- - Askeri - -
+Bomba: 2
+Hassasiyet: İyi
+Yapı: Hassas
+----------------------------
+
+Hız: 11.1
+Yakıt Türü: Kimyasal Yakıt
+Yakıt Miktarı: 750L
+Yakıt Verimliliği: Kötü
+----------------------------
+
+Yük Kapasitesi: 650kg
+Dahili Motor: 290w</DH100V.description>
+
+<F104SF.label>Lockheed F-104 Starfighter</F104SF.label>
+
+<F104SF.description>Lockheed F-104 Starfighter, Amerika'nın tek motorlu süpersonik bir interceptor uçağıdır ve Soğuk Savaş döneminde geniş çapta savaş bombardıman uçağı olarak kullanılmıştır. ABD Hava Kuvvetleri'nin (USAF) Yüzyıl Serisi savaş uçaklarından biri olan bu uçak, 1960'lı yılların başında geliştirilmiş ve zamanla tüm hava koşullarında çok amaçlı bir uçak haline gelmiştir.
+
+F-104, 1954 yılında ilk uçuşunu yapmış, 1958'de ABD Hava Kuvvetleri tarafından hizmete alınmıştır. Uçak, özellikle Kore ve Tayvan krizlerinde Çin'in MiG-15 ve MiG-17'lerine karşı kullanılmıştır.
+
+Mürettebat: 1
+Uzay İnişi: Hayır, İniş Limanı: Hayır
+
+- - Askeri - -
+Bomba: 7
+Hassasiyet: İyi
+Yapı: Hassas
+----------------------------
+
+Hız: 13.5
+Yakıt Türü: Kimyasal Yakıt
+Yakıt Miktarı: 2250L
+Yakıt Verimliliği: Orta
+----------------------------
+
+Yük Kapasitesi: 4100kg
+Dahili Motor: 470w</F104SF.description>
+
+<EurofighterTy.label>Eurofighter Typhoon</EurofighterTy.label>
+
+<EurofighterTy.description>Eurofighter Typhoon, çok uluslu bir çift motorlu, delta kanatlı, çok amaçlı bir savaş uçağıdır. Başlangıçta hava üstünlüğü savaş uçağı olarak tasarlanan Typhoon, Airbus, BAE Systems ve Leonardo şirketlerinin ortaklığıyla üretilmiştir.
+
+Eurofighter Typhoon'un gelişimi, 1983'teki Avrupa Savaş Uçağı Programı'na dayanmaktadır. İngiltere, Almanya, Fransa, İtalya ve İspanya arasında başlayan bu program, Fransızların Dassault Rafale projesi nedeniyle ayrılmasına kadar devam etmiştir. 1998'de "Typhoon" adı kabul edilmiştir.
+
+Mürettebat: 1
+Mürettebat Sayısı: 2
+Uzay İnişi: Hayır, İniş Limanı: Hayır
+
+- - Askeri - -
+Bomba: 13
+Hassasiyet: İyi
+Yapı: Hassas
+----------------------------
+
+Hız: 21.5
+Yakıt Türü: Kimyasal Yakıt
+Yakıt Miktarı: 2650L
+Yakıt Verimliliği: İyi
+----------------------------
+
+Yük Kapasitesi: 8000kg
+Dahili Motor: 720w</EurofighterTy.description>
+
+
+</LanguageData>
