@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	
+	<!-- EN: QualityBuilder -->
+  <QualityBuilder>Quality Builder</QualityBuilder>
+	<!-- EN: Quality Builder -->
+  <QualityBuilderCommand.Label>Quality Builder</QualityBuilderCommand.Label>
+
+	<!-- EN: Set Quality Builder -->
+  <QualityBuilderOn.Label>Quality Builder Aç</QualityBuilderOn.Label>
+	<!-- EN: Current quality: {0}. Set buildings for skillful workers -->
+  <QualityBuilderOn.Desc>Mevcut minimum kalite gereksinimi: {0}. Etkinleştirildiğinde, bu kalitenin altındaki yapılar otomatik olarak yıkılıp yeniden inşa edilir.</QualityBuilderOn.Desc>
+	<QualityBuilder.Already></QualityBuilder.Already>
+
+	<!-- EN: Unset Quality Builder -->
+  <QualityBuilderOff.Label>Quality Builder Kapat</QualityBuilderOff.Label>
+	<!-- EN: Current quality: {0}. Unset buildings for skillful workers -->
+  <QualityBuilderOff.Desc>Mevcut minimum kalite gereksinimi: {0}. Devre dışı bırakıldığında, bu kalitenin altındaki yapılar yıkılmaz ve olduğu gibi kalır.</QualityBuilderOff.Desc>
+	<QualityBuilder.Nothing></QualityBuilder.Nothing>
+
+	<!-- EN: Selected settings -->
+  <QualityBuilder.SelectedSettings>Quality Builder Ayarları</QualityBuilder.SelectedSettings>
+	<!-- EN: Current map -->
+  <QualityBuilder.CurrentMap>Mevcut Harita</QualityBuilder.CurrentMap>
+	<!-- EN: Default settings -->
+  <QualityBuilder.Global>Varsayılan Ayarlar</QualityBuilder.Global>
+	<!-- EN: Enable QualityBuilder by default -->
+  <QualityBuilder.EnableByDefault>Varsayılan Olarak Kaliteli İnşayı Aç</QualityBuilder.EnableByDefault>
+	<!-- EN: Ignore QualityBuilder at skill {0} -->
+  <QualityBuilder.IgnoreAtSkill>Quality Builder katılmak için gereken minimum inşaat beceri seviyesi: {0}</QualityBuilder.IgnoreAtSkill>
+	<!-- EN: Default minimum quality -->
+  <QualityBuilder.MinQuality>Minimum Kalite Gereksinimini Ayarla</QualityBuilder.MinQuality>
+	<!-- EN: Override best builder with -->
+  <QualityBuilder.OverrideBestBuilder>İnşaat becerisi bu kişininki kadar olmayanlar dışlanacak, üstteki beceri gereksinimi geçersiz olur</QualityBuilder.OverrideBestBuilder>
+</LanguageData>
