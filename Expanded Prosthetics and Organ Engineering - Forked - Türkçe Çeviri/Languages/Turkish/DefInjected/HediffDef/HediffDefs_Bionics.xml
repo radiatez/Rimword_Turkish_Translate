@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+		
+	<BionicHand.label>Biyonik el</BionicHand.label>
+	<BionicFoot.label>Biyonik ayak</BionicFoot.label>
+	<BionicSpine.label>Biyonik omurga</BionicSpine.label>
+	<MedicalRib.label>Tıbbi kaburga</MedicalRib.label>
+	<BionicJaw.label>Biyonik çene implantı</BionicJaw.label>
+	<SilentJaw.label>"Dilsiz" çene implantı</SilentJaw.label>
+	<BionicEar.label>Biyonik kulak implantı</BionicEar.label>
+	<PowerArm.label>Güçlü kol</PowerArm.label>
+	<DruggedRib.label>Uyarıcı kaburga</DruggedRib.label>
+	<AdrenalineRib.label>Adrenalin kaburgası</AdrenalineRib.label>
+	<PainkillerRib.label>Ağrı kesici kaburga</PainkillerRib.label>
+
+</LanguageData>

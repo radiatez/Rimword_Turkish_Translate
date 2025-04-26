@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<InstallAIChip.label>Yapay Zeka Çipi İmplante Et</InstallAIChip.label>
+	<InstallAIChip.description>Yapay Zeka çipi implante et.</InstallAIChip.description>
+    <InstallAIChip.jobString>Yapay Zeka çipi implante eder.</InstallAIChip.jobString>
+		
+	<InstallSyntheticLung.label>Sentetik Akciğer İmplante Et</InstallSyntheticLung.label>
+	<InstallSyntheticLung.description>Sentetik akciğer implante et.</InstallSyntheticLung.description>
+    <InstallSyntheticLung.jobString>Sentetik akciğer implante eder.</InstallSyntheticLung.jobString>
+	
+	<InstallSyntheticStomach.label>Sentetik Mide İmplante Et</InstallSyntheticStomach.label>
+	<InstallSyntheticStomach.description>Sentetik mide implante et.</InstallSyntheticStomach.description>
+    <InstallSyntheticStomach.jobString>Sentetik mide implante eder.</InstallSyntheticStomach.jobString>
+	
+	<InstallSyntheticLiver.label>Sentetik Karaciğer İmplante Et</InstallSyntheticLiver.label>
+	<InstallSyntheticLiver.description>Sentetik karaciğer implante et.</InstallSyntheticLiver.description>
+    <InstallSyntheticLiver.jobString>Sentetik karaciğer implante eder.</InstallSyntheticLiver.jobString>
+	 
+	<InstallSyntheticKidney.label>Sentetik Böbrek İmplante Et</InstallSyntheticKidney.label>
+	<InstallSyntheticKidney.description>Sentetik böbrek implante et.</InstallSyntheticKidney.description>
+    <InstallSyntheticKidney.jobString>Sentetik böbrek implante eder.</InstallSyntheticKidney.jobString>
+	 
+	<InstallSyntheticHeart.label>Sentetik Kalp İmplante Et</InstallSyntheticHeart.label>
+	<InstallSyntheticHeart.description>Sentetik kalp implante et.</InstallSyntheticHeart.description>
+    <InstallSyntheticHeart.jobString>Sentetik kalp implante eder.</InstallSyntheticHeart.jobString>
+	
+</LanguageData>
+

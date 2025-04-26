@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+		
+	<GoldenEye.label>Altın Göz</GoldenEye.label>	
+	<SimpleProstheticHand.label>Basit Protez El</SimpleProstheticHand.label>
+	<SimpleProstheticFoot.label>Basit Protez Ayak</SimpleProstheticFoot.label>
+	<ArtificialPelvis.label>Yapay Pelvis</ArtificialPelvis.label>
+	<ArtificialNose.label>Yapay Burun</ArtificialNose.label>
+	<HydraulicJaw.label>Hidrolik Çene</HydraulicJaw.label>
+	<SimpleProstheticArm.label>Basit Protez Kol</SimpleProstheticArm.label>
+	<SimpleProstheticLeg.label>Basit Protez Bacak</SimpleProstheticLeg.label>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+		
+	<BrainStimulator.label>Beyin Stimülatörü</BrainStimulator.label>
+	<SurrogateStomach.label>Mide Yedek Parçası</SurrogateStomach.label>
+	<SurrogateLung.label>Akciğer Yedek Parçası</SurrogateLung.label>
+	<SurrogateLiver.label>Karaciğer Yedek Parçası</SurrogateLiver.label>
+	<SurrogateKidney.label>Böbrek Yedek Parçası</SurrogateKidney.label>
+	<SurrogateHeart.label>Kalp Yedek Parçası</SurrogateHeart.label>
+	
+</LanguageData>

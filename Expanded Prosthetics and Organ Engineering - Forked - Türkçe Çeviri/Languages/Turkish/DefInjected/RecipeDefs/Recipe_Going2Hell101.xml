@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<MinceOrgans.label>Organları Kıyma Yap</MinceOrgans.label>
+	<MinceOrgans.description>İnsan organlarını et öğütücüsünden geçirerek yenilebilir et elde etmek. Mahkumlar için mükemmel bir yemek.</MinceOrgans.description>
+	<MinceOrgans.jobstring>Organları öğütür.</MinceOrgans.jobstring>
+	
+	<MinceLimbs.label>Kolları ve Bacakları Kıyma Yap</MinceLimbs.label>
+	<MinceLimbs.description>İnsan kollarını ve bacaklarını et öğütücüsünden geçirerek yenilebilir et elde etmek. Tırnaklardan sakının.</MinceLimbs.description>
+	<MinceLimbs.jobstring>Kol ve bacakları öğütür.</MinceLimbs.jobstring>
+	
+</LanguageData>

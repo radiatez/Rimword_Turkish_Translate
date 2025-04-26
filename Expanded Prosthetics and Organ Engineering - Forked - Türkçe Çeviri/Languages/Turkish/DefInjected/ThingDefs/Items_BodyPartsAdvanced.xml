@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AdvancedPowerArm.label>Gelişmiş Güç Kolu</AdvancedPowerArm.label>
+	<AdvancedPowerArm.description>Daha önce görülmemiş güç ve çeviklik, keskin çıkan pençelerle. Kolunuzun en yüksek seviyede geliştirilmesi!</AdvancedPowerArm.description>
+
+	<AdvancedBionicHand.label>Gelişmiş Biyonik El</AdvancedBionicHand.label>
+	<AdvancedBionicHand.description>Bazı insanlar sadece bu harika teknoloji parçasını elde etmek için ellerini keser.</AdvancedBionicHand.description>
+	
+	<AdvancedBionicArm.label>Gelişmiş Biyonik Kol</AdvancedBionicArm.label>
+	<AdvancedBionicArm.description>Hatırlıyor musunuz, kutuları açarken ne kadar zorlandığınızı? Şimdi, kutuyu ezmemek için ne yapacağınızı düşüneceksiniz.</AdvancedBionicArm.description>
+	
+	<AdvancedBionicLeg.label>Gelişmiş Biyonik Bacak</AdvancedBionicLeg.label>
+	<AdvancedBionicLeg.description>İleri düzey teknoloji, kullanıcının her zamankinden daha hızlı hareket etmesini sağlar.</AdvancedBionicLeg.description>
+
+	<AdvancedBionicFoot.label>Gelişmiş Biyonik Ayak</AdvancedBionicFoot.label>
+	<AdvancedBionicFoot.description>Birçok servo motor, hızlı ve maksimum konforlu hareket sağlar.</AdvancedBionicFoot.description>
+	
+	<AdvancedBionicEar.label>Gelişmiş Biyonik Kulak</AdvancedBionicEar.label>
+	<AdvancedBionicEar.description>Bu cihaz, kullanıcının yarasa kadar iyi duymasını sağlar.</AdvancedBionicEar.description>
+	
+	<AdvancedBionicJaw.label>Gelişmiş Biyonik Çene</AdvancedBionicJaw.label>
+	<AdvancedBionicJaw.description>Bu çeneden çıkan ses o kadar güzel ki, bazı mekanoidler bile bu sesi duymaktan vazgeçemiyor.</AdvancedBionicJaw.description>
+	
+	<AdvancedBionicEye.label>Gelişmiş Biyonik Göz</AdvancedBionicEye.label>
+	<AdvancedBionicEye.description>Kullanıcıya karanlıkta ve duvarların arkasında mükemmel görme yeteneği sağlar.</AdvancedBionicEye.description>
+
+	<AdvancedBionicSpine.label>Gelişmiş Biyonik Omurga</AdvancedBionicSpine.label>
+	<AdvancedBionicSpine.description>Bu sağlam cihaz, sırtı destekler ve daha kolay çalışmanızı ve hareket etmenizi sağlar.</AdvancedBionicSpine.description>
+	
+	<ExoskeletonSuit.label>Ekzoskelet</ExoskeletonSuit.label>
+	<ExoskeletonSuit.description>İki parçadan oluşan yüksek teknolojili bir cihaz: sırtı rahatlatmak için hafif iskelet yapısı ve taşıyıcıyı daha güçlü yapan servo motorlar.</ExoskeletonSuit.description>
+
+</LanguageData>

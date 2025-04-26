@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <!--=============================== Tier 0 ===================================-->
+	
+	<BasicProsthetics.label>Temel Protezler</BasicProsthetics.label>
+	<BasicProsthetics.description>Bacak şekli hakkında bilgi edinerek ve bu bilgiyi temel ahşap işçiliği ile birleştirerek, ahşap bacaklar ve diğer temel protezleri yapabilirsiniz.</BasicProsthetics.description>
+	
+	<!--=============================== Tier 1 ===================================-->	
+
+	<SimpleProsthetics.label>Basit Protezler</SimpleProsthetics.label>
+	<SimpleProsthetics.description>Ağız içi anatomisini ve metal ile yapılan deneyleri inceleyerek basit protezler yapma imkanına sahipsiniz.</SimpleProsthetics.description>
+	
+	<!--=============================== Tier 2 ===================================-->
+	
+	<Bionics.label>Biyonik Protezler</Bionics.label>
+	<Bionics.description>İnce motor becerilerini ve devreleri inceleyerek daha gelişmiş protezler yapma fırsatını elde ediyorsunuz.</Bionics.description>
+	
+	<SurrogateOrgans.label>Organ Yerine Geçebilecekler</SurrogateOrgans.label>
+    <SurrogateOrgans.description>Tıbbı araştırarak eksik organları değiştirebilecek basit organ yerine geçebilecekleri yapmayı öğrendiniz.</SurrogateOrgans.description>
+	
+	<RibReplacements.label>Kaburga Değişimi</RibReplacements.label>
+	<RibReplacements.description>Aşırı küçük ilaç verme cihazlarını keşfederek, bunları kaburgalarınıza yerleştirmeyi düşünüyorsunuz. Kaburga implantları yapabilir ve takabilirsiniz.</RibReplacements.description>
+	
+	<VancidiumRefineryTech.label>Vansidyum Temizliği</VancidiumRefineryTech.label>
+	<VancidiumRefineryTech.description>Farklı malzemeleri birleştirirken, kazara çok hafif ama sağlam bir malzeme oluşturdunuz. Bu malzeme, gelişmiş protezler yapmak için kullanılabilir. Vansidyumu elektrikli fırında temizleyebilir ve bileşen montajı için gelişmiş bileşenler üretebilirsiniz!</VancidiumRefineryTech.description>	
+	
+	<!--=============================== Tier 2.5 ===================================-->
+	
+	<AdvancedBionics.label>Gelişmiş Biyonik Protezler</AdvancedBionics.label>
+	<AdvancedBionics.description>Vansidyum kullanarak biyonikleri geliştirerek daha iyi sonuçlar elde edebilirsiniz.</AdvancedBionics.description>	
+
+	<SyntheticOrgans.label>Sentetik Organlar</SyntheticOrgans.label>
+    <SyntheticOrgans.description>Nanoteknoloji alanındaki daha ileri araştırmalar, inanılmaz derecede iyi tasarlanmış yapay organlar yapmanıza olanak sağlar.</SyntheticOrgans.description>
+	
+	<BrainSurgery.label>Beyin Cerrahisi</BrainSurgery.label>
+	<BrainSurgery.description>Beyin üzerinde operasyon yapma yeteneği sağlar.</BrainSurgery.description>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+		
+	<AIChip.label>Yapay Zeka Çipi</AIChip.label>
+	<SyntheticStomach.label>Sentetik Mide</SyntheticStomach.label>
+	<SyntheticLung.label>Sentetik Akciğer</SyntheticLung.label>
+	<SyntheticLiver.label>Sentetik Karaciğer</SyntheticLiver.label>
+	<SyntheticKidney.label>Sentetik Böbrek</SyntheticKidney.label>
+	<SyntheticHeart.label>Yapay Kalp</SyntheticHeart.label>
+	
+</LanguageData>

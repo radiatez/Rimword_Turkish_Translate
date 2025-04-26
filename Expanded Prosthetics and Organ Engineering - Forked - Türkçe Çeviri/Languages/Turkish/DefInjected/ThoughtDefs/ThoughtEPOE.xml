@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<DruggedRibThought.label>Rib Uyarımı</DruggedRibThought.label>
+	<DruggedRibThought.description>Nedenini bilmiyorum, ama bir şekilde rahatlamış hissediyorum.</DruggedRibThought.description>
+
+	<SilentJawThought.label>Sessizlik</SilentJawThought.label>
+	<SilentJawThought.description>Sadece konuşmak istiyorum, bu ne kadar korkunç!</SilentJawThought.description>
+
+</LanguageData>

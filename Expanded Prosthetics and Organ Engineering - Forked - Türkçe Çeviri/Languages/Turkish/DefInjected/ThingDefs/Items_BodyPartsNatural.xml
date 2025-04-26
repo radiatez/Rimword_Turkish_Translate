@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Leg.label>Bacak</Leg.label>
+	<Leg.description>Hareket etmeyi sağlayan uzun etli çubuklar.</Leg.description>
+
+	<Arm.label>Kol</Arm.label>
+	<Arm.description>Bacaklar gibi, ancak onlarla eşya taşıyabilirsiniz.</Arm.description>
+
+	<Stomach.label>Mide</Stomach.label>
+	<Stomach.description>Yiyecekleri sindirir ve bunları enerjiye dönüştürür.</Stomach.description>
+
+	<Brain.label>Beyin</Brain.label>
+	<Brain.description>Beyin.</Brain.description>
+
+	<Eye.label>Göz</Eye.label>
+	<Eye.description>Işığı emen ve insanın etrafında ne olup bittiğini anlamasını sağlayan organ.</Eye.description>
+
+	<Nose.label>Burun</Nose.label>
+	<Nose.description>Kokuları ayırt etmek için faydalı bir organ.</Nose.description>
+
+	<Ear.label>Kulak</Ear.label>
+	<Ear.description>Hava içindeki titreşimleri yakalar ve insanlara sesleri duymalarını sağlar.</Ear.description>
+
+	<Jaw.label>Çene</Jaw.label>
+	<Jaw.description>Yiyecekleri çiğnemek ve konuşmak için diş seti.</Jaw.description>
+
+</LanguageData>

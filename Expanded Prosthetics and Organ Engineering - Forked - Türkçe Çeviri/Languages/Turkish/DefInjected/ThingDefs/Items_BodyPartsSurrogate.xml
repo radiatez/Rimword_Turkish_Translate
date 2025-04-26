@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<BrainStimulator.label>Beyin Uyarıcısı</BrainStimulator.label>
+	<BrainStimulator.description>Kalan beyin alanlarını uyarabilmek için elinden geleni yapan küçük bir cihaz. Sadece beyin hasarının kritik seviyede olduğu durumlarda önerilir. "Beyin Ameliyatı" teknolojisinin açılması gerekmektedir.</BrainStimulator.description>
+
+	<SurrogateLung.label>Yapay Akciğer</SurrogateLung.label>
+	<SurrogateLung.description>Basit bir yapay akciğer. Düşük, tıkırtılı bir ses çıkarır.</SurrogateLung.description>
+
+	<SurrogateStomach.label>Yapay Mide</SurrogateStomach.label>
+	<SurrogateStomach.description>Basit bir yapay mide.</SurrogateStomach.description>
+
+	<SurrogateLiver.label>Yapay Karaciğer</SurrogateLiver.label>
+	<SurrogateLiver.description>Basit bir kan filtresi. Kan şekerinin sabit tutulmasında sorunlar yaşanabilir.</SurrogateLiver.description>
+
+	<SurrogateKidney.label>Yapay Böbrek</SurrogateKidney.label>
+	<SurrogateKidney.description>Basit bir yapay böbrek. Yan etkilerinden biri ciltte solukluktur.</SurrogateKidney.description>
+
+	<SurrogateHeart.label>Yapay Kalp</SurrogateHeart.label>
+	<SurrogateHeart.description>Vücuttaki kan akışını sağlamak için kullanılan daha az ya da çok güçlü bir pompa.</SurrogateHeart.description>
+
+</LanguageData>

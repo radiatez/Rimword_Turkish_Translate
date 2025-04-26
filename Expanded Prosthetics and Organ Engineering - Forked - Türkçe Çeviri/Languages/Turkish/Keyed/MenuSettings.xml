@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<vat_epoeforked_craftingmethod>Üretim Yöntemleri:</vat_epoeforked_craftingmethod>
+<vat_epoeforked_normalcraft>Normal üretim yöntemi</vat_epoeforked_normalcraft>
+<vat_epoeforked_allowdirect>Doğrudan üretime izin ver</vat_epoeforked_allowdirect>
+<vat_epoeforked_directonly>Sadece doğrudan üretim</vat_epoeforked_directonly>
+<vat_epoeforked_RemoveWorkbench>Atölyeyi kaldır</vat_epoeforked_RemoveWorkbench>
+<vat_epoeforked_RemoveWorkbenchTip>Tüm tarifler vanilya atölyelerine taşınacak, bu modun mevcut atölyeleri kullanılabilir kalacak ama artık inşa edilemeyecek.</vat_epoeforked_RemoveWorkbenchTip>
+
+<vat_epoeforked_TextureSpritesTitle>Tekstürler ve sprite'lar</vat_epoeforked_TextureSpritesTitle>
+<vat_epoeforked_VanillaItemTextures>Vücut parçaları için vanilya objesi tekstürlerini kullan?</vat_epoeforked_VanillaItemTextures>
+<vat_epoeforked_VanillaItemTexturesTip>EPOE-Forked tekstürlerini devre dışı bırakır ve vanilya tekstürlerine geri döner. Bunlar için tekstür paketleri kullanıyorsanız, bu ayarı göz ardı edin.</vat_epoeforked_VanillaItemTexturesTip>
+<vat_epoeforked_VanillaBionicEyesFace>Yüz için biyonik gözler için vanilya tekstürlerini kullan?</vat_epoeforked_VanillaBionicEyesFace>
+<vat_epoeforked_VanillaBionicEyesFaceTip>Etkilenen gözler biyonik (vanilya), arşitek (vanilya), gelişmiş biyonikler ve taktiksel biyoniklerdir.</vat_epoeforked_VanillaBionicEyesFaceTip>
+
+<vat_epoeforked_OtherOptions>Çeşitli seçenekler</vat_epoeforked_OtherOptions>
+<vat_epoeforked_OrgansCanRotOption>Doğal organlar çürüyebilir ve bu nedenle soğutma gerektirir</vat_epoeforked_OrgansCanRotOption>
+<vat_epoeforked_OrgansCanRotOptionTip>Doğal organların çürümek için bir zamanlayıcısı olmasına ve soğutulmazlarsa kaybolmalarına izin verir.</vat_epoeforked_OrgansCanRotOptionTip>
+<vat_epoeforked_EMP_Toggle>Bu mod tarafından eklenen savaş implantlarında EMP zayıflığını kaldır</vat_epoeforked_EMP_Toggle>
+<vat_epoeforked_EMP_ToggleTip>EMP tarafından etkilenen savaş temelli yardımcı yapay zekaya sahip piyonlar, koruyucu dış iskeletler ve kişisel IA çekirdekleri zayıflar, bu seçenek bu zayıflığı kaldırır.</vat_epoeforked_EMP_ToggleTip>
+<vat_epoeforked_OptimizerThoughts_Transhumanists>Transhümanistler organik ve içgüdüsel optimize edicileri umursamaz</vat_epoeforked_OptimizerThoughts_Transhumanists>
+<vat_epoeforked_OptimizerThoughts_TranshumanistsTip>Açıklama her zaman onları nefret ettiklerini belirtecektir, ancak bu, istatistiklerin artık bunu yansıtmaması gerektiği için göz ardı edilebilir.</vat_epoeforked_OptimizerThoughts_TranshumanistsTip>
+<vat_epoeforked_ForcedLimbRemoval>Doğrudan uzuvları çıkarmak için cerrahiyi etkinleştir</vat_epoeforked_ForcedLimbRemoval>
+<vat_epoeforked_ForcedLimbRemovalTip>Savaş suçları gereksinimleriniz için.</vat_epoeforked_ForcedLimbRemovalTip>
+<vat_epoeforked_RemoveTongueBeautyTag>Bu modun EPOE-Forked yamasıyla, dil eksikliğinden kaynaklanan deformasyon görüşünü kaldırın</vat_epoeforked_RemoveTongueBeautyTag>
+<vat_epoeforked_RemoveTongueBeautyTagTip>Ağız yapılarına eklenen tüm parçalar, oyun içi protezler de dahil olmak üzere, teknik olarak dili çıkarır, ancak deformasyon görüşü hala gerçekleşir. Bu yüzden EPOE-Forked, dil ile ilgili güzellik etiketini kaldırır.</vat_epoeforked_RemoveTongueBeautyTagTip>
+
+<vat_epoeforked_experimental>Deneysel özellikler</vat_epoeforked_experimental>
+<vat_epoeforked_LegacyMode>Varlık modu</vat_epoeforked_LegacyMode>
+<vat_epoeforked_LegacyModeTip>Malzeme üretimi ve maliyeti için eski sürüm. Yeni güncellemeler, bazı özelliklerin eski sürümle giderek uyumsuz hale gelmesine neden olabilir.</vat_epoeforked_LegacyModeTip>
+<vat_epoeforked_EPOEMigration>Orijinal EPOE Göç Modu</vat_epoeforked_EPOEMigration>
+<vat_epoeforked_EPOEMigrationTip>Orijinal EPOE atölyesini (hata ayıklama) etkinleştirir, bu modun karşılık gelen atölyelerine dönüştürülmeye hazırdır. Göç tamamlandığında veya artık gerekli değilse devre dışı bırakın. Bu seçenek yalnızca devre dışı bırakıldığında oyunun yeniden başlatılmasına gerek yoktur.</vat_epoeforked_EPOEMigrationTip>
+
+<vat_epoeforked_ResetSettings>Ayarları sıfırla</vat_epoeforked_ResetSettings>
+<vat_epoeforked_ResetToApplyReminder>Değişikliklerin uygulanabilmesi için oyunun yeniden başlatılması gerekir.</vat_epoeforked_ResetToApplyReminder>
+
+<!-- 1.3'te kaldırıldı, ama 1.2'de hala mevcut -->
+<vat_epoeforked_WoodenPartsNeedResearch>Ahşap protezler için "Temel Protezler" araştırma gereksinimlerini kaldır</vat_epoeforked_WoodenPartsNeedResearch>
+<vat_epoeforked_WoodenPartsNeedResearchTip>Vanilya, ahşap protezler için araştırma gerektirmez, örneğin ayak parmakları gibi.</vat_epoeforked_WoodenPartsNeedResearchTip>
+
+</LanguageData>

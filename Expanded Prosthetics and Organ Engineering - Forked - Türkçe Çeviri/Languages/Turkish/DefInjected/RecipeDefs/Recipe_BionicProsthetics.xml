@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<InstallPowerArm.label>Güç Kolunu Tak</InstallPowerArm.label>
+	<InstallPowerArm.description>Güç kolunu takma işlemi.</InstallPowerArm.description>
+	<InstallPowerArm.jobString>Güç kolunu takar.</InstallPowerArm.jobString>
+
+	<InstallBionicHand.label>Biolojik Kol Tak</InstallBionicHand.label>
+	<InstallBionicHand.description>Biolojik kol takma işlemi.</InstallBionicHand.description>
+	<InstallBionicHand.jobString>Biolojik kol takar.</InstallBionicHand.jobString>
+
+	<InstallBionicFoot.label>Biolojik Ayak Tak</InstallBionicFoot.label>
+	<InstallBionicFoot.description>Biolojik ayak takma işlemi.</InstallBionicFoot.description>
+	<InstallBionicFoot.jobString>Biolojik ayak takar.</InstallBionicFoot.jobString>
+
+	<InstallBionicEar.label>Biolojik Kulak İmplantı Tak</InstallBionicEar.label>
+	<InstallBionicEar.description>Biolojik kulak implantı takma işlemi.</InstallBionicEar.description>
+	<InstallBionicEar.jobString>Biolojik kulak implantı takar.</InstallBionicEar.jobString>
+
+	<InstallBionicJaw.label>Biolojik Çene İmplantı Tak</InstallBionicJaw.label>
+	<InstallBionicJaw.description>Biolojik çene implantı takma işlemi.</InstallBionicJaw.description>
+	<InstallBionicJaw.jobString>Biolojik çene implantı takar.</InstallBionicJaw.jobString>
+
+	<InstallSilentJaw.label>"Sessiz" Çene İmplantı Tak</InstallSilentJaw.label>
+	<InstallSilentJaw.description>"Sessiz" çene implantı takma işlemi.</InstallSilentJaw.description>
+	<InstallSilentJaw.jobString>"Sessiz" çene implantı takar.</InstallSilentJaw.jobString>
+
+	<InstallBionicSpine.label>Biolojik Omurga Tak</InstallBionicSpine.label>
+	<InstallBionicSpine.description>Biolojik omurga takma işlemi.</InstallBionicSpine.description>
+	<InstallBionicSpine.jobString>Biolojik omurga takar.</InstallBionicSpine.jobString>
+
+	<InstallMedicalRib.label>Tıbbi Kosta Tak</InstallMedicalRib.label>
+	<InstallMedicalRib.description>Tıbbi kosta takma işlemi.</InstallMedicalRib.description>
+	<InstallMedicalRib.jobString>Tıbbi kosta takar.</InstallMedicalRib.jobString>
+
+	<InstallDruggedRib.label>Uyarıcı Kosta Tak</InstallDruggedRib.label>
+	<InstallDruggedRib.description>Uyarıcı kosta takma işlemi.</InstallDruggedRib.description>
+	<InstallDruggedRib.jobString>Uyarıcı kosta takar</InstallDruggedRib.jobString>
+	
+	<InstallAdrenalineRib.label>Adrenalin Kosta Tak</InstallAdrenalineRib.label>
+	<InstallAdrenalineRib.description>Adrenalin kosta takma işlemi.</InstallAdrenalineRib.description>
+	<InstallAdrenalineRib.jobstring>Adrenalin kosta takar.</InstallAdrenalineRib.jobstring>
+	
+	<InstallPainkillerRib.label>Ağrı Kesici Kosta Tak</InstallPainkillerRib.label>
+	<InstallPainkillerRib.description>Ağrı kesici kosta takma işlemi.</InstallPainkillerRib.description>
+	<InstallPainkillerRib.jobstring>Ağrı kesici kosta takar.</InstallPainkillerRib.jobstring>
+
+</LanguageData>

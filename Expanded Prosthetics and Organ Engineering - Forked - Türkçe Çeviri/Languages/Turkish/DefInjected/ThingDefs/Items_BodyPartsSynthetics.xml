@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<AIChip.label>Yapay Zeka Çipi</AIChip.label>
+	<AIChip.description>Özel kimyasallar ve elektriksel impulslar kullanılarak bu küçük çip, kullanıcının bilincini ve hareketliliğini tamamen geri kazandırabilir. "Beyin Ameliyatı" teknolojisinin açılması gerekmektedir.</AIChip.description>
+
+	<SyntheticLung.label>Sentetik Akciğer</SyntheticLung.label>
+	<SyntheticLung.description>Yüksek teknolojili akciğer yerine geçebilecek bir cihaz. Sessiz, vızıltılı bir ses çıkarır.</SyntheticLung.description>
+
+	<SyntheticStomach.label>Sentetik Mide</SyntheticStomach.label>
+	<SyntheticStomach.description>Sentetik liflerle güçlendirilmiş mide, reddetme şansını azaltmak için tasarlanmıştır.</SyntheticStomach.description>
+
+	<SyntheticLiver.label>Sentetik Karaciğer</SyntheticLiver.label>
+	<SyntheticLiver.description>Sentetik liflerle güçlendirilmiş karaciğer, reddetme şansını azaltmak için tasarlanmıştır.</SyntheticLiver.description>
+
+	<SyntheticKidney.label>Sentetik Böbrek</SyntheticKidney.label>
+	<SyntheticKidney.description>Sentetik liflerle güçlendirilmiş böbrek, reddetme şansını azaltmak için tasarlanmıştır.</SyntheticKidney.description>
+
+	<SyntheticHeart.label>Sentetik Kalp</SyntheticHeart.label>
+	<SyntheticHeart.description>Yüksek teknolojili kalp yerine geçebilecek bir cihaz. Bir şarjla 30 yıl kadar çalışabilir!</SyntheticHeart.description>
+
+	<SyntheticSkin.label>Sentetik Cilt</SyntheticSkin.label>
+	<SyntheticSkin.description>Bir parça sentetik cilt. Gerçek cilt gibi dokunma hissi verir.</SyntheticSkin.description>
+
+	<Joywire.label>Mutluluk Çipi</Joywire.label>
+	<Joywire.description>Bu beyin implantı, size mutlu ve rahat hissettirir. "Beyin Ameliyatı" teknolojisinin açılması gerekmektedir.</Joywire.description>
+
+	<Painstopper.label>Ağrı Kesici Çip</Painstopper.label>
+	<Painstopper.description>Bu beyin implantı takıldığında, kullanıcı ağrı hissetmez. "Beyin Ameliyatı" teknolojisinin açılması gerekmektedir.</Painstopper.description>
+
+</LanguageData>

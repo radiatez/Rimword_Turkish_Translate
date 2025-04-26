@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+		
+	<Stomach.label>Mide</Stomach.label>
+	<Heart.label>Kalp</Heart.label>
+	<Nose.label>Burun</Nose.label>
+	<Leg.label>Bacak</Leg.label>
+	<Arm.label>Kol</Arm.label>
+	<Jaw.label>Çene</Jaw.label>
+	<Eye.label>Göz</Eye.label>
+	
+</LanguageData>

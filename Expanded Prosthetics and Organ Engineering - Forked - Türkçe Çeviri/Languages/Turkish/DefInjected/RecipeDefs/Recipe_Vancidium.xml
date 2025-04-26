@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CreateVancidium.label>Vansidyum Temizliği</CreateVancidium.label>
+	<CreateVancidium.description>Altın, çelik ve plastali birleştirmek için yüksek sıcaklık ve güçlü elektromıknatıslar kullanın.</CreateVancidium.description>
+	<CreateVancidium.jobString>Vansidyumu temizler.</CreateVancidium.jobString>
+	
+	<MakeAdvancedComponent.label>Gelişmiş Bileşen Yap</MakeAdvancedComponent.label>
+	<MakeAdvancedComponent.description>Gelişmiş bileşen yapma.</MakeAdvancedComponent.description>
+	<MakeAdvancedComponent.jobstring>Gelişmiş bileşenler yapar.</MakeAdvancedComponent.jobstring>
+
+</LanguageData>

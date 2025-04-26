@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CreateAIChip.label>Yapay Zeka Çipi Yap</CreateAIChip.label>
+	<CreateAIChip.description>Yapay Zeka çipi yapımı. Yüksek kaliteli mikroçip için altın ve gelişmiş bileşenler gerektirir.</CreateAIChip.description>
+    <CreateAIChip.jobString>Sentetik organ oluşturur.</CreateAIChip.jobString>
+	
+	<CreateJoywire.label>Mutluluk Çipi Yap</CreateJoywire.label>
+	<CreateJoywire.description>Mutluluk çipi yapımı. Yüksek kaliteli mikroçip için altın ve gelişmiş bileşenler gerektirir.</CreateJoywire.description>
+	<CreateJoywire.jobstring>Sentetik organ oluşturur.</CreateJoywire.jobstring>
+	
+	<CreatePainstopper.label>Ağrı Kesici Çipi Yap</CreatePainstopper.label>
+	<CreatePainstopper.description>Ağrı kesici çipi yapımı. Yüksek kaliteli mikroçip için altın ve gelişmiş bileşenler gerektirir.</CreatePainstopper.description>
+	<CreatePainstopper.jobstring>Sentetik organ oluşturur.</CreatePainstopper.jobstring>
+	
+	<CreateSyntheticLung.label>Sentetik Akciğer Yap</CreateSyntheticLung.label>
+	<CreateSyntheticLung.description>Sentetik akciğer yapımı, hiper doku, gelişmiş bileşenler ve yapay akciğer gerektirir.</CreateSyntheticLung.description>
+    <CreateSyntheticLung.jobString>Sentetik organ oluşturur.</CreateSyntheticLung.jobString>
+	
+	<CreateSyntheticStomach.label>Sentetik Mide Yap</CreateSyntheticStomach.label>
+	<CreateSyntheticStomach.description>Sentetik mide yapımı, hiper doku, gelişmiş bileşenler ve yapay mide gerektirir.</CreateSyntheticStomach.description>
+    <CreateSyntheticStomach.jobString>Sentetik organ oluşturur.</CreateSyntheticStomach.jobString>
+   
+	<CreateSyntheticLiver.label>Sentetik Karaciğer Yap</CreateSyntheticLiver.label>
+	<CreateSyntheticLiver.description>Sentetik karaciğer yapımı, hiper doku, gelişmiş bileşenler ve yapay karaciğer gerektirir.</CreateSyntheticLiver.description>
+    <CreateSyntheticLiver.jobString>Sentetik organ oluşturur.</CreateSyntheticLiver.jobString>
+   
+	<CreateSyntheticKidney.label>Sentetik Böbrek Yap</CreateSyntheticKidney.label>
+	<CreateSyntheticKidney.description>Sentetik böbrek yapımı, hiper doku, gelişmiş bileşenler ve yapay böbrek gerektirir.</CreateSyntheticKidney.description>
+    <CreateSyntheticKidney.jobString>Sentetik organ oluşturur.</CreateSyntheticKidney.jobString>
+	
+	<CreateSyntheticHeart.label>Sentetik Kalp Yap</CreateSyntheticHeart.label>
+	<CreateSyntheticHeart.description>Sentetik kalp yapımı, hiper doku, gelişmiş bileşenler ve yapay kalp gerektirir.</CreateSyntheticHeart.description>
+	<CreateSyntheticHeart.jobString>Sentetik organ oluşturur.</CreateSyntheticHeart.jobString>
+   
+	<CreateSyntheticSkin.label>Sentetik Cilt Yap</CreateSyntheticSkin.label>
+	<CreateSyntheticSkin.description>Sentetik cilt yapımı, hiper doku ve insan cildi gerektirir.</CreateSyntheticSkin.description>
+	<CreateSyntheticSkin.jobString>Sentetik organ oluşturur.</CreateSyntheticSkin.jobString>
+	
+</LanguageData>

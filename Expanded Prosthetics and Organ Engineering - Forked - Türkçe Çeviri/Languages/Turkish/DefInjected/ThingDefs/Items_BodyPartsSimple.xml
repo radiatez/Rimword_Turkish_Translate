@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+		
+	<GoldenEye.label>Altın Göz</GoldenEye.label>
+	<GoldenEye.description>Kaybedilen göze yapılan bir protez. O kadar güzel ki, aynada kendinizi göremediğiniz için üzülüyorsunuz.</GoldenEye.description>
+		
+	<ArtificialNose.label>Yapay Burun</ArtificialNose.label>
+	<ArtificialNose.description>Kaybedilen buruna yapılan bir protez. Yüzdeki deliği kapatır.</ArtificialNose.description>
+	
+	<HydraulicJaw.label>Hidrolik Çene</HydraulicJaw.label>
+	<HydraulicJaw.description>Kaybedilen çeneye yapılan bir protez. Bu çok etkili dişlere dikkat edin.</HydraulicJaw.description>
+
+	<ArtificialPelvis.label>Yapay Pelvis</ArtificialPelvis.label>
+	<ArtificialPelvis.description>Kaybedilen pelvisin yerine yapılan bir protez. Eğer sürünmek favori hareket tarzınız değilse, oldukça kullanışlıdır.</ArtificialPelvis.description>
+	
+	<SimpleProstheticHand.label>Basit Protez El</SimpleProstheticHand.label>
+	<SimpleProstheticHand.description>Kaybedilen elin yerine yapılan basit bir protez. Kanca kadar korkutucu değil, daha rahat.</SimpleProstheticHand.description>
+	
+	<SimpleProstheticFoot.label>Basit Protez Ayak</SimpleProstheticFoot.label>
+	<SimpleProstheticFoot.description>Kaybedilen ayağın yerine yapılan basit bir protez. Bir odun parçası kadar ucuz değil.</SimpleProstheticFoot.description>
+	
+	<SimpleProstheticLeg.label>Basit Protez Bacak</SimpleProstheticLeg.label>
+	<SimpleProstheticLeg.description>Kaybedilen bacağın yerine yapılan basit bir protez. Pek konforlu değil ama etkili.</SimpleProstheticLeg.description>
+	
+	<SimpleProstheticArm.label>Basit Protez Kol</SimpleProstheticArm.label>
+	<SimpleProstheticArm.description>Basit ama dayanıklı bir kol protezi.</SimpleProstheticArm.description>
+
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CreateSteelArm.label>Çelik Kol Yap</CreateSteelArm.label>
+	<CreateSteelArm.description>Çelikten çelik kol yap.</CreateSteelArm.description>
+	<CreateSteelArm.jobString>Protez yapar.</CreateSteelArm.jobString>
+	
+	<CreatePegLeg.label>Ahşap Bacak Yap</CreatePegLeg.label>
+	<CreatePegLeg.description>Ahşaptan basit bacak protezi yap.</CreatePegLeg.description>
+	<CreatePegLeg.jobString>Protez yapar.</CreatePegLeg.jobString>
+
+	<CreateEyePatch.label>Göz Bandı Yap</CreateEyePatch.label>
+	<CreateEyePatch.description>Faslı kumaştan göz bandı diker.</CreateEyePatch.description>
+	<CreateEyePatch.jobString>Protez yapar.</CreateEyePatch.jobString>
+
+	<CreateHookHand.label>Kanca Kol Yap</CreateHookHand.label>
+	<CreateHookHand.description>Kumaş ve metalden kanca kol yap.</CreateHookHand.description>
+	<CreateHookHand.jobString>Protez yapar.</CreateHookHand.jobString>
+
+	<CreateDenture.label>Diş Protezi Yap</CreateDenture.label>
+	<CreateDenture.description>Ağaçtan basit diş protezi yap. Yapması kolaydır.</CreateDenture.description>
+	<CreateDenture.jobString>Protez yapar.</CreateDenture.jobString>
+
+	<CreateWoodenFoot.label>Ahşap Ayak Yap</CreateWoodenFoot.label>
+	<CreateWoodenFoot.description>Ağaçtan ayak şekli oluştur.</CreateWoodenFoot.description>
+	<CreateWoodenFoot.jobString>Protez yapar.</CreateWoodenFoot.jobString>
+	
+	<CreateEarBandage.label>Kulak Bandı Yap</CreateEarBandage.label>
+	<CreateEarBandage.description>Faslı kumaştan kulak bandı diker.</CreateEarBandage.description>
+	<CreateEarBandage.jobstring>Protez yapar.</CreateEarBandage.jobstring>
+
+</LanguageData>

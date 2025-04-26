@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<InstallBrainStimulator.label>Beyin Uyarıcı İmplantı Yap</InstallBrainStimulator.label>
+	<InstallBrainStimulator.description>Beyin uyarıcı implantı yapımı.</InstallBrainStimulator.description>
+    <InstallBrainStimulator.jobString>Beyin uyarıcı implantı yapar.</InstallBrainStimulator.jobString>
+	
+	<InstallSurrogateLung.label>Yapay Akciğer İmplantı Yap</InstallSurrogateLung.label>
+	<InstallSurrogateLung.description>Yapay akciğer implantı yapımı.</InstallSurrogateLung.description>
+    <InstallSurrogateLung.jobString>Yapay akciğer implantı yapar.</InstallSurrogateLung.jobString>
+	
+	<InstallSurrogateStomach.label>Yapay Mide İmplantı Yap</InstallSurrogateStomach.label>
+	<InstallSurrogateStomach.description>Yapay mide implantı yapımı.</InstallSurrogateStomach.description>
+    <InstallSurrogateStomach.jobString>Yapay mide implantı yapar.</InstallSurrogateStomach.jobString>
+	
+	<InstallSurrogateLiver.label>Yapay Karaciğer İmplantı Yap</InstallSurrogateLiver.label>
+	<InstallSurrogateLiver.description>Yapay karaciğer implantı yapımı.</InstallSurrogateLiver.description>
+    <InstallSurrogateLiver.jobString>Yapay karaciğer implantı yapar.</InstallSurrogateLiver.jobString>
+	
+	<InstallSurrogateKidney.label>Yapay Böbrek İmplantı Yap</InstallSurrogateKidney.label>
+	<InstallSurrogateKidney.description>Yapay böbrek implantı yapımı.</InstallSurrogateKidney.description>
+    <InstallSurrogateKidney.jobString>Yapay böbrek implantı yapar.</InstallSurrogateKidney.jobString>
+	
+	<InstallSurrogateHeart.label>Yapay Kalp İmplantı Yap</InstallSurrogateHeart.label>
+	<InstallSurrogateHeart.description>Yapay kalp implantı yapımı.</InstallSurrogateHeart.description>
+    <InstallSurrogateHeart.jobString>Yapay kalp implantı yapar.</InstallSurrogateHeart.jobString>
+	
+</LanguageData>

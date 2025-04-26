@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CreateBionicEye.label>Biyonik Göz Yap</CreateBionicEye.label>
+	<CreateBionicEye.description>Plastal kullanarak biyonik göz yapımı.</CreateBionicEye.description>
+	<CreateBionicEye.jobString>Biyonik protez yapar.</CreateBionicEye.jobString>
+	
+	<CreatePowerArm.label>Güç Kolunu Yap</CreatePowerArm.label>
+	<CreatePowerArm.description>Biolojik kolla güç pençesi takmak kolay görünmüyor, ama bu gerçekten harika!</CreatePowerArm.description>
+	<CreatePowerArm.jobString>Biyonik protez yapar.</CreatePowerArm.jobString>
+	
+	<CreateBionicArm.label>Biyonik Kol Yap</CreateBionicArm.label>
+	<CreateBionicArm.description>Basit bir kol protezini plastal ve bileşenler kullanarak iyileştirme.</CreateBionicArm.description>
+	<CreateBionicArm.jobString>Biyonik protez yapar.</CreateBionicArm.jobString>
+
+	<CreateBionicHand.label>Biyonik El Yap</CreateBionicHand.label>
+	<CreateBionicHand.description>Basit bir el protezini plastal ve bileşenler kullanarak iyileştirme.</CreateBionicHand.description>
+	<CreateBionicHand.jobString>Biyonik protez yapar.</CreateBionicHand.jobString>
+
+	<CreateBionicFoot.label>Biyonik Ayak Yap</CreateBionicFoot.label>
+	<CreateBionicFoot.description>Basit bir ayak protezini plastal ve bileşenler kullanarak iyileştirme.</CreateBionicFoot.description>
+	<CreateBionicFoot.jobString>Biyonik protez yapar.</CreateBionicFoot.jobString>
+
+	<CreateBionicLeg.label>Biyonik Bacak Yap</CreateBionicLeg.label>
+	<CreateBionicLeg.description>Basit bir bacak protezini plastal ve bileşenler kullanarak iyileştirme.</CreateBionicLeg.description>
+	<CreateBionicLeg.jobString>Biyonik protez yapar.</CreateBionicLeg.jobString>
+
+	<CreateBionicEar.label>Biyonik Kulak Yap</CreateBionicEar.label>
+	<CreateBionicEar.description>Plastal kullanarak biyonik kulak yapımı.</CreateBionicEar.description>
+	<CreateBionicEar.jobString>Biyonik protez yapar.</CreateBionicEar.jobString>
+
+	<CreateBionicJaw.label>Biyonik Çene Yap</CreateBionicJaw.label>
+	<CreateBionicJaw.description>Çelik ve plastal kullanarak biyonik çene yapımı.</CreateBionicJaw.description>
+	<CreateBionicJaw.jobString>Biyonik protez yapar.</CreateBionicJaw.jobString>
+
+	<CreateSilentJaw.label>"Sessiz" Çene Yap</CreateSilentJaw.label>
+	<CreateSilentJaw.description>Çelik ve plastal kullanarak biyonik "sessiz" çene yapımı.</CreateSilentJaw.description>
+	<CreateSilentJaw.jobString>Biyonik protez yapar.</CreateSilentJaw.jobString>
+
+	<CreateBionicSpine.label>Biyonik Omurga Yap</CreateBionicSpine.label>
+	<CreateBionicSpine.description>Çelik ve plastal kullanarak biyonik omurga yapımı.</CreateBionicSpine.description>
+	<CreateBionicSpine.jobString>Biyonik protez yapar.</CreateBionicSpine.jobString>
+
+	<CreateMedicalRib.label>Tıbbi Kosta Yap</CreateMedicalRib.label>
+	<CreateMedicalRib.description>Plastal ve ileri düzey ilaçlar kullanarak tıbbi kosta yapımı.</CreateMedicalRib.description>
+	<CreateMedicalRib.jobString>Biyonik protez yapar.</CreateMedicalRib.jobString>
+
+	<CreateDruggedRib.label>Uyarıcı Kosta Yap</CreateDruggedRib.label>
+	<CreateDruggedRib.description>Plastal ve bira kullanarak uyarıcı kosta yapımı.</CreateDruggedRib.description>
+	<CreateDruggedRib.jobString>Biyonik protez yapar.</CreateDruggedRib.jobString>
+	
+	<CreateAdrenalineRib.label>Adrenalin Kosta Yap</CreateAdrenalineRib.label>
+	<CreateAdrenalineRib.description>Plastal ve psikina (toz) kullanarak adrenalin kosta yapımı.</CreateAdrenalineRib.description>
+	<CreateAdrenalineRib.jobstring>Biyonik protez yapar.</CreateAdrenalineRib.jobstring>
+	
+	<CreatePainkillerRib.label>Ağrı Kesici Kosta Yap</CreatePainkillerRib.label>
+	<CreatePainkillerRib.description>Plastal ve Go suyu kullanarak ağrı kesici kosta yapımı.</CreatePainkillerRib.description>
+	<CreatePainkillerRib.jobstring>Biyonik protez yapar.</CreatePainkillerRib.jobstring>
+	
+</LanguageData>

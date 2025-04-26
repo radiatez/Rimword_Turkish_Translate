@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!--Protezler-->
+	<BasicProstheses.label>Temel Protezler</BasicProstheses.label>
+	<SimpleProstheses.label>Basit Protezler</SimpleProstheses.label>
+	<BionicProstheses.label>Biyonik Protezler</BionicProstheses.label>
+	<AdvancedProstheses.label>Gelişmiş Biyonik Protezler</AdvancedProstheses.label>
+	<!--Organlar-->
+	<SurrogateOrgans.label>Organ Yerine Geçebilecekler</SurrogateOrgans.label>
+	<SyntheticOrgans.label>Sentetik Organlar</SyntheticOrgans.label>
+
+</LanguageData>

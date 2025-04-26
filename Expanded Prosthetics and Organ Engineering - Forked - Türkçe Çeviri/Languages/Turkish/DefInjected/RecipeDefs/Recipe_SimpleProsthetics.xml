@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<InstallSimpleProstheticLeg.label>Basit Bacak Protezi Tak</InstallSimpleProstheticLeg.label>
+	<InstallSimpleProstheticLeg.description>Basit bacak protezi tak.</InstallSimpleProstheticLeg.description>
+    <InstallSimpleProstheticLeg.jobString>Basit bacak protezi takar.</InstallSimpleProstheticLeg.jobString>
+
+	<InstallSimpleProstheticArm.label>Basit Kol Protezi Tak</InstallSimpleProstheticArm.label>
+	<InstallSimpleProstheticArm.description>Basit kol protezi tak.</InstallSimpleProstheticArm.description>
+    <InstallSimpleProstheticArm.jobString>Basit kol protezi takar</InstallSimpleProstheticArm.jobString>
+
+	<InstallGoldenEye.label>Altın Göz Nakli Yap</InstallGoldenEye.label>
+	<InstallGoldenEye.description>Altın göz nakli yap.</InstallGoldenEye.description>
+    <InstallGoldenEye.jobString>Altın göz nakli yapar.</InstallGoldenEye.jobString>
+	
+	<InstallSimpleProstheticHand.label>Basit El Protezi Tak</InstallSimpleProstheticHand.label>
+	<InstallSimpleProstheticHand.description>Basit el protezi tak.</InstallSimpleProstheticHand.description>
+    <InstallSimpleProstheticHand.jobString>Basit el protezi takar.</InstallSimpleProstheticHand.jobString>
+	
+	<InstallSimpleProstheticFoot.label>Basit Ayak Protezi Tak</InstallSimpleProstheticFoot.label>
+	<InstallSimpleProstheticFoot.description>Basit ayak protezi tak.</InstallSimpleProstheticFoot.description>
+    <InstallSimpleProstheticFoot.jobString>Basit ayak protezi takar.</InstallSimpleProstheticFoot.jobString>
+	
+	<InstallArtificialNose.label>Yapay Burun Nakli Yap</InstallArtificialNose.label>
+	<InstallArtificialNose.description>Yapay burun nakli yap.</InstallArtificialNose.description>
+    <InstallArtificialNose.jobString>Yapay burun nakli yapar.</InstallArtificialNose.jobString>
+		
+	<InstallHydraulicJaw.label>Hidrolik Çene Tak</InstallHydraulicJaw.label>
+	<InstallHydraulicJaw.description>Hidrolik çene tak.</InstallHydraulicJaw.description>
+    <InstallHydraulicJaw.jobString>Hidrolik çene takar.</InstallHydraulicJaw.jobString>
+
+	<InstallArtificialPelvis.label>Yapay Pelvis Tak</InstallArtificialPelvis.label>
+	<InstallArtificialPelvis.description>Yapay pelvis tak.</InstallArtificialPelvis.description>
+    <InstallArtificialPelvis.jobString>Yapay pelvis takar.</InstallArtificialPelvis.jobString>
+	
+</LanguageData>

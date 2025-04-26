@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<InstallNaturalEye.label>Göz Nakli Yap</InstallNaturalEye.label>
+	<InstallNaturalEye.description>Göz nakli yap.</InstallNaturalEye.description>
+    <InstallNaturalEye.jobString>Göz nakli yapar.</InstallNaturalEye.jobString>
+
+	<InstallNaturalNose.label>Burun Nakli Yap</InstallNaturalNose.label>
+	<InstallNaturalNose.description>Burun nakli yap.</InstallNaturalNose.description>
+    <InstallNaturalNose.jobString>Burun nakli yapar.</InstallNaturalNose.jobString>
+
+	<InstallNaturalEar.label>Kulak Nakli Yap</InstallNaturalEar.label>
+	<InstallNaturalEar.description>Kulak nakli yap.</InstallNaturalEar.description>
+    <InstallNaturalEar.jobString>Kulak nakli yapar.</InstallNaturalEar.jobString>
+
+	<InstallNaturalJaw.label>Çene Nakli Yap</InstallNaturalJaw.label>
+	<InstallNaturalJaw.description>Çene nakli yap.</InstallNaturalJaw.description>
+    <InstallNaturalJaw.jobString>Çene nakli yapar.</InstallNaturalJaw.jobString>
+
+	<InstallNaturalArm.label>Kol Nakli Yap</InstallNaturalArm.label>
+	<InstallNaturalArm.description>Kol nakli yap.</InstallNaturalArm.description>
+    <InstallNaturalArm.jobString>Kol nakli yapar.</InstallNaturalArm.jobString>
+
+	<InstallNaturalLeg.label>Bacak Nakli Yap</InstallNaturalLeg.label>
+	<InstallNaturalLeg.description>Bacak nakli yap.</InstallNaturalLeg.description>
+    <InstallNaturalLeg.jobString>Bacak nakli yapar.</InstallNaturalLeg.jobString>
+
+	<InstallNaturalStomach.label>Mide Nakli Yap</InstallNaturalStomach.label>
+	<InstallNaturalStomach.description>Mide nakli yap.</InstallNaturalStomach.description>
+    <InstallNaturalStomach.jobString>Mide nakli yapar.</InstallNaturalStomach.jobString>
+
+</LanguageData>

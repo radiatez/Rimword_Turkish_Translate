@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CreateAdvancedBionicEye.label>Gelişmiş Biyonik Göz Yap</CreateAdvancedBionicEye.label>
+	<CreateAdvancedBionicEye.description>Gelişmiş bileşenler kullanarak biyonik gözü geliştirme.</CreateAdvancedBionicEye.description>
+    <CreateAdvancedBionicEye.jobString>Biyonik protezi geliştirir.</CreateAdvancedBionicEye.jobString>
+	
+	<CreateAdvancedPowerArm.label>Gelişmiş Güç Kolunu Yap</CreateAdvancedPowerArm.label>
+	<CreateAdvancedPowerArm.description>Gelişmiş bileşenler kullanarak biyonik kolu geliştirme.</CreateAdvancedPowerArm.description>
+    <CreateAdvancedPowerArm.jobString>Biyonik protezi geliştirir.</CreateAdvancedPowerArm.jobString>
+	
+	<CreateAdvancedBionicArm.label>Gelişmiş Biyonik Kol Yap</CreateAdvancedBionicArm.label>
+	<CreateAdvancedBionicArm.description>Gelişmiş bileşenler kullanarak biyonik kolu geliştirme.</CreateAdvancedBionicArm.description>
+    <CreateAdvancedBionicArm.jobString>Biyonik protezi geliştirir.</CreateAdvancedBionicArm.jobString>
+	
+	<CreateAdvancedBionicHand.label>Gelişmiş Biyonik El Yap</CreateAdvancedBionicHand.label>
+	<CreateAdvancedBionicHand.description>Gelişmiş bileşenler kullanarak biyonik eli geliştirme.</CreateAdvancedBionicHand.description>
+    <CreateAdvancedBionicHand.jobString>Biyonik protezi geliştirir.</CreateAdvancedBionicHand.jobString>
+	
+	<CreateAdvancedBionicFoot.label>Gelişmiş Biyonik Ayak Yap</CreateAdvancedBionicFoot.label>
+	<CreateAdvancedBionicFoot.description>Gelişmiş bileşenler kullanarak biyonik ayak geliştirme.</CreateAdvancedBionicFoot.description>
+    <CreateAdvancedBionicFoot.jobString>Biyonik protezi geliştirir.</CreateAdvancedBionicFoot.jobString>
+	
+	<CreateAdvancedBionicLeg.label>Gelişmiş Biyonik Bacak Yap</CreateAdvancedBionicLeg.label>
+	<CreateAdvancedBionicLeg.description>Gelişmiş bileşenler kullanarak biyonik bacağı geliştirme.</CreateAdvancedBionicLeg.description>
+    <CreateAdvancedBionicLeg.jobString>Biyonik protezi geliştirir.</CreateAdvancedBionicLeg.jobString>
+	
+	<CreateAdvancedBionicEar.label>Gelişmiş Biyonik Kulak Yap</CreateAdvancedBionicEar.label>
+	<CreateAdvancedBionicEar.description>Gelişmiş bileşenler kullanarak biyonik kulağı geliştirme.</CreateAdvancedBionicEar.description>
+    <CreateAdvancedBionicEar.jobString>Biyonik protezi geliştirir.</CreateAdvancedBionicEar.jobString>
+	
+	<CreateAdvancedBionicJaw.label>Gelişmiş Biyonik Çene Yap</CreateAdvancedBionicJaw.label>
+	<CreateAdvancedBionicJaw.description>Gelişmiş bileşenler kullanarak biyonik çeneyi geliştirme.</CreateAdvancedBionicJaw.description>
+    <CreateAdvancedBionicJaw.jobString>Biyonik protezi geliştirir.</CreateAdvancedBionicJaw.jobString> 
+	
+	<CreateAdvancedBionicSpine.label>Gelişmiş Biyonik Omurga Yap</CreateAdvancedBionicSpine.label>
+	<CreateAdvancedBionicSpine.description>Gelişmiş bileşenler kullanarak biyonik omurgayı geliştirme.</CreateAdvancedBionicSpine.description>
+	<CreateAdvancedBionicSpine.jobString>Biyonik protezi geliştirir.</CreateAdvancedBionicSpine.jobString>
+	
+	<CreatePowerClaw.label>Gelişmiş Ölümcül Pençe Yap</CreatePowerClaw.label>
+	<CreatePowerClaw.description>Çelik ve gelişmiş bileşenler kullanarak ölümcül pençeyi güç pençesine dönüştürme.</CreatePowerClaw.description>
+    <CreatePowerClaw.jobString>Biyonik protezi geliştirir.</CreatePowerClaw.jobString>
+	
+	<CreateExoskeletonSuit.label>Ekzosklet Yap</CreateExoskeletonSuit.label>
+	<CreateExoskeletonSuit.description>Çelik ve plastalit kullanarak ekzosklet yapma. 3D yazıcı ve az miktarda zaman gerektirir.</CreateExoskeletonSuit.description>
+	<CreateExoskeletonSuit.jobstring>Biyonik protez oluşturur.</CreateExoskeletonSuit.jobstring>
+	
+</LanguageData>

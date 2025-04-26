@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<SteelArm.label>Çelik Kol</SteelArm.label>
+	<SteelArm.description>Çok kötü bir kol yerine geçer. Kötü görünüyor, kötü hissediliyor, her şey kötü.</SteelArm.description>
+
+	<EyePatch.label>Göz Bandı</EyePatch.label>
+	<EyePatch.description>Boş göz yuvasını kapatır. Korkutucu.</EyePatch.description>
+	
+	<HookHand.label>Kanca Kol</HookHand.label>
+	<HookHand.description>Kayıp elin yerine geçen bir protez. Oldukça korkutucu. Arrr!</HookHand.description>
+	
+	<denture.label>Diş Protezi</denture.label>
+	<denture.description>Kaybolan çenenin yerine, tahta dişlerle yapılan bir protez. Biraz kokuyor.</denture.description>
+	
+	<PegLeg.label>Odun Bacak</PegLeg.label>
+	<PegLeg.description>Kaybolan bacağın yerine yapılan bir protez. Moda değil, ama işini çok iyi yapıyor.</PegLeg.description>
+	
+	<WoodenFoot.label>Odun Ayak</WoodenFoot.label>
+	<WoodenFoot.description>Kaybolan ayağın yerine yapılan bir protez. Tek ayakla zıplamaktan daha rahat.</WoodenFoot.description>
+	
+	<EarBandage.label>Kulak Bandı</EarBandage.label>
+	<EarBandage.description>Kaybolan kulağı kapatır. 19. yüzyıldan ünlü bir sanatçıyı andırıyor!</EarBandage.description>
+
+</LanguageData>

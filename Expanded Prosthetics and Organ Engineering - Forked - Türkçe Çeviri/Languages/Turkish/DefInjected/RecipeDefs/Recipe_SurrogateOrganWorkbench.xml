@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CreateBrainStimulator.label>Beyin Uyarıcı Yap</CreateBrainStimulator.label>
+	<CreateBrainStimulator.description>Komponentler, plastali ve kumaşla basit bir beyin uyarıcı yapımı.</CreateBrainStimulator.description>
+    <CreateBrainStimulator.jobString>Organ yerine geçici bir organ yapar.</CreateBrainStimulator.jobString>
+	
+	<CreateSurrogateLung.label>Yapay Akciğer Yap</CreateSurrogateLung.label>
+	<CreateSurrogateLung.description>Komponentler, plastali ve kumaşla yapay akciğer yapımı.</CreateSurrogateLung.description>
+    <CreateSurrogateLung.jobString>Organ yerine geçici bir organ yapar.</CreateSurrogateLung.jobString>
+	
+	<CreateSurrogateStomach.label>Yapay Mide Yap</CreateSurrogateStomach.label>
+	<CreateSurrogateStomach.description>Komponentler, plastali ve kumaşla yapay mide yapımı.</CreateSurrogateStomach.description>
+    <CreateSurrogateStomach.jobString>Organ yerine geçici bir organ yapar.</CreateSurrogateStomach.jobString>
+	
+	<CreateSurrogateLiver.label>Yapay Karaciğer Yap</CreateSurrogateLiver.label>
+	<CreateSurrogateLiver.description>Komponentler, plastali ve kumaşla yapay karaciğer yapımı.</CreateSurrogateLiver.description>
+    <CreateSurrogateLiver.jobString>Organ yerine geçici bir organ yapar.</CreateSurrogateLiver.jobString>
+
+	<CreateSurrogateKidney.label>Yapay Böbrek Yap</CreateSurrogateKidney.label>
+	<CreateSurrogateKidney.description>Komponentler, plastali ve kumaşla yapay böbrek yapımı.</CreateSurrogateKidney.description>
+    <CreateSurrogateKidney.jobString>Organ yerine geçici bir organ yapar.</CreateSurrogateKidney.jobString>
+	
+	<CreateSurrogateHeart.label>Yapay Kalp Yap</CreateSurrogateHeart.label>
+	<CreateSurrogateHeart.description>Komponentler, plastali ve kumaşla yapay kalp yapımı.</CreateSurrogateHeart.description>
+    <CreateSurrogateHeart.jobString>Organ yerine geçici bir organ yapar.</CreateSurrogateHeart.jobString>
+	
+</LanguageData>

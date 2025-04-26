@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CreateSimpleProstheticLeg.label>Basit Bacak Protezi Yap</CreateSimpleProstheticLeg.label>
+	<CreateSimpleProstheticLeg.description>Çelik, plastali ve bileşenlerden basit bacak protezi yapımı.</CreateSimpleProstheticLeg.description>
+    <CreateSimpleProstheticLeg.jobString>Protez yapar.</CreateSimpleProstheticLeg.jobString>
+	
+	<CreateSimpleProstheticArm.label>Basit Kol Protezi Yap</CreateSimpleProstheticArm.label>
+	<CreateSimpleProstheticArm.description>Çelik ve plastali ile basit kol protezi yapımı.</CreateSimpleProstheticArm.description>
+    <CreateSimpleProstheticArm.jobString>Protez yapar.</CreateSimpleProstheticArm.jobString>
+	
+	<CreateSimpleProstheticHand.label>Basit El Protezi Yap</CreateSimpleProstheticHand.label>
+	<CreateSimpleProstheticHand.description>Çelik, plastali ve bileşenlerden basit el protezi yapımı.</CreateSimpleProstheticHand.description>
+    <CreateSimpleProstheticHand.jobString>Protez yapar.</CreateSimpleProstheticHand.jobString>
+	
+	<CreateSimpleProstheticFoot.label>Basit Ayak Protezi Yap</CreateSimpleProstheticFoot.label>
+	<CreateSimpleProstheticFoot.description>Çelik, plastali ve bileşenlerden basit ayak protezi yapımı.</CreateSimpleProstheticFoot.description>
+    <CreateSimpleProstheticFoot.jobString>Protez yapar.</CreateSimpleProstheticFoot.jobString>
+	
+	<CreateArtificialNose.label>Yapay Burun Yap</CreateArtificialNose.label>
+	<CreateArtificialNose.description>Plastali ile yapay burun yapımı.</CreateArtificialNose.description>
+    <CreateArtificialNose.jobString>Protez yapar.</CreateArtificialNose.jobString>
+	
+	<CreateArtificialPelvis.label>Yapay Pelvis Yap</CreateArtificialPelvis.label>
+	<CreateArtificialPelvis.description>Çelik ve plastali ile yapay pelvis yapımı.</CreateArtificialPelvis.description>
+    <CreateArtificialPelvis.jobString>Protez yapar.</CreateArtificialPelvis.jobString>
+	
+	<CreateHydraulicJaw.label>Hidrolik Çene Yap</CreateHydraulicJaw.label>
+	<CreateHydraulicJaw.description>Çelik ve bileşenlerden hidrolik çene yapımı.</CreateHydraulicJaw.description>
+    <CreateHydraulicJaw.jobString>Protez yapar.</CreateHydraulicJaw.jobString>
+	
+	<CreateGoldenEye.label>Altın Göz Yap</CreateGoldenEye.label>
+	<CreateGoldenEye.description>Altın külçesi + Çekiç = Altın göz.</CreateGoldenEye.description>
+    <CreateGoldenEye.jobString>Protez yapar.</CreateGoldenEye.jobString>
+
+</LanguageData>

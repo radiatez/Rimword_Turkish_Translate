@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<PowerArm.label>Güçlü Kol</PowerArm.label>
+	<PowerArm.description>Efsanevi güç, çeviklik ve çıkarılabilir pençeler.</PowerArm.description>
+
+	<BionicHand.label>Biyonik El</BionicHand.label>
+	<BionicHand.description>Kullanıcının görevlerini normal ellerden daha hızlı yerine getirmesine olanak sağlar.</BionicHand.description>
+	
+	<BionicFoot.label>Biyonik Ayak</BionicFoot.label>
+	<BionicFoot.description>Protez, hızlı bir şekilde yürümeyi sağlar, takılmadan.</BionicFoot.description>
+	
+	<BionicEar.label>Biyonik Kulak İmplantı</BionicEar.label>
+	<BionicEar.description>Kulak zarının temel işlevlerini geliştiren bir cihaz.</BionicEar.description>
+	
+	<BionicJaw.label>Biyonik Çene İmplantı</BionicJaw.label>
+	<BionicJaw.description>Güçlendirilmiş diş setinin yanı sıra, bu implant ses modülatörüyle birlikte gelir.</BionicJaw.description>
+	
+	<SilentJaw.label>"Sessiz" Çene İmplantı</SilentJaw.label>
+	<SilentJaw.description>Bu biyonik çene versiyonu ses modülatörü olmadan gelir. Sert hastalar için faydalıdır.</SilentJaw.description>
+
+	<BionicSpine.label>Biyonik Omurga</BionicSpine.label>
+	<BionicSpine.description>Bu hafif cihaz, hasar görmüş omurgayı yerine koyabilir.</BionicSpine.description>
+
+	<BionicEye.label>Biyonik Göz</BionicEye.label>
+	<BionicEye.description>Yüksek teknoloji, yalnızca doğal gözün tam yerini almakla kalmaz, aynı zamanda süper görüş sağlar.</BionicEye.description>
+
+	<BionicArm.label>Biyonik Kol</BionicArm.label>
+	<BionicArm.description>Kolun en iyi yedeklerinden biri. Kullanıcısına olağanüstü güç sağlar.</BionicArm.description>
+
+	<BionicLeg.label>Biyonik Bacak</BionicLeg.label>
+	<BionicLeg.description>Biyonik bacak, sahibine büyük rahatlık ve güç sağlayan ileri teknolojileri kullanır.</BionicLeg.description>
+
+	<PowerClaw.label>Güç Pençesi</PowerClaw.label>
+	<PowerClaw.description>Üç ölümcül pençeye sahip bir el protezi.</PowerClaw.description>
+	
+	<ScytherBlade.label>Ölüm Makinesi Kılıcı</ScytherBlade.label>
+	<ScytherBlade.description>El protezi yerine teleskopik bıçak. Pek rahat olmasa da yakın dövüşte oldukça etkili.</ScytherBlade.description>
+
+	<MedicalRib.label>Tıbbi Kaburga</MedicalRib.label>
+	<MedicalRib.description>Küçük kan filtreleri ve antibiyotik dozajlayıcılarıyla donatılmış yapay kaburga, kullanıcının sağlığını destekler.</MedicalRib.description>
+
+	<DruggedRib.label>Uyarıcı Kaburga</DruggedRib.label>
+	<DruggedRib.description>Alkol dozajlayıcı ile donatılmış yapay kaburga, kullanıcının ruh halini iyileştirir.</DruggedRib.description>
+	
+	<AdrenalineRib.label>Adrenalin Kaburgası</AdrenalineRib.label>
+	<AdrenalineRib.description>Adrenalin dozajlayıcı ile donatılmış yapay kaburga, kullanıcının zinde ve enerjik hissetmesini sağlar.</AdrenalineRib.description>
+	
+	<PainkillerRib.label>Ağrı Kesici Kaburga</PainkillerRib.label>
+	<PainkillerRib.description>Morfin dozajlayıcıları ile donatılmış yapay kaburga, kullanıcının ağrılarını hafifletir. Yan etkiler arasında akciğer hastalıkları olabilir.</PainkillerRib.description>
+
+</LanguageData>

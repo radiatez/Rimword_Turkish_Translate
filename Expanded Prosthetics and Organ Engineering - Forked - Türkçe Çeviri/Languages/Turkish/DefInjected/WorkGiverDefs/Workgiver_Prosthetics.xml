@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	
+	<!--
+		label - "iş" sekmesindeki maddeye karşılık gelen eylem. Yalın halde olmalı
+		gerund - "Ryan'ı Kurtarmak" tarzı emirler.
+		verb - "Rosi'yi çivilemek imkansız"
+	-->
+
+	<DoBillsTableSurrogates.label>Organ Yerine Koymalarını Yapmak</DoBillsTableSurrogates.label>
+	<DoBillsTableSurrogates.verb>organ yaratmak için</DoBillsTableSurrogates.verb>
+	<DoBillsTableSurrogates.gerund>organ yaratmak için</DoBillsTableSurrogates.gerund>
+		
+	<DoBillsUpgradingStation.label>Bi̇onolojik Protezler ve Organ Yerine Koymalarını Geliştirmek</DoBillsUpgradingStation.label>
+	<DoBillsUpgradingStation.verb>organ veya protezi geliştirmek için</DoBillsUpgradingStation.verb>
+	<DoBillsUpgradingStation.gerund>organ veya protezi geliştirmek için</DoBillsUpgradingStation.gerund>
+	
+	<DoBillsSimpleProstheticWorkbench.label>Basit Protezler Yapmak</DoBillsSimpleProstheticWorkbench.label>
+	<DoBillsSimpleProstheticWorkbench.verb>basit protez yaratmak için</DoBillsSimpleProstheticWorkbench.verb>
+	<DoBillsSimpleProstheticWorkbench.gerund>basit protez yaratmak için</DoBillsSimpleProstheticWorkbench.gerund>
+	
+	<DoBillsBionicWorkbench.label>Bi̇onolojik Protezler Yapmak</DoBillsBionicWorkbench.label>
+	<DoBillsBionicWorkbench.verb>bi̇onolojik protez yaratmak için</DoBillsBionicWorkbench.verb>
+	<DoBillsBionicWorkbench.gerund>bi̇onolojik protez yaratmak için</DoBillsBionicWorkbench.gerund>
+	
+	<DoBillsBasicProstheticWorkbench.label>Temel Protezler Yapmak</DoBillsBasicProstheticWorkbench.label>
+	<DoBillsBasicProstheticWorkbench.verb>temel protez yaratmak için</DoBillsBasicProstheticWorkbench.verb>
+	<DoBillsBasicProstheticWorkbench.gerund>temel protez yaratmak için</DoBillsBasicProstheticWorkbench.gerund>
+
+</LanguageData>

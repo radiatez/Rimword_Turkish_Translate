@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<InstallSteelArm.label>Çelik Kol Tak</InstallSteelArm.label>
+	<InstallSteelArm.description>Çelik kol takma.</InstallSteelArm.description>
+	<InstallSteelArm.jobString>Çelik kol takıyor.</InstallSteelArm.jobString>
+
+	<InstallEyePatch.label>Göz Bandı Tak</InstallEyePatch.label>
+	<InstallEyePatch.description>Göz bandı takma.</InstallEyePatch.description>
+	<InstallEyePatch.jobString>Göz bandı takıyor.</InstallEyePatch.jobString>
+
+	<InstallHookHand.label>Kanca Kol Tak</InstallHookHand.label>
+	<InstallHookHand.description>Kanca kol takma.</InstallHookHand.description>
+	<InstallHookHand.jobString>Kanca kol takıyor.</InstallHookHand.jobString>
+
+	<InstallDenture.label>Diş Protezi Tak</InstallDenture.label>
+	<InstallDenture.description>Basit diş protezi takma.</InstallDenture.description>
+	<InstallDenture.jobString>Diş protezi takıyor.</InstallDenture.jobString>
+
+	<InstallWoodenFoot.label>Ahşap Ayak Tak</InstallWoodenFoot.label>
+	<InstallWoodenFoot.description>Ahşap ayak takma.</InstallWoodenFoot.description>
+	<InstallWoodenFoot.jobString>Ahşap ayak takıyor.</InstallWoodenFoot.jobString>
+
+	<InstallPegLeg.label>Ahşap Bacak Tak</InstallPegLeg.label>
+	<InstallPegLeg.description>Ahşap bacak takma.</InstallPegLeg.description>
+	<InstallPegLeg.jobString>Ahşap bacak takıyor.</InstallPegLeg.jobString>
+
+	<InstallEarBandage.label>Kulak Bandı Tak</InstallEarBandage.label>
+	<InstallEarBandage.description>Kulak bandı takma.</InstallEarBandage.description>
+	<InstallEarBandage.jobstring>Kulak bandı takıyor.</InstallEarBandage.jobstring>
+
+</LanguageData>

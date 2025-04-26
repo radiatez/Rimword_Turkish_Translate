@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+		
+	<EyePatch.label>Göz bandı</EyePatch.label>
+	<HookHand.label>Çengel el</HookHand.label>
+	<WoodenFoot.label>Ahşap ayak</WoodenFoot.label>
+	<SteelArm.label>Çelik kol</SteelArm.label>
+	<denture.label>Diş protezi</denture.label>
+	<PegLeg.label>Ahşap bacak</PegLeg.label>
+	<EarBandage.label>Kulak bandı</EarBandage.label>
+
+</LanguageData>

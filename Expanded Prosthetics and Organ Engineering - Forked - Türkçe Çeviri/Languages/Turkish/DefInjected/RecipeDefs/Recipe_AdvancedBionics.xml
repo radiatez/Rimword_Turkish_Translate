@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<InstallAdvancedPowerArm.label>Gelişmiş Güçlü Kol Tak</InstallAdvancedPowerArm.label>
+	<InstallAdvancedPowerArm.description>Gelişmiş güçlü kol tak.</InstallAdvancedPowerArm.description>
+	<InstallAdvancedPowerArm.jobString>Gelişmiş güçlü kol takıyor.</InstallAdvancedPowerArm.jobString>
+	
+	<InstallAdvancedBionicArm.label>Gelişmiş Biyonik Kol Tak</InstallAdvancedBionicArm.label>
+	<InstallAdvancedBionicArm.description>Gelişmiş biyonik kol tak.</InstallAdvancedBionicArm.description>
+	<InstallAdvancedBionicArm.jobString>Gelişmiş biyonik kol takıyor.</InstallAdvancedBionicArm.jobString>
+
+	<InstallAdvancedBionicLeg.label>Gelişmiş Biyonik Bacak Tak</InstallAdvancedBionicLeg.label>
+	<InstallAdvancedBionicLeg.description>Gelişmiş biyonik bacak tak.</InstallAdvancedBionicLeg.description>
+	<InstallAdvancedBionicLeg.jobString>Gelişmiş biyonik bacak takıyor.</InstallAdvancedBionicLeg.jobString>
+
+	<InstallAdvancedBionicHand.label>Gelişmiş Biyonik El Tak</InstallAdvancedBionicHand.label>
+	<InstallAdvancedBionicHand.description>Gelişmiş biyonik el tak.</InstallAdvancedBionicHand.description>
+	<InstallAdvancedBionicHand.jobString>Gelişmiş biyonik el takıyor.</InstallAdvancedBionicHand.jobString>
+
+	<InstallAdvancedBionicFoot.label>Gelişmiş Biyonik Ayak Tak</InstallAdvancedBionicFoot.label>
+	<InstallAdvancedBionicFoot.description>Gelişmiş biyonik ayak tak.</InstallAdvancedBionicFoot.description>
+	<InstallAdvancedBionicFoot.jobString>Gelişmiş biyonik ayak takıyor.</InstallAdvancedBionicFoot.jobString>
+
+	<InstallAdvancedBionicEye.label>Gelişmiş Biyonik Göz Tak</InstallAdvancedBionicEye.label>
+	<InstallAdvancedBionicEye.description>Gelişmiş biyonik göz tak.</InstallAdvancedBionicEye.description>
+	<InstallAdvancedBionicEye.jobString>Gelişmiş biyonik göz takıyor.</InstallAdvancedBionicEye.jobString>
+
+	<InstallAdvancedBionicEar.label>Gelişmiş Biyonik Kulak Tak</InstallAdvancedBionicEar.label>
+	<InstallAdvancedBionicEar.description>Gelişmiş biyonik kulak tak.</InstallAdvancedBionicEar.description>
+	<InstallAdvancedBionicEar.jobString>Gelişmiş biyonik kulak takıyor.</InstallAdvancedBionicEar.jobString>
+
+	<InstallAdvancedBionicJaw.label>Gelişmiş Biyonik Çene Tak</InstallAdvancedBionicJaw.label>
+	<InstallAdvancedBionicJaw.description>Gelişmiş biyonik çene tak.</InstallAdvancedBionicJaw.description>
+	<InstallAdvancedBionicJaw.jobString>Gelişmiş biyonik çene takıyor.</InstallAdvancedBionicJaw.jobString>
+
+	<InstallAdvancedBionicSpine.label>Gelişmiş Biyonik Omurga Tak</InstallAdvancedBionicSpine.label>
+	<InstallAdvancedBionicSpine.description>Gelişmiş biyonik omurga tak.</InstallAdvancedBionicSpine.description>
+	<InstallAdvancedBionicSpine.jobString>Gelişmiş biyonik omurga takıyor.</InstallAdvancedBionicSpine.jobString>
+	
+	<InstallExoskeletonSuit.label>İzokskelit Tak</InstallExoskeletonSuit.label>
+	<InstallExoskeletonSuit.description>İzokskelit tak.</InstallExoskeletonSuit.description>
+	<InstallExoskeletonSuit.jobstring>İzokskelit takıyor.</InstallExoskeletonSuit.jobstring>
+	
+</LanguageData>

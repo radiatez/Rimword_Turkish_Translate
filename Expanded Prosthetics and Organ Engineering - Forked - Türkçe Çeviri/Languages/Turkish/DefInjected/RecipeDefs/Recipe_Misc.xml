@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<HealScars.label>Yara İzini Tedavi Et</HealScars.label>
+	<HealScars.description>Sentetik deri kullanarak yara izlerini tedavi etme.</HealScars.description>
+	<HealScars.jobString>Yara izini tedavi eder</HealScars.jobString>
+
+</LanguageData>

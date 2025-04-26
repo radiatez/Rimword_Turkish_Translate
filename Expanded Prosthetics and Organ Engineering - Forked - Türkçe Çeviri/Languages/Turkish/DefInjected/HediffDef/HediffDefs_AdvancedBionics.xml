@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+		
+	<AdvancedBionicHand.label>Gelişmiş biyonik el</AdvancedBionicHand.label>
+	<AdvancedBionicFoot.label>Gelişmiş biyonik ayak</AdvancedBionicFoot.label>
+	<AdvancedBionicSpine.label>Gelişmiş biyonik omurga</AdvancedBionicSpine.label>
+	<AdvancedBionicJaw.label>Gelişmiş biyonik çene</AdvancedBionicJaw.label>
+	<AdvancedBionicEar.label>Gelişmiş biyonik kulak</AdvancedBionicEar.label>
+	<AdvancedPowerArm.label>Gelişmiş güç kolu</AdvancedPowerArm.label>
+	<AdvancedBionicLeg.label>Gelişmiş biyonik bacak</AdvancedBionicLeg.label>
+	<AdvancedBionicArm.label>Gelişmiş biyonik kol</AdvancedBionicArm.label>
+	<AdvancedBionicEye.label>Gelişmiş biyonik göz</AdvancedBionicEye.label>
+	<ExoskeletonSuit.label>Ekzoselet</ExoskeletonSuit.label>
+	
+</LanguageData>
