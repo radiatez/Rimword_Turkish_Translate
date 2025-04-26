@@ -7,13 +7,13 @@
 	</supportedVersions>
 		<modDependencies>		
 		<li>
-			<packageId>vat.epoeforke</packageId>
+			<packageId>vat.epoeforked</packageId>
 			<displayName>Expanded Prosthetics and Organ Engineering - Forked</displayName>
 			<steamWorkshopUrl>steam://url/CommunityFilePage/1949064302</steamWorkshopUrl>
 		</li>		
 	</modDependencies>
 		<loadAfter>
-		<li>vat.epoeforke</li>
+		<li>vat.epoeforked</li>
 	</loadAfter>
 	<packageId>hyilmaz.rimword.tr.1949064302</packageId>
 	<description>	
