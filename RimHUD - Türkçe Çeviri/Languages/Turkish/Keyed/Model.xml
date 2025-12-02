@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <RimHUD.Model.Bio.Lifestage>Yaşam evresi</RimHUD.Model.Bio.Lifestage>
+  <RimHUD.Model.Bio.Trainability>Eğitilebilirlik</RimHUD.Model.Bio.Trainability>
+  <RimHUD.Model.Bio.Petness>Evcilik</RimHUD.Model.Bio.Petness>
+
+  <RimHUD.Model.RelationKindAndFaction>{0} {1}</RimHUD.Model.RelationKindAndFaction>
+  <RimHUD.Model.OfFaction>{0} fraksiyonundan</RimHUD.Model.OfFaction>
+  <RimHUD.Model.Former>eski {0}</RimHUD.Model.Former>
+
+  <RimHUD.Model.Faction.Wild>vahşi</RimHUD.Model.Faction.Wild>
+  <RimHUD.Model.Faction.Allied>müttefik</RimHUD.Model.Faction.Allied>
+  <RimHUD.Model.Faction.Enemy>düşman</RimHUD.Model.Faction.Enemy>
+  <RimHUD.Model.Faction.Hostile>hasım</RimHUD.Model.Faction.Hostile>
+  <RimHUD.Model.Faction.Independent>bağımsız</RimHUD.Model.Faction.Independent>
+  <RimHUD.Model.Faction.Prisoner>tutsak</RimHUD.Model.Faction.Prisoner>
+  <RimHUD.Model.Faction.Slave>köleleştirilmiş</RimHUD.Model.Faction.Slave>
+
+  <RimHUD.Model.Creature.Wild>yaratık</RimHUD.Model.Creature.Wild>
+  <RimHUD.Model.Creature.Tame>hayvan</RimHUD.Model.Creature.Tame>
+  <RimHUD.Model.Creature.Stray>başıboş</RimHUD.Model.Creature.Stray>
+  <RimHUD.Model.Creature.Pet>evcil</RimHUD.Model.Creature.Pet>
+  <RimHUD.Model.Creature.ExoticPet>egzotik evcil</RimHUD.Model.Creature.ExoticPet>
+  <RimHUD.Model.Creature.Predator>yırtıcı</RimHUD.Model.Creature.Predator>
+  <RimHUD.Model.Creature.Hunt>av hayvanı</RimHUD.Model.Creature.Hunt>
+  <RimHUD.Model.Creature.Pack>yük hayvanı</RimHUD.Model.Creature.Pack>
+  <RimHUD.Model.Creature.Farm>çiftlik hayvanı</RimHUD.Model.Creature.Farm>
+  <RimHUD.Model.Creature.Herd>sürü hayvanı</RimHUD.Model.Creature.Herd>
+  <RimHUD.Model.Creature.Insect>böcek</RimHUD.Model.Creature.Insect>
+  <RimHUD.Model.Creature.Mechanoid>mekanoid</RimHUD.Model.Creature.Mechanoid>
+  <RimHUD.Model.Creature.Unit>birim</RimHUD.Model.Creature.Unit>
+  <RimHUD.Model.Creature.Entity>varlık</RimHUD.Model.Creature.Entity>
+
+  <RimHUD.Model.GenderRaceAndAge>{0}, {1} yaşında</RimHUD.Model.GenderRaceAndAge>
+  <RimHUD.Model.Age.Birthday>bugün</RimHUD.Model.Age.Birthday>
+  <RimHUD.Model.Age.Day>ve bir gün</RimHUD.Model.Age.Day>
+  <RimHUD.Model.Age.Days>ve {0} gün</RimHUD.Model.Age.Days>
+
+  <RimHUD.Model.Health.Bleed>{0} içinde kan kaybından ölecek</RimHUD.Model.Health.Bleed>
+  <RimHUD.Model.Health.Tend>{0} bakıma ihtiyaç duyuyor</RimHUD.Model.Health.Tend>
+  <RimHUD.Model.Health.TendPlural>{0} durum bakım gerektiriyor</RimHUD.Model.Health.TendPlural>
+  <RimHUD.Model.Health.Threat>Hayati tehlike içeren {0} var</RimHUD.Model.Health.Threat>
+  <RimHUD.Model.Health.ThreatPlural>{0} hayati tehlike içeren durum var</RimHUD.Model.Health.ThreatPlural>
+  <RimHUD.Model.Health.Affected>{0} nedeniyle etkilenmiş</RimHUD.Model.Health.Affected>
+  <RimHUD.Model.Health.AffectedTwo>{0} ve 1 diğer durumdan etkilenmiş</RimHUD.Model.Health.AffectedTwo>
+  <RimHUD.Model.Health.AffectedPlural>{0} ve {1} diğer durumdan etkilenmiş</RimHUD.Model.Health.AffectedPlural>
+
+  <RimHUD.Model.Health.Good>Durumu iyi</RimHUD.Model.Health.Good>
+  <RimHUD.Model.Health.Stable>Durumu stabil</RimHUD.Model.Health.Stable>
+  <RimHUD.Model.Health.Poor>Durumu zayıf</RimHUD.Model.Health.Poor>
+  <RimHUD.Model.Health.Critical>Durumu kritik</RimHUD.Model.Health.Critical>
+
+  <RimHUD.Model.Health.MedicalCare>Bu {0} için uygulanacak tıbbi bakım seviyesini değiştir.\n\nMevcut seviye: {1}</RimHUD.Model.Health.MedicalCare>
+
+  <RimHUD.Model.Mood.ExtremeBreakImminent>Aşırı depresif hissediyor</RimHUD.Model.Mood.ExtremeBreakImminent>
+  <RimHUD.Model.Mood.MajorBreakImminent>Aşırı stresli hissediyor</RimHUD.Model.Mood.MajorBreakImminent>
+  <RimHUD.Model.Mood.MinorBreakImminent>Endişeli hissediyor</RimHUD.Model.Mood.MinorBreakImminent>
+  <RimHUD.Model.Mood.Excellent>Son derece özgüvenli</RimHUD.Model.Mood.Excellent>
+  <RimHUD.Model.Mood.Good>Sakin hissediyor</RimHUD.Model.Mood.Good>
+  <RimHUD.Model.Mood.Neutral>Nötr hissediyor</RimHUD.Model.Mood.Neutral>
+
+  <RimHUD.Model.Mood.Inspired>{0}, {1} boyunca</RimHUD.Model.Mood.Inspired>
+  <RimHUD.Model.Mood.Stunned>{0} boyunca sersemlemiş</RimHUD.Model.Mood.Stunned>
+  <RimHUD.Model.Mood.Staggered>{0} boyunca sendelemiş</RimHUD.Model.Mood.Staggered>
+
+  <RimHUD.Model.Info.Activity>Aktivite</RimHUD.Model.Info.Activity>
+  <RimHUD.Model.Info.Activity.Tooltip>{0}\n\n{1}\n\n{2}</RimHUD.Model.Info.Activity.Tooltip>
+  <RimHUD.Model.Info.Activity.WorkType>İş türü</RimHUD.Model.Info.Activity.WorkType>
+  <RimHUD.Model.Info.Activity.RelevantSkills>İlgili beceriler</RimHUD.Model.Info.Activity.RelevantSkills>
+  <RimHUD.Model.Info.Attacking>{0} hedefine saldırıyor</RimHUD.Model.Info.Attacking>
+
+  <RimHUD.Model.Selector.FoodFormat>Yemek</RimHUD.Model.Selector.FoodFormat>
+  <RimHUD.Model.Selector.OutfitFormat>Kıyafet</RimHUD.Model.Selector.OutfitFormat>
+  <RimHUD.Model.Selector.AreaFormat>Alan</RimHUD.Model.Selector.AreaFormat>
+  <RimHUD.Model.Selector.TimetableFormat>Program</RimHUD.Model.Selector.TimetableFormat>
+  <RimHUD.Model.Selector.SetTimeAssignment>{0}. saati {1} olarak ayarla</RimHUD.Model.Selector.SetTimeAssignment>
+  <RimHUD.Model.Selector.Manage>Yönet...</RimHUD.Model.Selector.Manage>
+
+  <RimHUD.Model.Skill.PassionIndicator>★</RimHUD.Model.Skill.PassionIndicator>
+</LanguageData>

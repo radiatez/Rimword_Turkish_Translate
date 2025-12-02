@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <RimHUD.Theme.RefreshRate>Yenileme hızı</RimHUD.Theme.RefreshRate>
+  <RimHUD.Theme.RefreshRateDesc>HUD'un ne sıklıkla yenileneceğini belirler. Kare hızında düşüş yaşıyorsan bunu daha yüksek bir değere ayarla.</RimHUD.Theme.RefreshRateDesc>
+  <RimHUD.Theme.RefreshRateUnits>ms</RimHUD.Theme.RefreshRateUnits>
+
+  <RimHUD.Theme.InspectPane>İnceleme Paneli</RimHUD.Theme.InspectPane>
+  <RimHUD.Theme.InspectPaneDocked>Yerleşik Mod</RimHUD.Theme.InspectPaneDocked>
+  <RimHUD.Theme.InspectPaneDockedDesc>HUD'u İnceleme Paneli'ne sabitler.</RimHUD.Theme.InspectPaneDockedDesc>
+  <RimHUD.Theme.InspectPaneModify>Değiştir</RimHUD.Theme.InspectPaneModify>
+  <RimHUD.Theme.InspectPaneModifyDesc>Yerleşik mod için gereklidir.</RimHUD.Theme.InspectPaneModifyDesc>
+  <RimHUD.Theme.InspectPaneAddLog>Karakter günlüğünü göster</RimHUD.Theme.InspectPaneAddLog>
+  <RimHUD.Theme.InspectPaneAddLogDesc>Seçili karakterin günlüğüyle inceleme panelini doldurur. Yerleşik modda kullanılamaz.</RimHUD.Theme.InspectPaneAddLogDesc>
+  <RimHUD.Theme.InspectPaneHeight>Panel yüksekliği</RimHUD.Theme.InspectPaneHeight>
+  <RimHUD.Theme.InspectPaneMinTabs>Minimum sekme</RimHUD.Theme.InspectPaneMinTabs>
+  <RimHUD.Theme.InspectPaneTabWidth>Sekme genişliği</RimHUD.Theme.InspectPaneTabWidth>
+
+  <RimHUD.Theme.Floating>Yüzer Mod</RimHUD.Theme.Floating>
+  <RimHUD.Theme.FloatingAnchor>Konum noktası</RimHUD.Theme.FloatingAnchor>
+  <RimHUD.Theme.FloatingAnchors>Sol Üst|Orta Üst|Sağ Üst|Sol Orta|Orta|Sağ Orta|Sol Alt|Orta Alt|Sağ Alt</RimHUD.Theme.FloatingAnchors>
+  <RimHUD.Theme.FloatingOffsetX>X</RimHUD.Theme.FloatingOffsetX>
+  <RimHUD.Theme.FloatingOffsetY>Y</RimHUD.Theme.FloatingOffsetY>
+  <RimHUD.Theme.FloatingWidth>Genişlik</RimHUD.Theme.FloatingWidth>
+  <RimHUD.Theme.FloatingHeight>Yükseklik</RimHUD.Theme.FloatingHeight>
+
+  <RimHUD.Theme.TextStyle.Size>Boyut</RimHUD.Theme.TextStyle.Size>
+  <RimHUD.Theme.TextStyle.Height>Satır yüksekliği</RimHUD.Theme.TextStyle.Height>
+
+  <RimHUD.Theme.TextStyleRegular>Normal metin</RimHUD.Theme.TextStyleRegular>
+  <RimHUD.Theme.TextStyleLarge>Başlık metni</RimHUD.Theme.TextStyleLarge>
+  <RimHUD.Theme.TextStyleSmall>Açıklama metni</RimHUD.Theme.TextStyleSmall>
+
+  <RimHUD.Theme.LabelWidth>Etiket genişliği</RimHUD.Theme.LabelWidth>
+  <RimHUD.Theme.ValueWidth>Değer genişliği</RimHUD.Theme.ValueWidth>
+
+  <RimHUD.Theme.Miscellaneous>Diğer</RimHUD.Theme.Miscellaneous>
+
+  <RimHUD.Theme.ShowFactionIcon>Fraksiyon simgesini göster</RimHUD.Theme.ShowFactionIcon>
+  <RimHUD.Theme.ShowIdeoligionIcon>İdeoligion simgesini göster</RimHUD.Theme.ShowIdeoligionIcon>
+  <RimHUD.Theme.ShowDecimals>Ondalıkları göster</RimHUD.Theme.ShowDecimals>
+
+  <RimHUD.Theme.LetterPadding>Mektup boşluğu</RimHUD.Theme.LetterPadding>
+  <RimHUD.Theme.LetterPaddingDesc>Ekranın sağ tarafında görünen mektup bildirimleri arasındaki mesafeyi değiştirir. Vanilla: 12</RimHUD.Theme.LetterPaddingDesc>
+  <RimHUD.Theme.LetterCompress>Bildirimleri sıkıştır</RimHUD.Theme.LetterCompress>
+  <RimHUD.Theme.LetterCompressDesc>HUD ile çakışmaları durumunda sağ taraftaki mektup ve uyarıları sıkıştırır.</RimHUD.Theme.LetterCompressDesc>
+
+  <RimHUD.Theme.HudColors>HUD Renkleri</RimHUD.Theme.HudColors>
+
+  <RimHUD.Theme.MainColor>Ana metin</RimHUD.Theme.MainColor>
+  <RimHUD.Theme.InfoColor>Bilgi metni</RimHUD.Theme.InfoColor>
+  <RimHUD.Theme.DisabledColor>Devre dışı metin</RimHUD.Theme.DisabledColor>
+  <RimHUD.Theme.CriticalColor>Kritik metin</RimHUD.Theme.CriticalColor>
+  <RimHUD.Theme.WarningColor>Uyarı metni</RimHUD.Theme.WarningColor>
+  <RimHUD.Theme.NeutralColor>Nötr metin</RimHUD.Theme.NeutralColor>
+  <RimHUD.Theme.GoodColor>İyi metin</RimHUD.Theme.GoodColor>
+  <RimHUD.Theme.ExcellentColor>Mükemmel metin</RimHUD.Theme.ExcellentColor>
+  <RimHUD.Theme.BarBackgroundColor>Çubuk arka planı</RimHUD.Theme.BarBackgroundColor>
+  <RimHUD.Theme.BarMainColor>Çubuk ana</RimHUD.Theme.BarMainColor>
+  <RimHUD.Theme.BarLowColor>Çubuk düşük</RimHUD.Theme.BarLowColor>
+  <RimHUD.Theme.BarThresholdColor>Çubuk eşik</RimHUD.Theme.BarThresholdColor>
+  <RimHUD.Theme.SelectorBackgroundColor>Seçici arka planı</RimHUD.Theme.SelectorBackgroundColor>
+  <RimHUD.Theme.SelectorTextColor>Seçici metni</RimHUD.Theme.SelectorTextColor>
+  <RimHUD.Theme.LineColor>Çizgi</RimHUD.Theme.LineColor>
+
+  <RimHUD.Theme.FactionColors>Fraksiyon Renkleri</RimHUD.Theme.FactionColors>
+  <RimHUD.Theme.FactionOwnColor>Kendi</RimHUD.Theme.FactionOwnColor>
+  <RimHUD.Theme.FactionAlliedColor>Müttefik</RimHUD.Theme.FactionAlliedColor>
+  <RimHUD.Theme.FactionIndependentColor>Bağımsız</RimHUD.Theme.FactionIndependentColor>
+  <RimHUD.Theme.FactionHostileColor>Hasım</RimHUD.Theme.FactionHostileColor>
+  <RimHUD.Theme.FactionWildColor>Vahşi</RimHUD.Theme.FactionWildColor>
+  <RimHUD.Theme.FactionPrisonerColor>Tutsak</RimHUD.Theme.FactionPrisonerColor>
+  <RimHUD.Theme.FactionSlaveColor>Köle</RimHUD.Theme.FactionSlaveColor>
+
+  <RimHUD.Theme.SkillColors>Beceri Renkleri</RimHUD.Theme.SkillColors>
+  <RimHUD.Theme.SkillMinorPassionColor>Düşük tutku</RimHUD.Theme.SkillMinorPassionColor>
+  <RimHUD.Theme.SkillMajorPassionColor>Yüksek tutku</RimHUD.Theme.SkillMajorPassionColor>
+  <RimHUD.Theme.SkillSaturatedColor>Öğrenme doygun</RimHUD.Theme.SkillSaturatedColor>
+  <RimHUD.Theme.SkillActiveColor>Şu anda aktif</RimHUD.Theme.SkillActiveColor>
+</LanguageData>
