@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- HE el bombası -->
+
+  <RNThrown_RGD5HEGrenade.label>RGD-5 El Bombası</RNThrown_RGD5HEGrenade.label>
+  <RNThrown_RGD5HEGrenade.description>RGD-5, patlayıcı maddeyle doldurulmuş ve atıldıktan sonra zamanlayıcıyla patlayan bir el bombasıdır. Düşman personelini etkisiz hale getirmek ve hafif siperleri yıkmak için kullanılır.</RNThrown_RGD5HEGrenade.description>
+  <RNThrown_RGD5HEGrenade.verbs.0.label>parçalanmalı el bombası fırlat</RNThrown_RGD5HEGrenade.verbs.0.label>
+
+  <RNProj_RGHEGrenade.label>RGD-5 bombası</RNProj_RGHEGrenade.label>
+
+  <!-- SES BOMBASI -->
+
+  <RNThrown_M84Stun_Grenade.label>M84 Ses Bombası</RNThrown_M84Stun_Grenade.label>
+  <RNThrown_M84Stun_Grenade.description>M84, ABD silahlı kuvvetleri ve özel operasyon birlikleri tarafından kullanılan bir ses bombasıdır. Patladığında 170–180 dB arasında yüksek bir ses ve parlak bir ışık patlaması oluşturur; bu da geçici körlük ve sağırlık yaparak hedefin etkisiz hale getirilmesini ya da güvenli şekilde kaçışı mümkün kılar.</RNThrown_M84Stun_Grenade.description>
+  <RNThrown_M84Stun_Grenade.verbs.0.label>M84 ses bombası fırlat</RNThrown_M84Stun_Grenade.verbs.0.label>
+
+  <RNProjectile_M84Stun_Grenade.label>M84 Ses Bombası</RNProjectile_M84Stun_Grenade.label>
+
+</LanguageData>

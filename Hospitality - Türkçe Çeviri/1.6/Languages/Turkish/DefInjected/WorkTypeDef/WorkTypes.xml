@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--suppress ALL -->
+<LanguageData>
+	
+	<Diplomat.labelShort>Ev Sahibi</Diplomat.labelShort>
+	<Diplomat.pawnLabel>Ev Sahibi</Diplomat.pawnLabel>
+	<Diplomat.gerundLabel>Misafirleri ağırlıyor ve eğlendiriyor</Diplomat.gerundLabel>
+	<Diplomat.description>Ev sahipleri misafirleri eğlendirir ve arkadaşlıklar kurar.</Diplomat.description>
+	<Diplomat.verb>Ağırlamak</Diplomat.verb>
+
+</LanguageData>

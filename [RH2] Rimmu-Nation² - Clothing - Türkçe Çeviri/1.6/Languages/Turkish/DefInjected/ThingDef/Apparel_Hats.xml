@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RNApparel_Beanie_Beechfield.label>Örgü Bere</RNApparel_Beanie_Beechfield.label>
+    <RNApparel_Beanie_Beechfield.description>Yumuşak, kalın bir bere. Çok sıcak tutar, özellikle kış aylarında faydalıdır.\n\nBu model Beechfield örgü serisine aittir.</RNApparel_Beanie_Beechfield.description>
+
+    <RNApparel_BaseballCap_511Tactical.label>Beyzbol Şapkası</RNApparel_BaseballCap_511Tactical.label>
+    <RNApparel_BaseballCap_511Tactical.description>Beyzbol şapkaları yumuşaktır ve genellikle siperlik öne bakacak şekilde takılır. Takana ayrı bir hava katar. Geleneksel beyzbol formalarının bir parçasıdır.\n\nBu model 5.11 Tactical serisindendir.</RNApparel_BaseballCap_511Tactical.description>
+
+    <RNApparel_FieldCap_HelikonTex.label>Alan Şapkası</RNApparel_FieldCap_HelikonTex.label>
+    <RNApparel_FieldCap_HelikonTex.description>Alan şapkası, bazen görev şapkası olarak da bilinir. Sert siperlikli, yumuşak bir şapkadır ve beyzbol şapkasına benzer. Polis memurları ve bazı askerler tarafından, balistik kask gerekmediğinde giyilir.\n\nBu model Helikon-Tex serisine aittir.</RNApparel_FieldCap_HelikonTex.description>
+
+    <RNApparel_BoonieHat_Bushmaster.label>Panama Şapkası</RNApparel_BoonieHat_Bushmaster.label>
+    <RNApparel_BoonieHat_Bushmaster.description>Panama şapkası, geniş kenarlı bir şapkadır ve genellikle sıcak tropik bölgelerdeki askerler tarafından kullanılır. Tasarımı kaseye benzer; sert kenarlara sahiptir. Avustralya versiyonu daha dar kenarlıdır ve “Giggle Hat” olarak bilinir.\n\nBu model Bushmaster serisindendir.</RNApparel_BoonieHat_Bushmaster.description>
+
+    <RNApparel_BoonieHat_MILTEC.label>Tropikal Panama Şapkası</RNApparel_BoonieHat_MILTEC.label>
+    <RNApparel_BoonieHat_MILTEC.description>Panama şapkası, geniş kenarlı bir şapkadır ve genellikle sıcak tropik bölgelerdeki askerler tarafından kullanılır. Tasarımı kaseye benzer; sert kenarlara sahiptir. Avustralya versiyonu daha dar kenarlıdır ve “Giggle Hat” olarak bilinir.\n\nBu model Bushmaster serisindendir.</RNApparel_BoonieHat_MILTEC.description>
+
+    <RNApparel_Beret_RUMilitary.label>Askeri Bere</RNApparel_Beret_RUMilitary.label>
+    <RNApparel_Beret_RUMilitary.description>Düz tepeli, yumuşak yuvarlak şapka.\n\nBu model Rus Silahlı Kuvvetleri'ne aittir.</RNApparel_Beret_RUMilitary.description>
+
+    <RNApparel_TrenchCoatHood_PUBG.label>Yağmurluk Kapüşonu</RNApparel_TrenchCoatHood_PUBG.label>
+    <RNApparel_TrenchCoatHood_PUBG.description>Başlangıçta bir trençkota ait olan, çıkarılabilir kapüşon. Oldukça sıcak tutar.</RNApparel_TrenchCoatHood_PUBG.description>
+
+    <RNApparel_GunslingerHat_Generic.label>Kovboy Şapkası</RNApparel_GunslingerHat_Generic.label>
+    <RNApparel_GunslingerHat_Generic.description>“Stetson” tipi şapka, yukarı kıvrılmış kenarları ve kubbeli tepesiyle tanınır. Kenarları genellikle tamamen kıvrılmıştır ve hem önden hem arkadan koruma sağlar. Vahşi Batı'nın nişancıları ve şerifleri tarafından giyilen bu ikonik şapka, sert stilin sembolüdür ve sınır hayatının ruhunu yansıtır.</RNApparel_GunslingerHat_Generic.description>
+
+    <RNApparel_FedoraHat_Generic.label>Fedora</RNApparel_FedoraHat_Generic.label>
+    <RNApparel_FedoraHat_Generic.description>Fedora, yumuşak kenarlı ve kubbeli yapılı bir şapkadır. Kenarları genellikle kıvrılarak hem önden hem arkadan koruma sağlar.</RNApparel_FedoraHat_Generic.description>
+
+    <RNApparel_Beanie_Skullcap.label>Skullcap Bere</RNApparel_Beanie_Skullcap.label>
+    <RNApparel_Beanie_Skullcap.description>Yumuşak, kalın bir bere. Çok sıcak tutar, özellikle kış aylarında faydalıdır.\n\nBu model Beechfield örgü serisine aittir.</RNApparel_Beanie_Skullcap.description>
+
+</LanguageData>

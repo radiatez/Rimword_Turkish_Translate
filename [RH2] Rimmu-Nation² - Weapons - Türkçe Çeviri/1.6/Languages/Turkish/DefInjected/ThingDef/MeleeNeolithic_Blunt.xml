@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Beyzbol Sopası -->
+
+  <RNMeleeWeapon_Baseball_Bat.label>Beyzbol sopası</RNMeleeWeapon_Baseball_Bat.label>
+  <RNMeleeWeapon_Baseball_Bat.description>Beyzbol sopası, beyzbol oyununda, atıcı tarafından atılan topa vurmak için kullanılan düz, ahşap veya metal bir sopadır. Kurallara göre, en kalın yerinde çapı 2.75 inç (7.0 cm) ve uzunluğu 42 inç (1.067 m) geçmemelidir. Tarihsel olarak yaklaşık 3 pound (1.4 kg) ağırlığındaki sopalar kullanılsa da, günümüzde 33 ons (0.94 kg) ağırlığındaki modeller daha yaygındır; maksimum ağırlık ise 34-36 ons (0.96-1.0 kg) civarındadır.</RNMeleeWeapon_Baseball_Bat.description>
+  <RNMeleeWeapon_Baseball_Bat.tools.0.label>sap</RNMeleeWeapon_Baseball_Bat.tools.0.label>
+  <RNMeleeWeapon_Baseball_Bat.tools.1.label>baş</RNMeleeWeapon_Baseball_Bat.tools.1.label>
+
+  <RNMeleeWeapon_BrooklynSmasher_Bat.label>Beyzbol sopası (Brooklyn Smasher)</RNMeleeWeapon_BrooklynSmasher_Bat.label>
+  <RNMeleeWeapon_BrooklynSmasher_Bat.description>Beyzbol sopası, beyzbol oyununda, atıcı tarafından atılan topa vurmak için kullanılan düz, ahşap veya metal bir sopadır. Kurallara göre, en kalın yerinde çapı 2.75 inç (7.0 cm) ve uzunluğu 42 inç (1.067 m) geçmemelidir. Tarihsel olarak yaklaşık 3 pound (1.4 kg) ağırlığındaki sopalar kullanılsa da, günümüzde 33 ons (0.94 kg) ağırlığındaki modeller daha yaygındır; maksimum ağırlık ise 34-36 ons (0.96-1.0 kg) civarındadır.\n\nBu beyzbol sopası modeli Cold Steel Brooklyn Smasher serisine aittir.</RNMeleeWeapon_BrooklynSmasher_Bat.description>
+  <RNMeleeWeapon_BrooklynSmasher_Bat.tools.0.label>sap</RNMeleeWeapon_BrooklynSmasher_Bat.tools.0.label>
+  <RNMeleeWeapon_BrooklynSmasher_Bat.tools.1.label>baş</RNMeleeWeapon_BrooklynSmasher_Bat.tools.1.label>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+	<AIRobot_GoRecharge.reportString>TargetA'ya doğru ilerliyor.</AIRobot_GoRecharge.reportString>
+	<AIRobot_GoDespawn.reportString>TargetA'ya doğru ilerliyor.</AIRobot_GoDespawn.reportString>
+	<AIRobot_DeconstructDamagedRobot.reportString>TargetA'yı söküyor.</AIRobot_DeconstructDamagedRobot.reportString>
+	<AIRobot_RepairDamagedRobot.reportString>TargetB'yi onarıyor.</AIRobot_RepairDamagedRobot.reportString>
+
+</LanguageData>

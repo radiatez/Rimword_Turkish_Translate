@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RNMeleeWeapon_EickhornRecondoIV_Knife.label>muhrip bıçak (Eickhorn Recondo IV)</RNMeleeWeapon_EickhornRecondoIV_Knife.label>
+  <RNMeleeWeapon_EickhornRecondoIV_Knife.description>İnsan tarafından yapılan en eski nesnelerden biri. Bıçaklar birçok farklı biçimde olabilir ancak kavram hep aynıdır: tutmak için bir sap ve kesmek için keskin bir ağız.\n\nBu muhrip bıçak, Eickhorn Recondo IV modelidir.</RNMeleeWeapon_EickhornRecondoIV_Knife.description>
+  <RNMeleeWeapon_EickhornRecondoIV_Knife.tools.0.label>sap</RNMeleeWeapon_EickhornRecondoIV_Knife.tools.0.label>
+  <RNMeleeWeapon_EickhornRecondoIV_Knife.tools.1.label>bıçak</RNMeleeWeapon_EickhornRecondoIV_Knife.tools.1.label>
+  <RNMeleeWeapon_EickhornRecondoIV_Knife.tools.2.label>uç</RNMeleeWeapon_EickhornRecondoIV_Knife.tools.2.label>
+
+  <RNMeleeWeapon_KABAR_Knife.label>muhrip bıçak (KABAR)</RNMeleeWeapon_KABAR_Knife.label>
+  <RNMeleeWeapon_KABAR_Knife.description>İnsan tarafından yapılan en eski nesnelerden biri. Bıçaklar birçok farklı biçimde olabilir ancak kavram hep aynıdır: tutmak için bir sap ve kesmek için keskin bir ağız.\n\nBu muhrip bıçak, KABAR modelidir.</RNMeleeWeapon_KABAR_Knife.description>
+  <RNMeleeWeapon_KABAR_Knife.tools.0.label>sap</RNMeleeWeapon_KABAR_Knife.tools.0.label>
+  <RNMeleeWeapon_KABAR_Knife.tools.1.label>bıçak</RNMeleeWeapon_KABAR_Knife.tools.1.label>
+  <RNMeleeWeapon_KABAR_Knife.tools.2.label>uç</RNMeleeWeapon_KABAR_Knife.tools.2.label>
+
+  <RNMeleeWeapon_M3Trench_Knife.label>muhrip bıçak (Boker M3)</RNMeleeWeapon_M3Trench_Knife.label>
+  <RNMeleeWeapon_M3Trench_Knife.description>İnsan tarafından yapılan en eski nesnelerden biri. Bıçaklar birçok farklı biçimde olabilir ancak kavram hep aynıdır: tutmak için bir sap ve kesmek için keskin bir ağız.\n\nBu muhrip bıçak, Boker Plus M3 Trench Knife modelidir.</RNMeleeWeapon_M3Trench_Knife.description>
+  <RNMeleeWeapon_M3Trench_Knife.tools.0.label>sap</RNMeleeWeapon_M3Trench_Knife.tools.0.label>
+  <RNMeleeWeapon_M3Trench_Knife.tools.1.label>bıçak</RNMeleeWeapon_M3Trench_Knife.tools.1.label>
+  <RNMeleeWeapon_M3Trench_Knife.tools.2.label>uç</RNMeleeWeapon_M3Trench_Knife.tools.2.label>
+
+  <RNMeleeWeapon_FirstBlood_Knife.label>hayatta kalma bıçağı (İlk Kan)</RNMeleeWeapon_FirstBlood_Knife.label>
+  <RNMeleeWeapon_FirstBlood_Knife.description>İnsan tarafından yapılan en eski nesnelerden biri. Bıçaklar birçok farklı biçimde olabilir ancak kavram hep aynıdır: tutmak için bir sap ve kesmek için keskin bir ağız.\n\nBu hayatta kalma bıçağı, "Rambo: İlk Kan" filminden esinlenmiştir.</RNMeleeWeapon_FirstBlood_Knife.description>
+  <RNMeleeWeapon_FirstBlood_Knife.tools.0.label>sap</RNMeleeWeapon_FirstBlood_Knife.tools.0.label>
+  <RNMeleeWeapon_FirstBlood_Knife.tools.1.label>bıçak</RNMeleeWeapon_FirstBlood_Knife.tools.1.label>
+  <RNMeleeWeapon_FirstBlood_Knife.tools.2.label>uç</RNMeleeWeapon_FirstBlood_Knife.tools.2.label>
+
+  <RNMeleeWeapon_GerberSurvival_Knife.label>hayatta kalma bıçağı (Gerber)</RNMeleeWeapon_GerberSurvival_Knife.label>
+  <RNMeleeWeapon_GerberSurvival_Knife.description>İnsan tarafından yapılan en eski nesnelerden biri. Bıçaklar birçok farklı biçimde olabilir ancak kavram hep aynıdır: tutmak için bir sap ve kesmek için keskin bir ağız.\n\nBu hayatta kalma bıçağı, Gerber Bear Grylls modelidir.</RNMeleeWeapon_GerberSurvival_Knife.description>
+  <RNMeleeWeapon_GerberSurvival_Knife.tools.0.label>sap</RNMeleeWeapon_GerberSurvival_Knife.tools.0.label>
+  <RNMeleeWeapon_GerberSurvival_Knife.tools.1.label>bıçak</RNMeleeWeapon_GerberSurvival_Knife.tools.1.label>
+  <RNMeleeWeapon_GerberSurvival_Knife.tools.2.label>uç</RNMeleeWeapon_GerberSurvival_Knife.tools.2.label>
+
+  <RNMeleeWeapon_M9Bayonet_Knife.label>muhrip bıçak (M9 Bayonet)</RNMeleeWeapon_M9Bayonet_Knife.label>
+  <RNMeleeWeapon_M9Bayonet_Knife.description>İnsan tarafından yapılan en eski nesnelerden biri. Bıçaklar birçok farklı biçimde olabilir ancak kavram hep aynıdır: tutmak için bir sap ve kesmek için keskin bir ağız.\n\nBu muhrip bıçak, M9 Bayonet modelidir.</RNMeleeWeapon_M9Bayonet_Knife.description>
+  <RNMeleeWeapon_M9Bayonet_Knife.tools.0.label>sap</RNMeleeWeapon_M9Bayonet_Knife.tools.0.label>
+  <RNMeleeWeapon_M9Bayonet_Knife.tools.1.label>bıçak</RNMeleeWeapon_M9Bayonet_Knife.tools.1.label>
+  <RNMeleeWeapon_M9Bayonet_Knife.tools.2.label>uç</RNMeleeWeapon_M9Bayonet_Knife.tools.2.label>
+
+  <RNMeleeWeapon_Tanto_Sword.label>Tantō</RNMeleeWeapon_Tanto_Sword.label>
+  <RNMeleeWeapon_Tanto_Sword.description>Tantō (短刀, "kısa kılıç") — Japonya’nın feodal döneminde samuraylar tarafından taşınan geleneksel Japon kılıçlarından biridir. Heian dönemine kadar uzanır ve başlangıçta savaş aracı olarak tasarlanmış olsa da, zamanla daha süslü hale gelmiştir. Tantō modern çağda özellikle 1980'lerden sonra taktiksel bıçaklarda yeniden popülerlik kazanmıştır.\n\nBu tantō bıçağı, Cold Steel modelidir.</RNMeleeWeapon_Tanto_Sword.description>
+  <RNMeleeWeapon_Tanto_Sword.tools.0.label>sap</RNMeleeWeapon_Tanto_Sword.tools.0.label>
+  <RNMeleeWeapon_Tanto_Sword.tools.1.label>bıçak</RNMeleeWeapon_Tanto_Sword.tools.1.label>
+  <RNMeleeWeapon_Tanto_Sword.tools.2.label>uç</RNMeleeWeapon_Tanto_Sword.tools.2.label>
+
+  <RNMeleeWeapon_Karambit_Knife.label>karambit</RNMeleeWeapon_Karambit_Knife.label>
+  <RNMeleeWeapon_Karambit_Knife.description>Karambit (veya kerambit) — Batı Sumatra’daki Minangkabau halkına ait, pençeye benzeyen kavisli bir Endonezya bıçağıdır.\n\nBu karambit, Cold Steel Tiger modelidir.</RNMeleeWeapon_Karambit_Knife.description>
+  <RNMeleeWeapon_Karambit_Knife.tools.0.label>sap</RNMeleeWeapon_Karambit_Knife.tools.0.label>
+  <RNMeleeWeapon_Karambit_Knife.tools.1.label>bıçak</RNMeleeWeapon_Karambit_Knife.tools.1.label>
+  <RNMeleeWeapon_Karambit_Knife.tools.2.label>uç</RNMeleeWeapon_Karambit_Knife.tools.2.label>
+
+</LanguageData>

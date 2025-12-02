@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Auger Mk II -->
+
+  <RNSci_AugerMkII.label>Auger Mk II</RNSci_AugerMkII.label>
+  <RNSci_AugerMkII.description>Auger Mark II, kullanıcıların hedeflere nişan almasını ve duvarların arkasından ateş etmesini sağlayan standart Auger tüfeğinin geliştirilmiş versiyonudur. Auger Mark II, duvarların arkasındaki düşmanların ısı izini gösteren şeffaf bir vizöre sahiptir ve bu da onu, önceki Auger modelinde olduğu gibi konumlarını tahmin etmeye gerek kalmadan düşmanları etkisiz hale getirmek için ideal kılar.
+
+Auger Mk II’nin zamanlı radyasyon mermileri, artırılmış ateş gücü ve geliştirilmiş isabet hassasiyeti sunar.</RNSci_AugerMkII.description>
+  <RNSci_AugerMkII.tools.0.label>dipçik</RNSci_AugerMkII.tools.0.label>
+  <RNSci_AugerMkII.tools.1.label>namlu</RNSci_AugerMkII.tools.1.label>
+
+  <RNBullet_AugerMkII.label>Zamanlı Radyasyon Mermisi</RNBullet_AugerMkII.label>
+
+  <!-- Bullseye Mk II -->
+
+  <RNSci_BM003Razor.label>BM003 Razor</RNSci_BM003Razor.label>
+  <RNSci_BM003Razor.description>Razor BM (Bullseye Modified) 003, Mark II Bullseye tasarımı temel alınarak geliştirilen BM001 Razor’ın daha güçlü bir versiyonudur. Bu tüfeğin takip sistemi, yakın ve orta menzildeki siper dışında bulunan hedefler için daha hassas çalışır. Bu nedenle silaha "Mavi Ölüm" lakabı verilmiştir.</RNSci_BM003Razor.description>
+  <RNSci_BM003Razor.tools.0.label>dipçik</RNSci_BM003Razor.tools.0.label>
+  <RNSci_BM003Razor.tools.1.label>namlu</RNSci_BM003Razor.tools.1.label>
+
+  <RNBullet_BlueDeath.label>Razor Mermisi</RNBullet_BlueDeath.label>
+
+  <!-- Longbow 1S-1K -->
+
+  <RNSci_Longbow1S1K.label>Longbow 1S-1K</RNSci_Longbow1S1K.label>
+  <RNSci_Longbow1S1K.description>Longbow 1S-1K (1 atış - 1 ölüm), Chimera adı verilen yaratıkların istila ettiği alternatif bir Dünya'da, 1950'lerde Chimera teknolojisinin tersine mühendisliğiyle makisler tarafından geliştirilmiş MDC yapımı enerjili ray silahıdır.</RNSci_Longbow1S1K.description>
+  <RNSci_Longbow1S1K.tools.0.label>dipçik</RNSci_Longbow1S1K.tools.0.label>
+  <RNSci_Longbow1S1K.tools.1.label>namlu</RNSci_Longbow1S1K.tools.1.label>
+
+  <RNBullet_LongbowBeam.label>Longbow Işını</RNBullet_LongbowBeam.label>
+
+</LanguageData>

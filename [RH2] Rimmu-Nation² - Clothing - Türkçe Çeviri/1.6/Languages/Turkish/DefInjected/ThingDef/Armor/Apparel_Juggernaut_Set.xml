@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RNApparel_Helmet_Juggernaut.label>Juggernaut Miğferi</RNApparel_Helmet_Juggernaut.label>
+    <RNApparel_Helmet_Juggernaut.description>Juggernaut zırh takımının bir parçası olan bu miğfer, Altyn tipi balistik bir kask temelinde tasarlanmıştır. PBF tipi solunum maskesi ve balistik yüz koruyucusu ile donatılmıştır. Kullanıcıyı kimyasal saldırılara karşı dayanıklı kılar ve baş bölgesine tam koruma sağlar.</RNApparel_Helmet_Juggernaut.description>
+
+    <RNApparel_MedEng_JuggernautSuit.label>Juggernaut Zırh Takımı</RNApparel_MedEng_JuggernautSuit.label>
+    <RNApparel_MedEng_JuggernautSuit.description>Juggernaut zırh takımı; bomba imha zırhı ile plaka taşıyıcı kombinasyonudur. Zırha balistik plaka yerleştirme özelliği eklenmiştir. Bu ekipman genellikle "Juggernaut" birliklerine verilir ve ağır makineli silah kullanan askerler tarafından tercih edilir. Görevi, yüksek miktarda hasarı absorbe ederek kullanıcıyı adeta yürüyen bir tank haline getirmektir. Aşırı ağırlığı sebebiyle hareket kabiliyeti düşüktür.</RNApparel_MedEng_JuggernautSuit.description>
+
+</LanguageData>

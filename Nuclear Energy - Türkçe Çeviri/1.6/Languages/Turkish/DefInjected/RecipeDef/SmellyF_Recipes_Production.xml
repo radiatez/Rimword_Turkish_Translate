@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Make_RefinedUranium.label>Rafine Uranyum</Make_RefinedUranium.label>
+	<Make_RefinedUranium.description>Rafine uranyum üret.</Make_RefinedUranium.description>
+	<Make_RefinedUranium.jobString>Uranyum rafine ediliyor.</Make_RefinedUranium.jobString>
+
+	<Make_BulkRefinedUranium.label>4 Adet Rafine Uranyum Üret</Make_BulkRefinedUranium.label>
+	<Make_BulkRefinedUranium.description>Toplu olarak rafine uranyum üret.</Make_BulkRefinedUranium.description>
+	<Make_BulkRefinedUranium.jobString>Toplu uranyum rafine ediliyor.</Make_BulkRefinedUranium.jobString>
+
+	<Make_CoolingComponents.label>Soğutma Bileşeni Üret</Make_CoolingComponents.label>
+	<Make_CoolingComponents.description>Soğutma bileşeni üret.</Make_CoolingComponents.description>
+	<Make_CoolingComponents.jobString>Soğutma bileşeni üretiliyor.</Make_CoolingComponents.jobString>
+
+	<Make_BulkCoolingComponents.label>5 Adet Soğutma Bileşeni Üret</Make_BulkCoolingComponents.label>
+	<Make_BulkCoolingComponents.description>Toplu olarak soğutma bileşeni üret.</Make_BulkCoolingComponents.description>
+	<Make_BulkCoolingComponents.jobString>Toplu soğutma bileşeni üretiliyor.</Make_BulkCoolingComponents.jobString>
+
+	<Make_CoolingInjector.label>Sıvı Enjektörü Üret</Make_CoolingInjector.label>
+	<Make_CoolingInjector.description>Sıvı enjektörü üret.</Make_CoolingInjector.description>
+	<Make_CoolingInjector.jobString>Sıvı enjektörü üretiliyor.</Make_CoolingInjector.jobString>
+
+	<Make_CoolingTank.label>Sıvı Tankı Üret</Make_CoolingTank.label>
+	<Make_CoolingTank.description>Sıvı tankı üret.</Make_CoolingTank.description>
+	<Make_CoolingTank.jobString>Sıvı tankı üretiliyor.</Make_CoolingTank.jobString>
+
+	<Make_CoolingAI.label>Soğutma Yapay Zekâsı Üret</Make_CoolingAI.label>
+	<Make_CoolingAI.description>Soğutma yapay zekâsı üret.</Make_CoolingAI.description>
+	<Make_CoolingAI.jobString>Soğutma yapay zekâsı üretiliyor.</Make_CoolingAI.jobString>
+
+	<Make_CoolingSys.label>Soğutma Sistemi Üret</Make_CoolingSys.label>
+	<Make_CoolingSys.description>Soğutma sistemi üret.</Make_CoolingSys.description>
+	<Make_CoolingSys.jobString>Soğutma sistemi üretiliyor.</Make_CoolingSys.jobString>
+
+	<Make_SmallCoolingSys.label>Küçük Soğutma Sistemi Üret</Make_SmallCoolingSys.label>
+	<Make_SmallCoolingSys.description>Küçük soğutma sistemi üret.</Make_SmallCoolingSys.description>
+	<Make_SmallCoolingSys.jobString>Küçük soğutma sistemi üretiliyor.</Make_SmallCoolingSys.jobString>
+
+</LanguageData>

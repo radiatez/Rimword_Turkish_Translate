@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<rep>
+		<path>GuestBeds.label</path>
+		<trans>Misafir Yatakları</trans>
+	</rep>
+	<rep>
+		<path>GuestBeds.helpText</path>
+		<trans>Misafirler yataklarda uyumayı tercih eder.\n\nOnlara "Misafir Yatağı" butonunu kullanarak yatak atayabilirsiniz.</trans>
+	</rep>
+
+	<rep>
+		<path>RecruitGuest.label</path>
+		<trans>Misafiri İşe Al</trans>
+	</rep>
+	<rep>
+		<path>RecruitGuest.helpText</path>
+		<trans>Misafirleri işe alabilirsiniz.\n\nİşe alma, misafirin fraksiyonu ile olan ilişkilerinizden belli bir puana mal olur. Yetenekli kolonistleriniz, onlarla arkadaş olmaya çalışabilir.</trans>
+	</rep>
+
+	<rep>
+		<path>GuestWork.label</path>
+		<trans>Misafir Yardımı</trans>
+	</rep>
+	<rep>
+		<path>GuestWork.helpText</path>
+		<trans>Memnun kalan misafirler, yeteneklerine göre koloninize yardım edebilir. Bu davranışı mod seçeneklerinden devre dışı bırakabilir, sınırlandırabilir veya gereken beceri seviyesini ayarlayabilirsiniz.</trans>
+	</rep>
+
+	<rep>
+		<path>Hospitality.label</path>
+		<trans>Misafirperverlik</trans>
+	</rep>
+	<rep>
+		<path>Hospitality.helpText</path>
+		<trans>Misafirler geldiğinde, eğlence olanaklarınızı kullanacak, ayrılmış yataklarda uyuyacak ve ticaret alanındaki eşyaları satın alacaklardır.\n\nZiyaretlerinden memnun kalıp kalmamalarına göre, fraksiyonlarıyla olan ilişkileriniz artabilir ya da azalabilir.</trans>
+	</rep>
+
+</LanguageData>

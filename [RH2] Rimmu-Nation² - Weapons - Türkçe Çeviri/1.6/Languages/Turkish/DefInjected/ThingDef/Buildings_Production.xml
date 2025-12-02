@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RNBench_CQB.label>RN CQB Tezgahı</RNBench_CQB.label>
+  <RNBench_CQB.description>Tabanca, hafif makineli tüfek ve av tüfeği gibi Rimmu-Nation kısa namlulu silahlarının üretimi için bir iş tezgahı.</RNBench_CQB.description>
+  <RNBench_CQB_Blueprint.label>RN CQB Tezgahı (plan)</RNBench_CQB_Blueprint.label>
+  <RNBench_CQB_Blueprint_Install.label>RN CQB Tezgahı (plan)</RNBench_CQB_Blueprint_Install.label>
+  <RNBench_CQB_Frame.label>RN CQB Tezgahı (inşaat)</RNBench_CQB_Frame.label>
+  <RNBench_CQB_Frame.description>Tabanca, hafif makineli tüfek ve av tüfeği gibi Rimmu-Nation kısa namlulu silahlarının üretimi için bir iş tezgahı.</RNBench_CQB_Frame.description>
+
+  <!-- TÜFEKLER -->
+
+  <RNBench_LBW.label>RN LBW Tezgahı</RNBench_LBW.label>
+  <RNBench_LBW.description>Otomatik tüfek, sürgülü tüfek ve keskin nişancı tüfeği gibi Rimmu-Nation uzun namlulu silahlarının üretimi için bir iş tezgahı.</RNBench_LBW.description>
+  <RNBench_LBW_Blueprint.label>RN LBW Tezgahı (plan)</RNBench_LBW_Blueprint.label>
+  <RNBench_LBW_Blueprint_Install.label>RN LBW Tezgahı (plan)</RNBench_LBW_Blueprint_Install.label>
+  <RNBench_LBW_Frame.label>RN LBW Tezgahı (inşaat)</RNBench_LBW_Frame.label>
+  <RNBench_LBW_Frame.description>Otomatik tüfek, sürgülü tüfek ve keskin nişancı tüfeği gibi Rimmu-Nation uzun namlulu silahlarının üretimi için bir iş tezgahı.</RNBench_LBW_Frame.description>
+
+  <!-- AĞIR SİLAHLAR -->
+
+  <RNBench_HeavyWeapons.label>RN HW Tezgahı</RNBench_HeavyWeapons.label>
+  <RNBench_HeavyWeapons.description>Rimmu-Nation ağır silahlarının, örneğin makineli tüfekler, patlayıcılar ve uzay silahları gibi ekipmanların üretimi için bir iş tezgahı.</RNBench_HeavyWeapons.description>
+  <RNBench_HeavyWeapons_Blueprint.label>RN HW Tezgahı (plan)</RNBench_HeavyWeapons_Blueprint.label>
+  <RNBench_HeavyWeapons_Blueprint_Install.label>RN HW Tezgahı (plan)</RNBench_HeavyWeapons_Blueprint_Install.label>
+  <RNBench_HeavyWeapons_Frame.label>RN HW Tezgahı (inşaat)</RNBench_HeavyWeapons_Frame.label>
+  <RNBench_HeavyWeapons_Frame.description>Rimmu-Nation ağır silahlarının, örneğin makineli tüfekler, patlayıcılar ve uzay silahları gibi ekipmanların üretimi için bir iş tezgahı.</RNBench_HeavyWeapons_Frame.description>
+
+</LanguageData>

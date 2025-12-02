@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rimmu-Nation Yakın Dövüş -->
+
+  <RN_MeleeMain.label>Rimmu-Nation: Yakın Dövüş</RN_MeleeMain.label>
+
+  <RN_Pistols.label>tabanca</RN_Pistols.label>
+  <RN_Revolvers.label>revolver</RN_Revolvers.label>
+
+  <!-- Rimmu-Nation Hafif Makineliler -->
+
+  <RN_PDWMain.label>Hafif makineli ve PDW</RN_PDWMain.label>
+
+  <!-- Rimmu-Nation Pompalı Tüfekler -->
+
+  <RN_ShotgunsMain.label>pompalı tüfek</RN_ShotgunsMain.label>
+
+  <!-- Rimmu-Nation Saldırı Tüfekleri -->
+
+  <RN_RangedMain.label>Rimmu-Nation: Silahlar</RN_RangedMain.label>
+  <RN_AssaultRifle.label>saldırı tüfeği</RN_AssaultRifle.label>
+  <RN_ARStyle.label>AR tarzı tüfek</RN_ARStyle.label>
+  <RN_AKStyle.label>AK tarzı tüfek</RN_AKStyle.label>
+  <RN_BullpupStyle.label>bullpup tüfek</RN_BullpupStyle.label>
+  <RN_OldieRifle.label>klasik tüfek</RN_OldieRifle.label>
+
+  <RN_BoltAction.label>tek atışlı tüfek</RN_BoltAction.label>
+  <RN_DMR.label>DMR (uzun menzilli tüfek)</RN_DMR.label>
+  <RN_AMR.label>AMR (zırh delici tüfek)</RN_AMR.label>
+
+  <!-- Rimmu-Nation Çeşitli -->
+
+  <RN_MiscRanged.label>bıçaklar ve yaylar</RN_MiscRanged.label>
+
+  <!-- Rimmu-Nation Hafif Makineli Tüfekler -->
+
+  <RN_MGMain.label>Hafif makineli tüfek ve sabit makineli tüfek</RN_MGMain.label>
+
+  <RN_GrenadeLaunchers.label>bombaatar</RN_GrenadeLaunchers.label>
+  <RN_RocketLaunchers.label>roketatar</RN_RocketLaunchers.label>
+  <RN_OneTimeUseLaunchers.label>tek kullanımlık roketatar</RN_OneTimeUseLaunchers.label>
+
+  <RN_Grenades.label>saldırı el bombaları</RN_Grenades.label>
+  <RN_GrenadesNL.label>öldürücü olmayan el bombaları</RN_GrenadesNL.label>
+  <RN_OneTimeUseThrown.label>tek kullanımlık patlayıcı</RN_OneTimeUseThrown.label>
+
+  <!-- Rimmu-Nation Patlayıcı Eşyalar -->
+
+  <RN_Airstrikes.label>hava saldırısı</RN_Airstrikes.label>
+  <RN_SpacerMain.label>boşluk</RN_SpacerMain.label>
+
+</LanguageData>

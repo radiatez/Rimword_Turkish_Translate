@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RefinedUranium.label>Rafine Uranyum</RefinedUranium.label>
+  <RefinedUranium.description>Enerji üretimi için rafine edilmiş uranyum.</RefinedUranium.description>
+
+  <CoolingComp.label>Soğutma Sistemi Bileşeni</CoolingComp.label>
+  <CoolingComp.description>Bir dizi bileşen. Reaktörler için gelişmiş bir soğutma sistemi oluşturmakta kullanılır.</CoolingComp.description>
+
+  <CoolingInjector.label>Sıvı Enjektörü</CoolingInjector.label>
+  <CoolingInjector.description>Reaktörü soğutmak için sıvıyı soğutma tankına enjekte eder. Soğutma sisteminin birçok parçasından biridir.</CoolingInjector.description>
+
+  <CoolingTank.label>Sıvı Tankı</CoolingTank.label>
+  <CoolingTank.description>Reaktörü soğutan sıvıyı depolar. Soğutma sisteminin birçok parçasından biridir.</CoolingTank.description>
+
+  <CoolingAI.label>Soğutma Yapay Zekâsı</CoolingAI.label>
+  <CoolingAI.description>Gelişmiş soğutma yapay zekâsı, reaktörün ne zaman soğutulması gerektiğini algılar. Soğutma sisteminin birçok parçasından biridir.</CoolingAI.description>
+
+  <CoolingSys.label>Soğutma Sistemi</CoolingSys.label>
+  <CoolingSys.description>En gelişmiş soğutma sistemleri. Bir sıvı tankı, sıvı enjektörü ve bir yapay zekâdan oluşur.</CoolingSys.description>
+
+  <SmallCoolingSys.label>Küçük Soğutma Sistemi</SmallCoolingSys.label>
+  <SmallCoolingSys.description>Soğutma sisteminin küçük bir versiyonudur. Bir sıvı tankı ve sıvı enjektöründen oluşur.</SmallCoolingSys.description>
+
+</LanguageData>

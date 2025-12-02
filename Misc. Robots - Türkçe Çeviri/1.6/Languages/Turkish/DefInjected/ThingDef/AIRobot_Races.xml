@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+	<AIRobot_Hauler.label>Yük Dronu</AIRobot_Hauler.label>
+	<AIRobot_Hauler.description>Yük dronu.</AIRRobot_Hauler.description>
+
+	<AIRobot_Cleaner.label>Temizlik Dronu</AIRobot_Cleaner.label>
+	<AIRobot_Cleaner.description>Temizlik dronu.</AIRRobot_Cleaner.description>
+
+</LanguageData>

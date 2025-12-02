@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RNApparel_511TacTec_Tan.label>5.11 TacTec Plaka Taşıyıcı</RNApparel_511TacTec_Tan.label>
+    <RNApparel_511TacTec_Tan.description>Plaka taşıyıcı veya çelik yelek - fiziksel hasarlardan korunmaya yönelik koruyucu giysi. Tarihsel olarak askeri personel tarafından kullanılmıştır, bugün ise çeşitli silahlı kuvvetler, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından kullanılmaktadır.\n\nBu plaka taşıyıcı modeli - 5.11 TacTec.</RNApparel_511TacTec_Tan.description>
+    
+    <RNApparel_DDTGhost_ODGreen.label>DDT Ghost Plaka Taşıyıcı</RNApparel_DDTGhost_ODGreen.label>
+    <RNApparel_DDTGhost_ODGreen.description>Plaka taşıyıcı veya çelik yelek - fiziksel hasarlardan korunmaya yönelik koruyucu giysi. Tarihsel olarak askeri personel tarafından kullanılmıştır, bugün ise çeşitli silahlı kuvvetler, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından kullanılmaktadır.\n\nBu plaka taşıyıcı modeli - DDT Patriot Ghost.</RNApparel_DDTGhost_ODGreen.description>
+    
+    <RNApparel_WarriorDCS_ODGreen.label>Warrior DCS Plaka Taşıyıcı</RNApparel_WarriorDCS_ODGreen.label>
+    <RNApparel_WarriorDCS_ODGreen.description>Plaka taşıyıcı veya çelik yelek - fiziksel hasarlardan korunmaya yönelik koruyucu giysi. Tarihsel olarak askeri personel tarafından kullanılmıştır, bugün ise çeşitli silahlı kuvvetler, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından kullanılmaktadır.\n\nBu plaka taşıyıcı modeli - Elite Ops tarafından üretilen Warrior DCS.</RNApparel_WarriorDCS_ODGreen.description>
+    
+    <RNApparel_ENVOVestSystem_Grey.label>EVS Plaka Taşıyıcı</RNApparel_ENVOVestSystem_Grey.label>
+    <RNApparel_ENVOVestSystem_Grey.description>Plaka taşıyıcı veya çelik yelek - fiziksel hasarlardan korunmaya yönelik koruyucu giysi. Tarihsel olarak askeri personel tarafından kullanılmıştır, bugün ise çeşitli silahlı kuvvetler, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından kullanılmaktadır.\n\nBu plaka taşıyıcı modeli - ENVO Vest System.</RNApparel_ENVOVestSystem_Grey.description>
+    
+    <RNApparel_FlyyeFCPC_Multicam.label>Flyye CPCV Plaka Taşıyıcı</RNApparel_FlyyeFCPC_Multicam.label>
+    <RNApparel_FlyyeFCPC_Multicam.description>Plaka taşıyıcı veya çelik yelek - fiziksel hasarlardan korunmaya yönelik koruyucu giysi. Tarihsel olarak askeri personel tarafından kullanılmıştır, bugün ise çeşitli silahlı kuvvetler, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından kullanılmaktadır.\n\nBu plaka taşıyıcı modeli - Flyye Field Compact Plate Carrier Vest (CPCV).</RNApparel_FlyyeFCPC_Multicam.description>
+    
+    <RNApparel_OspreyMk3_DDPM.label>Osprey Mk 3 Plaka Taşıyıcı</RNApparel_OspreyMk3_DDPM.label>
+    <RNApparel_OspreyMk3_DDPM.description>Plaka taşıyıcı veya çelik yelek - fiziksel hasarlardan korunmaya yönelik koruyucu giysi. Tarihsel olarak askeri personel tarafından kullanılmıştır, bugün ise çeşitli silahlı kuvvetler, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından kullanılmaktadır.\n\nBu plaka taşıyıcı modeli - çöl desenli DPM kaplamalı Osprey Mk 3.</RNApparel_OspreyMk3_DDPM.description>
+    
+    <RNApparel_OTV_Tan.label>OTV Plaka Taşıyıcı</RNApparel_OTV_Tan.label>
+    <RNApparel_OTV_Tan.description>Interceptor Multi-Threat (IBA) plaka taşıyıcı sistemi, ABD ordusu tarafından 2000'li yıllarda, bazen de 2010'larda kullanılan bir kurşun geçirmez yelektir. IBA ve tasarımı, 70'lerde geliştirilen ve 80'lerde sunulan eski Kara Kuvvetleri Kişisel Zırh Sistemi (PASGT)'nin yerini almıştır. IBA sistemi, ana bileşeni olan Dış Taktik Yelek'ten (OTV) oluşur ve boğaz, kasık, kol koruyucularıyla tamamlanır. Bu koruyucular ana yelekten çıkarılabilir ve ayrı da takılabilir.\n\nBu plaka taşıyıcı modeli - ABD ordusu tarafından kullanılan ve Point Blank tarafından üretilen Outer Tactical Vest.</RNApparel_OTV_Tan.description>
+    
+    <RNApparel_IOTV_UCP.label>IOTV gen 2 Plaka Taşıyıcı</RNApparel_IOTV_UCP.label>
+    <RNApparel_IOTV_UCP.description>Improved Outer Tactical Vest (IOTV), ABD'de kullanılan Interceptor serisi eski Outer Tactical Vest (OTV)'nin geliştirilmiş versiyonudur. IOTV, Deltoid ve Yardımcı Koruma Sistemi (DAPS), Geliştirilmiş Küçük Silah Koruma Eklemesi (ESAPI), Yan Balistik Ekleme (ESBI) ve OTV kasık koruyucusu ile uyumludur. IOTV için özel olarak tasarlanmış, yanmaz kumaştan üretilmiş askerî gömlekle birlikte gelir. ABD ordusunda kullanılır ve ilk olarak Point Blank firması tarafından üretilmiştir.</RNApparel_IOTV_UCP.description>
+    
+    <RNApparel_MTV_Tan.label>MTV Plaka Taşıyıcı</RNApparel_MTV_Tan.label>
+    <RNApparel_MTV_Tan.description>Modüler Taktik Yelek (MTV veya MoTaV), 2006 yılında ABD Deniz Piyadeleri tarafından hizmete alınan balistik bir yelektir. MTV, eskimiş Interceptor Body Armor (IBA) sorunlarına çözüm olarak geliştirilmiş ve deniz piyadeleri tarafından kapsamlı bir değerlendirme sonrası seçilmiştir. MTV, IBA'dan daha iyi koruma sağlar ancak aynı Small Arms Protective Insert (SAPI) plakalarını kullanır.\n\nBu plaka taşıyıcı modeli - ABD Deniz Piyadeleri tarafından kullanılan ve Protective Products International tarafından üretilen Modular Tactical Vest.</RNApparel_MTV_Tan.description>
+    
+    <RNApparel_VestguardCT101_Navy.label>VestGuard CT101 Plaka Taşıyıcı</RNApparel_VestguardCT101_Navy.label>
+    <RNApparel_VestguardCT101_Navy.description>Plaka taşıyıcı veya çelik yelek - fiziksel hasarlardan korunmaya yönelik koruyucu giysi. Tarihsel olarak askeri personel tarafından kullanılmıştır, bugün ise çeşitli silahlı kuvvetler, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından kullanılmaktadır.\n\nBu plaka taşıyıcı modeli - VestGuard Covert Tactical.</RNApparel_VestguardCT101_Navy.description>
+    
+    <RNApparel_VestguardOT103_Navy.label>VestGuard OT103 Plaka Taşıyıcı</RNApparel_VestguardOT103_Navy.label>
+    <RNApparel_VestguardOT103_Navy.description>Plaka taşıyıcı veya çelik yelek - fiziksel hasarlardan korunmaya yönelik koruyucu giysi. Tarihsel olarak askeri personel tarafından kullanılmıştır, bugün ise çeşitli silahlı kuvvetler, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından kullanılmaktadır.\n\nBu plaka taşıyıcı modeli - VestGuard Quick Overt Tactical ELITE.</RNApparel_VestguardOT103_Navy.description>
+    
+    <RNApparel_VestguardQRA_Black.label>VestGuard QRA101 Plaka Taşıyıcı</RNApparel_VestguardQRA_Black.label>
+    <RNApparel_VestguardQRA_Black.description>Plaka taşıyıcı veya çelik yelek - fiziksel hasarlardan korunmaya yönelik koruyucu giysi. Tarihsel olarak askeri personel tarafından kullanılmıştır, bugün ise çeşitli silahlı kuvvetler, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından kullanılmaktadır.\n\nBu plaka taşıyıcı modeli - VestGuard Quick Release Advanced.</RNApparel_VestguardQRA_Black.description>
+    
+    <RNApparel_VestguardQRX_Black.label>VestGuard QRX101 Plaka Taşıyıcı</RNApparel_VestguardQRX_Black.label>
+    <RNApparel_VestguardQRX_Black.description>Plaka taşıyıcı veya çelik yelek - fiziksel hasarlardan korunmaya yönelik koruyucu giysi. Tarihsel olarak askeri personel tarafından kullanılmıştır, bugün ise çeşitli silahlı kuvvetler, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından kullanılmaktadır.\n\nBu plaka taşıyıcı modeli - VestGuard Quick Release Xtreme.</RNApparel_VestguardQRX_Black.description>
+    
+    <RNApparel_PinnacleArmor_DragonSkin.label>Ejder Derisi</RNApparel_PinnacleArmor_DragonSkin.label>
+    <RNApparel_PinnacleArmor_DragonSkin.description>Plaka taşıyıcı veya çelik yelek — fiziksel hasarı engellemeye yönelik koruyucu kıyafet. Tarihsel olarak askeri personel tarafından kullanılmıştır, günümüzde ise farklı ordu birlikleri, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından da kullanılmaktadır. Ejder Derisi, çoğu plaka taşıyıcıdan daha ağırdır ancak iç zırh plakalarının yerleşiminden dolayı ejderha pullarına benzeyen benzersiz ızgara sistemi sayesinde daha iyi koruma sağlar.\n\nBu koruma türü — Pinnacle Armor şirketinin Dragon Skin modeli.</RNApparel_PinnacleArmor_DragonSkin.description>
+    
+    <RNApparel_PASGTVest_Olive.label>PASGT Plaka Taşıyıcı</RNApparel_PASGTVest_Olive.label>
+    <RNApparel_PASGTVest_Olive.description>Kara birlikleri için Personel Zırh Sistemi (PASGT, /ˈpæzɡət/ PAZ-gət olarak telaffuz edilir) — 1980'lerin başlarından 2000'lerin ortalarına kadar ABD ordusu tarafından kullanılan bir savaş miğferi ve balistik yelektir. Daha sonra Hafif Miğfer (LWH), Modüler Entegre İletişim Miğferi (MICH) ve Interceptor Vücut Zırhı (IBA) ile değiştirilmiştir.</RNApparel_PASGTVest_Olive.description>
+    
+    <RNApparel_ViperLazerSOPC_Tan.label>Viper Lazer SOPC Plaka Taşıyıcı</RNApparel_ViperLazerSOPC_Tan.label>
+    <RNApparel_ViperLazerSOPC_Tan.description>Plaka taşıyıcı veya çelik yelek — fiziksel hasarı engellemeye yönelik koruyucu kıyafet. Tarihsel olarak askeri personel tarafından kullanılmıştır, günümüzde ise farklı ordu birlikleri, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından da kullanılmaktadır.\n\nBu plaka taşıyıcı modeli — Viper Lazer Special Ops Plate Carrier.</RNApparel_ViperLazerSOPC_Tan.description>
+    
+    <RNApparel_PointBlankASPC_Black.label>Point Blank ASPC Plaka Taşıyıcı</RNApparel_PointBlankASPC_Black.label>
+    <RNApparel_PointBlankASPC_Black.description>Plaka taşıyıcı veya çelik yelek — fiziksel hasarı engellemeye yönelik koruyucu kıyafet. Tarihsel olarak askeri personel tarafından kullanılmıştır, günümüzde ise farklı ordu birlikleri, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından da kullanılmaktadır.\n\nBu plaka taşıyıcı modeli — Point Blank Active Shooter Plate Carrier.</RNApparel_PointBlankASPC_Black.description>
+    
+    <RNApparel_PointBlankFASTC_CoyoteBrown.label>Point Blank FAS-TC Plaka Taşıyıcı</RNApparel_PointBlankFASTC_CoyoteBrown.label>
+    <RNApparel_PointBlankFASTC_CoyoteBrown.description>Plaka taşıyıcı veya çelik yelek — fiziksel hasarı engellemeye yönelik koruyucu kıyafet. Tarihsel olarak askeri personel tarafından kullanılmıştır, günümüzde ise farklı ordu birlikleri, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından da kullanılmaktadır.\n\nBu plaka taşıyıcı modeli — Point Blank FAS-TC.</RNApparel_PointBlankFASTC_CoyoteBrown.description>
+    
+    <RNApparel_LBTMPC_Tan.label>LBT MPC Plaka Taşıyıcı</RNApparel_LBTMPC_Tan.label>
+    <RNApparel_LBTMPC_Tan.description>Plaka taşıyıcı veya çelik yelek — fiziksel hasarı engellemeye yönelik koruyucu kıyafet. Tarihsel olarak askeri personel tarafından kullanılmıştır, günümüzde ise farklı ordu birlikleri, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından da kullanılmaktadır.\n\nBu plaka taşıyıcı modeli — London Bridge Trading (LBT) tarafından üretilen Modüler Plaka Taşıyıcı (MPC).</RNApparel_LBTMPC_Tan.description>
+    
+    <RNApparel_LBTG3_Multicam.label>LBT G3 Plaka Taşıyıcı</RNApparel_LBTG3_Multicam.label>
+    <RNApparel_LBTG3_Multicam.description>Plaka taşıyıcı veya çelik yelek — fiziksel hasarı engellemeye yönelik koruyucu kıyafet. Tarihsel olarak askeri personel tarafından kullanılmıştır, günümüzde ise farklı ordu birlikleri, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından da kullanılmaktadır.\n\nBu plaka taşıyıcı modeli — London Bridge Trading Gen 3.</RNApparel_LBTG3_Multicam.description>
+    
+    <RNApparel_AR500Veritas_Brown.label>AR500 Veritas Plaka Taşıyıcı</RNApparel_AR500Veritas_Brown.label>
+    <RNApparel_AR500Veritas_Brown.description>Plaka taşıyıcı veya çelik yelek — fiziksel hasarı engellemeye yönelik koruyucu kıyafet. Tarihsel olarak askeri personel tarafından kullanılmıştır, günümüzde ise farklı ordu birlikleri, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından da kullanılmaktadır.\n\nBu plaka taşıyıcı modeli — AR500 Veritas.</RNApparel_AR500Veritas_Brown.description>
+    
+    <RNApparel_MBCFantom_Black.label>MBC Fantom Plaka Taşıyıcı</RNApparel_MBCFantom_Black.label>
+    <RNApparel_MBCFantom_Black.description>Plaka taşıyıcı veya çelik yelek — fiziksel hasarı engellemeye yönelik koruyucu kıyafet. Tarihsel olarak askeri personel tarafından kullanılmıştır, günümüzde ise farklı ordu birlikleri, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından da kullanılmaktadır.\n\nBu plaka taşıyıcı modeli — Rusya İçişleri Bakanlığı (MVD) tarafından geliştirilen "Fantom".</RNApparel_MBCFantom_Black.description>
+    
+    <RNApparel_PACALVC_Tan.label>PACA LVC Plaka Taşıyıcı</RNApparel_PACALVC_Tan.label>
+    <RNApparel_PACALVC_Tan.description>Plaka taşıyıcı veya çelik yelek — fiziksel hasarı engellemeye yönelik koruyucu kıyafet. Tarihsel olarak askeri personel tarafından kullanılmıştır, günümüzde ise farklı ordu birlikleri, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından da kullanılmaktadır.\n\nBu plaka taşıyıcı modeli — PACA Low Visibility Carrier.</RNApparel_PACALVC_Tan.description>
+
+    <RNApparel_BristolBodyArmor_Olive.label>Bristol Plaka Taşıyıcı</RNApparel_BristolBodyArmor_Olive.label>
+    <RNApparel_BristolBodyArmor_Olive.description>Plaka taşıyıcı veya çelik yelek — fiziksel hasarı engellemeye yönelik koruyucu kıyafet. Tarihsel olarak askeri personel tarafından kullanılmıştır, günümüzde ise farklı ordu birlikleri, güvenlik görevlileri, paralı askerler ve bazen siviller tarafından da kullanılmaktadır.\n\nBu plaka taşıyıcı modeli — Bristol Body Armor, İngiliz ordusu ve SAS tarafından Nimrod operasyonunda Arktis taarruz yeleğiyle birlikte kullanımıyla bilinmektedir.</RNApparel_BristolBodyArmor_Olive.description>
+
+    <RNApparel_Defender2_Tan.label>Defender 2 Plaka Taşıyıcı</RNApparel_Defender2_Tan.label>
+    <RNApparel_Defender2_Tan.description>Defender 2, bazen kısaca D2 olarak da anılır — Rus üretimi bir plaka taşıyıcıdır. D2, önde ve arkada ek zırh plakalarının yerleştirilebileceği kevlar takviyeli alanlara sahiptir. Zırh, GOST 2 standartlarına uygundur ve plakalar 4-5 seviye koruma sunar. Ön kısımda cırt cırt ile tutturulmuş çıkarılabilir bir boyun koruyucuya ve ayarlanabilir cırt cırtlı kapanışa sahiptir. Çeşitli kamuflaj desenlerinde üretilmiş olup, bazı modern modeller MOLLE kayışlara sahiptir.</RNApparel_Defender2_Tan.description>
+
+
+</LanguageData>

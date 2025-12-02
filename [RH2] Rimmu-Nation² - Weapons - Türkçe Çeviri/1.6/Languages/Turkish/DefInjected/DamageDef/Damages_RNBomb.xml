@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RN2Bomb.label>Bomba</RN2Bomb.label>
+  <RN2Bomb.deathMessage>{0} bir patlama sonucu hayatını kaybetti.</RN2Bomb.deathMessage>
+
+  <RN2FragBomb.label>Bomba</RN2FragBomb.label>
+  <RN2FragBomb.deathMessage>{0} bir patlama sonucu hayatını kaybetti.</RN2FragBomb.deathMessage>
+
+</LanguageData>

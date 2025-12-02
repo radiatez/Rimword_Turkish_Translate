@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- FN MAG -->
+
+  <RNGun_FNMAG_GPMG.label>FN MAG</RNGun_FNMAG_GPMG.label>
+  <RNGun_FNMAG_GPMG.description>FN MAG — 1950'lerin başında Belçika'nın Fabrique Nationale (FN) fabrikasında Ernest Vervier tarafından geliştirilen 7.62 mm çapında genel maksat makineli tüfektir. 80'den fazla ülkede kullanılmış ve Arjantin, Kanada (C6 GPMG olarak), Mısır, Hindistan ve Birleşik Krallık dahil olmak üzere birçok ülkede lisanslı olarak üretilmiştir.</RNGun_FNMAG_GPMG.description>
+  <RNGun_FNMAG_GPMG.tools.0.label>dipçik</RNGun_FNMAG_GPMG.tools.0.label>
+  <RNGun_FNMAG_GPMG.tools.1.label>namlu</RNGun_FNMAG_GPMG.tools.1.label>
+
+  <!-- Ksp 58 -->
+
+  <RNGun_Ksp58B_GPMG.label>Ksp 58B</RNGun_Ksp58B_GPMG.label>
+  <RNGun_Ksp58B_GPMG.description>Ksp 58 (İsveççe: Kulspruta 58) — İsveç’in FN MAG makineli tüfek versiyonudur. Günümüzde Carl Gustafs Stads Gevärsfaktori tarafından üretilmektedir ve 1958’de İsveç Silahlı Kuvvetleri tarafından hizmete alınmıştır. Ksp 58A versiyonu 6.5×55 mm iken B ve sonraki modeller 7.62×51 mm NATO kalibresindedir.</RNGun_Ksp58B_GPMG.description>
+  <RNGun_Ksp58B_GPMG.tools.0.label>dipçik</RNGun_Ksp58B_GPMG.tools.0.label>
+  <RNGun_Ksp58B_GPMG.tools.1.label>namlu</RNGun_Ksp58B_GPMG.tools.1.label>
+
+  <!-- M249 -->
+
+  <RNGun_M249_LMG.label>M249</RNGun_M249_LMG.label>
+  <RNGun_M249_LMG.description>M249 — önceden M249 Timi Otomatik Silahı (SAW) olarak adlandırılan ve resmi olarak 5.56 mm Hafif Makineli Tüfek, M249 olarak bilinen, Belçika yapımı FN Minimi’nin Amerikan uyarlamasıdır.</RNGun_M249_LMG.description>
+  <RNGun_M249_LMG.tools.0.label>dipçik</RNGun_M249_LMG.tools.0.label>
+  <RNGun_M249_LMG.tools.1.label>namlu</RNGun_M249_LMG.tools.1.label>
+
+  <!-- M60 -->
+
+  <RNGun_M60_GPMG.label>M60</RNGun_M60_GPMG.label>
+  <RNGun_M60_GPMG.description>M60, resmi adıyla Birleşik Devletler Makineli Tüfeği, Kalibre 7.62 mm, M60, 7.62×51 mm NATO mühimmatı kullanan Amerikan yapımı genel maksat makineli tüfek ailesidir. M13 ayrılabilir fişek şeridiyle beslenir ve farklı mermi türleriyle kullanılabilir: çekirdekli, izli ve zırh delici.</RNGun_M60_GPMG.description>
+  <RNGun_M60_GPMG.tools.0.label>dipçik</RNGun_M60_GPMG.tools.0.label>
+  <RNGun_M60_GPMG.tools.1.label>namlu</RNGun_M60_GPMG.tools.1.label>
+
+  <!-- PKM -->
+
+  <RNGun_PKM_GPMG.label>PKM</RNGun_PKM_GPMG.label>
+  <RNGun_PKM_GPMG.description>PK (Rusça: Пулемёт Калашникова) — Sovyetler Birliği’nde geliştirilen ve günümüzde Rusya'da üretilen 7.62×54 mmR kalibreli genel maksat makineli tüfektir. AKM ve RPK platformları temel alınarak tasarlanmıştır.</RNGun_PKM_GPMG.description>
+  <RNGun_PKM_GPMG.tools.0.label>dipçik</RNGun_PKM_GPMG.tools.0.label>
+  <RNGun_PKM_GPMG.tools.1.label>namlu</RNGun_PKM_GPMG.tools.1.label>
+
+  <!-- RPD -->
+
+  <RNGun_RPD_LMG.label>RPD</RNGun_RPD_LMG.label>
+  <RNGun_RPD_LMG.description>RPD (Rusça: Ручной пулемёт Дегтярёва) — Sovyetler Birliği’nde Vasiliy Degtyaryov tarafından geliştirilen, 7.62×39 mm M43 ara mermi kullanan hafif makineli tüfektir.</RNGun_RPD_LMG.description>
+  <RNGun_RPD_LMG.tools.0.label>dipçik</RNGun_RPD_LMG.tools.0.label>
+  <RNGun_RPD_LMG.tools.1.label>namlu</RNGun_RPD_LMG.tools.1.label>
+
+  <!-- RPK -->
+
+  <RNGun_RPK_LMG.label>RPK</RNGun_RPK_LMG.label>
+  <RNGun_RPK_LMG.description>RPK (Rusça: Ручной пулемёт Калашникова) — 1960’ların başında Mihail Kalaşnikov tarafından geliştirilen ve 7.62×39 mm mermi kullanan Sovyet yapımı hafif makineli tüfektir. AKM ile eş zamanlı geliştirilmiş ve RPD’nin yerini almıştır.</RNGun_RPK_LMG.description>
+  <RNGun_RPK_LMG.tools.0.label>dipçik</RNGun_RPK_LMG.tools.0.label>
+  <RNGun_RPK_LMG.tools.1.label>namlu</RNGun_RPK_LMG.tools.1.label>
+
+  <!-- Type 81 -->
+
+  <RNGun_Type81_LMG.label>Type 81 LMG</RNGun_Type81_LMG.label>
+  <RNGun_Type81_LMG.description>Type 81 (Çince: 81式自动步枪) — Çin Halk Kurtuluş Ordusu tarafından 1980’lerin ortasında hizmete alınan, gazla çalışan, çift atış modlu 7.62×39 mm kalibreli ikinci nesil Çin otomatik tüfeğidir.</RNGun_Type81_LMG.description>
+  <RNGun_Type81_LMG.tools.0.label>dipçik</RNGun_Type81_LMG.tools.0.label>
+  <RNGun_Type81_LMG.tools.1.label>namlu</RNGun_Type81_LMG.tools.1.label>
+
+  <!-- MG 42 -->
+
+  <RNGun_MG42_GPMG.label>MG 42</RNGun_MG42_GPMG.label>
+  <RNGun_MG42_GPMG.description>MG 42 (Almanca: Maschinengewehr 42) — Nazi Almanyası tarafından geliştirilen ve II. Dünya Savaşı’nın ikinci yarısında Wehrmacht ve Waffen-SS tarafından yaygın olarak kullanılan, 7.92×57 mm Mauser kalibreli genel maksat makineli tüfektir. 1942'de üretime başlanmış ve MG 34'ün yerini alması amaçlanmıştır.</RNGun_MG42_GPMG.description>
+  <RNGun_MG42_GPMG.tools.0.label>dipçik</RNGun_MG42_GPMG.tools.0.label>
+  <RNGun_MG42_GPMG.tools.1.label>namlu</RNGun_MG42_GPMG.tools.1.label>
+
+</LanguageData>

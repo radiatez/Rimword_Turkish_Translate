@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RHApparel_M56Webbing_Vietnam.label>M56 Teçhizat Yeleği</RHApparel_M56Webbing_Vietnam.label>
+    <RHApparel_M56Webbing_Vietnam.description>Teçhizat yeleği; ekipman, mühimmat ve temel ihtiyaçları taşımak ve sabitlemek için dayanıklı kumaştan yapılmış özel bir askeri giysidir. Askerlerden işçilere, doğa gezginlerine kadar birçok kişi tarafından, ekipmanlarını kolay erişilebilir bir şekilde taşımak için kullanılır.\n\nBu model, Vietnam Savaşı dönemine ait M56 tarzıdır.</RHApparel_M56Webbing_Vietnam.description>
+
+    <RHApparel_ALICEWebbing_ColdWar.label>ALICE Teçhizat Yeleği</RHApparel_ALICEWebbing_ColdWar.label>
+    <RHApparel_ALICEWebbing_ColdWar.description>Teçhizat yeleği; ekipman, mühimmat ve temel ihtiyaçları taşımak ve sabitlemek için dayanıklı kumaştan yapılmış özel bir askeri giysidir. Askerlerden işçilere, doğa gezginlerine kadar birçok kişi tarafından kullanılır.\n\nBu model, Soğuk Savaş dönemine ait ALICE stilidir.</RHApparel_ALICEWebbing_ColdWar.description>
+
+    <RHApparel_RRV_ChestRig.label>RRV Teçhizat Yeleği</RHApparel_RRV_ChestRig.label>
+    <RHApparel_RRV_ChestRig.description>Teçhizat yeleği; ekipman, mühimmat ve temel ihtiyaçları taşımak ve sabitlemek için dayanıklı kumaştan yapılmış özel bir askeri giysidir.\n\nBu model, Rhodesian Recon Vest'tir.</RHApparel_RRV_ChestRig.description>
+
+    <RHApparel_USMC_ChestRig.label>USMC Teçhizat Yeleği</RHApparel_USMC_ChestRig.label>
+    <RHApparel_USMC_ChestRig.description>Teçhizat yeleği; ekipman, mühimmat ve temel ihtiyaçları taşımak ve sabitlemek için dayanıklı kumaştan yapılmış özel bir askeri giysidir.\n\nBu model, Rhodesian Recon Vest'tir.</RHApparel_USMC_ChestRig.description>
+
+    <RHApparel_CondorRecon_ChestRig.label>Condor Recon Teçhizat Yeleği</RHApparel_CondorRecon_ChestRig.label>
+    <RHApparel_CondorRecon_ChestRig.description>Teçhizat yeleği; ekipman, mühimmat ve temel ihtiyaçları taşımak ve sabitlemek için dayanıklı kumaştan yapılmış özel bir askeri giysidir.\n\nBu model, Condor Recon Vest'tir.</RHApparel_CondorRecon_ChestRig.description>
+
+    <RHApparel_CryeAVSTan_ChestRig.label>Crye AVS Teçhizat Yeleği (Ten)</RHApparel_CryeAVSTan_ChestRig.label>
+    <RHApparel_CryeAVSTan_ChestRig.description>Teçhizat yeleği; ekipman, mühimmat ve temel ihtiyaçları taşımak ve sabitlemek için dayanıklı kumaştan yapılmış özel bir askeri giysidir.\n\nBu model, Crye AVS serisine aittir.</RHApparel_CryeAVSTan_ChestRig.description>
+
+    <RHApparel_MilTec_ChestRig.label>MilTec Teçhizat Yeleği</RHApparel_MilTec_ChestRig.label>
+    <RHApparel_MilTec_ChestRig.description>Teçhizat yeleği; ekipman, mühimmat ve temel ihtiyaçları taşımak ve sabitlemek için dayanıklı kumaştan yapılmış özel bir askeri giysidir.\n\nBu model, MilTec Recon Vest'tir.</RHApparel_MilTec_ChestRig.description>
+
+    <RHApparel_WarriorFalcon_ChestRig.label>Warrior Falcon Teçhizat Yeleği</RHApparel_WarriorFalcon_ChestRig.label>
+    <RHApparel_WarriorFalcon_ChestRig.description>Teçhizat yeleği; ekipman, mühimmat ve temel ihtiyaçları taşımak ve sabitlemek için dayanıklı kumaştan yapılmış özel bir askeri giysidir.\n\nBu model, Elite Ops Warrior Falcon'dur.</RHApparel_WarriorFalcon_ChestRig.description>
+
+    <RHApparel_MaxpeditionBattleBelt_Olive.label>Maxpedition Savaş Kemeri</RHApparel_MaxpeditionBattleBelt_Olive.label>
+    <RHApparel_MaxpeditionBattleBelt_Olive.description>Teçhizat kemeri; ekipman, mühimmat ve temel ihtiyaçları taşımak ve sabitlemek için kullanılan özel bir giysidir.\n\nBu model, "Sabrecat" olarak adlandırılan Maxpedition markasına aittir.</RHApparel_MaxpeditionBattleBelt_Olive.description>
+
+    <RHApparel_CondorBattleBelt_Tan.label>Condor Savaş Kemeri</RHApparel_CondorBattleBelt_Tan.label>
+    <RHApparel_CondorBattleBelt_Tan.description>Bu Condor savaş kemeri; şarjör cepleri, boş şarjör bırakma cepleri ve ilk yardım malzemeleri için alanlar içerir. Dayanıklı kumaştan yapılmış olup hızlı erişim için kullanılır.</RHApparel_CondorBattleBelt_Tan.description>
+
+    <RHApparel_VTACBattleBelt_Tan.label>VTAC Savaş Kemeri</RHApparel_VTACBattleBelt_Tan.label>
+    <RHApparel_VTACBattleBelt_Tan.description>Bu Viking Tactical (VTAC) savaş kemeri; şarjör, ilk yardım ve günlük kullanım eşyaları için cepler içerir. Dayanıklı kumaştan üretilmiş bir teçhizat ürünüdür.</RHApparel_VTACBattleBelt_Tan.description>
+
+    <RHApparel_SuperBelt_Tan.label>Super Belt</RHApparel_SuperBelt_Tan.label>
+    <RHApparel_SuperBelt_Tan.description>Bu model, Tac Maven firmasına ait Super Belt’tir. Ekipman taşımak ve düzenlemek için tasarlanmış dayanıklı kumaştan üretilmiştir.</RHApparel_SuperBelt_Tan.description>
+
+    <RHApparel_Type56Webbing_ColdWar.label>Type 56 Teçhizat Yeleği</RHApparel_Type56Webbing_ColdWar.label>
+    <RHApparel_Type56Webbing_ColdWar.description>Bu model, Çin'in Soğuk Savaş dönemine ait Type 56 teçhizat yeleğidir. Dayanıklı kumaştan üretilmiş, ekipman ve mühimmat taşımaya uygundur.</RHApparel_Type56Webbing_ColdWar.description>
+
+    <RHApparel_Type63Webbing_ColdWar.label>Type 63 Teçhizat Yeleği</RHApparel_Type63Webbing_ColdWar.label>
+    <RHApparel_Type63Webbing_ColdWar.description>Bu model, Çin'in Soğuk Savaş dönemine ait Type 63 teçhizat yeleğidir. Dayanıklı kumaştan üretilmiştir.</RHApparel_Type63Webbing_ColdWar.description>
+
+    <RHApparel_M23_ChestRig.label>Splav M23 Teçhizat Yeleği</RHApparel_M23_ChestRig.label>
+    <RHApparel_M23_ChestRig.description>Bu model, Rusya üretimi askeri yelek olan Splav M23’tür. Dayanıklı kumaşla üretilmiş olup temel ekipman taşıma amaçlıdır.</RHApparel_M23_ChestRig.description>
+
+    <RHApparel_KulaMongoose_ChestRig.label>Kula Mongoose Teçhizat Yeleği</RHApparel_KulaMongoose_ChestRig.label>
+    <RHApparel_KulaMongoose_ChestRig.description>Bu model, Kula Tactical tarafından üretilen Rus askeri yeleğidir. Dayanıklı kumaştan yapılmıştır ve hızlı erişim için uygundur.</RHApparel_KulaMongoose_ChestRig.description>
+
+    <RHApparel_Arktis_TacticalVest.label>Arktis Taktik Yeleği</RHApparel_Arktis_TacticalVest.label>
+    <RHApparel_Arktis_TacticalVest.description>Bu model, Arktis saldırı yeleğidir. İngiltere'nin SAS birlikleri tarafından İran Büyükelçiliği baskını sırasında kullanıldığı bilinmektedir. Polis kuvvetlerinde de kullanılmaktadır.</RHApparel_Arktis_TacticalVest.description>
+
+    <RHApparel_TexShoemakerPoliceBelt_Python.label>Tex Shoemaker Python Polis Kemeri</RHApparel_TexShoemakerPoliceBelt_Python.label>
+    <RHApparel_TexShoemakerPoliceBelt_Python.description>Bu model, Tex Shoemaker tarafından üretilen Python polis kemeridir. Dayanıklı kumaştan üretilmiştir ve hızlı erişim için tasarlanmıştır.</RHApparel_TexShoemakerPoliceBelt_Python.description>
+
+    <RHApparel_SafarilandPoliceBelt_Beretta.label>Safariland M9 Polis Kemeri</RHApparel_SafarilandPoliceBelt_Beretta.label>
+    <RHApparel_SafarilandPoliceBelt_Beretta.description>Bu model, Beretta tabancaları için üretilmiş Safariland polis kemeridir. Teçhizat taşımaya yöneliktir.</RHApparel_SafarilandPoliceBelt_Beretta.description>
+
+    <RHApparel_SafarilandPoliceBelt_Glock.label>Safariland G17 Polis Kemeri</RHApparel_SafarilandPoliceBelt_Glock.label>
+    <RHApparel_SafarilandPoliceBelt_Glock.description>Bu model, Glock tabancaları için üretilmiş Safariland polis kemeridir. Günlük görev ekipmanlarını taşımak için kullanılır.</RHApparel_SafarilandPoliceBelt_Glock.description>
+
+</LanguageData>

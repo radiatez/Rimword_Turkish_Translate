@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Yarı Otomatik Tabanca Mermileri -->
+
+  <RNBullet_40SW_Pistol.label>.40 SW Mermisi</RNBullet_40SW_Pistol.label>
+  <RNBullet_40SW_Pistol.description>askeri</RNBullet_40SW_Pistol.description>
+
+  <RNBullet_45ACP_Pistol.label>.45 ACP Mermisi</RNBullet_45ACP_Pistol.label>
+  <RNBullet_45ACP_Pistol.description>sivil</RNBullet_45ACP_Pistol.description>
+
+  <RNBullet_45ACPAP_Pistol.label>.45 ACP (AP) Mermisi</RNBullet_45ACPAP_Pistol.label>
+  <RNBullet_45ACPAP_Pistol.description>zırh delici</RNBullet_45ACPAP_Pistol.description>
+
+  <RNBullet_9MM_Pistol.label>9x19mm Parabellum Mermisi</RNBullet_9MM_Pistol.label>
+  <RNBullet_9MM_Pistol.description>askeri</RNBullet_9MM_Pistol.description>
+
+  <RNBullet_9MMMakarov_Pistol.label>9x18mm Makarov Mermisi</RNBullet_9MMMakarov_Pistol.label>
+  <RNBullet_9MMMakarov_Pistol.description>sivil</RNBullet_9MMMakarov_Pistol.description>
+
+  <RNBullet_9MMAP_Pistol.label>9x19mm Parabellum (AP) Mermisi</RNBullet_9MMAP_Pistol.label>
+  <RNBullet_9MMAP_Pistol.description>zırh delici</RNBullet_9MMAP_Pistol.description>
+
+  <RNBullet_46x30_Pistol.label>4.6x30mm Mermisi</RNBullet_46x30_Pistol.label>
+  <RNBullet_46x30_Pistol.description>askeri</RNBullet_46x30_Pistol.description>
+
+  <RNBullet_57_Pistol.label>5.7x28mm Mermisi</RNBullet_57_Pistol.label>
+  <RNBullet_57_Pistol.description>sivil</RNBullet_57_Pistol.description>
+
+  <RNBullet_50_Pistol.label>.50 AE Mermisi</RNBullet_50_Pistol.label>
+  <RNBullet_50_Pistol.description>sivil</RNBullet_50_Pistol.description>
+
+  <RNBullet_762Tokarev_Pistol.label>7.62x25mm Tokarev Mermisi</RNBullet_762Tokarev_Pistol.label>
+  <RNBullet_762Tokarev_Pistol.description>askeri</RNBullet_762Tokarev_Pistol.description>
+
+  <!-- Revolver Mermileri -->
+
+  <RNBullet_762_Revolver.label>7.62x38mmR Mermisi</RNBullet_762_Revolver.label>
+  <RNBullet_762_Revolver.description>sivil</RNBullet_762_Revolver.description>
+
+  <RNBullet_454_Revolver.label>.454 Casull Mermisi</RNBullet_454_Revolver.label>
+  <RNBullet_454_Revolver.description>sivil</RNBullet_454_Revolver.description>
+
+  <RNBullet_44Magnum_Pistol.label>.44 Magnum Mermisi</RNBullet_44Magnum_Pistol.label>
+  <RNBullet_44Magnum_Pistol.description>sivil</RNBullet_44Magnum_Pistol.description>
+
+  <RNBullet_45Colt_Pistol.label>.45 Colt Mermisi</RNBullet_45Colt_Pistol.label>
+  <RNBullet_45Colt_Pistol.description>sivil</RNBullet_45Colt_Pistol.description>
+
+  <RNBullet_38Special_Pistol.label>.38 Special Mermisi</RNBullet_38Special_Pistol.label>
+  <RNBullet_38Special_Pistol.description>sivil</RNBullet_38Special_Pistol.description>
+
+  <RNBullet_357_Revolver.label>.357 Magnum Mermisi</RNBullet_357_Revolver.label>
+  <RNBullet_357_Revolver.description>sivil</RNBullet_357_Revolver.description>
+
+  <!-- Hafif Makineli Tüfek ve SVD Mermileri -->
+
+  <RNBullet_545x39_Rifle.label>5.45x39mm Mermisi</RNBullet_545x39_Rifle.label>
+  <RNBullet_545x39_Rifle.description>askeri</RNBullet_545x39_Rifle.description>
+
+  <RNBullet_AACBlackout_PDW.label>.300 AAC Blackout Mermisi</RNBullet_AACBlackout_PDW.label>
+  <RNBullet_AACBlackout_PDW.description>askeri</RNBullet_AACBlackout_PDW.description>
+
+  <RNBullet_380_SMG.label>.380 Mermisi</RNBullet_380_SMG.label>
+  <RNBullet_380_SMG.description>sivil</RNBullet_380_SMG.description>
+
+  <RNBullet_32ACP_Pistol.label>.32 ACP Mermisi</RNBullet_32ACP_Pistol.label>
+  <RNBullet_32ACP_Pistol.description>sivil</RNBullet_32ACP_Pistol.description>
+
+  <!-- Av Tüfeği Mermileri -->
+
+  <RNBullet_12Gauge_Shotgun.label>12 Kalibre Saçma</RNBullet_12Gauge_Shotgun.label>
+  <RNBullet_12Gauge_Shotgun.description>sivil</RNBullet_12Gauge_Shotgun.description>
+
+  <RNBullet_23x75mmR_Shotgun.label>23x75mmR Patlayıcı</RNBullet_23x75mmR_Shotgun.label>
+  <RNBullet_23x75mmR_Shotgun.description>sivil</RNBullet_23x75mmR_Shotgun.description>
+
+  <!-- Makineli Tüfek Mermileri -->
+
+  <RNBullet_762x54_LMG.label>7.62x54mmR Mermisi</RNBullet_762x54_LMG.label>
+  <RNBullet_762x54_LMG.description>askeri</RNBullet_762x54_LMG.description>
+
+  <RNBullet_762x51mm_LMG.label>7.62x51mm NATO Mermisi</RNBullet_762x51mm_LMG.label>
+  <RNBullet_762x51mm_LMG.description>askeri</RNBullet_762x51mm_LMG.description>
+
+  <!-- Tüfek Mermileri -->
+
+  <RNBullet_762x39_Rifle.label>7.62x39R Mermisi</RNBullet_762x39_Rifle.label>
+  <RNBullet_762x39_Rifle.description>askeri</RNBullet_762x39_Rifle.description>
+
+  <RNBullet_223Remington_Rifle.label>.223 Remington Mermisi</RNBullet_223Remington_Rifle.label>
+  <RNBullet_223Remington_Rifle.description>sivil</RNBullet_223Remington_Rifle.description>
+
+  <RNBullet_556x45_Rifle.label>5.56x45mm Mermisi</RNBullet_556x45_Rifle.label>
+  <RNBullet_556x45_Rifle.description>askeri</RNBullet_556x45_Rifle.description>
+
+  <!-- Keskin Nişancı (DMR) Mermileri -->
+
+  <RNBullet_303British_Rifle.label>.303 British Mermisi</RNBullet_303British_Rifle.label>
+  <RNBullet_303British_Rifle.description>keskin nişancı</RNBullet_303British_Rifle.description>
+
+  <RNBullet_762x54_Rifle.label>7.62x54mmR Mermisi</RNBullet_762x54_Rifle.label>
+  <RNBullet_762x54_Rifle.description>keskin nişancı</RNBullet_762x54_Rifle.description>
+
+  <RNBullet_792x57Mauser_Rifle.label>8mm Mauser Mermisi</RNBullet_792x57Mauser_Rifle.label>
+  <RNBullet_792x57Mauser_Rifle.description>keskin nişancı</RNBullet_792x57Mauser_Rifle.description>
+
+  <RNBullet_7x64mmBrenneke_Rifle.label>7x64mm Mermisi</RNBullet_7x64mmBrenneke_Rifle.label>
+  <RNBullet_7x64mmBrenneke_Rifle.description>keskin nişancı</RNBullet_7x64mmBrenneke_Rifle.description>
+
+  <!-- DMR Mermileri -->
+
+  <RNBullet_9x39mmSP6_DMR.label>9x39mm SP-6 Mermisi</RNBullet_9x39mmSP6_DMR.label>
+  <RNBullet_9x39mmSP6_DMR.description>askeri</RNBullet_9x39mmSP6_DMR.description>
+
+  <RNBullet_58x42mm_DMR.label>5.8x42mm Mermisi</RNBullet_58x42mm_DMR.label>
+  <RNBullet_58x42mm_DMR.description>askeri</RNBullet_58x42mm_DMR.description>
+
+  <RNBullet_762x39_DMR.label>7.62x39R Mermisi</RNBullet_762x39_DMR.label>
+  <RNBullet_762x39_DMR.description>askeri</RNBullet_762x39_DMR.description>
+
+  <RNBullet_762x51mm_DMR.label>7.62 NATO Mermisi</RNBullet_762x51mm_DMR.label>
+  <RNBullet_762x51mm_DMR.description>askeri</RNBullet_762x51mm_DMR.description>
+
+  <RNBullet_762x54_DMR.label>7.62x54mmR Mermisi</RNBullet_762x54_DMR.label>
+  <RNBullet_762x54_DMR.description>askeri</RNBullet_762x54_DMR.description>
+
+  <RNBullet_792x57Mauser_DMR.label>8mm Mauser Mermisi</RNBullet_792x57Mauser_DMR.label>
+  <RNBullet_792x57Mauser_DMR.description>keskin nişancı</RNBullet_792x57Mauser_DMR.description>
+
+  <RNBullet_308Winchester_DMR.label>.308 Winchester Mermisi</RNBullet_308Winchester_DMR.label>
+  <RNBullet_308Winchester_DMR.description>keskin nişancı</RNBullet_308Winchester_DMR.description>
+
+  <!-- Keskin Nişancı Mermileri -->
+
+  <RNBullet_762x51mm_Sniper.label>7.62 NATO Mermisi</RNBullet_762x51mm_Sniper.label>
+  <RNBullet_762x51mm_Sniper.description>keskin nişancı</RNBullet_762x51mm_Sniper.description>
+
+  <RNBullet_308Winchester_Sniper.label>.308 Winchester Mermisi</RNBullet_308Winchester_Sniper.label>
+  <RNBullet_308Winchester_Sniper.description>keskin nişancı</RNBullet_308Winchester_Sniper.description>
+
+  <RNBullet_338Lapua_Sniper.label>.338 Lapua Magnum Mermisi</RNBullet_338Lapua_Sniper.label>
+  <RNBullet_338Lapua_Sniper.description>keskin nişancı</RNBullet_338Lapua_Sniper.description>
+
+  <RNBullet_762x54_Sniper.label>7.62x54mmR Mermisi</RNBullet_762x54_Sniper.label>
+  <RNBullet_762x54_Sniper.description>keskin nişancı</RNBullet_762x54_Sniper.description>
+
+  <RNBullet_408Cheyenne_Sniper.label>.408 Cheyenne Tactical Mermisi</RNBullet_408Cheyenne_Sniper.label>
+  <RNBullet_408Cheyenne_Sniper.description>keskin nişancı</RNBullet_408Cheyenne_Sniper.description>
+
+  <RNBullet_50BMG_Sniper.label>.50 BMG Mermisi</RNBullet_50BMG_Sniper.label>
+  <RNBullet_50BMG_Sniper.description>keskin nişancı</RNBullet_50BMG_Sniper.description>
+
+  <RNBullet_127x108_Sniper.label>12.7x108mm Mermisi</RNBullet_127x108_Sniper.label>
+  <RNBullet_127x108_Sniper.description>keskin nişancı</RNBullet_127x108_Sniper.description>
+
+</LanguageData>

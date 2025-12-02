@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SAVAŞ SİLAHLARINA AİT ALIŞILMIŞ SESLERİ OLUŞTURMAK İÇİN ARAÇLARI/KABİLİYETLERİ KULLANIN (Teşekkürler O-Negative) -->
+
+  <RHMelee_ECHO_Chainsaw.label>Motorlu testere (ECHO)</RHMelee_ECHO_Chainsaw.label>
+  <RHMelee_ECHO_Chainsaw.description>Motorlu testere; taşınabilir benzinli, elektrikli, akülü veya kimyasal yakıtla çalışan, dönen bir zincire bağlı kesici dişler aracılığıyla kesim yapan bir testere türüdür. Ağaç kesme, dal budama, kütük biçme, orman yangınlarında yangın bariyeri oluşturma ve odun kesimi gibi işlemlerde kullanılır. Özel olarak tasarlanmış ray ve zincir kombinasyonlarıyla sanat amaçlı "zincirle oyma" ve kereste üretimi gibi işler için de modeller geliştirilmiştir.\n\nBu marka, ECHO’nun endüstriyel motorlu testere serisine aittir ve bitki örtüsüyle çalışmayı hızlandırmak için tasarlanmıştır.</RHMelee_ECHO_Chainsaw.description>
+  <RHMelee_ECHO_Chainsaw.tools.0.label>uç</RHMelee_ECHO_Chainsaw.tools.0.label>
+  <RHMelee_ECHO_Chainsaw.tools.1.label>bıçak</RHMelee_ECHO_Chainsaw.tools.1.label>
+
+</LanguageData>

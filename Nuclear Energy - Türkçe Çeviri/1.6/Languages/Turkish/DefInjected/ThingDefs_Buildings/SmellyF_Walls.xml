@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ConDoor.label>Güvenlik Kapısı</ConDoor.label>
+  <ConDoor.description>Odaları ayırır. Basit kapılar elle açılıp kapatılmalıdır ve bu kolonistleri yavaşlatır. Bu kapı, normal bir reaktör patlamasına dayanabilir.</ConDoor.description>
+
+  <ContAutodoor.label>Otomatik Güvenlik Kapısı</ContAutodoor.label>
+  <ContAutodoor.description>Odaları ayırır. Elektrikle çalışan bir versiyondur. Kolonistler yavaşlamadan geçebilir. Bu kapı (manuelden daha zayıf olsa da) normal bir reaktör patlamasına dayanabilir.</ContAutodoor.description>
+
+  <StrConDoor.label>Güçlü Güvenlik Kapısı</StrConDoor.label>
+  <StrConDoor.description>Odaları ayırır. Basit kapılar elle açılıp kapatılmalıdır ve bu kolonistleri yavaşlatır. Bu kapı, devasa bir reaktör patlamasına dayanabilir.</StrConDoor.description>
+
+  <StrContAutodoor.label>Güçlü Otomatik Güvenlik Kapısı</StrContAutodoor.label>
+  <StrContAutodoor.description>Odaları ayırır. Elektrikle çalışan bir versiyondur. Kolonistler yavaşlamadan geçebilir. Bu kapı (manuelden daha zayıf olsa da) devasa bir reaktör patlamasına dayanabilir.</StrContAutodoor.description>
+
+  <ContainWall.label>Güvenlik Duvarı</ContainWall.label>
+  <ContainWall.description>Geçilemez bir duvardır. Üzerine çatı yapılabilir ve normal bir reaktör patlamasına dayanabilir. Reaktörleri bir odada muhafaza etmek için kullanılır.</ContainWall.description>
+
+  <StrContainWall.label>Güçlü Güvenlik Duvarı</StrContainWall.label>
+  <StrContainWall.description>Geçilemez bir duvardır. Üzerine çatı yapılabilir ve devasa bir reaktör patlamasına dayanabilir. Reaktörleri bir odada muhafaza etmek için kullanılır.</StrContainWall.description>
+
+</LanguageData>

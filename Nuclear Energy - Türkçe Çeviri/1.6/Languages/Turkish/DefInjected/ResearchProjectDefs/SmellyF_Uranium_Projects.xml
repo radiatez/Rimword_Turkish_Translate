@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UraniumProcessing.label>Uranyum Rafinerisi</UraniumProcessing.label>
+  <UraniumProcessing.description>Uranyumu en saf hâline rafine etme sürecini araştır. Bu işlem biyoyakıt rafinerisinde gerçekleştirilir. Nükleer enerji üretiminin ilk adımıdır.</UraniumProcessing.description>
+
+  <CoolingSys.label>Sogutma Sistemleri</CoolingSys.label>
+  <CoolingSys.description>Reaktörün aşırı ısınmasını önlemek için gelişmiş soğutma sistemleri oluştur. Bileşenler mekanik tezgâhında, diğer parçalar ise çalışma tezgâhında üretilir.</CoolingSys.description>
+
+  <SmallNuclearReactor.label>Küçük Nükleer Reaktör</SmallNuclearReactor.label>
+  <SmallNuclearReactor.description>Rafine uranyum kullanarak iyi bir enerji kaynağı üretmeyi öğren.</SmallNuclearReactor.description>
+
+  <NuclearReactor.label>Nükleer Reaktör</NuclearReactor.label>
+  <NuclearReactor.description>Rafine uranyum kullanarak büyük miktarda enerji üretmeyi öğren.</NuclearReactor.description>
+
+  <GiantNuclearReactor.label>Devasa Nükleer Reaktör</GiantNuclearReactor.label>
+  <GiantNuclearReactor.description>Rafine uranyum kullanarak son derece güçlü bir enerji kaynağı üretmeyi öğren.</GiantNuclearReactor.description>
+
+  <ContWall.label>Güvenlik Duvarları ve Kapıları</ContWall.label>
+  <ContWall.description>Reaktörler için güvenli bir oda inşa etmek üzere sağlam duvarlar ve kapılar inşa etmeye olanak tanır. Normal bir reaktör patlamasını durdurabilir.</ContWall.description>
+
+  <StrContWall.label>Güçlü Güvenlik Duvarları ve Kapıları</StrContWall.label>
+  <StrContWall.description>Reaktörler için güvenli bir oda inşa etmek üzere daha güçlü duvarlar ve kapılar inşa etmeye olanak tanır. Büyük bir reaktör patlamasını durdurabilir.</StrContWall.description>
+
+</LanguageData>

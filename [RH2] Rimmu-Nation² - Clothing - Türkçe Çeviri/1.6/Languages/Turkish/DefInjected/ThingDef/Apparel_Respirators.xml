@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RNApparel_Gasmask_P1944WWI.label>P1944 Gaz Maskesi</RNApparel_Gasmask_P1944WWI.label>
+    <RNApparel_Gasmask_P1944WWI.description>Gaz maskesi veya solunum maskesi, kullanıcıyı kimyasal etkilerden koruyan bir baş ekipmanıdır. Bazıları tüm kafayı kaplarken, bazıları sadece burun ve ağzı örter.\n\nBu model, Birinci Dünya Savaşı dönemine ait P1944 gaz maskesi varyantıdır.</RNApparel_Gasmask_P1944WWI.description>
+
+    <RNApparel_Gasmask_S6NBC.label>S6 NBC Gaz Maskesi</RNApparel_Gasmask_S6NBC.label>
+    <RNApparel_Gasmask_S6NBC.description>Gaz maskesi veya solunum maskesi, kullanıcıyı kimyasal etkilerden koruyan bir baş ekipmanıdır. Bazıları tüm kafayı kaplarken, bazıları sadece burun ve ağzı örter.\n\nBu model, 1960-1980 yılları arasında Britanya Silahlı Kuvvetleri'nin ana maskesi olan S6 NBC respiratörüdür.</RNApparel_Gasmask_S6NBC.description>
+
+    <RNApparel_Gasmask_S10NBC.label>S10 NBC Gaz Maskesi</RNApparel_Gasmask_S10NBC.label>
+    <RNApparel_Gasmask_S10NBC.description>Gaz maskesi veya solunum maskesi, kullanıcıyı kimyasal etkilerden koruyan bir baş ekipmanıdır. Bazıları tüm kafayı kaplarken, bazıları sadece burun ve ağzı örter.\n\nBu model, 1990-2011 yılları arasında Britanya Silahlı Kuvvetleri tarafından kullanılan S10 NBC respiratörüdür.</RNApparel_Gasmask_S10NBC.description>
+
+    <RNApparel_Gasmask_GP5Soviet.label>GP-5 Gaz Maskesi</RNApparel_Gasmask_GP5Soviet.label>
+    <RNApparel_Gasmask_GP5Soviet.description>Gaz maskesi veya solunum maskesi, kullanıcıyı kimyasal etkilerden koruyan bir baş ekipmanıdır. Bazıları tüm kafayı kaplarken, bazıları sadece burun ve ağzı örter.\n\nBu model, Soğuk Savaş dönemine ait Sovyet yapımı GP-5 gaz maskesidir.</RNApparel_Gasmask_GP5Soviet.description>
+
+    <RNApparel_Gasmask_M1Yugoslavian.label>M1 Gaz Maskesi</RNApparel_Gasmask_M1Yugoslavian.label>
+    <RNApparel_Gasmask_M1Yugoslavian.description>Gaz maskesi veya solunum maskesi, kullanıcıyı kimyasal etkilerden koruyan bir baş ekipmanıdır. Bazıları tüm kafayı kaplarken, bazıları sadece burun ve ağzı örter.\n\nBu model, Yugoslavya yapımı M1 gaz maskesidir.</RNApparel_Gasmask_M1Yugoslavian.description>
+
+    <RNApparel_Gasmask_MSAMillenium.label>MSA Millenium Gaz Maskesi</RNApparel_Gasmask_MSAMillenium.label>
+    <RNApparel_Gasmask_MSAMillenium.description>Gaz maskesi veya solunum maskesi, kullanıcıyı kimyasal etkilerden koruyan bir baş ekipmanıdır. Bazıları tüm kafayı kaplarken, bazıları sadece burun ve ağzı örter.\n\nBu model, MSA Millenium gaz maskesidir.</RNApparel_Gasmask_MSAMillenium.description>
+
+</LanguageData>
